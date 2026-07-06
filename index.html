@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cartrack Insurance — Commercial Division</title>
+<meta name="description" content="Cartrack Insurance Commercial Division — team tools.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Saira:wght@500;700;800&family=IBM+Plex+Sans:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --orange:#F47735; --orange-600:#E2631C; --orange-soft:#FEF4EC;
+    --ink:#0B0C0F; --ink-700:#2F343D; --ink-500:#5E6675; --ink-300:#A8AFBC;
+    --ink-100:#ECEEF2; --line:#CDD2DB;
+    --disp:"Saira","Arial Narrow",system-ui,sans-serif;
+    --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+    --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;background:var(--ink-100);font-family:var(--sans);color:var(--ink);min-height:100%;}
+  .mast{background:#000;color:#fff;padding:18px 22px;display:flex;align-items:center;justify-content:space-between;}
+  .brand{font-family:var(--disp);font-weight:800;font-size:20px;letter-spacing:.02em;}
+  .brand span{color:var(--orange);}
+  .mastmeta{text-align:right;font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;line-height:1.7;}
+  .mastmeta .c{color:var(--orange);} .mastmeta .f{color:var(--ink-300);}
+  .band{height:5px;background:var(--orange);}
+  .wrap{max-width:680px;margin:0 auto;padding:34px 20px 40px;}
+  .eyebrow{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--orange-600);margin:0 0 6px;}
+  h1{font-family:var(--disp);font-weight:800;font-size:30px;line-height:1.05;margin:0 0 8px;}
+  .lede{font-size:14.5px;line-height:1.55;color:var(--ink-500);margin:0 0 26px;}
+  .tiles{display:grid;gap:16px;}
+  @media(min-width:560px){.tiles{grid-template-columns:1fr 1fr;}}
+  .tile{display:block;background:#fff;border:1px solid var(--line);border-radius:10px;padding:22px 20px 20px;text-decoration:none;color:var(--ink);
+    box-shadow:0 2px 6px rgba(11,12,15,.06);transition:transform .12s ease, box-shadow .12s ease, border-color .12s ease;}
+  .tile:hover,.tile:focus-visible{transform:translateY(-2px);box-shadow:0 10px 24px rgba(11,12,15,.12);border-color:var(--orange);outline:none;}
+  .tile .ico{width:46px;height:46px;border-radius:10px;background:var(--orange-soft);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;}
+  .tile h2{font-family:var(--disp);font-weight:700;font-size:18px;margin:0 0 5px;}
+  .tile p{font-size:13px;line-height:1.5;color:var(--ink-500);margin:0 0 14px;}
+  .tile .go{font-weight:700;font-size:13px;color:var(--orange-600);}
+  .tile .go::after{content:" →";}
+  .foot{max-width:680px;margin:0 auto;padding:0 20px 30px;font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-300);
+    border-top:1px solid var(--line);padding-top:14px;display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between;}
+</style>
+</head>
+<body>
+  <div class="mast">
+    <div class="brand">CARTRACK <span>INSURANCE</span></div>
+    <div class="mastmeta"><div class="c">Commercial Division</div><div class="f">FSP No. 17266</div></div>
+  </div>
+  <div class="band"></div>
+
+  <main class="wrap">
+    <p class="eyebrow">Team tools</p>
+    <h1>Commercial Division</h1>
+    <p class="lede">Pick a tool. Both work on your phone — add them to your home screen for one-tap access.</p>
+
+    <div class="tiles">
+      <a class="tile" href="https://annekruger3010-svg.github.io/cartrack-rm-system/">
+        <div class="ico">📊</div>
+        <h2>RM System</h2>
+        <p>Your pipeline, clients, commission and the leaderboard. Sign in with your PIN.</p>
+        <span class="go">Open RM System</span>
+      </a>
+      <a class="tile" href="https://annekruger3010-svg.github.io/cartrack-premium-comparison/">
+        <div class="ico">🧾</div>
+        <h2>Premium Comparison</h2>
+        <p>Upload schedules and quotes, compare cover line by line, and print the client report.</p>
+        <span class="go">Open Comparison</span>
+      </a>
+    </div>
+  </main>
+
+  <footer class="foot">
+    <span>Internal use only</span>
+    <span>Cartrack Insurance · FSP 17266</span>
+  </footer>
+</body>
+</html>
