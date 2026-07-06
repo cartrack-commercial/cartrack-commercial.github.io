@@ -7,40 +7,84 @@
 <meta name="description" content="Cartrack Insurance Commercial Division — team tools.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Saira:wght@500;700;800&family=IBM+Plex+Sans:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Saira:wght@500;700;800;900&family=IBM+Plex+Sans:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root{
-    --orange:#F47735; --orange-600:#E2631C; --orange-soft:#FEF4EC;
-    --ink:#0B0C0F; --ink-700:#2F343D; --ink-500:#5E6675; --ink-300:#A8AFBC;
-    --ink-100:#ECEEF2; --line:#CDD2DB;
+    --orange:#F47735; --orange-hi:#FF8A47; --orange-600:#E2631C; --orange-soft:#FEF4EC;
+    --ink:#0B0C0F; --ink-900:#13151A; --ink-800:#1E222A; --ink-700:#2F343D;
+    --ink-500:#5E6675; --ink-300:#A8AFBC; --ink-100:#ECEEF2; --line:#CDD2DB;
     --disp:"Saira","Arial Narrow",system-ui,sans-serif;
     --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
     --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
   }
   *{box-sizing:border-box;}
   html,body{margin:0;padding:0;background:var(--ink-100);font-family:var(--sans);color:var(--ink);min-height:100%;}
-  .mast{background:#000;color:#fff;padding:18px 22px;display:flex;align-items:center;justify-content:space-between;}
-  .brand{font-family:var(--disp);font-weight:800;font-size:20px;letter-spacing:.02em;}
+
+  /* ---------- mast ---------- */
+  .mast{background:#000;color:#fff;padding:16px 22px;display:flex;align-items:center;justify-content:space-between;position:relative;z-index:3;}
+  .brand{font-family:var(--disp);font-weight:800;font-size:19px;letter-spacing:.02em;}
   .brand span{color:var(--orange);}
-  .mastmeta{text-align:right;font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;line-height:1.7;}
+  .mastmeta{text-align:right;font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;line-height:1.7;}
   .mastmeta .c{color:var(--orange);} .mastmeta .f{color:var(--ink-300);}
-  .band{height:5px;background:var(--orange);}
-  .wrap{max-width:680px;margin:0 auto;padding:34px 20px 40px;}
-  .eyebrow{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--orange-600);margin:0 0 6px;}
-  h1{font-family:var(--disp);font-weight:800;font-size:30px;line-height:1.05;margin:0 0 8px;}
-  .lede{font-size:14.5px;line-height:1.55;color:var(--ink-500);margin:0 0 26px;}
+
+  /* ---------- dark hero ---------- */
+  .hero{position:relative;background:var(--ink);color:#fff;overflow:hidden;padding:52px 22px 96px;}
+  .hero::before{content:"";position:absolute;inset:0;
+    background:
+      radial-gradient(700px 340px at 85% -10%, rgba(244,119,53,.28), transparent 60%),
+      radial-gradient(520px 300px at -10% 110%, rgba(244,119,53,.12), transparent 60%);
+    pointer-events:none;}
+  .hero::after{content:"";position:absolute;inset:0;opacity:.05;pointer-events:none;
+    background-image:linear-gradient(rgba(255,255,255,.7) 1px, transparent 1px),linear-gradient(90deg, rgba(255,255,255,.7) 1px, transparent 1px);
+    background-size:44px 44px;}
+  .hero-in{max-width:720px;margin:0 auto;position:relative;z-index:2;}
+  .kicker{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--orange-hi);margin:0 0 14px;}
+  .kicker::before{content:"";width:26px;height:2px;background:var(--orange);}
+  h1{font-family:var(--disp);font-weight:900;font-size:clamp(34px,7vw,52px);line-height:1.0;letter-spacing:-.015em;margin:0 0 10px;text-transform:uppercase;}
+  h1 .accent{color:var(--orange);}
+  .today{font-family:var(--mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-300);}
+
+  /* ---------- quote of the day ---------- */
+  .quote-wrap{max-width:720px;margin:-58px auto 0;padding:0 22px;position:relative;z-index:4;}
+  .quote{background:#fff;border-radius:14px;box-shadow:0 18px 44px rgba(11,12,15,.18),0 3px 10px rgba(11,12,15,.08);
+    padding:28px 28px 24px;position:relative;overflow:hidden;}
+  .quote::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:linear-gradient(180deg,var(--orange-hi),var(--orange-600));}
+  .q-label{font-family:var(--mono);font-size:10px;letter-spacing:.22em;text-transform:uppercase;color:var(--orange-600);margin:0 0 10px;display:flex;align-items:center;gap:8px;}
+  .q-mark{position:absolute;right:18px;top:2px;font-family:var(--disp);font-weight:900;font-size:110px;line-height:1;color:var(--orange);opacity:.10;pointer-events:none;}
+  blockquote{margin:0;font-size:clamp(17px,2.8vw,21px);line-height:1.45;font-weight:600;color:var(--ink-800);font-style:italic;}
+  .q-by{margin-top:12px;font-family:var(--disp);font-weight:700;font-size:13.5px;letter-spacing:.04em;color:var(--ink-500);text-transform:uppercase;}
+  .q-by::before{content:"— ";color:var(--orange-600);}
+
+  /* ---------- tiles ---------- */
+  .wrap{max-width:720px;margin:0 auto;padding:30px 22px 40px;}
+  .sec-label{font-family:var(--mono);font-size:10.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-500);margin:0 0 12px;}
   .tiles{display:grid;gap:16px;}
   @media(min-width:560px){.tiles{grid-template-columns:1fr 1fr;}}
-  .tile{display:block;background:#fff;border:1px solid var(--line);border-radius:10px;padding:22px 20px 20px;text-decoration:none;color:var(--ink);
-    box-shadow:0 2px 6px rgba(11,12,15,.06);transition:transform .12s ease, box-shadow .12s ease, border-color .12s ease;}
-  .tile:hover,.tile:focus-visible{transform:translateY(-2px);box-shadow:0 10px 24px rgba(11,12,15,.12);border-color:var(--orange);outline:none;}
-  .tile .ico{width:46px;height:46px;border-radius:10px;background:var(--orange-soft);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;}
-  .tile h2{font-family:var(--disp);font-weight:700;font-size:18px;margin:0 0 5px;}
-  .tile p{font-size:13px;line-height:1.5;color:var(--ink-500);margin:0 0 14px;}
-  .tile .go{font-weight:700;font-size:13px;color:var(--orange-600);}
-  .tile .go::after{content:" →";}
-  .foot{max-width:680px;margin:0 auto;padding:0 20px 30px;font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-300);
-    border-top:1px solid var(--line);padding-top:14px;display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between;}
+  .tile{display:block;background:#fff;border:1px solid var(--line);border-radius:14px;padding:24px 22px 20px;text-decoration:none;color:var(--ink);
+    position:relative;overflow:hidden;box-shadow:0 2px 8px rgba(11,12,15,.05);
+    transition:transform .16s ease, box-shadow .16s ease, border-color .16s ease;}
+  .tile::after{content:"";position:absolute;left:0;right:0;top:0;height:3px;background:linear-gradient(90deg,var(--orange-hi),var(--orange-600));
+    transform:scaleX(0);transform-origin:left;transition:transform .2s ease;}
+  .tile:hover,.tile:focus-visible{transform:translateY(-3px);box-shadow:0 14px 30px rgba(11,12,15,.14);border-color:var(--orange);outline:none;}
+  .tile:hover::after,.tile:focus-visible::after{transform:scaleX(1);}
+  .tile .ico{width:48px;height:48px;border-radius:12px;background:linear-gradient(135deg,var(--orange-soft),#fff);
+    border:1px solid #FAD9C2;display:flex;align-items:center;justify-content:center;font-size:23px;margin-bottom:14px;}
+  .tile h2{font-family:var(--disp);font-weight:800;font-size:19px;letter-spacing:.01em;margin:0 0 5px;text-transform:uppercase;}
+  .tile p{font-size:13px;line-height:1.55;color:var(--ink-500);margin:0 0 16px;}
+  .tile .go{font-weight:700;font-size:13px;color:var(--orange-600);letter-spacing:.02em;}
+  .tile .go::after{content:" →";transition:margin .15s ease;}
+  .tile:hover .go::after{margin-left:4px;}
+
+  /* ---------- footer ---------- */
+  .foot{max-width:720px;margin:0 auto;padding:0 22px 32px;font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-300);
+    border-top:1px solid var(--line);padding-top:16px;display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between;}
+
+  /* ---------- entrance animation ---------- */
+  @media (prefers-reduced-motion: no-preference){
+    .up{opacity:0;transform:translateY(14px);animation:up .55s ease forwards;}
+    .d1{animation-delay:.05s;} .d2{animation-delay:.15s;} .d3{animation-delay:.28s;} .d4{animation-delay:.4s;}
+    @keyframes up{to{opacity:1;transform:none;}}
+  }
 </style>
 </head>
 <body>
@@ -48,14 +92,27 @@
     <div class="brand">CARTRACK <span>INSURANCE</span></div>
     <div class="mastmeta"><div class="c">Commercial Division</div><div class="f">FSP No. 17266</div></div>
   </div>
-  <div class="band"></div>
+
+  <section class="hero">
+    <div class="hero-in">
+      <p class="kicker up d1" id="greet">Good day, team</p>
+      <h1 class="up d2">Own the <span class="accent">day.</span></h1>
+      <p class="today up d2" id="today"></p>
+    </div>
+  </section>
+
+  <div class="quote-wrap up d3">
+    <div class="quote">
+      <span class="q-mark">”</span>
+      <p class="q-label">Quote of the day</p>
+      <blockquote id="q-text"></blockquote>
+      <p class="q-by" id="q-by"></p>
+    </div>
+  </div>
 
   <main class="wrap">
-    <p class="eyebrow">Team tools</p>
-    <h1>Commercial Division</h1>
-    <p class="lede">Pick a tool. Both work on your phone — add them to your home screen for one-tap access.</p>
-
-    <div class="tiles">
+    <p class="sec-label up d4">Your tools</p>
+    <div class="tiles up d4">
       <a class="tile" href="https://annekruger3010-svg.github.io/cartrack-rm-system/">
         <div class="ico">📊</div>
         <h2>RM System</h2>
@@ -75,5 +132,79 @@
     <span>Internal use only</span>
     <span>Cartrack Insurance · FSP 17266</span>
   </footer>
+
+<script>
+  // ---------- quote of the day ----------
+  // One quote per calendar day, same for the whole team, rotating through the
+  // list — no backend, no repeats for ~2 months.
+  const QUOTES=[
+    ["It always seems impossible until it's done.","Nelson Mandela"],
+    ["Well done is better than well said.","Benjamin Franklin"],
+    ["The secret of getting ahead is getting started.","Mark Twain"],
+    ["Whether you think you can, or you think you can't — you're right.","Henry Ford"],
+    ["Do what you can, with what you have, where you are.","Theodore Roosevelt"],
+    ["Stop selling. Start helping.","Zig Ziglar"],
+    ["Make a customer, not a sale.","Katherine Barchetti"],
+    ["You don't close a sale; you open a relationship.","Patricia Fripp"],
+    ["Don't watch the clock; do what it does. Keep going.","Sam Levenson"],
+    ["Hard work beats talent when talent doesn't work hard.","Tim Notke"],
+    ["The way to get started is to quit talking and begin doing.","Walt Disney"],
+    ["Your attitude, not your aptitude, will determine your altitude.","Zig Ziglar"],
+    ["You miss 100% of the shots you don't take.","Wayne Gretzky"],
+    ["There is no passion to be found playing small.","Nelson Mandela"],
+    ["I never lose. I either win or learn.","Nelson Mandela"],
+    ["The best way to predict the future is to create it.","Peter Drucker"],
+    ["Sales are contingent upon the attitude of the salesman — not the attitude of the prospect.","W. Clement Stone"],
+    ["The difference between ordinary and extraordinary is that little extra.","Jimmy Johnson"],
+    ["If you are not taking care of your customer, your competitor will.","Bob Hooey"],
+    ["Quality performance starts with a positive attitude.","Jeffrey Gitomer"],
+    ["Motivation is what gets you started. Habit is what keeps you going.","Jim Ryun"],
+    ["Discipline is the bridge between goals and accomplishment.","Jim Rohn"],
+    ["Either you run the day or the day runs you.","Jim Rohn"],
+    ["Success is nothing more than a few simple disciplines, practiced every day.","Jim Rohn"],
+    ["Don't wish it were easier. Wish you were better.","Jim Rohn"],
+    ["People don't buy for logical reasons. They buy for emotional reasons.","Zig Ziglar"],
+    ["Perseverance is not a long race; it is many short races one after the other.","Walter Elliot"],
+    ["Great things are done by a series of small things brought together.","Vincent van Gogh"],
+    ["The man who moves a mountain begins by carrying away small stones.","Confucius"],
+    ["Energy and persistence conquer all things.","Benjamin Franklin"],
+    ["A goal is a dream with a deadline.","Napoleon Hill"],
+    ["Do the hard jobs first. The easy jobs will take care of themselves.","Dale Carnegie"],
+    ["Inaction breeds doubt and fear. Action breeds confidence and courage.","Dale Carnegie"],
+    ["The successful warrior is the average man, with laser-like focus.","Bruce Lee"],
+    ["What you do today can improve all your tomorrows.","Ralph Marston"],
+    ["Small daily improvements over time lead to stunning results.","Robin Sharma"],
+    ["Dream big. Start small. Act now.","Robin Sharma"],
+    ["Change is hard at first, messy in the middle and gorgeous at the end.","Robin Sharma"],
+    ["Amateurs sit and wait for inspiration. The rest of us just get up and go to work.","Stephen King"],
+    ["Fall seven times, stand up eight.","Japanese proverb"],
+    ["He who is not courageous enough to take risks will accomplish nothing in life.","Muhammad Ali"],
+    ["Don't count the days. Make the days count.","Muhammad Ali"],
+    ["It's not whether you get knocked down — it's whether you get up.","Vince Lombardi"],
+    ["The only place where success comes before work is in the dictionary.","Vidal Sassoon"],
+    ["Act as if what you do makes a difference. It does.","William James"],
+    ["Believe you can and you're halfway there.","Theodore Roosevelt"],
+    ["A river cuts through rock not because of its power, but because of its persistence.","Jim Watkins"],
+    ["Success usually comes to those who are too busy to be looking for it.","Henry David Thoreau"],
+    ["Opportunities don't happen. You create them.","Chris Grosser"],
+    ["Setting goals is the first step in turning the invisible into the visible.","Tony Robbins"],
+    ["Everything you've ever wanted is on the other side of fear.","George Addair"],
+    ["Service to others is the rent you pay for your room here on earth.","Muhammad Ali"],
+    ["Winning isn't everything, but wanting to win is.","Vince Lombardi"],
+    ["Develop success from failures. They are two of the surest stepping stones to success.","Dale Carnegie"],
+    ["I have not failed. I've just found 10,000 ways that won't work.","Thomas Edison"],
+    ["It does not matter how slowly you go, as long as you do not stop.","Confucius"],
+  ];
+  // Day number in local (South African) time so it flips at midnight here.
+  const dayN=Math.floor(new Date(new Date().getFullYear(),new Date().getMonth(),new Date().getDate()).getTime()/864e5);
+  const [qt,qb]=QUOTES[dayN%QUOTES.length];
+  document.getElementById('q-text').textContent='“'+qt+'”';
+  document.getElementById('q-by').textContent=qb;
+
+  // ---------- greeting + date ----------
+  const h=new Date().getHours();
+  document.getElementById('greet').textContent=(h<12?'Good morning, team':h<17?'Good afternoon, team':'Good evening, team');
+  document.getElementById('today').textContent=new Date().toLocaleDateString('en-ZA',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+</script>
 </body>
 </html>
