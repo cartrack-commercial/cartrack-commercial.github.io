@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Cartrack Insurance — Commercial Division</title>
 <meta name="description" content="Cartrack Insurance Commercial Division — team tools.">
-<!-- Home-screen / PWA identity: branded Cartrack mark instead of the OS letter fallback -->
+<!-- Home-screen / PWA identity: branded Cartrack badge instead of the OS letter fallback -->
 <meta name="theme-color" content="#0B0C0F">
 <link rel="manifest" href="./manifest.webmanifest">
 <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
@@ -20,74 +20,93 @@
 <link href="https://fonts.googleapis.com/css2?family=Saira:wght@500;700;800;900&family=IBM+Plex+Sans:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root{
-    --orange:#F47735; --orange-hi:#FF8A47; --orange-600:#E2631C; --orange-soft:#FEF4EC;
+    --orange:#F47735; --orange-hi:#FF8A47; --orange-600:#E2631C;
     --ink:#0B0C0F; --ink-900:#13151A; --ink-800:#1E222A; --ink-700:#2F343D;
-    --ink-500:#5E6675; --ink-300:#A8AFBC; --ink-100:#ECEEF2; --line:#CDD2DB;
+    --ink-500:#5E6675; --ink-300:#A8AFBC; --ink-200:#CDD2DB; --ink-100:#ECEEF2;
+    --glass:rgba(255,255,255,.045); --glass-hi:rgba(255,255,255,.08);
+    --hairline:rgba(255,255,255,.11); --hairline-hi:rgba(255,255,255,.2);
     --disp:"Saira","Arial Narrow",system-ui,sans-serif;
     --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
     --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
   }
   *{box-sizing:border-box;}
-  html,body{margin:0;padding:0;background:var(--ink-100);font-family:var(--sans);color:var(--ink);min-height:100%;}
+  /* dark everywhere — the page is a continuation of the badge, and a dark
+     html background kills the white over-scroll flash in standalone mode */
+  html{background:var(--ink);}
+  body{margin:0;padding:0;background:var(--ink);font-family:var(--sans);color:var(--ink-100);min-height:100%;}
 
-  /* ---------- mast ---------- */
-  .mast{background:#000;color:#fff;padding:16px 22px;display:flex;align-items:center;justify-content:space-between;position:relative;z-index:3;}
+  /* ---------- mast (clears the iPhone status bar / dynamic island) ---------- */
+  .mast{background:#000;color:#fff;padding:calc(14px + env(safe-area-inset-top,0px)) 22px 14px;
+    display:flex;align-items:center;justify-content:space-between;position:relative;z-index:3;}
   .brand{font-family:var(--disp);font-weight:800;font-size:19px;letter-spacing:.02em;}
   .brand span{color:var(--orange);}
   .mastmeta{text-align:right;font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;line-height:1.7;}
-  .mastmeta .c{color:var(--orange);} .mastmeta .f{color:var(--ink-300);}
+  .mastmeta .c{color:var(--orange);} .mastmeta .f{color:var(--ink-500);}
 
-  /* ---------- dark hero ---------- */
-  .hero{position:relative;background:var(--ink);color:#fff;overflow:hidden;padding:52px 22px 96px;}
+  /* ---------- hero ---------- */
+  .hero{position:relative;background:var(--ink);color:#fff;overflow:hidden;padding:44px 22px 92px;}
   .hero::before{content:"";position:absolute;inset:0;
     background:
-      radial-gradient(700px 340px at 85% -10%, rgba(244,119,53,.28), transparent 60%),
-      radial-gradient(520px 300px at -10% 110%, rgba(244,119,53,.12), transparent 60%);
+      radial-gradient(700px 340px at 85% -10%, rgba(244,119,53,.26), transparent 60%),
+      radial-gradient(520px 300px at -10% 110%, rgba(244,119,53,.10), transparent 60%);
     pointer-events:none;}
-  .hero::after{content:"";position:absolute;inset:0;opacity:.05;pointer-events:none;
+  .hero::after{content:"";position:absolute;inset:0;opacity:.045;pointer-events:none;
     background-image:linear-gradient(rgba(255,255,255,.7) 1px, transparent 1px),linear-gradient(90deg, rgba(255,255,255,.7) 1px, transparent 1px);
     background-size:44px 44px;}
   .hero-in{max-width:720px;margin:0 auto;position:relative;z-index:2;}
   .kicker{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--orange-hi);margin:0 0 14px;}
   .kicker::before{content:"";width:26px;height:2px;background:var(--orange);}
-  h1{font-family:var(--disp);font-weight:900;font-size:clamp(34px,7vw,52px);line-height:1.0;letter-spacing:-.015em;margin:0 0 10px;text-transform:uppercase;}
+  h1{font-family:var(--disp);font-weight:900;font-size:clamp(34px,7vw,52px);line-height:1.0;letter-spacing:-.015em;margin:0 0 10px;text-transform:uppercase;color:#fff;}
   h1 .accent{color:var(--orange);}
-  .today{font-family:var(--mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-300);}
+  .today{font-family:var(--mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-500);}
 
-  /* ---------- quote of the day ---------- */
-  .quote-wrap{max-width:720px;margin:-58px auto 0;padding:0 22px;position:relative;z-index:4;}
-  .quote{background:#fff;border-radius:14px;box-shadow:0 18px 44px rgba(11,12,15,.18),0 3px 10px rgba(11,12,15,.08);
-    padding:28px 28px 24px;position:relative;overflow:hidden;}
-  .quote::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:linear-gradient(180deg,var(--orange-hi),var(--orange-600));}
-  .q-label{font-family:var(--mono);font-size:10px;letter-spacing:.22em;text-transform:uppercase;color:var(--orange-600);margin:0 0 10px;display:flex;align-items:center;gap:8px;}
-  .q-mark{position:absolute;right:18px;top:2px;font-family:var(--disp);font-weight:900;font-size:110px;line-height:1;color:var(--orange);opacity:.10;pointer-events:none;}
-  blockquote{margin:0;font-size:clamp(17px,2.8vw,21px);line-height:1.45;font-weight:600;color:var(--ink-800);font-style:italic;}
-  .q-by{margin-top:12px;font-family:var(--disp);font-weight:700;font-size:13.5px;letter-spacing:.04em;color:var(--ink-500);text-transform:uppercase;}
+  /* ---------- quote of the day (dark glass) ---------- */
+  .quote-wrap{max-width:720px;margin:-56px auto 0;padding:0 22px;position:relative;z-index:4;}
+  .quote{background:var(--glass);border:1px solid var(--hairline);border-radius:14px;
+    box-shadow:0 18px 44px rgba(0,0,0,.45);padding:26px 26px 22px;position:relative;overflow:hidden;}
+  .quote::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:linear-gradient(180deg,var(--orange-hi),var(--orange-600));}
+  .q-label{font-family:var(--mono);font-size:10px;letter-spacing:.22em;text-transform:uppercase;color:var(--orange-hi);margin:0 0 10px;}
+  .q-mark{position:absolute;right:18px;top:2px;font-family:var(--disp);font-weight:900;font-size:110px;line-height:1;color:var(--orange);opacity:.08;pointer-events:none;}
+  blockquote{margin:0;font-size:clamp(16px,2.8vw,20px);line-height:1.45;font-weight:600;color:var(--ink-100);font-style:italic;}
+  .q-by{margin-top:12px;font-family:var(--disp);font-weight:700;font-size:13px;letter-spacing:.04em;color:var(--ink-500);text-transform:uppercase;}
   .q-by::before{content:"— ";color:var(--orange-600);}
 
-  /* ---------- tiles ---------- */
-  .wrap{max-width:720px;margin:0 auto;padding:30px 22px 40px;}
+  /* ---------- resume chip (appears only when a draft comparison exists) ---------- */
+  .wrap{max-width:720px;margin:0 auto;padding:26px 22px 40px;}
+  .resume{display:none;align-items:center;gap:14px;margin:0 0 18px;text-decoration:none;
+    background:linear-gradient(90deg, rgba(244,119,53,.14), var(--glass) 55%);
+    border:1px solid var(--hairline);border-left:4px solid var(--orange);border-radius:13px;padding:14px 16px;color:var(--ink-100);
+    transition:border-color .16s ease, transform .16s ease;}
+  .resume:hover{border-color:var(--orange);transform:translateY(-2px);}
+  .resume .play{flex:none;width:38px;height:38px;border-radius:11px;background:var(--orange);color:#0B0C0F;
+    display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:700;}
+  .resume .t{font-family:var(--disp);font-weight:700;font-size:15px;color:#fff;}
+  .resume .s{font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-300);margin-top:3px;}
+  .resume .arr{margin-left:auto;color:var(--orange-hi);font-weight:700;}
+
+  /* ---------- tiles (dark glass) ---------- */
   .sec-label{font-family:var(--mono);font-size:10.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-500);margin:0 0 12px;}
   .tiles{display:grid;gap:16px;}
   @media(min-width:560px){.tiles{grid-template-columns:1fr 1fr;}}
-  .tile{display:block;background:#fff;border:1px solid var(--line);border-radius:14px;padding:24px 22px 20px;text-decoration:none;color:var(--ink);
-    position:relative;overflow:hidden;box-shadow:0 2px 8px rgba(11,12,15,.05);
-    transition:transform .16s ease, box-shadow .16s ease, border-color .16s ease;}
+  .tile{display:block;background:var(--glass);border:1px solid var(--hairline);border-radius:14px;padding:24px 22px 20px;text-decoration:none;color:var(--ink-100);
+    position:relative;overflow:hidden;
+    transition:transform .16s ease, border-color .16s ease, background .16s ease;}
   .tile::after{content:"";position:absolute;left:0;right:0;top:0;height:3px;background:linear-gradient(90deg,var(--orange-hi),var(--orange-600));
     transform:scaleX(0);transform-origin:left;transition:transform .2s ease;}
-  .tile:hover,.tile:focus-visible{transform:translateY(-3px);box-shadow:0 14px 30px rgba(11,12,15,.14);border-color:var(--orange);outline:none;}
+  .tile:hover,.tile:focus-visible{transform:translateY(-3px);background:var(--glass-hi);border-color:var(--orange);outline:none;}
   .tile:hover::after,.tile:focus-visible::after{transform:scaleX(1);}
-  .tile .ico{width:48px;height:48px;border-radius:12px;background:linear-gradient(135deg,var(--orange-soft),#fff);
-    border:1px solid #FAD9C2;display:flex;align-items:center;justify-content:center;font-size:23px;margin-bottom:14px;}
-  .tile h2{font-family:var(--disp);font-weight:800;font-size:19px;letter-spacing:.01em;margin:0 0 5px;text-transform:uppercase;}
-  .tile p{font-size:13px;line-height:1.55;color:var(--ink-500);margin:0 0 16px;}
-  .tile .go{font-weight:700;font-size:13px;color:var(--orange-600);letter-spacing:.02em;}
+  .tile .ico{width:48px;height:48px;border-radius:12px;background:rgba(244,119,53,.12);
+    border:1px solid rgba(244,119,53,.4);display:flex;align-items:center;justify-content:center;font-size:23px;margin-bottom:14px;}
+  .tile h2{font-family:var(--disp);font-weight:800;font-size:19px;letter-spacing:.01em;margin:0 0 5px;text-transform:uppercase;color:#fff;}
+  .tile p{font-size:13px;line-height:1.55;color:var(--ink-300);margin:0 0 16px;}
+  .tile .go{font-weight:700;font-size:13px;color:var(--orange-hi);letter-spacing:.02em;}
   .tile .go::after{content:" →";transition:margin .15s ease;}
   .tile:hover .go::after{margin-left:4px;}
 
   /* ---------- footer ---------- */
-  .foot{max-width:720px;margin:0 auto;padding:0 22px 32px;font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-300);
-    border-top:1px solid var(--line);padding-top:16px;display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between;}
+  .foot{max-width:720px;margin:0 auto;padding:16px 22px calc(28px + env(safe-area-inset-bottom,0px));
+    font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-500);
+    border-top:1px solid var(--hairline);display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between;}
 
   /* ---------- entrance animation ---------- */
   @media (prefers-reduced-motion: no-preference){
@@ -121,6 +140,11 @@
   </div>
 
   <main class="wrap">
+    <a class="resume up d3" id="resume" href="https://cartrack-commercial.github.io/cartrack-premium-comparison/tool.html">
+      <span class="play">▶</span>
+      <span><span class="t" id="r-title">Resume comparison</span><br><span class="s" id="r-sub"></span></span>
+      <span class="arr">→</span>
+    </a>
     <p class="sec-label up d4">Your tools</p>
     <div class="tiles up d4">
       <a class="tile" href="https://cartrack-commercial.github.io/cartrack-rm-system/">
@@ -140,10 +164,14 @@
 
   <footer class="foot">
     <span>Internal use only</span>
+    <span id="ver"></span>
     <span>Cartrack Insurance · FSP 17266</span>
   </footer>
 
 <script>
+  const APP_VERSION='v2026.07.23';
+  document.getElementById('ver').textContent=APP_VERSION;
+
   // ---------- quote of the day ----------
   // One quote per calendar day, same for the whole team, rotating through the
   // list — no backend, no repeats for ~2 months.
@@ -212,9 +240,34 @@
   document.getElementById('q-by').textContent=qb;
 
   // ---------- greeting + date ----------
+  // The comparison tool lives on this same origin, so its on-device draft is
+  // readable here: greet the RM by name once they've used it on this phone,
+  // and surface a one-tap "resume" chip while a draft comparison is open.
+  const RM_NAMES={hein:'Hein',jean:'Jean',elizabeth:'Elizabeth',bronwyn:'Bronwyn',bernard:'Bernard',cules:'Cules',phillip:'Phillip',house:'team'};
+  let draft=null;
+  try{
+    const d=JSON.parse(localStorage.getItem('ct-compare-draft-v1')||'null');
+    if(d && d.ts && d.state && Date.now()-d.ts < 7*864e5) draft=d;
+  }catch{}
+  const who=(draft && RM_NAMES[draft.state.rmId]) || 'team';
   const h=new Date().getHours();
-  document.getElementById('greet').textContent=(h<12?'Good morning, team':h<17?'Good afternoon, team':'Good evening, team');
+  document.getElementById('greet').textContent=(h<12?'Good morning, ':h<17?'Good afternoon, ':'Good evening, ')+who;
   document.getElementById('today').textContent=new Date().toLocaleDateString('en-ZA',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+
+  // ---------- resume chip ----------
+  if(draft){
+    const s=draft.state, n=(s.files?.schedule?.length||0)+(s.files?.quote?.length||0);
+    if(n>0 || (s.buildings||[]).length){
+      const mins=Math.max(1,Math.round((Date.now()-draft.ts)/6e4));
+      const when=mins<60?mins+' min ago':mins<1440?Math.round(mins/60)+' h ago':Math.round(mins/1440)+' d ago';
+      document.getElementById('r-title').textContent='Resume: '+((s.client&&s.client.name)||'comparison in progress');
+      document.getElementById('r-sub').textContent=n+' file'+(n===1?'':'s')+' · saved '+when+' · on this device';
+      document.getElementById('resume').style.display='flex';
+    }
+  }
+
+  // ---------- offline shell ----------
+  if('serviceWorker' in navigator) navigator.serviceWorker.register('./sw.js').catch(()=>{});
 </script>
 </body>
 </html>
