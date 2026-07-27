@@ -61,6 +61,13 @@ insurance **quote comparisons** for the RMs.
 - **Waste Carriers & Nutri Humus** (228-vehicle fleet, Merx MRXP03339, renew 01 Aug): **BLOCKED** — cannot present until Merx answers the underwriter questions (telematics waiver / is Cartrack approved, excess table, loss ratio + fund forfeiture, tracking on 116 untracked, pollution liability, credit shortfall, territorial). RM: **Jean (he)**. Big finding = telematics excess waiver worth ~R238,990/truck, but that's Brendan→Bret's units track, kept separate.
 - **Twin Trans** (Santam vs King Price/VAPS): done. King Price cheaper but drops pollution + halves third-party (R5m→R2.5m, fire/explosion R1m) — dangerous for a fuel tanker.
 - **WesKaap Busdiens** (Santam vs Old Mutual vs King Price): done. All within ~R2.4k on price; both proposals weaken passenger liability (current R2.5m; OM R1m non-fare-paying; KP not taken). RM: **Bronwyn**.
+- **Tech Tech Consulting (Pty) Ltd** (Old Mutual Insure → Bryte). RM: **Cules**. Reconciled like-for-like (identical **12 vehicles / 18 BAR / 18 electronic items**).
+  - CURRENT: Old Mutual Insure, policy **PE218826COM** (Ballast Brokers / Frontline) — **R22,423.35/mo**. Source: "Marcus TECH TECH CURRENT POLICY.pdf".
+  - PROPOSED: Bryte **QT1018651** — **R16,967.14/mo**. Source: "Bryte commercial quote - Tech Tech MARCUS.pdf".
+  - **Saving −R5,456.21/mo (≈R65,475/yr), cheaper day one.** Two genuine **upgrades**: data reinstatement R10k→R100k (10×); liability restructured from R1m primary + separate R20m AIG CULP umbrella into a clean **R20m primary PL**, legal defence R10k→R50k, wrongful arrest R50k. **Simplifier:** two insurers (OM + AIG) → one (Bryte).
+  - **Watch-outs (red-team in the playbook):** Bryte motor excess vs OM 5%/min R5,000 (confirm); liability line +R187/mo on that section; two **"TBA" registrations** (2026 BAIC B30, Suzuki EECO); confirm retail sums insured; high-value vehicles need approved tracking (**Cartrack units satisfy this**).
+  - **DONE:** client 5-page branded proposal (via `/cartrack-proposal`) → "Tech Tech - Cartrack Proposal.pdf" (source `techtech_content.html`).
+  - **PENDING:** RM Playbook (internal, RM-eyes-only) via the cartrack-proposal skill's `playbook-template.html` → "Tech Tech - RM Playbook.pdf" in the same folder. **Skill + OneDrive files are on Anne's Mac — build this in the local Claude Code session, not the web session.**
 
 ## Conventions
 - Commit trailers used in this project:
