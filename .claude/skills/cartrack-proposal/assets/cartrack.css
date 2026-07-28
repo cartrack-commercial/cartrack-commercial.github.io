@@ -252,11 +252,15 @@ tr.allin td .item{color:#fff}
 .checkgrid .it{font-size:8.6px;color:var(--ink-600)}.checkgrid .it::before{content:"\2610";margin-right:7px;color:var(--ink-400)}
 
 /* ---- Cover ---- */
-.cover{padding:0;display:flex;flex-direction:column}
+/* Cover page. The sheet itself carries the dark ground so a short .top can never
+   leave a white band at the foot of the cover (belt) — and where the cover has no
+   light .bottom half, .top is also told to fill the sheet (braces). */
+.cover{padding:0;display:flex;flex-direction:column;background:var(--ink-950)}
 .cover .top{position:relative;background:var(--ink-950);color:#fff;padding:16mm 16mm 14mm;overflow:hidden;flex:none}
+.cover:not(:has(.bottom)) .top{flex:1 0 auto;min-height:297mm}
 .cover .top .glow{position:absolute;top:-40mm;right:-30mm;width:150mm;height:150mm;border-radius:50%;
   background:radial-gradient(circle,rgba(244,119,53,.28) 0%,rgba(244,119,53,.06) 38%,transparent 66%);pointer-events:none}
 .cover .top .wm{position:absolute;right:-26mm;bottom:-30mm;width:150mm;opacity:.05;pointer-events:none}
 .cover .head-row{display:flex;justify-content:space-between;align-items:flex-start;gap:16mm;position:relative;z-index:2;margin-bottom:20mm}
 .cover .lower{position:relative;z-index:2}
-.cover .bottom{padding:11mm 16mm 0;flex:1}
+.cover .bottom{padding:11mm 16mm 0;flex:1;background:#fff;color:var(--ink-900)}
