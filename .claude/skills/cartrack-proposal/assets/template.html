@@ -1,0 +1,136 @@
+<!-- ============================================================
+     CARTRACK INSURANCE PROPOSAL — CONTENT TEMPLATE
+     Copy this file, replace the text/figures, run build.py.
+     Each .page = one A4 sheet. Keep content within the sheet
+     (build.py clips overflow — check the preview .html).
+     Logo tokens {{CARTRACK_WHITE}} / {{CLIENT_LOGO}} etc. are
+     swapped to embedded images by build.py.
+     Money: wrap figures in <span class="num">; use class
+     "neg" for savings (green −) and "pos" for costs-more (red +).
+     ============================================================ -->
+
+<!-- ========== PAGE 1 · COVER ========== -->
+<div class="page cover">
+  <div class="top">
+    <div class="glow"></div>
+    <img class="wm" src="{{CARTRACK_MARK_WHITE}}">
+    <div class="head-row">
+      <div>
+        <div class="eyebrow ink" style="color:var(--ink-400);margin-bottom:6px">Prepared by</div>
+        <img src="{{CARTRACK_WHITE}}" style="width:50mm;display:block">
+      </div>
+      <div style="text-align:right">
+        <div class="eyebrow ink" style="color:var(--ink-400);margin-bottom:6px">Prepared for</div>
+        <span class="client-chip"><img src="{{CLIENT_LOGO}}" alt="Client"></span>
+      </div>
+    </div>
+    <div class="lower">
+      <div class="eyebrow rule" style="margin-bottom:14px">Insurance policy proposal &middot; 2026 renewal</div>
+      <h1>Cartrack Policy<br>Proposal</h1>
+      <p class="lead" style="color:var(--ink-300);max-width:150mm;margin-top:10px">
+        Prepared for <b style="color:#fff">Client Name</b> &mdash; short one-line framing of what this compares.</p>
+      <div class="stat-band" style="max-width:150mm">
+        <div class="stat save"><div class="k">Portfolio saving</div><div class="v">&minus;R0,000<span style="font-size:12px">/mo</span></div><div class="sub">&asymp; R00,000 a year</div></div>
+        <div class="stat"><div class="k">Rebuild value</div><div class="v">R000m</div></div>
+      </div>
+      <div style="margin-top:12mm">
+        <div class="eyebrow ink" style="color:var(--ink-400);margin-bottom:7px">Five items</div>
+        <div class="chips">
+          <span class="chip">Item one</span><span class="chip">Item two</span>
+          <span class="chip">Item three</span><span class="chip">Item four</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="foot legal" style="position:absolute;bottom:12mm;left:16mm;right:16mm;border:none;color:var(--ink-400)">
+    Issued 00 Month 2026 &middot; valid 30 days &middot; Proposal &middot; FSP 17266 &middot; Prepared by Cartrack Insurance Agency (Pty) Ltd &middot; figures monthly, VAT included &middot; decision-support, policy wording prevails</div>
+</div>
+
+<!-- ========== PAGE 2 · EXECUTIVE SUMMARY (stat band + verdict table + callouts) ========== -->
+<div class="page">
+  <div class="masthead">
+    <div class="eyebrow on-dark">Executive summary &middot; the decision in one page</div>
+    <h2>One-line recommendation headline</h2>
+    <span class="client-chip sm"><img src="{{CLIENT_LOGO}}"></span>
+  </div>
+  <p class="lead">Client insures N items today across two insurers for <b>R00,000 a month</b>. Moving all to a single
+    programme costs <b>R00,000</b> &mdash; less money, stronger cover, one insurer to deal with.</p>
+  <div class="stat-band">
+    <div class="stat hero save"><div class="k">Portfolio saving</div><div class="v">&minus;R0,000<span style="font-size:12px">/mo</span></div><div class="sub">&asymp; R00,000 a year</div></div>
+    <div class="stat"><div class="k">The verdict</div><div class="v" style="font-size:20px">3 cheaper &middot; 2 better</div><div class="sub">three save outright, two cost a little more for stronger cover</div></div>
+    <div class="stat"><div class="k">The simplifier</div><div class="v" style="font-size:20px">1 insurer</div><div class="sub">one wording &middot; one renewal</div></div>
+  </div>
+  <table style="margin-top:6px">
+    <colgroup><col style="width:34%"><col style="width:19%"><col class="propcol" style="width:19%"><col style="width:16%"><col style="width:12%"></colgroup>
+    <tr><th>Item</th><th class="r">Current</th><th class="r">Proposed</th><th class="r">&Delta; / mo</th><th class="r">Verdict</th></tr>
+    <tr><td class="item">Item A</td><td class="r">R0,000.00</td><td class="r propcol">R0,000.00</td><td class="r neg">&minus;R000.00</td><td class="r"><span class="pill switch">Switch</span></td></tr>
+    <tr><td class="item">Item B</td><td class="r">R0,000.00</td><td class="r propcol">R0,000.00</td><td class="r neg">&minus;R000.00</td><td class="r"><span class="pill switch">Switch</span></td></tr>
+    <tr><td class="item">Item C</td><td class="r">R0,000.00</td><td class="r propcol">R0,000.00</td><td class="r pos">+R000.00</td><td class="r"><span class="pill upgrade">Upgrade</span></td></tr>
+    <tr class="total"><td class="item">Portfolio</td><td class="r">R00,000</td><td class="r propcol">R00,000</td><td class="r neg">&minus;R0,000</td><td></td></tr>
+  </table>
+  <div class="callout rec"><span class="eyebrow">Recommendation</span>
+    <b>Move all N to one insurer.</b> Plain-language reason the recommendation holds, with the key number and the one caveat to resolve before inception.</div>
+  <div class="callout info"><span class="eyebrow ink">What is Sasria?</span>
+    Optional plain-language explainer box for a term the client may not know.</div>
+  <div class="foot"><div class="mark"><img src="{{CARTRACK_MARK}}">Cartrack Insurance &middot; Client Proposal</div><div>01</div></div>
+</div>
+
+<!-- ========== PAGE 3 · PER-ITEM LINE-BY-LINE ========== -->
+<div class="page">
+  <div class="masthead">
+    <div class="eyebrow on-dark">Current vs Cartrack proposal</div>
+    <h2>Item Name</h2>
+    <span class="client-chip sm"><img src="{{CLIENT_LOGO}}"></span>
+  </div>
+  <div class="stat-band">
+    <div class="stat"><div class="k">Current &middot; Insurer A</div><div class="v" style="font-size:22px">R0,000.00</div></div>
+    <div class="stat"><div class="k">Proposed &middot; Insurer B</div><div class="v" style="font-size:22px">R0,000.00</div></div>
+    <div class="stat hero save"><div class="k">Difference / month</div><div class="v" style="font-size:22px">&minus;R000.00</div></div>
+  </div>
+  <div class="callout excess"><span class="eyebrow ink">Excess at a claim</span> Everyday claim &mdash; first amount drops from R00,000 to R000.</div>
+  <table>
+    <colgroup><col style="width:44%"><col style="width:19%"><col class="propcol" style="width:19%"><col style="width:18%"></colgroup>
+    <tr><th>Line item</th><th class="r">Current</th><th class="r">Proposed</th><th class="r">&Delta; / mo</th></tr>
+    <tr><td><div class="item">Cover line</div><div class="desc">One-line note on what changed.</div></td><td class="r">R0,000.00</td><td class="r propcol">R0,000.00</td><td class="r neg">&minus;R000.00</td></tr>
+    <tr><td><div class="item">Another line</div><div class="desc">Priced now; limit note.</div></td><td class="r">incl.</td><td class="r propcol">R000.00</td><td class="r">&middot;</td></tr>
+    <tr><td><div class="item">Liability line</div><div class="desc">Cheaper and a higher limit.</div></td><td class="r">R000.00</td><td class="r propcol">R00.00</td><td class="r neg">&minus;R00.00</td></tr>
+    <tr class="total"><td class="item">Total &mdash; per month</td><td class="r">R0,000.00</td><td class="r propcol">R0,000.00</td><td class="r neg">&minus;R000.00</td></tr>
+  </table>
+  <div class="callout rec"><span class="eyebrow">Switch</span> &mdash; Rxxx/mo saving. One-line why the trade nets out in the client's favour.</div>
+  <div class="foot"><div class="mark"><img src="{{CARTRACK_MARK}}">Cartrack Insurance &middot; Client Proposal</div><div>02</div></div>
+</div>
+
+<!-- ========== PAGE 4 · NEXT STEPS + CONTACT (light) ========== -->
+<div class="page">
+  <div class="masthead">
+    <div class="eyebrow on-dark">Next steps &middot; let's put this in place</div>
+    <h2>Ready to move &mdash; here's how it works</h2>
+    <span class="client-chip sm"><img src="{{CLIENT_LOGO}}"></span>
+  </div>
+  <div class="cols">
+    <div>
+      <div class="col-head">Four steps to inception</div>
+      <ul class="steps">
+        <li><span class="n">1</span><div><div class="t">Give us the go-ahead</div><div class="b">A written instruction to proceed is all we need.</div></div></li>
+        <li><span class="n">2</span><div><div class="t">We place the programme</div><div class="b">One submission, one wording, one inception date.</div></div></li>
+        <li><span class="n">3</span><div><div class="t">Compliance &amp; handover</div><div class="b">FAIS checklist, sums insured confirmed, switch managed.</div></div></li>
+        <li><span class="n">4</span><div><div class="t">One programme going forward</div><div class="b">Single point of contact for amendments, claims and renewal.</div></div></li>
+      </ul>
+    </div>
+    <div>
+      <div class="stat cost" style="margin-bottom:12px"><div class="k">Valid for</div><div class="v">30 days</div><div class="sub">from issue (00 Month 2026). Premiums indicative, subject to final underwriting and confirmation of sums insured.</div></div>
+      <div class="contact">
+        <div class="k">Your Cartrack contact</div>
+        <div class="name">Contact Name</div>
+        <div class="row" style="font-family:var(--font-sans);color:var(--ink-600)">Cartrack Insurance Agency (Pty) Ltd</div>
+        <div class="row">000 000 0000</div>
+        <div class="row">name@cartrack.com</div>
+      </div>
+    </div>
+  </div>
+  <div class="sign">
+    <div class="blk"><div class="line"></div><div class="cap">Client &mdash; name, capacity &amp; date</div></div>
+    <div class="blk"><div class="line"></div><div class="cap">Contact Name &mdash; Cartrack Insurance Agency (FSP 17266)</div></div>
+  </div>
+  <div class="foot legal">Cartrack Insurance Agency (Pty) Ltd is an authorised financial services provider, FSP 17266. Decision-support only; the insurer's policy wording prevails. Figures monthly, VAT included. E&amp;OE.<span class="pg">03</span></div>
+</div>

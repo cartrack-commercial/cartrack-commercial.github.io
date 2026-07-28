@@ -51,8 +51,19 @@ insurance **quote comparisons** for the RMs.
 - So "King Price / VAPS" or "Merx / Old Mutual" is **one** proposal, not two.
 
 ### PDF pack builder (comparison deliverables)
-- Built as HTML → Playwright `chromium` → PDF (A4 `.page` divs, 1123px each; render, measure `.page` heights, repaginate if any overflow).
-- Design assets to rebuild: fonts `spacegrotesk-500/700`, `spacemono-400/700`, `librefranklin-400/600/700` (`.woff2`) + `cartrack-insurance-horizontal-white.png` — committed in `cartrack-premium-comparison/assets/`. Generators (`gen_*.py`) live in the session scratchpad and are **not** committed.
+- **THE build system is the `/cartrack-proposal` skill — now committed IN THIS REPO at
+  `.claude/skills/cartrack-proposal/`** (merged from Anne's Mac, 28 Jul 2026). It contains
+  `SKILL.md` (component cheat-sheet), `build.py`, `assets/template.html` (client proposal),
+  `assets/playbook-template.html` (RM playbook), `cartrack.css`, Saira + IBM Plex fonts and
+  all logos. `build.py` auto-detects Chrome (Mac) / Playwright Chromium (web sessions) —
+  works in BOTH places, so full comparisons + branded PDFs can be done end-to-end in any chat.
+  Usage: copy a template to `<name>_content.html`, edit, then
+  `python3 .claude/skills/cartrack-proposal/build.py <name>_content.html <out>.pdf --title "…" [--client-logo x.png]`.
+  Same skill also lives at `~/.claude/skills/cartrack-proposal/` on the Mac — if either copy is
+  improved, sync the other.
+- Older generation kit (Libre Franklin era, ALW pilot): `cartrack-premium-comparison/pack-builder/`
+  (HANDOFF.md there). Legacy fonts `spacegrotesk/spacemono/librefranklin` remain in
+  `cartrack-premium-comparison/assets/`.
 - Afrikaans RM messages: informal, mix in English words (Anne's standing preference). Figures must NOT be monospace — Space Grotesk (display) / Libre Franklin tabular (figures) / Space Mono (labels only).
 
 ---
@@ -80,7 +91,15 @@ insurance **quote comparisons** for the RMs.
   - **Saving −R5,456.21/mo (≈R65,475/yr), cheaper day one.** Two genuine **upgrades**: data reinstatement R10k→R100k (10×); liability restructured from R1m primary + separate R20m AIG CULP umbrella into a clean **R20m primary PL**, legal defence R10k→R50k, wrongful arrest R50k. **Simplifier:** two insurers (OM + AIG) → one (Bryte).
   - **Watch-outs (red-team in the playbook):** Bryte motor excess vs OM 5%/min R5,000 (confirm); liability line +R187/mo on that section; two **"TBA" registrations** (2026 BAIC B30, Suzuki EECO); confirm retail sums insured; high-value vehicles need approved tracking (**Cartrack units satisfy this**).
   - **DONE:** client 5-page branded proposal (via `/cartrack-proposal`) → "Tech Tech - Cartrack Proposal.pdf" (source `techtech_content.html`).
-  - **PENDING:** RM Playbook (internal, RM-eyes-only) via the cartrack-proposal skill's `playbook-template.html` → "Tech Tech - RM Playbook.pdf" in the same folder. **Skill + OneDrive files are on Anne's Mac — build this in the local Claude Code session, not the web session.**
+  - **PENDING:** RM Playbook (internal, RM-eyes-only) via the cartrack-proposal skill's `playbook-template.html` → "Tech Tech - RM Playbook.pdf" in the same folder. Skill is now in this repo (`.claude/skills/cartrack-proposal/`) so this can be built in ANY session; OneDrive originals still on Anne's Mac.
+- **Mike Lawlor** (private client of RM **Hein van Rooyen**, hein.vanrooyen@cartrack.com — Nat. Sales Manager). Two policies, sent 28 Jul: (a) **properties polis** quoted via TRQ/Tranquille — reconciled: R11,763.02 → R11,564.35, catch = Public Liability R50m occurrence → R20m claims-made; (b) **private polis** 3-way, comparison DONE 28 Jul:
+  - Insured: Mike & Candice Lawlor, Meyersdal. (Mike's ID = the current-CIB PDF password — in `Mike_Password.docx` in the deal folder / chat uploads; do NOT store it here.) 3 houses (main R30.36m, Danabaai R6.14m, Vaal Marina R2.38m), contents R6.67m, 5 vehicles: Porsche 911 GT3 RS '19 (R4m + **R1m Weisig Package** = R5m, Agreed Value, 3,500km/yr), RR Sport SDV6 '16, BMW M5 F90 '18 (Wesbank, Cartrack CT1 fitted), RR Sport D350 '23 (Tracker), '68 Dodge Charger (R2m Agreed Value).
+  - **All-in monthly: Current CIB\V567478 R20,879.02 · Hollard Prestige QT1017001 (via BrokerBuddy) R18,613.71 · Santam Executive STM-CAR0313-STMEXE-0288041 R19,886.93.** Quote passwords are in Hein's 28-Jul email (not stored here).
+  - **Recommendation: Hollard** (−R2,265.31/mo = −R27,183.72/yr, like-for-like buildings R38.88m, Agreed Value both collectors, R30m liability). Fix first: add R1m Weisig to Porsche (quote shows R4m), pin Dodge basic excess ("Unspecified"), early-warning trackers required ALL vehicles in 14 days (= Cartrack lead).
+  - **Santam is a trap as quoted:** buildings cut to R26.38m (main R20m, Danabaai R4m → average applies), collectors on Retail basis, Dodge mis-coded "1996 Base Coupe" (real: 1968 Charger). Its genuine win = excesses (R5,500 vs CIB R200k on Porsche/Dodge, R50k others; Hollard R150k Porsche) + theft-excess waiver with approved tracker. Only re-quote rebuilt to R38.88m + Agreed Value if client prioritises excess.
+  - All-risks gap all three: no itemised valuables (CIB has R300k out-of-home + locked-safe warranties; Hollard 20% WWC on contents; Santam ALL RISKS = not taken). Ask client re jewellery/watches.
+  - Claims history (for ROA): 2021 geyser R10,400; 2021 lightning R107,693. Replacing CIB ⇒ written disclosure of any reductions (ROA).
+  - **PENDING:** client proposal PDF + RM playbook (via repo skill) + written questions to Hollard & Santam.
 
 ## Conventions
 - Commit trailers used in this project:
