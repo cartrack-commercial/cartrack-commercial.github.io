@@ -19,11 +19,12 @@ insurance **quote comparisons** for the RMs.
 - **Design system for the APPS:** "Compliance DS" — Saira (headings) + IBM Plex Sans (body) + IBM Plex Mono (mono), near-black `#0B0C0F` ink + brand orange `#F47735`. Home-screen icons = white Cartrack arrow on `#0B0C0F` (in each repo's `assets/`).
 
 ### RM System notes
-- Supabase-backed (anon key in client; **RLS is the only protection — payroll holds salaries, confirm RLS is locked down**; no server-side auth, PIN gate is client-side only). Tables: `deals`, `portfolio`, `payroll`, `config`, `orgs`.
+- Supabase-backed (anon key in client; **RLS is the only protection — payroll holds salaries, confirm RLS is locked down**; no server-side auth, PIN gate is client-side only). Tables: `deals`, `portfolio`, `payroll`, `config`, `orgs`, plus `users`/`activity`.
+- **Which Supabase project:** ref `govvmqgpxzbqghzgcitb`, project **`cartrack-rm-system`**, under org **annekruger3010-svg's Org** — *not* the "Kruger House" org, whose project has none of these tables. SQL Editor: `https://supabase.com/dashboard/project/govvmqgpxzbqghzgcitb/sql/new`.
 - Saves are merge-safe per-row upserts; durable localStorage outbox for mobile resilience.
 - **Active Clients carry `policy` (policy no.), `insurer` (who the commission statement comes from) and `brokerFee`** — editable in the client modal (RM) and as Command View columns (management). Added 28 Jul 2026 on Lourie's request.
 - **Payroll formula: `payout = premium × commRate% + brokerFee ÷ 2`.** Confirmed by Anne 28 Jul: the split is **always half**, and the broker fee is **always monthly recurring** (not once-off) — it repeats every payroll month like the premium. Constant `BROKER_FEE_SHARE=0.5`. The payroll table shows the fee and the half as separate columns so an RM query can be answered by pointing at the row.
-- ⚠️ **`broker_fee` needs a DB column:** `alter table portfolio add column if not exists broker_fee numeric default 0;` — the app tolerates its absence (learns from server rows, strips the field on a rejected write) so saves never break, but the fee won't persist until it's run.
+- ✅ **`broker_fee` column added 30 Jul 2026** (`alter table portfolio add column if not exists broker_fee numeric default 0;`) — the fee now persists. The app still tolerates its absence (learns from server rows, strips the field on a rejected write) so saves never break.
 - **Command View is management-editable:** Brendan/Lourie can correct any RM's deal (tap → modal → `saveRM(owner)`) and any book premium (inline field → `savePortfolio(owner)`) — writes to the owning RM's shared row, pulls through to everyone. Payroll already saves on blur.
 
 ### Premium Comparison portal notes
