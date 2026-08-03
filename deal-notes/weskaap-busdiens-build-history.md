@@ -43,18 +43,45 @@ Agency (Pty) Ltd, FSP 17266. ±R13.1m fleet, 34 buses.
   R2.0m/event **unchanged through two revisions** — the letter remains the gate.
   Optional: windscreen off → R28,408.03 (−R9,127/mo), glass claims then for client's account.
 
-### Final standings (24 Jul)
+### Round 4 — VAPS answered the wrong question (3 Aug 2026)
+New VAPS quote **VAPS52095 alt 21395** (extra vehicle added) + the Santam 25 Jun schedule re-supplied.
+
+- **KP 21395: R34,464.70** (was R33,928.03 on r21389) — +R536.67 = the extra bus plus windscreen
+  R5,520 → R5,640. Fleet SI now **R13,374,583** (Santam R13,011,084). Roadside off, SASRIA R551.01,
+  **broker fee R0.00**. Sections: motor R22,544.31 · pax liab R4,831.66 · windscreen R5,640 ·
+  fire R260.62 · EE R331.26 · BAR R176.67 · theft R129.17 · SASRIA R551.01.
+- Santam benchmark re-confirmed **R37,535.20** off the 25/06/2026 schedule (headline "Total
+  Premium R34,091.26" is pre-fees/SASRIA/VAT — the trap). Santam motor R33,042.33 on R12,941,084.
+- ⛔ **VAPS's reply: *"We cannot increase the per event to R2.5mil as our max is R2mil."*
+  That answers the LIMIT and ignores the WORDING.** Page 10 is unchanged through THREE revisions:
+  cover for *"e-hailing fare paying passenger"*, vehicle must be *"active on an E-hailing platform"*,
+  excluded when *"in use for a non-e-hailing platform"*. Client runs commuter/WCED scholar/charter —
+  **no e-hailing**, so the section may not respond at all. **The gate is NOT cleared.**
+- 🔍 **New find: pax liability appears DUPLICATED** — two identical items on p10, each 34 buses /
+  892 seats / R66,900,000 / R2,415.83, while the motor section lists the fleet once (34 vehicles).
+  If it's an error, KP falls to **R32,048.87** → −R5,486.33/mo ≈ −R65,836/yr. Raise as a question.
+- 🔍 Fleet SI rose but motor still reads **"Number of vehicles 34"** despite the added bus — get the
+  itemised schedule.
+
+### Standings (3 Aug 2026)
 | | All-in/mo | vs current | Pax liability |
 |---|---|---|---|
-| King Price r21389 | R33,928.03 | −R3,607.17 | R2.0m/event, e-hailing form ⚠ |
+| King Price 21395 | R34,464.70 | −R3,070.50 | R2.0m/event, e-hailing form ⚠ |
 | Old Mutual .4 | R37,304.63 | −R230.57 | R2.5m/vehicle, clean ✓ |
 | Santam current | R37,535.20 | benchmark | R2.5m/vehicle ✓ |
 
-**Outstanding before signature:** (1) VAPS written confirmation that pax liability responds for
-scheduled commuter/scholar/charter ops + lift to R2.5m/event; (2) OM to add unauthorised
-passenger R2.5m; (3) client's written SASRIA sign-off (no riot cover on buses — their choice);
-(4) client's keep/cut decision on KP windscreen. Also pending: Bronwyn's surname + email for
-the proposal contact card.
+**Outstanding before signature:** (1) VAPS written confirmation that pax liability **responds for
+scheduled commuter/scholar/charter** — ask about the WORDING, not the limit; or a standard non-RTU
+form; (2) the duplicate pax items + the 34/35 vehicle count; (3) OM to add unauthorised passenger
+R2.5m (open since round 2); (4) client's written SASRIA sign-off (no riot cover on buses — their
+choice). **Recommendation held at Old Mutual until the wording is answered.**
+
+**Round 4 deliverables (3 Aug):** `weskaap_proposal_content.html` / `weskaap_playbook_content.html`
+→ `WesKaap Busdiens - Client Proposal 3Aug2026.pdf` + `... RM Playbook 3Aug2026 (INTERNAL).pdf`.
+⚠️ **Name spelling: Anne confirmed 3 Aug that "Bronwan" is correct** (contradicting the 28 Jul
+note that said Bronwyn) — round 4 uses Bronwan; the 24 Jul pack and the Hamisa Safety pack still
+say Bronwyn and need rebuilding if that matters. Direct email still unknown; packs carry
+insurance@cartrack.com.
 
 ## Method (how the comparison was done)
 
