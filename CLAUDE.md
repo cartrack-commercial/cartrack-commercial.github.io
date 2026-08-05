@@ -122,6 +122,51 @@ insurance **quote comparisons** for the RMs.
   - All-risks gap all three: no itemised valuables (CIB has R300k out-of-home + locked-safe warranties; Hollard 20% WWC on contents; Santam ALL RISKS = not taken). Ask client re jewellery/watches.
   - Claims history (for ROA): 2021 geyser R10,400; 2021 lightning R107,693. Replacing CIB ⇒ written disclosure of any reductions (ROA).
   - **PENDING:** client proposal PDF + RM playbook (via repo skill) + written questions to Hollard & Santam.
+- **CS Continental Meat** (retail butchery, 98 Oak Avenue, Germiston Central; turnover R89m, 40 staff;
+  contact Ms C Da Graca, claudia@cscontinental.co.za). RM: **Phillip Van Wyk**. Fleet-only comparison
+  done 5 Aug 2026 — **current OUTsurance `OT130005936` (rev 7, 6 Jul 2026; broker of record = Lara Gray,
+  an OUTsurance in-house broker) R26,860.75/mo** vs **King Price / VAPS HCV `VAPS52226` R20,981.44/mo**
+  → **−R5,879.31/mo ≈ −R70,552/yr (−21.9%)**.
+  - **Cleanest like-for-like in this book:** all 9 vehicles matched on registration / M&M code / chassis,
+    retail-value basis both sides, **accessory values identical to the rand** (Nissan R40k, Dyna8 R200k,
+    Hino R200k, Hilux ×2 R2,243). Total SI **R2,720,186** both sides. Motor section R24,175.42 → R15,053.16.
+    Two thirds of the saving is 3 vehicles: 2× 2026 Hilux (R4,902.82 → R1,783.33 each) + Peugeot 208.
+    **KP is DEARER on the Hino (+R333.49)** — say so.
+  - **The real win is the EXCESS, not the premium.** OUT basic R7,610 (R8,500 Isuzu, R13,500 Hino);
+    KP base is worse on paper (10% of claim min R30,000 on trucks) but the three reducers bought
+    (own damage R1,587.40 + theft/hijack R681.32 + third party R390.00) cap it at a **flat R5,000 inner
+    excess (R2,500 Nissan/Yaris), third-party damage NIL on items 2–9**. Hino −R8,500 per claim.
+  - **Regressions to fix:** third-party liability **R5m → R2.5m, and only R1m if fire/explosion**
+    (VAPS Sub-Section B, p11) ← the decisive cover point; **credit shortfall dropped** on both financed
+    Hiluxes (Capitec noted; OUT charges R507.84/mo); claims prep R10k → R5k; **medical expenses R5,000/vehicle
+    on OUT does not appear on the KP quote** (KP's own note: cover not stated = no cover); windscreen capped
+    R15,000/vehicle with the excess waiver not taken. **Gains:** unauthorised passenger liability R2.5m
+    (OUT lists it as available, NOT taken), contingent liability R2.5m, fuel-tank spillage R250k,
+    wreckage removal R50k, towing R100k, loss of keys R50k, movement of 3rd-party vehicles R1m,
+    cross-border territories, better roadside (R20k/yr per truck vs 2 call-outs) for R18.88 less.
+  - ⛔ **THE GATE — the loss ratio.** OUT's own schedule discloses **19 motor-fleet incidents, ≈R1.46m paid
+    over 10 yrs, R968,238 in the last 24 months** (incl. **R628,915 on 09/01/2026**) against ≈R645k of
+    premium → **≈150%**. Nothing on VAPS52226 says "subject to claims experience", which is exactly why
+    **Phillip must get VAPS to confirm IN WRITING that they rated on that record before the price goes to
+    the client.** Corollary: OUT's schedule states the client **does not qualify for a Business OUTbonus
+    on 31 Jul 2028** — so nothing is forfeited by leaving (kills the cash-back objection).
+  - **Other gates:** (1) VAPS tracking rule (eff. 1 Mar 2023) — tracking **with recovery** on every vehicle
+    over R200,000 = **6 of 9**; VESA 3/4 or factory alarm/immobiliser on the rest; **all nine tracking fields
+    are BLANK** and no proof of fitment/operation/paid subscription/24h manned monitoring = **no theft or
+    hijack cover at all** → **9-unit Cartrack lead** (OUT already names Cartrack on its approved list);
+    (2) **the KP quote carries OUTsurance's OWN reg no. `1994/010719/06` and VAT `4340147224` in the
+    POLICYHOLDER fields** — copied off the OUT schedule, where they are the *insurer's* numbers (the client's
+    are blank there); (3) inception reads 01/08/2026 but the quote was signed 04/08 and **OUT already renewed
+    on 01/08** — reset the date, time the cancellation, no gap/no double debit; (4) both 2026 Hiluxes are
+    **"TBA"** — no registration numbers on either schedule; (5) OUT depot record says "Max number of
+    vehicles 7" against 9 scheduled.
+  - **Upsell in plain sight:** both policies are **motor-only** — no **goods in transit** (R89m of meat
+    moving in 9 trucks, VAPS shows GIT "Not taken") and no deterioration-of-stock / machinery breakdown on
+    the cold rooms. Also: OUT's claims list shows a separate **Building** category (geyser 2024 + 2026) →
+    other business sits at OUTsurance, ask what and quote the whole account. 5 accidental-damage claims in
+    24 months on 9 vehicles = a driver problem → camera telematics + driver scoring after the 9 units.
+  - **Deliverables built 5 Aug** (`csmeat_proposal_content.html` / `csmeat_playbook_content.html`):
+    client proposal PDF (6pp) + RM playbook PDF (7pp, INTERNAL). Afrikaans WhatsApp sent to Anne for Phillip.
 
 ## Conventions
 - Commit trailers used in this project:
