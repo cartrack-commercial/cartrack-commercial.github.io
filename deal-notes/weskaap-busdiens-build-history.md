@@ -63,6 +63,33 @@ New VAPS quote **VAPS52095 alt 21395** (extra vehicle added) + the Santam 25 Jun
 - 🔍 Fleet SI rose but motor still reads **"Number of vehicles 34"** despite the added bus — get the
   itemised schedule.
 
+### Round 5 — VAPS split fare-paying from non-fare-paying (5 Aug 2026)
+Written reply from the VAPS underwriter, via Bronwyn:
+
+> *"I meant that we would not be able to make endorsements for non-fare paying passenger liability
+> but as per the wording we do cover and will be able to assist with fare paying passenger liability."*
+
+- ✅ **Progress:** first reply that engages the *cover*, not the limit. They confirm the section is
+  intended to respond for **fare-paying** passengers.
+- ⛔ **The gate is still NOT cleared.** "As per the wording" is precisely the problem — page 10 is
+  unchanged through **four** revisions and still reads *"e-hailing fare paying passenger"*, vehicle must
+  be *"active on an E-hailing platform"*, excluded when *"in use for a non-e-hailing platform"*. An
+  underwriter's email does not override a schedule at claims stage; **the document is what responds.**
+  The ask is now narrow: confirm the section responds for scheduled commuter / WCED scholar / charter
+  with NO e-hailing platform, **and issue an amended schedule or endorsement striking the e-hailing
+  qualifiers.**
+- 🔴 **NEW confirmed regression:** VAPS say in writing they **cannot endorse non-fare-paying passenger
+  liability at all**. Santam's current policy carries **R2.5m unauthorised + R2.5m third-party
+  passenger** alongside the R2.5m fare-paying. That is a definite reduction in cover, not a suspicion →
+  **must be disclosed in writing in the Record of Advice before the client decides.**
+  Why it bites on this operator: WCED scholar transport (the department pays, not the child), charter
+  (the organiser pays), conductors/assistants, and anyone carried free — exactly the people who end up
+  in a "was this passenger fare-paying?" argument after a crash.
+- Still open from round 4: the **duplicated pax liability items** (two identical p10 entries, 34 buses /
+  892 seats / R66,900,000 / R2,415.83 each — if an error KP falls to **R32,048.87**, −R5,486.33/mo ≈
+  −R65,836/yr) and the **34 vs 35 vehicle count** on a fleet SI that rose to R13,374,583.
+- **Recommendation unchanged: hold at Old Mutual .4** until an amended KP schedule is issued.
+
 ### Standings (3 Aug 2026)
 | | All-in/mo | vs current | Pax liability |
 |---|---|---|---|
