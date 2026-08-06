@@ -4,7 +4,7 @@
 without that chat lives in this folder, the deal memory, and the `/cartrack-proposal` skill.*
 
 Deal: **Wes-Kaap Busdiens CC** (Vredenburg; trading as WES-KAAP TOERE, weskaaptoere.co.za —
-daily commuter, WCED scholar transport, charter). RM: **Bronwyn**. Broker: Cartrack Insurance
+daily commuter, WCED scholar transport, charter). RM: **Bronwan**. Broker: Cartrack Insurance
 Agency (Pty) Ltd, FSP 17266. ±R13.1m fleet, 34 buses.
 
 ---
@@ -29,7 +29,7 @@ Agency (Pty) Ltd, FSP 17266. ±R13.1m fleet, 34 buses.
   a non-e-hailing platform"), limits R75k/seat / **R2.0m/event** / R10m p.a.
 - **Finding:** OM = genuine like-for-like at +R1,507/mo; KP = most expensive AND its pax cover
   likely doesn't respond for a scheduled bus operator. The "VAPS letter" became the gate.
-- Client (via Bronwyn) then asked to strip SASRIA + roadside from KP; analysis showed roadside
+- Client (via Bronwan) then asked to strip SASRIA + roadside from KP; analysis showed roadside
   alone (a fair cut — Santam has none) made KP cheapest, and advised keeping SASRIA.
 
 ### Round 3 — the benchmark moved (folder `New 24 July/`, docs of 23–25 Jul)
@@ -64,7 +64,7 @@ New VAPS quote **VAPS52095 alt 21395** (extra vehicle added) + the Santam 25 Jun
   itemised schedule.
 
 ### Round 5 — VAPS split fare-paying from non-fare-paying (5 Aug 2026)
-Written reply from the VAPS underwriter, via Bronwyn:
+Written reply from the VAPS underwriter, via Bronwan:
 
 > *"I meant that we would not be able to make endorsements for non-fare paying passenger liability
 > but as per the wording we do cover and will be able to assist with fare paying passenger liability."*
@@ -90,23 +90,25 @@ Written reply from the VAPS underwriter, via Bronwyn:
   −R65,836/yr) and the **34 vs 35 vehicle count** on a fleet SI that rose to R13,374,583.
 - **Recommendation unchanged: hold at Old Mutual .4** until an amended KP schedule is issued.
 
-### Standings (3 Aug 2026)
+### Standings (5 Aug 2026)
 | | All-in/mo | vs current | Pax liability |
 |---|---|---|---|
-| King Price 21395 | R34,464.70 | −R3,070.50 | R2.0m/event, e-hailing form ⚠ |
-| Old Mutual .4 | R37,304.63 | −R230.57 | R2.5m/vehicle, clean ✓ |
-| Santam current | R37,535.20 | benchmark | R2.5m/vehicle ✓ |
+| King Price 21395 | R34,464.70 | −R3,070.50 | fare-paying: verbally yes (5 Aug), **schedule still says e-hailing** ⚠ · R2.0m/event max · **non-fare-paying confirmed UNAVAILABLE** 🔴 |
+| Old Mutual .4 | R37,304.63 | −R230.57 | R2.5m/vehicle, clean ✓ (unauthorised pax still not taken) |
+| Santam current | R37,535.20 | benchmark | R2.5m fare-paying + R2.5m unauthorised + R2.5m third-party ✓ |
 
-**Outstanding before signature:** (1) VAPS written confirmation that pax liability **responds for
-scheduled commuter/scholar/charter** — ask about the WORDING, not the limit; or a standard non-RTU
-form; (2) the duplicate pax items + the 34/35 vehicle count; (3) OM to add unauthorised passenger
-R2.5m (open since round 2); (4) client's written SASRIA sign-off (no riot cover on buses — their
-choice). **Recommendation held at Old Mutual until the wording is answered.**
+**Outstanding before signature:** (1) an **amended KP schedule/endorsement striking the e-hailing
+qualifiers** — a verbal "we do cover" does not fix a schedule that will be read at claim stage;
+(2) the duplicate pax items + the 34/35 vehicle count; (3) OM to add unauthorised passenger R2.5m
+(open since round 2); (4) client's written SASRIA sign-off (no riot cover on buses — their choice);
+(5) **ROA disclosure of the confirmed non-fare-paying regression** if KP is ever put forward.
+**Recommendation held at Old Mutual until an amended schedule is issued.**
 
 **Round 4 deliverables (3 Aug):** `weskaap_proposal_content.html` / `weskaap_playbook_content.html`
 → `WesKaap Busdiens - Client Proposal 3Aug2026.pdf` + `... RM Playbook 3Aug2026 (INTERNAL).pdf`.
-⚠️ **Name spelling: Anne confirmed 3 Aug that "Bronwan" is correct** (contradicting the 28 Jul
-note that said Bronwyn) — round 4 uses Bronwan; the 24 Jul pack and the Hamisa Safety pack still
+✅ **Name spelling SETTLED — "Bronwan" is correct** (Anne, 3 Aug and re-confirmed 5 Aug; the 28 Jul
+note saying Bronwyn was wrong, and her own WhatsApp contact card showing "Bronwyn Fouche Cartrack"
+is not authoritative — stop re-opening this). Round 4 uses Bronwan; the 24 Jul pack and the Hamisa Safety pack still
 say Bronwyn and need rebuilding if that matters. Direct email still unknown; packs carry
 insurance@cartrack.com.
 
