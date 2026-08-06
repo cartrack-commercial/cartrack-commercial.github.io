@@ -64,7 +64,17 @@ New VAPS quote **VAPS52095 alt 21395** (extra vehicle added) + the Santam 25 Jun
   itemised schedule.
 
 ### Round 5 — VAPS split fare-paying from non-fare-paying (5 Aug 2026)
-Written reply from the VAPS underwriter, via Bronwan:
+**Who to talk to (from the 5 Aug email header — use this, it collapses the loop):**
+underwriter is **Jason, jason@vapshcv.co.za**; VAPS's own footer says *"Please send new underwriting
+requests to **underwriting@vapshcv.co.za**"* with **amendments on a 24-hour turnaround**. VAPS's
+allocation ref for this deal is **R48679345**. ⚠️ The reply reached us **relayed**: Jason → **Tanya Kapp
+(TanyaK@fspsolutions.com)** → Bronwan, cc **Meldon Kruger (meldon@fspsolutions.com)**. Four revisions
+have failed to fix a wording problem partly because every clarification costs two hops — go direct to
+underwriting@ and cc Jason. **Open question for Anne: why is FSP Solutions sitting between Cartrack
+and VAPS on this risk, and whose FSP number/commission is on the schedule?** (FSP Solutions also
+appears on the Hamisa/Kgahlisa Petrosure quote — same "confirm it's ours" question.)
+
+Written reply from the VAPS underwriter (Jason), relayed via Tanya Kapp:
 
 > *"I meant that we would not be able to make endorsements for non-fare paying passenger liability
 > but as per the wording we do cover and will be able to assist with fare paying passenger liability."*

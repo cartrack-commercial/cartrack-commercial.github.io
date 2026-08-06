@@ -84,7 +84,7 @@ insurance **quote comparisons** for the RMs.
   - Telematics side-note: excess-waiver finding ~**R238,990/truck** is Brendan→Bret's units track — kept separate.
   - **Deliverables built (regen via `/cartrack-proposal`; sources in `05 Builds & Code/Claude Code/`):** line-by-line **docx** (section H = 10 written confirmations); **client proposal PDF** (…CLIENT); **RM playbook PDF** (…INTERNAL - RM ONLY). **Skill + OneDrive live on Anne's Mac — render branded PDFs in the LOCAL session, never rebuild the design.**
 - **Twin Trans** (Santam vs King Price/VAPS): done. King Price cheaper but drops pollution + halves third-party (R5m→R2.5m, fire/explosion R1m) — dangerous for a fuel tanker.
-- **Wes-Kaap Busdiens CC** (Vredenburg; t/a WES-KAAP TOERE — daily commuter, WCED scholar transport, charter; ±R13.1m fleet, 34 buses). RM: **Bronwan Fouche** (spelling SETTLED by Anne 5 Aug 2026 — "Bronwan", not Bronwyn, despite her own WhatsApp contact card; still need her direct email for the proposal contact card — packs currently carry the Rosebank switchboard + insurance@cartrack.com). Santam current vs Old Mutual (ONE) vs King Price (VAPS). **Went through 3 rounds — full detail in `deal-notes/weskaap-busdiens-build-history.md`.**
+- **Wes-Kaap Busdiens CC** (Vredenburg; t/a WES-KAAP TOERE — daily commuter, WCED scholar transport, charter; ±R13.1m fleet, 34 buses). RM: **Bronwan Fouche** (spelling SETTLED by Anne 6 Aug 2026 — "Bronwan", not Bronwyn, despite her own WhatsApp contact card; still need her direct email for the proposal contact card — packs currently carry the Rosebank switchboard + insurance@cartrack.com). Santam current vs Old Mutual (ONE) vs King Price (VAPS). **Went through 3 rounds — full detail in `deal-notes/weskaap-busdiens-build-history.md`.**
   - **Real current benchmark = Santam R37,535.20/mo** (⚠️ NOT the old R43,946.83 — bus SASRIA was stripped off the current policy in June, R6,956.59→R544.96). Pax liability R2.5m/vehicle ✓.
   - **Final standings (24 Jul):** King Price r21389 **R33,928.03** (−R3,607.17/mo ≈ −R43,286/yr) BUT pax cover is **R2.0m/event on an e-hailing RTU form** ⚠ — likely won't respond for a scheduled bus operator (the **gate**); Old Mutual .4 **R37,304.63** (−R230.57, clean **R2.5m/vehicle** ✓, genuine like-for-like); Santam current R37,535.20.
   - **Outstanding before signature:** (1) VAPS **written** confirmation pax liability responds for scheduled commuter/scholar/charter + lift to R2.5m/event; (2) OM to add unauthorised pax R2.5m; (3) client's written SASRIA sign-off (no riot cover on buses = their choice); (4) client keep/cut on KP windscreen (off → R28,408.03).
@@ -105,7 +105,7 @@ insurance **quote comparisons** for the RMs.
   - **Defective workmanship / products liability EXCLUDED on all three** — the client's core exposure; ask both insurers to price it.
   - Motor: same SI R1,232,150 all three; own damage R5,195.25 (cur) / R5,080.64 (W) / R4,649.90 (N). Natsure theft excess worsens to 10% min R5,000.
   - **Deliverables built 28 Jul (this repo's skill):** `powerflow_proposal_content.html` + `powerflow_playbook_content.html` → client proposal PDF + RM playbook PDF. Afrikaans WhatsApp sent to Anne.
-- **Hamisa Group** (one client group, `stephen@hamisagroup.co.za`, all currently at **Inscon Hawkins & Associates**). RM: **Bronwan Fouche** (= the Bronwan on Wes-Kaap). ✅ Spelling SETTLED by Anne 5 Aug 2026: **"Bronwan"** is correct — the Bryte quotes had it right and the 28 Jul note saying "Bronwyn" was wrong. The 24 Jul Wes-Kaap pack and the Hamisa Safety pack still say Bronwyn and need rebuilding if it matters. Three entities, group total **R92,831.87/mo**:
+- **Hamisa Group** (one client group, `stephen@hamisagroup.co.za`, all currently at **Inscon Hawkins & Associates**). RM: **Bronwan Fouche** (= the Bronwan on Wes-Kaap). ✅ Spelling SETTLED by Anne 6 Aug 2026: **"Bronwan"** is correct — the Bryte quotes had it right and the 28 Jul note saying "Bronwyn" was wrong. The 24 Jul Wes-Kaap pack and the Hamisa Safety pack still say Bronwyn and need rebuilding if it matters. Three entities, group total **R92,831.87/mo**:
   - **Hamisa Safety Equipment Supplies** (PPE to mining; Danskraal/Ladysmith, Lanseria, Witbank). Current **Infiniti `BEYOND-3744-0000169` R18,432.07** vs proposed (Bryte-titled, see below) **R16,092.75** → **−R2,339.32/mo ≈ −R28,072/yr**. ✅ DONE 28 Jul — client proposal + RM playbook built (`hamisa_safety_*_content.html`).
     - Saving comes from re-rating (fire −R1,190.70, theft −R690, electronic equipment −R550.47), NOT cover cuts: GIT held **R2,750,000**, fleet **R1,406,123 exact match** (Toyota FBRE20, VW Caddy Cargo, Isuzu D-Max), BAR + accidental damage identical; office contents R876,053→R993,541 and theft R200,000→R232,500 both UP.
     - ⚠️ **PL is R5m PER ADDRESS on the current policy** (Danskraal retro 05/08/2025, Witbank retro 11/04/2024) — the index summary showing "R10,000,000" is the 2-address total, NOT a single limit. Proposed = R5m across ALL premises but **adds Lanseria, which has no PL today**. Per-event limit unchanged; what's lost is per-address stacking.
@@ -124,7 +124,7 @@ insurance **quote comparisons** for the RMs.
   - **PENDING:** client proposal PDF + RM playbook (via repo skill) + written questions to Hollard & Santam.
 - **CS Continental Meat** (retail butchery, 98 Oak Avenue, Germiston Central; turnover R89m, 40 staff;
   contact Ms C Da Graca, claudia@cscontinental.co.za). RM: **Phillip Van Wyk**. Fleet-only comparison
-  done 5 Aug 2026 — **current OUTsurance `OT130005936` (rev 7, 6 Jul 2026; broker of record = Lara Gray,
+  done 6 Aug 2026 — **current OUTsurance `OT130005936` (rev 7, 6 Jul 2026; broker of record = Lara Gray,
   an OUTsurance in-house broker) R26,860.75/mo** vs **King Price / VAPS HCV `VAPS52226` R20,981.44/mo**
   → **−R5,879.31/mo ≈ −R70,552/yr (−21.9%)**.
   - **Cleanest like-for-like in this book:** all 9 vehicles matched on registration / M&M code / chassis,
@@ -165,7 +165,7 @@ insurance **quote comparisons** for the RMs.
     the cold rooms. Also: OUT's claims list shows a separate **Building** category (geyser 2024 + 2026) →
     other business sits at OUTsurance, ask what and quote the whole account. 5 accidental-damage claims in
     24 months on 9 vehicles = a driver problem → camera telematics + driver scoring after the 9 units.
-  - **Deliverables built 5 Aug** (`csmeat_proposal_content.html` / `csmeat_playbook_content.html`):
+  - **Deliverables built 6 Aug** (`csmeat_proposal_content.html` / `csmeat_playbook_content.html`):
     client proposal PDF (6pp) + RM playbook PDF (7pp, INTERNAL). Afrikaans WhatsApp sent to Anne for Phillip.
 
 ## Conventions
