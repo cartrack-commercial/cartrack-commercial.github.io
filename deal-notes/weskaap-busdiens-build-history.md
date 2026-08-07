@@ -114,6 +114,11 @@ qualifiers** — a verbal "we do cover" does not fix a schedule that will be rea
 (5) **ROA disclosure of the confirmed non-fare-paying regression** if KP is ever put forward.
 **Recommendation held at Old Mutual until an amended schedule is issued.**
 
+**Round 5 deliverables (6 Aug):** `weskaap_proposal_content.html` / `weskaap_playbook_content.html` (updated in place)
+→ `WesKaap Busdiens - Client Proposal 6Aug2026.pdf` + `... RM Playbook 6Aug2026 (INTERNAL).pdf`.
+Recommendation now stated as **Old Mutual**, not "the fallback"; the confirmed non-fare-paying
+regression is disclosed on p2 of the client proposal as the Record of Advice requires.
+
 **Round 4 deliverables (3 Aug):** `weskaap_proposal_content.html` / `weskaap_playbook_content.html`
 → `WesKaap Busdiens - Client Proposal 3Aug2026.pdf` + `... RM Playbook 3Aug2026 (INTERNAL).pdf`.
 ✅ **Name spelling SETTLED — "Bronwan" is correct** (Anne, 3 Aug and re-confirmed 5 Aug; the 28 Jul
