@@ -63,7 +63,7 @@ New VAPS quote **VAPS52095 alt 21395** (extra vehicle added) + the Santam 25 Jun
 - 🔍 Fleet SI rose but motor still reads **"Number of vehicles 34"** despite the added bus — get the
   itemised schedule.
 
-### Round 5 — VAPS split fare-paying from non-fare-paying (5 Aug 2026)
+### Round 5 — VAPS split fare-paying from non-fare-paying (underwriter’s reply 5 Aug 2026; pack rebuilt 12 Aug)
 **Who to talk to (from the 5 Aug email header — use this, it collapses the loop):**
 underwriter is **Jason, jason@vapshcv.co.za**; VAPS's own footer says *"Please send new underwriting
 requests to **underwriting@vapshcv.co.za**"* with **amendments on a 24-hour turnaround**. VAPS's
@@ -100,7 +100,7 @@ Written reply from the VAPS underwriter (Jason), relayed via Tanya Kapp:
   −R65,836/yr) and the **34 vs 35 vehicle count** on a fleet SI that rose to R13,374,583.
 - **Recommendation unchanged: hold at Old Mutual .4** until an amended KP schedule is issued.
 
-### Standings (5 Aug 2026)
+### Standings (12 Aug 2026)
 | | All-in/mo | vs current | Pax liability |
 |---|---|---|---|
 | King Price 21395 | R34,464.70 | −R3,070.50 | fare-paying: verbally yes (5 Aug), **schedule still says e-hailing** ⚠ · R2.0m/event max · **non-fare-paying confirmed UNAVAILABLE** 🔴 |
@@ -114,14 +114,14 @@ qualifiers** — a verbal "we do cover" does not fix a schedule that will be rea
 (5) **ROA disclosure of the confirmed non-fare-paying regression** if KP is ever put forward.
 **Recommendation held at Old Mutual until an amended schedule is issued.**
 
-**Round 5 deliverables (6 Aug):** `weskaap_proposal_content.html` / `weskaap_playbook_content.html` (updated in place)
+**Round 5 deliverables (12 Aug):** `weskaap_proposal_content.html` / `weskaap_playbook_content.html` (updated in place)
 → `WesKaap Busdiens - Client Proposal 6Aug2026.pdf` + `... RM Playbook 6Aug2026 (INTERNAL).pdf`.
 Recommendation now stated as **Old Mutual**, not "the fallback"; the confirmed non-fare-paying
 regression is disclosed on p2 of the client proposal as the Record of Advice requires.
 
 **Round 4 deliverables (3 Aug):** `weskaap_proposal_content.html` / `weskaap_playbook_content.html`
 → `WesKaap Busdiens - Client Proposal 3Aug2026.pdf` + `... RM Playbook 3Aug2026 (INTERNAL).pdf`.
-✅ **Name spelling SETTLED — "Bronwan" is correct** (Anne, 3 Aug and re-confirmed 5 Aug; the 28 Jul
+✅ **Name spelling SETTLED — "Bronwan" is correct** (Anne, 3 Aug and re-confirmed 12 Aug; the 28 Jul
 note saying Bronwyn was wrong, and her own WhatsApp contact card showing "Bronwyn Fouche Cartrack"
 is not authoritative — stop re-opening this). Round 4 uses Bronwan; the 24 Jul pack and the Hamisa Safety pack still
 say Bronwyn and need rebuilding if that matters. Direct email still unknown; packs carry
