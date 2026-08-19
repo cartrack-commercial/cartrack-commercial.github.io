@@ -179,3 +179,54 @@ insurance **quote comparisons** for the RMs.
   `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>` + `Claude-Session: …`
 - Never put the model id in commits / code / PRs (chat only).
 - People's pronouns: use they/them unless stated. **Jean = he.**
+- **Idol Transport (Pty) Ltd** (long-haul HCV + GIT, 35 Steyer Street, Aureus, Randfontein; reg
+  2016/003501/07; contact Zinhle Zulu `zinhle@idoltransport.co.za`). RM: **Cules**. 5-market
+  comparison done 19 Aug 2026 — full detail in `deal-notes/idol-transport.md`.
+  - **Fleet identical on every quote: 47 units, SI R27,964,847** — 18 HCV (17 MAN + 1 Actros)
+    R17,462,400 · 25 trailers R8,989,747 · 4 LDV R1,512,700. Mixers, truck-tractors, tippers AND
+    tanker trailers (fuel/DC/tri-tank) — commodity is declared General Goods / Food Products.
+  - **Current = Transport-ONE `HCV/1240900` sched 6, One Underwriting Managers t/a ONE,
+    underwritten by Old Mutual Alternative Risk Transfer Insure (OMART, FSP 49551), broker of
+    record Cci Global. R148,370.94/mo**, reconciles to the cent (motor R103,791.73 + GIT R28,800
+    + PL R3,729.60 + PA R507.61 + fee R100 + Sasria R11,442).
+  - **All-in:** OWNsurance/Renasa **R133,714.43 (−R14,656.51/mo ≈ −R175,878/yr)** · MiWay
+    R137,406.27 (excl. driver dishonesty) / R146,183.83 (incl.) · **current R148,370.94** ·
+    VAPS/King Price R148,976.78 (**+R605.84 — dearer**) · Natsure/Compass R150,502.87.
+  - **Recommend OWNsurance** — the ONLY quote that is cheaper AND holds **third-party liability
+    R10,000,000** and **agreed value**. Excess transformed: motor flat R10,000 → **nil** on own
+    damage/theft/hijack/third party under OwnRship Option A (holds even when the fund is
+    depleted); GIT R50,000 → **R5,000**.
+  - ⚠️ **Same OWNsurance fund trap as Waste Carriers.** "Annual savings R341,670.46" + "GIT
+    R163,800.00" is the client's OWN fund, not a saving. Reconciles EXACTLY with **sequential**
+    deduction: motor R59,597.15 × 0.91 (9% binder) × 0.875 (12.5% broker) × **60%** × 12; GIT
+    R37,500 × 0.91 × **0.80 (20% broker)** × **50%** × 12. Fund = R505,470.46/yr = R42,122.54/mo.
+    **Effective annual cost: 0 claims R1,099,103 · R250k claims R1,349,103 · fund used
+    R1,604,573 · staying R1,780,451.** On a R1.2m/yr loss record the fund lasts ~5 months —
+    **sell the zero excess, not the rebate.**
+  - ⛔ **THE GATE — the loss record.** Idol's own MiWay disclosure: **58 losses, R2,651,053 over
+    3 yrs; R2,402,455 in the last 24 months against R2,491,002 of motor premium ≈ 96%.**
+    OWNsurance's line one is "subject to a satisfactory claims history" — **written confirmation
+    it rated on that record before any figure goes to the client.**
+  - 🚨 **43-unit Cartrack lead, and a live hole today.** ONE endorsement HCV0019 makes theft cover
+    conditional on a monitored tracking/recovery device on every vehicle **over R500,000 = 20
+    units**, yet **all 23 items read "Tracking device Required: No"** (a R581,842 theft was paid
+    Feb 2025). VAPS needs **43 units >R200k + 14 dual-camera video telematics >R800k + trailer
+    units on BOTH links to GIT spec** (GIT ≥R1.2m rule). MiWay names Tracker/Netstar — get
+    Cartrack named in writing. 43 accident losses on 22 vehicles = driver scoring lead too.
+  - **Territory is the sharpest divide:** current 16 countries; OWNsurance GIT **11** (loses
+    Angola, Uganda, Rwanda, Kenya); VAPS 8; **Natsure and MiWay = RSA ONLY**.
+  - **Why the rest are benched:** MiWay moves all trucks to **retail value**, caps GIT at a
+    **single R2m** (not R2m × 18), doubles GIT excess to R100,000, **excludes driver dishonesty
+    on GIT in both versions**, excludes neighbouring/extended territories on motor AND goods,
+    trailers cost R34,772.65 vs R13,330.07, plus a **R13,289.44/mo broker fee** — and its VAT
+    number is wrong (4150284554 vs 4250264712). VAPS is dearer and cuts TP **R10m→R2.5m (R1m
+    fire/explosion)**, PL R20m→R10m, capsizing-whilst-tipping excess becomes **5% of vehicle
+    value** (4 tippers). Natsure is dearest, GIT +87%, RSA-only goods, and its HCV SI is
+    **R16,584,900 vs R17,462,400** (KD45LTGP carries no value) — but it is the **only** quote
+    with **passenger liability R2,500,000** and broadform R10m **per address**.
+  - ⚠️ **Two Natsure versions exist** — use only **22 Jul (Olga van der Merwe) R150,502.87**; the
+    21 Jul (Chantel Farelo) R199,504.29 carried R41,400/mo of GIT excess helpers since removed.
+  - **Also not replaced on the OWNsurance quote: public liability R20,000,000 and driver personal
+    accident** — place separately.
+  - **Deliverables built 19 Aug** (`idol_proposal_content.html` / `idol_playbook_content.html`):
+    client proposal PDF (6pp) + RM playbook PDF (9pp, INTERNAL).
