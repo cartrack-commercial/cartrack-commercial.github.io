@@ -179,6 +179,44 @@ insurance **quote comparisons** for the RMs.
   `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>` + `Claude-Session: …`
 - Never put the model id in commits / code / PRs (chat only).
 - People's pronouns: use they/them unless stated. **Jean = he.**
+- **Integral Trading Services / Silent Valley** — ROUND 2 (17 Aug 2026). Petrosure (via **FSP
+  Solutions**, Lezanne Vosloo) answered **all 15 queries** and reissued W5101 at **R123,300.02**
+  (was R122,203.83) vs Santam **R131,719.79** → **−R8,419.77/mo ≈ −R101,037/yr**. Only two things
+  changed in the quote: **MG45VLGP corrected R1,516,105 → R1,816,105** (fleet SI now matches at
+  **R31,311,815**) and **roadside R200 on the 4 light vehicles only**. Score: **5 closed** (retro
+  date held 20/08/2021 ✓, agreed value on GRW/Afrit/T&TT ✓, SI corrected ✓, PL R10m per event no
+  aggregate ✓, roadside added), **4 open** (TP lift to their R5m not applied or priced; annual
+  carry figure needed from client; Sasria gap unexplained; **they asked US for the broker fee**),
+  **6 refused** (no GIT excess reducer, single-vehicle loading stays, **quote NOT rated on claims
+  — still "Loss History: Tba"**, forecourt-template deflection, **no EIL → referred to
+  Envirosure**, no credit shortfall).
+  - ⛔ **STILL HOLD, and now for a sharper reason: the two that decide it are the two they cannot
+    fix.** TP on the 10 truck-tractors is **capped at R5m** vs Santam's R10m (hard ceiling, in
+    writing), and **the hijack excess cannot be reduced**.
+  - 🚨 **NEW: the claims record. Cules disclosed R6,500,000 — two trailers hijacked with their
+    loads, one last year one this year.** ≈206% loss ratio over 24 months. **The client's actual
+    loss is hijacking, which is precisely the excess Petrosure won't reduce**: R1m load hijacked =
+    **Santam R20,000 (two excess reducers, R100k/R250k insured amounts) vs Petrosure R300,000**
+    (10% + 20%). +R280,000 per hijack against R101,037/yr of saving = **one hijack eats 33 months
+    of the saving**. Trailer itself: R2.4m T&TT unit R360k (Santam 15%) vs R480k (Petrosure 20%).
+  - ✅ **Territory is a NON-issue** — Cules confirmed **diesel, RSA only**. Santam's 12-country
+    cargo territory isn't used. Trucks park at **N17 Diesel Depot & Truck Stop**, workshop at
+    **Overall Road Express** — neither is the scheduled premises; get both declared.
+  - ⚠️ Roadside is worse than it looks: Petrosure gives none **above 3.5t GVM**, so 23 heavy units
+    get nothing; Santam includes breakdown towing, towing in AND outside RSA, wreckage removal +
+    extended. Petrosure caps towing R15,000 trucks / R5,000 private, wreckage removal R10,000.
+  - ✅ Genuine Petrosure gains: **passenger + unauthorised passenger + contingent liability
+    R2,500,000** (Santam records "Not included" on 10 items), small-claim excess min R5,000 vs
+    R30,000, legal defence R250k vs R50k, wrongful arrest R100k vs R50k.
+  - 🛰️ **Cartrack is already the incumbent tracker on 16 of 18 tracked units** (13 Tag Range
+    Recovery, 2 Telematics Range, 1 Fleet Management; Tracker Network ×1, Capital Air ×1).
+    Petrosure needs tracking on **all 24 units over R250,000** + **pre-inspection of every
+    vehicle** → ~6 units to add, 2 competitor units to convert, and two hijackings make the case
+    for video telematics on the 10 horses.
+  - New on the 17 Aug quote: **Electricity Grid Interruption exclusion** with a Type 2
+    SANS-compliant surge-arrestor condition.
+  - Deliverables **rebuilt 19 Aug** for round 2 (`integral_proposal_content.html` /
+    `integral_playbook_content.html`): client proposal 6pp + RM playbook 7pp.
 - **Idol Transport (Pty) Ltd** (long-haul HCV + GIT, 35 Steyer Street, Aureus, Randfontein; reg
   2016/003501/07; contact Zinhle Zulu `zinhle@idoltransport.co.za`). RM: **Cules**. 5-market
   comparison done 19 Aug 2026 — full detail in `deal-notes/idol-transport.md`.

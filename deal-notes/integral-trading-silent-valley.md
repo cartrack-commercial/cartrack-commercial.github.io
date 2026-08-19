@@ -135,3 +135,168 @@ precondition**, not an upsell, and Cartrack is already the incumbent on most of 
 Analysis only so far. Client proposal + RM playbook not yet built — deliberately, because the
 recommendation is *hold pending a re-quote* and the pack should be built on whatever Petrosure comes
 back with.
+
+---
+
+# ROUND 2 — Petrosure answered all 15 queries (17 Aug 2026)
+
+Lezanne Vosloo at **FSP Solutions / FSP Commercial On-Line** (FSB 35978, the administrator that
+places to Petrosure) replied on 17 Aug to Cules's 15 queries, with an **updated quote dated
+2026/08/17**, same risk code **W5101**. Reconciled to the cent again.
+
+## What actually changed in the quote — only two things
+
+| | 12 Aug quote | 17 Aug quote | Δ |
+|---|---|---|---|
+| MG45VLGP sum insured | R1,516,105 | **R1,816,105** ✓ | +R300,000 |
+| MG45VLGP premium | R4,421.97 | R5,296.97 | +R875.00 |
+| Roadside Assist (4 light vehicles @ R50) | — | **R200.00** | +R200.00 |
+| Sub total | R110,345.83 | **R111,420.83** | +R1,075.00 |
+| Sasria | R11,858.00 | R11,879.19 | +R21.19 |
+| **Total premium** | **R122,203.83** | **R123,300.02** | **+R1,096.19** |
+
+**Fleet sum insured now R31,311,815 on both sides — an exact match with Santam.** Query 7 closed.
+Motor reconciles: 27 units R103,604.17 + roadside R200.00 + GIT R6,666.67 + PL R950.00 =
+R111,420.84 + Sasria R11,879.19 = **R123,300.02** ✓
+
+**New headline: Santam R131,719.79 vs Petrosure R123,300.02 = −R8,419.77/mo ≈ −R101,037/yr
+(−6.4%).** The saving shrank by R1,096.19 because the under-insured vehicle was corrected — which
+is the right outcome, not a worse one.
+
+**Nothing else moved.** Third-party liability is still printed at **R2,500,000 flat on all 27
+items** despite the offer to lift it; the GIT excess is unchanged; the single-vehicle loading is
+unchanged; the annual carry figure is still blank; and **"Loss History: Tba" and "Security
+details: Tba" still stand on the face of the quote.**
+
+## Scoring the 15 answers
+
+### ✅ Closed — five of them, properly
+
+| # | Query | Answer |
+|---|---|---|
+| 5 | Retroactive date | **Claims-made, retro date maintained at 20 August 2021**, subject to confirmation of uninterrupted cover. Exactly what was asked. |
+| 6 | Basis of settlement | **Agreed Value confirmed on the specialist units — GRW, Afrit, Trailer & Tanker Technology** — subject to receipt and acceptance of agreed values at inception. Four light vehicles stay retail (same as Santam). |
+| 7 | MG45VLGP understated | **"Done"** — and it is in the quote. |
+| 9 | Public liability aggregate | **R10,000,000 per event, no aggregate.** |
+| 14 | Roadside assistance | Added — **but only for vehicles under 3.5t GVM**, so the four light vehicles. See below. |
+
+### ⚠️ Open — four that need one more exchange
+
+| # | Query | Where it stands |
+|---|---|---|
+| 1 | TP rated by class | **Ceiling is R5,000,000 per vehicle. They cannot exceed it** — and the updated quote still prints R2,500,000. Ask for it lifted to R5m **and priced**. |
+| 3 | GIT carry figure | Rated on a **R1,000,000 load limit**; the annual carry figure is blank and they have asked for it. **Santam's schedule doesn't state one either** — it has to come from the client's turnover / litres moved. Until it is supplied the GIT section will be re-rated after inception. |
+| 10 | Sasria +R1,974.38 | Explained as M2 on the light vehicles and M8 on the trucks, "as it is a commercial policy". That explains the *method*, not the *difference* — Sasria is a statutory rate on the same fleet. Still unexplained. |
+| 12 | Broker fee | **They are asking us for the number.** Settle Cartrack's remuneration before anything goes to the client. |
+
+### ❌ Refused or unavailable — six, and two of them decide the deal
+
+| # | Query | Answer |
+|---|---|---|
+| 2 | **GIT excess reducer** | **"Unable to offer an excess reducer at this stage"** — discussions with their excess provider are still ongoing. |
+| 4 | Single-vehicle accident loading | *"Our excesses are standard and are applied to help mitigate our underwriting risk exposure."* Declined. |
+| 8 | **Rated on claims experience?** | **"Kindly note that the quote is subject to claims as we only have a schedule and no claims."** The quote is not rated on this client's record at all. |
+| 11 | Forecourt template | *"Inclusion of extensions does not automatically grant cover where the exposure does not exist."* A deflection — true as far as it goes, but the schedule still reads as a filling-station policy. |
+| 13 | Pollution / EIL | **Not offered.** Referred us to **Envirosure**. |
+| 15 | Credit shortfall | **Not available under their policy offering** — with Investec Bank and Redtree Capital interests noted on the fleet. |
+
+Also new on the 17 Aug quote: an **Electricity Grid Interruption exclusion**, with a policy
+condition that premises carry **Type 2 SANS-compliant surge arrestors** or no power-surge liability
+is admitted.
+
+## 🚨 THE NEW FACT THAT CHANGES THE RECOMMENDATION — the claims record
+
+Cules disclosed to FSP on 12 Aug:
+
+> **"Claims R6,500,000. Trailers were hijacked, 1 this and 1 last year, and the loads were stolen."**
+
+Against Santam's premium that is **≈R6.5m of loss on ≈R3.16m of premium over two years — about a
+206% loss ratio** — and **both losses are hijackings of a trailer plus its load.**
+
+That is not a general claims-history note. It goes straight to the one line Petrosure has just
+refused to fix:
+
+| On a R1,000,000 diesel load, hijacked | Santam | Petrosure |
+|---|---|---|
+| First amount payable | **R20,000** | 10% + 20% = **R300,000** |
+
+Santam's base is 10% own damage / 25% theft, bought down by **two excess reducers** (insured
+amounts R100,000 and R250,000) to a **flat R20,000**. Petrosure has no reducer and has said it
+cannot offer one.
+
+**R280,000 of extra excess on the loss this client actually has, against R101,037 a year of
+saving.** One hijack costs almost three years of the saving. They have had two in two years.
+
+The trailer itself compounds it — motor theft/hijack is Santam 15% min R7,500 against Petrosure
+10% + 10% = **20%**. On a R2,400,000 Trailer & Tanker Technology unit that is R360,000 at Santam
+against **R480,000** at Petrosure.
+
+## ⛔ RECOMMENDATION: STILL HOLD — and now for a sharper reason
+
+Round 1 the answer was "send it back, most of the gaps are fixable". Round 2 they came back and
+**the two that decide it are the two they cannot fix**:
+
+1. **Third-party liability on the ten truck-tractors is capped at R5,000,000.** Santam writes
+   **R10,000,000**. That is a hard ceiling, not a negotiation — a 50% cut on a diesel horse pulling
+   a loaded four-compartment tanker, and it is the best case, because the quote currently prints
+   R2,500,000.
+2. **The hijack excess cannot be reduced**, on a client whose entire loss record is hijacking.
+
+Everything else is now in reasonable shape — agreed value confirmed, retro date held, the sum
+insured corrected, liability limits and aggregate confirmed. **The saving is real and it is
+R101,037 a year. It is simply the wrong R101,037 for this risk.**
+
+And the quote will move anyway: it is expressly **"subject to Satisfactory claims History"**, still
+records **Loss History: Tba**, and reserves rates, survey and facultative reinsurance loading.
+Petrosure has quoted a R31.3m fleet blind. **Once R6.5m of hijack losses is filed, this price does
+not survive underwriting in its present form.** Presenting R123,300.02 to the client now would be
+presenting a number that is going to change.
+
+## What Cules should do next — in this order
+
+1. **Give FSP the broker fee figure.** They are waiting on us and the quote is incomplete without it.
+2. **Ask for third-party liability at R5,000,000 across all 27 items, priced.** It is on offer and
+   it is not in the quote. Half the gap closes for what is likely a small number.
+3. **Get the annual carry figure from the client** (annual turnover of goods moved / litres × value)
+   and hand it to FSP, so the GIT section is rated properly rather than re-rated later.
+4. **Put the R6,500,000 claims record in front of Petrosure now, not at inception.** A price that
+   is going to move should move before it reaches the client, not after. This is the same rule
+   applied on CS Continental Meat and Idol Transport.
+5. **Ask one last time on the GIT excess** — a flat first amount payable of R50,000 would still be
+   worse than Santam's R20,000 but would make the deal arguable. If the answer is still no, the
+   recommendation is to **stay at Santam** and tell the client plainly why.
+6. **Quote EIL separately through Envirosure** — Petrosure named them. Neither policy covers
+   pollution and the client transports diesel; this is the gap worth selling regardless of who
+   carries the motor.
+7. **Credit shortfall** is not available at Petrosure and is not on Santam either. Investec and
+   Redtree are noted on the fleet — worth placing.
+
+## Points now settled that were open in Round 1
+
+- **Territory is a non-issue.** Cules confirmed to FSP: *"They transport Diesel. Only in South
+  Africa."* Santam's twelve-country cargo territory is not being used, so losing it costs nothing.
+  Record it in writing so it cannot come back as a complaint.
+- **Operating locations declared:** trucks are parked at **N17 Diesel Depot & Truck Stop**; the
+  workshop is at **Overall Road Express**. Neither is the insured premises on the schedule
+  (Cnr Dekema & Steenbras, Wadeville) — confirm both are declared and accepted, because an
+  overnight parking address is exactly what an underwriter reprices after two hijackings.
+- **Roadside is worse than it looks.** The R200 added covers the four light vehicles only —
+  Petrosure will not give roadside above 3.5t GVM. Santam includes **mechanical breakdown towing,
+  towing inside AND outside the RSA, wreckage removal and extended wreckage removal** on the heavy
+  units. Petrosure caps towing at **R15,000 (trucks) / R5,000 (private)**, loss of keys R10,000 and
+  wreckage removal R10,000. On 23 heavy units that is a real service regression.
+- **Passenger liability is a genuine Petrosure gain.** Santam records *"Passenger liability: Not
+  included"* and *"Unauthorised passenger liability: Not included"* on ten items. Petrosure gives
+  **passenger, unauthorised passenger and contingent liability at R2,500,000** across the fleet.
+
+## 🛰️ Cartrack is already the incumbent tracking supplier — protect it
+
+The Santam schedule records tracking devices on 18 units: **16 are Cartrack** (13 Tag Range
+Recovery, 2 Telematics Range Recovery, 1 Fleet Management Range), 1 Tracker Network, 1 Capital Air.
+**Heavy Haulage tracking requirement: Applicable** on 8 items.
+
+Petrosure requires **tracking on all vehicles over R250,000 — 24 of the 27** — plus a
+**pre-inspection of every vehicle**. So there are roughly six units to bring onto tracking and two
+competitor devices to convert, and the pre-inspection is a natural reason to survey the fleet.
+Two hijackings in two years is also the strongest possible case for **video telematics and driver
+monitoring** on the ten horses.
