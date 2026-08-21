@@ -216,6 +216,50 @@ insurance **quote comparisons** for the RMs.
   - **Deliverables built 12 Aug** (`csmeat_proposal_content.html` / `csmeat_playbook_content.html`):
     client proposal PDF (6pp) + RM playbook PDF (7pp, INTERNAL). Afrikaans WhatsApp sent to Anne for Phillip.
 
+- **Lomaen Medical (Pty) Ltd** (import, marketing, installation and repair of **x-ray machines**;
+  8 Friesland Drive, Longmeadow Business Park South, Modderfontein 1609). RM: **Bronwan Fouche**.
+  Full detail in `deal-notes/lomaen-medical.md`. Analysed 21 Aug 2026.
+  - **Brief was NOT current-vs-proposed** — Bronwan asked for *"Full cover en dan vehicles aleen"*:
+    the SAME insurer (Bryte) quoting two scopes, so the client can choose how much to place.
+  - **Option A · Full cover** (quote 20/08/2026) **R507,669.76/yr = R42,305.81/mo** ·
+    **Option B · Vehicles only** (13/08/2026) **R180,029.57/yr = R15,002.46/mo**. Both reconcile to
+    the cent.
+  - 🎯 **THE FINDING: vehicles-only costs MORE for the identical 11 vehicles.** Motor is
+    **R158,436.82 standalone vs R145,961.16 inside the full programme = +R12,475.66/yr (+8.5%)**.
+    Entirely two rates: **Hino 300 814 (R783,833) 3.560%→3.300%** and **VW Crafter 50 (R1,043,770)
+    4.000%→3.000%**. Every other line identical. So the full programme = R340,115.87 of extra cover
+    **less R12,475.66 back on the vehicles they were buying anyway**.
+  - **Stock in trade R73,266,429** is the whole story (of a R74,471,499 fire SI). GIT **R3m/load,
+    R75m annual carry**, road/rail/air, TP carriers ≤25% of carry. Liability R10m general/tenants/
+    work away + **products & defective workmanship R5m**. BAR R1,860,536, EE ≈R1.1m (~55 laptops,
+    IBA MAGIMIX R276,520, Synapse 3D), theft first loss R504,386.
+  - ⚠️ **Both quotes divide the SASRIA monthly column by 10, not 12.** Quote says R42,868.39 and
+    R15,051.34; true monthlies are **R42,305.81** and **R15,002.46**. Every other section /12
+    correctly. Get it reissued — if the client checks the maths and it fails, the pack loses.
+  - ⚠️ **Liability retro date contradicts itself on the face of the quote**: header
+    "RETROACTIVE DATE: INCEPTION DATE OF POLICY" vs "Retroactive date 01 June 2017 will be
+    retained" three lines down. Bronwan has confirmation it IS retained — **fix the schedule before
+    inception**, 8 years of past work turns on it.
+  - ⚠️ **Liability rated on nothing: "TURNOVER R0" and "WAGES R0"** printed on the section → the
+    R5,576.00 is a placeholder and WILL be re-rated. (Same shape as the Powerflow PI turnover find.)
+  - ⚠️ **Stock at the customer's site**: BAR carries "stock subsequent to off-loading post conveyance
+    at the consignee" R300,000 — but **max 4 weeks post delivery, fire/allied perils only, theft
+    needs forcible entry, ALL accidental damage excluded**. For an installer of x-ray machines that
+    is precisely the exposure window. Ask for the period extended + accidental damage in.
+  - ⚠️ **No business interruption section at all** (Sasria BI = R0) on R73.3m of stock, one address,
+    import lead times. Nobody asked for it. Ask.
+  - ⚠️ **Sasria motor looks under-declared**: 3 private + 3 commercial <3,500kg = 6 of 11 items, and
+    **R0 against "commercial 3,500kg and over"** despite two Hinos (the 814 at R783,833).
+  - ⚠️ **Footer reads "Quotation – Hollard Insurance Company" on a Bryte-titled quote — the SAME
+    discrepancy as the Hamisa Group quotes.** Confirm who carries the risk in writing.
+  - Gates: satisfactory survey before inception · full 3-year claims history ("underwriting needs
+    claims experience to raise new business") · **alarm warranty on BOTH theft and electronic
+    equipment** · quotes valid 30 days (full cover → 19 Sept 2026).
+  - ⏳ **STILL OUTSTANDING: the current schedule** (`4311 os skedule 20260731 met Laptop Tamryn
+    bygevoeg`) — password-protected, never reached the session. **Until it lands there is no
+    benchmark**; we can only compare the two Bryte scopes, not beat what the client pays today.
+  - **Deliverable built 21 Aug**: `lomaen_proposal_content.html` → client comparison PDF (5pp).
+
 ## Conventions
 - Commit trailers used in this project:
   `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>` + `Claude-Session: …`
