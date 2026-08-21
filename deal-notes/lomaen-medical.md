@@ -10,61 +10,174 @@ machines.** Risk grading "11 – Standard", on-site / own fire brigade.
 cover en dan vehicles aleen."* So this is **not** a current-vs-proposed comparison — it is the same
 insurer quoting two scopes, and the client chooses how much of the account to place.
 
-⏳ **Still outstanding: the current schedule** (`4311 os skedule 20260731 met Laptop Tamryn
-bygevoeg`) has not reached this session, and it is password-protected. Until it lands there is
-**no benchmark** — we can say what the two Bryte options cost against each other, not whether
-either beats what the client pays today.
+✅ **The current schedule has landed** (`4311 os skedule`, revision 37, endorsed 29/07/2026):
+**CIB (Pty) Ltd (FSP 8425), underwritten by Guardrisk Insurance Company Ltd, policy
+`CIB655753C`, broker of record Flexipleks Insurance Brokers CC.** Inception 01/06/2026,
+renewal 01/06/2027, monthly. Insured VAT **4760147696**, reg **1995/001319/07** — both blank on
+the Bryte quote; fill them in.
 
----
-
-## Headline — and the finding that decides it
+## Headline — three ways
 
 | | Annual | Monthly |
 |---|---|---|
-| **Option A · Full cover** (quote 20/08/2026) | **R507,669.76** | **R42,305.81** |
-| **Option B · Vehicles only** (quote 13/08/2026) | **R180,029.57** | **R15,002.46** |
-| Difference | R327,640.19 | R27,303.35 |
+| **CURRENT · CIB / Guardrisk `CIB655753C`** | **R613,749.60** | **R51,145.80** |
+| **Option A · Bryte full cover** (20/08/2026) | **R507,669.76** | **R42,305.81** |
+| Option B · Bryte vehicles only (13/08/2026) | R180,029.57 | R15,002.46 |
 
-Both reconcile exactly against their own stated section totals.
+**Bryte full cover saves R8,839.99/mo ≈ R106,080/yr — a 17.3% reduction — and it is not cheaper
+because it covers less.** All three documents reconcile to the cent.
 
-### 🎯 Taking the full programme makes the VEHICLES cheaper
+### Section by section, current vs Bryte full cover
 
-The two quotes carry the **identical 11 motor items** at identical retail values, yet:
-
-| | Vehicles only | Full cover | Δ |
+| Section | Current | Bryte | Δ / mo |
 |---|---|---|---|
-| Hino 300 814 LWB 2021 · R783,833 | 3.560% = R27,904.45 | **3.300% = R25,866.49** | −R2,037.96 |
-| VW Crafter 50 2026 · R1,043,770 | 4.000% = R41,750.80 | **3.000% = R31,313.10** | −R10,437.70 |
-| **Motor section** | **R158,436.82** | **R145,961.16** | **−R12,475.66** |
+| Fire | R7,464.22 | R6,929.25 | −R534.97 |
+| Theft — first loss R504,386 both | R2,380.52 | R1,571.13 | −R809.39 |
+| Goods in transit — R3m load / R75m carry **both** | R6,250.01 | R6,250.00 | −R0.01 |
+| Business all risks | R5,053.46 | R5,153.87 | +R100.41 |
+| Accidental damage | R336.26 | R365.24 | +R28.98 |
+| **Liability** | R242.99 | R464.67 | **+R221.68** |
+| **Motor — 11 items** | R18,168.58 | R12,163.43 | **−R6,005.15** |
+| Electronic equipment | R6,798.08 | R4,792.42 | −R2,005.66 |
+| Machinery breakdown | R247.92 | R247.92 | R0.00 |
+| Special risk | R25.00 | — | −R25.00 |
+| Roadside assist + Office Buddy | — | R1,555.00 | +R1,555.00 |
+| Sasria | R4,178.76 | R2,812.89 | −R1,365.87 |
+| **All-in** | **R51,145.80** | **R42,305.81** | **−R8,839.99** |
 
-**Buying vehicles alone costs R12,475.66 a year MORE for exactly the same eleven vehicles — 8.5% on
-the motor section.** Every other line is identical to the rand. That is a hard, verifiable number
-off the two schedules, and it is the strongest thing Bronwan can put in front of this client.
-
-So the real cost of the full programme is not R327,640 — it is **R340,115.87 of additional cover,
-less R12,475.66 the client gets back on the vehicles they were buying anyway.**
-
-### Where the R327,640 goes
-
-| Section added | Sum insured | Annual |
-|---|---|---|
-| Fire & allied perils | R74,471,499 | R83,151.05 |
-| **Goods in transit** | R3,000,000 per load · **R75,000,000 annual carry** | R75,000.00 |
-| Business all risks | R1,860,536 | R61,846.44 |
-| Electronic equipment | ~R1.1m across servers, ~55 laptops, IBA MAGIMIX R276,520 | R57,509.02 |
-| Theft — first loss incl. malicious damage | R504,386 | R18,853.51 |
-| Combined liability | R10m general/tenants/work away · **R5m products & defective workmanship** | R5,576.00 |
-| Accidental damage | R554,386 | R4,382.90 |
-| Machinery breakdown — 20kva generator | R85,000 | R2,975.00 |
-| Extra Sasria | fire SI R76,459,535 + GIT | R30,821.95 |
-| **Motor rate improvement** | same 11 vehicles | **−R12,475.66** |
-| **Net** | | **R327,640.19** |
-
-**Stock in trade is R73,266,429 of the R74.47m fire sum insured.** On a business that imports and
-installs x-ray machines, insuring the vehicles and leaving R73m of stock and R75m of annual carry
-uninsured is not a coherent programme. That is the honest advice, whatever the client decides.
+Goods in transit and machinery breakdown price **identically to the cent**, and the theft and BAR
+sums insured match item for item. **Bryte has quoted line-for-line off the CIB schedule** — this is
+the cleanest like-for-like in the book alongside CS Continental Meat.
 
 ---
+
+## ⛔ THE FINDING — the current liability policy excludes what this business does
+
+The CIB public liability section carries **endorsement "WORK AWAY EXCLUSION – 001"**:
+
+> *"The Company will not indemnify the Insured in respect of liability consequent upon death, injury
+> or damage caused by or through or in connection with work done away from the Insured premises."*
+
+**Lomaen's business is "import of x-ray machines, marketing, installing and repair of new machines."
+Every installation and every repair happens at a customer's site.** Their liability policy does not
+respond to any of it. And there is **no products liability and no defective workmanship** on the
+current schedule at all.
+
+| | Current CIB / Guardrisk | Bryte |
+|---|---|---|
+| General & tenants liability | R10,000,000 | R10,000,000 |
+| **Work away** | ⛔ **EXCLUDED by endorsement** | ✅ **INCLUDED in the R10m** |
+| **Products liability / defective workmanship** | ⛔ **not carried** | ✅ **R5,000,000** |
+| Basis / retroactive date | claims made, **01/06/2017** | claims made, **01/06/2017 retained** ✓ |
+| Wrongful arrest | R50,000 aggregate | R100,000 |
+| Statutory legal defence | R100,000 | R100,000 |
+| Excess | R2,500 per event | **not stated — query** |
+
+**Closing both holes costs R221.68 a month, inside a programme that is R8,840 a month cheaper.**
+That is the whole pack in one sentence, and it is what Bronwan should lead with.
+
+The retroactive date question also resolves itself: the CIB schedule says **01/06/2017**, which is
+exactly the date the Bryte quote says will be retained. The contradiction is a printing error on
+the Bryte schedule, not a difference in terms — but it still has to be corrected before inception.
+
+---
+
+## The motor section — cheaper AND insuring more
+
+**R18,168.58 → R12,163.43, down 33%** — and Bryte carries **R404,885 more sum insured** across the
+same eleven vehicles:
+
+| Vehicle | Current SI | Bryte SI | Δ |
+|---|---|---|---|
+| Hino 300 814 LWB 2021 | R599,316 | **R783,833** | **+R184,517** |
+| Hyundai H100 2021 | R342,200 | **R428,200** | +R86,000 |
+| Hino 300 614 LWB 2014 | R228,193 | **R313,586** | +R85,393 |
+| Nissan NP300 2017 | R163,620 | R182,940 | +R19,320 |
+| Nissan NP200 2022 | R213,275 | R229,550 | +R16,275 |
+| VW Crafter 50 2026 | R1,032,385 | R1,043,770 | +R11,385 |
+| Suzuki Swift 2022 | R171,795 | R173,790 | +R1,995 |
+| Toyota Starlet · VW Polo Vivo · VW Caddy4 · Forklift | unchanged | unchanged | — |
+| **Total** | **R3,488,866** | **R3,893,751** | **+R404,885** |
+
+The Suzuki's +R1,995 is exactly the "Anti-Smash Window Shield" the CIB schedule carries as a
+separate accessory — Bryte has folded accessories into the sum insured, which is what Bronwan was
+told. **The three big movements are retail-value updates: the current schedule's values are stale
+and the client is under-insured on those vehicles today.**
+
+**Motor regressions to disclose:**
+
+| | Current | Bryte |
+|---|---|---|
+| Third party liability | R5,000,000 | R5,000,000 ✓ |
+| **Passenger liability** | **R5,000,000** (8 items) | **R2,500,000** ⚠️ |
+| **Unauthorised passenger liability** | **R5,000,000** (8 items) | **R2,500,000** ⚠️ |
+| Fire / explosion sub-limit on third party | R1,000,000 | **not stated — query, may be a gain** |
+| Basic excess | **R4,000 / R5,000** | **not stated — must be obtained** |
+| Theft & hijack excess | 10% min R5,000 | not stated |
+| Credit shortfall | R200,000 on 2 · R300,000 on 1 | included on 3 |
+| Contingent liability · parking facilities | not carried | **R5,000,000 each** ✓ |
+
+⚠️ **The Bryte quotation does not state a single motor excess.** The current policy runs a basic
+excess of R4,000 (three items) and R5,000 (three items). **Get the excess table before this is
+presented** — a 33% motor saving on higher sums insured has to be explained by something, and the
+excess is the first place to look.
+
+---
+
+## 🚨 THE GATE — the sprinkler waiver
+
+The CIB schedule records, under the fire section conditions:
+
+> **"SURVEY DONE — Stacking Heights exceeds 3m. sprinkler system waived."**
+
+The Bryte quotation is **"subject to a satisfactory survey prior to inception"**.
+
+**If Bryte's surveyor does not grant the same waiver on R73.3m of stock stacked above three metres,
+the quotation changes or the client is asked to sprinkler the warehouse — a capital project, not a
+premium adjustment.** This is the single biggest risk to the deal. **Put the existing survey and
+waiver in front of Bryte's underwriter now and ask them to confirm the waiver in writing before
+anything goes to the client.**
+
+Also on the current fire section and to be matched: **all fire hose reels must be tested annually
+for water pressure by an accredited SAQCC-registered technician**, failing which the insurer is not
+liable. Confirm Bryte's equivalent condition.
+
+---
+
+## Two things that make the saving bigger, if the client wants them
+
+**Roadside assist is R1,330.00 a month on the Bryte quote.** The current policy carries Motor
+Assistance at **R39.82 a month** across three vehicles. **Office Buddy at R225.00 a month** is a
+value-add nobody asked for. Strip both, and:
+
+| | Monthly | Annual |
+|---|---|---|
+| Current (less motor assistance) | R51,026.34 | R612,316.08 |
+| Bryte (less roadside and Office Buddy) | R40,750.81 | R489,009.72 |
+| **Saving** | **R10,275.53** | **R123,306.36** |
+
+Bryte's roadside is for commercial vehicles and is a genuinely different product from a sedan
+assistance package — but at R15,960 a year it is 3% of the whole programme and **the client should
+be asked, not told**.
+
+---
+
+## 📋 The claims record — and why this price is achievable
+
+The Bryte quotation records **claims of R30,000**. On a programme costing R613,750 a year that is
+effectively a clean record, and it is why a 17% reduction is on the table at all. **Confirm that
+R30,000 is the full three-year figure**, because both quotes are expressly *"subject to full three
+years claims history"* and *"underwriting needs claims experience to raise new business"*.
+
+---
+
+## 🛰️ Cartrack is already the incumbent tracker
+
+The CIB schedule records Cartrack on **four vehicles** — *"CarTrack Installed and Certificate
+Received CK: 074043"*, *"Cartrack Fleet Professional installed #RM199852 — CIB approved"*,
+*"Cartrack Installed Fleet Professional CT9"*, *"Cartrack Tracking Device Installed Fleet
+Professional CT9 #BS128206 — CIB approved"*. Seven of the eleven items carry no tracking device on
+the schedule. Confirm Bryte's tracking requirement by value and quote the balance.
 
 ## What Bronwan already got the underwriter to confirm
 
@@ -121,11 +234,12 @@ handover is exactly when the machine is most exposed — and an installation and
 runs longer than four weeks. **Ask for the period extended and accidental damage included**, and
 confirm the R300,000 limit is enough for one machine.
 
-### 5 · There is no business interruption cover at all
+### 5 · There is no business interruption cover — and there is none today either
 
-No BI section is quoted, and the Sasria BI line reads R0. A business with **R73.3m of stock**, a
-single risk address and an import lead time cannot trade through a fire without it. It is not on
-the quote because nobody asked for it. **Ask.**
+No BI section is quoted by Bryte, and the CIB schedule records **Business Interruption R0.00 —
+"Cover in force: No"**. So this is a **standing gap, not a regression**. A business with **R73.3m of
+stock**, a single risk address and import lead times cannot trade through a fire without it.
+Neither broker has ever put it on the table. **Quote it.**
 
 ### 6 · Sasria looks under-declared on the motor section
 
@@ -178,5 +292,5 @@ hours — a warranty breach voids those sections, not just the claim.
 
 ## Deliverables
 
-Client comparison built 21 Aug 2026 (`lomaen_proposal_content.html`).
-Current-schedule comparison **pending** the password-protected `4311` schedule.
+Client comparison built 21 Aug 2026, rebuilt against the current schedule the same day
+(`lomaen_proposal_content.html`).

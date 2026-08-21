@@ -219,11 +219,39 @@ insurance **quote comparisons** for the RMs.
 - **Lomaen Medical (Pty) Ltd** (import, marketing, installation and repair of **x-ray machines**;
   8 Friesland Drive, Longmeadow Business Park South, Modderfontein 1609). RM: **Bronwan Fouche**.
   Full detail in `deal-notes/lomaen-medical.md`. Analysed 21 Aug 2026.
-  - **Brief was NOT current-vs-proposed** — Bronwan asked for *"Full cover en dan vehicles aleen"*:
-    the SAME insurer (Bryte) quoting two scopes, so the client can choose how much to place.
-  - **Option A · Full cover** (quote 20/08/2026) **R507,669.76/yr = R42,305.81/mo** ·
-    **Option B · Vehicles only** (13/08/2026) **R180,029.57/yr = R15,002.46/mo**. Both reconcile to
-    the cent.
+  - **CURRENT: CIB (Pty) Ltd (FSP 8425) underwritten by Guardrisk, policy `CIB655753C`, broker of
+    record Flexipleks Insurance Brokers CC** — **R51,145.80/mo = R613,749.60/yr** (rev 37, endorsed
+    29/07/2026). Insured VAT 4760147696, reg 1995/001319/07 — both blank on the Bryte quote.
+  - **Bryte full cover R42,305.81/mo = R507,669.76/yr → −R8,839.99/mo ≈ −R106,080/yr (−17.3%)** ·
+    Bryte vehicles-only R15,002.46/mo. All three reconcile to the cent.
+  - ⛔ **THE FINDING — the current liability section carries "WORK AWAY EXCLUSION – 001":** *"no
+    indemnity … for work done away from the Insured premises."* **Their whole business is installing
+    and repairing x-ray machines AT CUSTOMER SITES.** Plus **no products liability / defective
+    workmanship at all**. Bryte includes **work away in the R10m** and adds **products & defective
+    workmanship R5m** — for **+R221.68/mo inside a programme R8,840/mo cheaper.** Lead with this.
+  - **Retro date resolved: the CIB schedule says 01/06/2017**, exactly the date Bryte says is
+    retained — so the "inception" in the Bryte header is a printing error, not a term. Still fix it.
+  - **Motor R18,168.58 → R12,163.43 (−33%) AND Bryte insures R404,885 MORE** on the same 11 items:
+    Hino 300 814 R599,316→R783,833 (+R184,517), Hyundai H100 +R86,000, Hino 300 614 +R85,393.
+    **Those are retail-value updates — the client is under-insured today.** Suzuki +R1,995 = the
+    anti-smash shield folded into the SI.
+  - ⚠️ **Motor regressions:** passenger + unauthorised passenger **R5,000,000 → R2,500,000** on 8
+    items; current carries a **fire/explosion sub-limit R1,000,000** Bryte doesn't state (may be a
+    gain). ⚠️ **The Bryte quote states NO motor excess at all** — current is basic R4,000/R5,000,
+    theft 10% min R5,000. **Get the excess table before presenting.**
+  - 🚨 **THE GATE — the sprinkler waiver.** The CIB fire section records *"SURVEY DONE — Stacking
+    Heights exceeds 3m. sprinkler system waived."* Bryte is "subject to satisfactory survey". **If
+    Bryte's surveyor won't waive it on R73.3m of stock stacked >3m, the client is asked to sprinkler
+    a warehouse.** Put the existing survey + waiver to Bryte's underwriter NOW. Also match the
+    condition that fire hose reels be pressure-tested annually by an SAQCC-registered technician.
+  - **Roadside R1,330/mo + Office Buddy R225/mo are new** (current motor assistance is R39.82 on 3
+    vehicles). Strip both → saving becomes **R10,275.53/mo ≈ R123,306/yr**. Client's call.
+  - **Claims disclosed R30,000** — effectively clean on a R613,750/yr programme, which is why 17% is
+    available. Confirm it is the full 3-year figure.
+  - 🛰️ **Cartrack already on 4 of 11 vehicles** (Fleet Professional CT9, "CIB approved"). 7 to go.
+  - 🎯 **Vehicles-only costs MORE for the identical 11 vehicles:** motor R158,436.82 standalone vs
+    R145,961.16 inside the programme = **+R12,475.66/yr (+8.5%)**, entirely two rates (Hino 300 814
+    3.560%→3.300%, VW Crafter 4.000%→3.000%). Every other line identical.
   - 🎯 **THE FINDING: vehicles-only costs MORE for the identical 11 vehicles.** Motor is
     **R158,436.82 standalone vs R145,961.16 inside the full programme = +R12,475.66/yr (+8.5%)**.
     Entirely two rates: **Hino 300 814 (R783,833) 3.560%→3.300%** and **VW Crafter 50 (R1,043,770)
@@ -246,8 +274,9 @@ insurance **quote comparisons** for the RMs.
     at the consignee" R300,000 — but **max 4 weeks post delivery, fire/allied perils only, theft
     needs forcible entry, ALL accidental damage excluded**. For an installer of x-ray machines that
     is precisely the exposure window. Ask for the period extended + accidental damage in.
-  - ⚠️ **No business interruption section at all** (Sasria BI = R0) on R73.3m of stock, one address,
-    import lead times. Nobody asked for it. Ask.
+  - ⚠️ **No business interruption on the Bryte quote AND none on the current** (CIB shows BI R0.00,
+    "Cover in force: No"). **A standing gap, not a regression** — R73.3m of stock, one address,
+    import lead times. Neither broker has ever put it on the table. Quote it.
   - ⚠️ **Sasria motor looks under-declared**: 3 private + 3 commercial <3,500kg = 6 of 11 items, and
     **R0 against "commercial 3,500kg and over"** despite two Hinos (the 814 at R783,833).
   - ⚠️ **Footer reads "Quotation – Hollard Insurance Company" on a Bryte-titled quote — the SAME
@@ -255,10 +284,9 @@ insurance **quote comparisons** for the RMs.
   - Gates: satisfactory survey before inception · full 3-year claims history ("underwriting needs
     claims experience to raise new business") · **alarm warranty on BOTH theft and electronic
     equipment** · quotes valid 30 days (full cover → 19 Sept 2026).
-  - ⏳ **STILL OUTSTANDING: the current schedule** (`4311 os skedule 20260731 met Laptop Tamryn
-    bygevoeg`) — password-protected, never reached the session. **Until it lands there is no
-    benchmark**; we can only compare the two Bryte scopes, not beat what the client pays today.
-  - **Deliverable built 21 Aug**: `lomaen_proposal_content.html` → client comparison PDF (5pp).
+  - **Deliverable built 21 Aug** (`lomaen_proposal_content.html`): client proposal PDF (6pp),
+    rebuilt against the current schedule once it landed. Extract kept at
+    `deal-notes/lomaen_current_extract.txt`.
 
 ## Conventions
 - Commit trailers used in this project:
