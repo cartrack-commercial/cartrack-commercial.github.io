@@ -292,5 +292,5 @@ hours — a warranty breach voids those sections, not just the claim.
 
 ## Deliverables
 
-Client comparison built 21 Aug 2026, rebuilt against the current schedule the same day
-(`lomaen_proposal_content.html`).
+Client proposal + RM playbook built 21 Aug 2026, rebuilt against the current schedule the same day
+(`lomaen_proposal_content.html` / `lomaen_playbook_content.html`).

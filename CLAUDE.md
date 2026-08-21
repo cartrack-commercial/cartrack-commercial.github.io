@@ -284,7 +284,8 @@ insurance **quote comparisons** for the RMs.
   - Gates: satisfactory survey before inception · full 3-year claims history ("underwriting needs
     claims experience to raise new business") · **alarm warranty on BOTH theft and electronic
     equipment** · quotes valid 30 days (full cover → 19 Sept 2026).
-  - **Deliverable built 21 Aug** (`lomaen_proposal_content.html`): client proposal PDF (6pp),
+  - **Deliverables built 21 Aug** (`lomaen_proposal_content.html` / `lomaen_playbook_content.html`):
+    client proposal PDF (6pp) + RM playbook PDF (6pp, INTERNAL),
     rebuilt against the current schedule once it landed. Extract kept at
     `deal-notes/lomaen_current_extract.txt`.
 
