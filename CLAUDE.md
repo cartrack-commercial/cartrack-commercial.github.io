@@ -111,6 +111,48 @@ insurance **quote comparisons** for the RMs.
   - **Defective workmanship / products liability EXCLUDED on all three** — the client's core exposure; ask both insurers to price it.
   - Motor: same SI R1,232,150 all three; own damage R5,195.25 (cur) / R5,080.64 (W) / R4,649.90 (N). Natsure theft excess worsens to 10% min R5,000.
   - **Deliverables built 28 Jul (this repo's skill):** `powerflow_proposal_content.html` + `powerflow_playbook_content.html` → client proposal PDF + RM playbook PDF. Afrikaans WhatsApp sent to Anne.
+  - 🆕 **PI / DEFECTIVE WORKMANSHIP ADD-ON + a second policy (19 Aug 2026).** Full detail in
+    `deal-notes/powerflow-pi-defective-workmanship.md`. Client meeting 20 Aug 09:00.
+    - 🚨 **A SECOND EXISTING POLICY surfaced: Guardrisk Construction & Engineering
+      `CAR167430` (Contractors All Risk) via the SAME broker Pogir Bastion — R2,336.62/mo**
+      (contract works R15m R1,750.00 + **public liability R10m** R416.67 + Sasria R169.95; excess
+      R5,000 major/all other, PL R15,000; 01/03/2026–28/02/2027). **The 28 Jul pack understated the
+      programme: true current spend is R7,408.35 + R2,336.62 = R9,744.97/mo.**
+    - **AC&E PI & Liability UM (FSP 45553) for New National Assurance (FSP 2603), quote
+      `PI/PL26/JH58942` 7 Aug 2026, via FSP Solutions / Cartrack broker code 5855:**
+      PI **R10m e&e** excess R25,000 = R29,681/yr · GPL **R10m e&e** excess R10,000 (10% min
+      R25,000 underground services) = R7,420/yr · **Defective Workmanship R10m ANNUAL AGGREGATE**
+      10% min R25,000 = R16,696/yr. **Total R53,797/yr = R4,483.08/mo** (×12 = exactly the annual —
+      **no financing cost for monthly**). 20% broker commission + 15% ancillary fee disclosed.
+      **Expires 6 Sept 2026.** This closes the gap flagged 28 Jul.
+    - **Full programme: current R9,744.97 → recommended R13,817.26** (Natsure R6,997.56 + CAR
+      R2,336.62 + AC&E R4,483.08) = **+R4,072.29/mo ≈ +R48,867/yr**. The re-market saves R410.79;
+      the add-on costs R4,483.08 — **the switch pays for ~a tenth of the new cover**.
+    - ⛔ **THE DISCLOSURE: retroactive date = INCEPTION**, claims-made — and the CAR policy adds
+      *"RUN-ON COVER – Not included – Only new projects as and when policy becomes effective"*.
+      **Everything already built and handed over is uninsured for design AND workmanship.** On
+      solar/battery, defects surface years later. Ask AC&E to price a retro date; if refused it
+      **must be disclosed in writing (Record of Advice)**.
+    - ⚠️ **DW cannot be bought alone** — AC&E note (4): only available if their GPL is taken. Client
+      already has R10m PL on CAR + R2m/R20m on commercial (or R20m broadform at Natsure), so the
+      **R618.33/mo GPL is the entry ticket, not new cover**. Ask if DW can sit over external PL.
+    - ⚠️ **The interlock:** DW excludes *"arising from defective design"*; PI covers design/advisory.
+      Take one and not the other → a failed installation becomes an arguable gap. **That's the
+      honest case for the package.** Options: all three R4,483.08/mo · PI only R2,473.42 ·
+      GPL+DW R2,009.66.
+    - 🚨 **Turnover mismatch.** CAR declares **annual turnover R15,000,000** and **max contract limit
+      R6,000,000** (above = excluded unless noted) — yet notes **Linden Lane decommissioning
+      R22,000,000** (273.24 kWp solar PV + **1001 kWh battery energy storage**, excess 10% min
+      R35,000, wef 10 Oct 2025). **3.7× the contract limit, 1.5× declared turnover. PI is rated on
+      turnover — get the real figure before placing.**
+    - Also: quote has address/e-mail/VAT blank (**VAT 4370276398**, reg 2015/083526/07 are on the
+      CAR schedule); activities read *"Design and Advisory electrical Installation Works and Solar
+      (PLEASE CONFIRM)"* — **get battery energy storage named**; DW also excludes rectifying/recalling
+      the work, inefficacy, pre-handover and aircraft; gradual pollution, asbestos, computer losses
+      and **PFAS** excluded; warranty of no known claims since the proposal date **5 Aug 2026**;
+      cover incepts only on payment in full.
+    - **Deliverables built 19 Aug** (`powerflow_addendum_content.html` /
+      `powerflow_addendum_playbook_content.html`): client addendum 6pp + RM playbook 5pp.
 - **Hamisa Group** (one client group, `stephen@hamisagroup.co.za`, all currently at **Inscon Hawkins & Associates**). RM: **Bronwan Fouche** (= the Bronwan on Wes-Kaap). ✅ Spelling SETTLED by Anne 12 Aug 2026: **"Bronwan"** is correct — the Bryte quotes had it right and the 28 Jul note saying "Bronwyn" was wrong. The 24 Jul Wes-Kaap pack and the Hamisa Safety pack still say Bronwyn and need rebuilding if it matters. Three entities, group total **R92,831.87/mo**:
   - **Hamisa Safety Equipment Supplies** (PPE to mining; Danskraal/Ladysmith, Lanseria, Witbank). Current **Infiniti `BEYOND-3744-0000169` R18,432.07** vs proposed (Bryte-titled, see below) **R16,092.75** → **−R2,339.32/mo ≈ −R28,072/yr**. ✅ DONE 28 Jul — client proposal + RM playbook built (`hamisa_safety_*_content.html`).
     - Saving comes from re-rating (fire −R1,190.70, theft −R690, electronic equipment −R550.47), NOT cover cuts: GIT held **R2,750,000**, fleet **R1,406,123 exact match** (Toyota FBRE20, VW Caddy Cargo, Isuzu D-Max), BAR + accidental damage identical; office contents R876,053→R993,541 and theft R200,000→R232,500 both UP.
