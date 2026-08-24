@@ -215,6 +215,61 @@ insurance **quote comparisons** for the RMs.
     24 months on 9 vehicles = a driver problem → camera telematics + driver scoring after the 9 units.
   - **Deliverables built 12 Aug** (`csmeat_proposal_content.html` / `csmeat_playbook_content.html`):
     client proposal PDF (6pp) + RM playbook PDF (7pp, INTERNAL). Afrikaans WhatsApp sent to Anne for Phillip.
+  - 🆕 **ROUND 2 — THE WHOLE ACCOUNT (21 Aug 2026).** Full detail in
+    `deal-notes/cs-continental-round2.md`. Phillip sent the **commercial policy** + two FSP/Western
+    proposals. **The 12 Aug work was fleet-only.**
+    - **Commercial policy `OT129830654` (Cs Continental Cc, reg 2007/127891/23, premises 98 Oak
+      Street Primrose — a SHOPPING CENTRE building) = R19,600.21/mo**, rev 10 of 06/07/2026,
+      renewal **29 July**. Turnover R89m, 40 staff, ex **Old Mutual Insure** 10+ yrs.
+    - **Whole account: current R46,460.96/mo → Western R37,243.31/mo = −R9,217.65/mo ≈
+      −R110,612/yr (−19.8%) — but 99.3% of it is the FLEET.**
+    - **Fleet three-way: OUT R26,860.75 · VAPS52226 R20,981.44 · Western/FSP `48707523`
+      R17,704.87.** Western beats VAPS by **R3,276.57/mo (R39,319/yr)** and is now the lead quote.
+      Administrator FSP Commercial Online FSP 35978, Cartrack broker code 5855.
+    - ⛔ **DO NOT MOVE THE COMMERCIAL.** Saving is **R61.77/mo = R741/yr**, against a **projected
+      Business OUTbonus of R42,637.61 payable 28 July 2028** on that policy. **The bonus is worth
+      57 years of the saving.**
+    - ⚠️ **CORRECTS THE 12 AUG NOTE.** "Client does not qualify for a Business OUTbonus… nothing is
+      forfeited by leaving" is **true of the FLEET only** (ratio too high). The **commercial** policy
+      has a clean ratio and a live bonus. Cash-back objection: dead on the fleet, alive on the
+      commercial.
+    - ⚠️ **ALSO CORRECTS 12 AUG:** "both policies are motor-only — no GIT, no machinery breakdown on
+      the cold rooms." **The commercial policy DOES carry GIT (R700,000/conveyance) and machinery
+      breakdown (R2,000.71 on R2.68m of food processing equipment).** The instinct on
+      **deterioration** was right though — see below.
+    - 🚨 **THE BEST FINDING: the surge protection breaches the policy's own condition.** Schedule
+      declares **"Db protection (Imax LESS THAN 40kA)"**; the fire special conditions require
+      **SANS-approved Imax of at least 40kA**, failing which **the insured carries the first 20% of
+      any lightning/power-surge claim**. Plant & machinery SI **R10,000,000**, refrigeration-based
+      business, and **a lightning claim was paid 29 Dec 2023**. Fix costs a sparky's morning.
+    - ⚠️ **BI gross profit R3,000,000 on R89,000,000 turnover** (12-month indemnity) — **identical on
+      the Western quote**, so a standing gap. Even at a 15% margin GP would exceed R13m.
+    - ⚠️ **Deterioration of stock NOT taken anywhere**: optional on machinery breakdown (OUT),
+      optional on GIT (OUT), and **R0,00 on the Western quote**. For a meat business that IS the
+      characteristic loss.
+    - ⚠️ **GIT R700,000/conveyance vs annual carry R282,000,000** and 91–120 transits/mo; **type of
+      goods declared "Agricultural produce"** on a butchery (Western describes it properly);
+      **driver fidelity NOT taken** (schedule spells out: no cover for driver/employee criminal
+      involvement); **carry R282m vs turnover R89m = 3.2×, one figure is wrong.**
+    - ⚠️ **Public liability R5,300,000 claims-made, retro 06 JANUARY 2026** — 7 months of tail on a
+      food business, and only valid if prior cover was uninterrupted claims-made (they came from
+      OMI). Products liability included R5.3m BUT excludes *"defective design, formula, plan or
+      specification where you are responsible for any part of the manufacturing, packaging or
+      preparation prior to sale"* — a butchery prepares and packages meat. RSA only.
+    - Also: **buildings R30,100,000** with **no escalation / subsidence / leakage / rent clause**;
+      plant & machinery R10m at **excess R33,700**; **occupancy certificate NO**; **no fidelity**
+      (40 staff, cash retail, and money cover for employee theft dies after 15 working days); money
+      limits R10k/R10k/R10k; solar R120,000 needs a **CoC**; alarm must be **armed when unoccupied**
+      yet all security devices read "Unspecified"; **motor specified = 3 private cars** (Lexus LS460,
+      Hummer H3, Chery Tiggo) with **passenger liability NOT taken**.
+    - ⚠️ **Motor losses are worse than the fleet schedule showed:** the commercial policy carries a
+      further **R341,015 of accidental-damage vehicle claims in 8 months** (Apr–Dec 2024) on the
+      three private cars, on top of the fleet's R968,238/24 months.
+    - 🛰️ **12-unit lead** (9 fleet + 3 specified). OUT's GIT section **names Cartrack on its approved
+      list** and requires an SVR device on any load over R300,000 or **no theft/hijack cover**;
+      Western excludes theft/hijack over **R350,000** without a **VESA-approved** system.
+    - **Western proposal is "subject to a written 3 years minimum claims experience before going on
+      risk"** — the price is NOT firm. Same gate as 12 Aug.
 
 - **Lomaen Medical (Pty) Ltd** (import, marketing, installation and repair of **x-ray machines**;
   8 Friesland Drive, Longmeadow Business Park South, Modderfontein 1609). RM: **Bronwan Fouche**.
