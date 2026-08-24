@@ -207,4 +207,5 @@ the camera-telematics and driver-scoring conversation writes itself.
 
 ## Deliverables
 
-Client proposal + RM playbook to be built once the claims-rating confirmation is in.
+Client proposal + RM playbook built 21 Aug 2026 (`csmeat_r2_proposal_content.html` /
+`csmeat_r2_playbook_content.html`).
