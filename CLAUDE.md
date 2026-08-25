@@ -344,6 +344,45 @@ insurance **quote comparisons** for the RMs.
     rebuilt against the current schedule once it landed. Extract kept at
     `deal-notes/lomaen_current_extract.txt`.
 
+- **Gear Lab Roodepoort (Pty) Ltd** (gearbox & clutch workshop, 6 Buhrmann Street, Horison,
+  Roodepoort 1724). RM: **Elizabeth Schlebusch**. **NEW BUSINESS — the client has NO current
+  insurance**, so there is no benchmark; the job is limits-vs-business, not a comparison. Full
+  detail in `deal-notes/gear-lab.md`. Analysed 25 Aug 2026.
+  - **Hollard `QT1026483` via BrokerBuddy (Commercial) FSP 43153 = R3,731.48/mo** ·
+    **ONE `ONEC/1293516.1` (One Insurance Limited t/a ONE) = R2,718.29/mo** → ONE is
+    **−R1,013.19/mo (−27.2%)**. Both reconcile to the cent.
+  - 🚨 **THE FINDING — neither quote covers the core exposure.** Hollard: **"Vehicle Hoists and
+    Ramps: No"** on all 4 items, and exception 14 excludes loss *"occurring by or through the use of
+    any vehicle hoist or ramp unless otherwise stated in the Schedule"* (plus exception 11 defective
+    workmanship, exception 5 mechanical/electrical breakdown). ONE: **car hoists YES ✓ but "Damage
+    to vehicles being worked upon: No"**. **A gearbox workshop puts every vehicle it touches on a
+    hoist.** Both need those extensions quoted before anything is presented.
+  - ⚠️ **Material damage on customers' vehicles is R50,000 on BOTH** — a modern SUV in for a gearbox
+    rebuild is R500k–R1.5m and a workshop holds several at once. Get the max value on the premises.
+  - ⛔ **TWO DIFFERENT INSUREDS.** Hollard: "Gear Lab", reg **2000/260824/07**, VAT **9874563**
+    (**invalid — 7 digits; SA VAT is 10 starting with 4**). ONE: "Gear Lab Roodepoort (Pty) Ltd",
+    reg **2025/509941/07**, VAT blank, business type "Not Specified". **A 2000 company and a 2025
+    company at the same address — bind the wrong one and there is no cover.** If the trading entity
+    is the 2025 registration it is a start-up, which explains the absence of insurance.
+  - ⚠️ **The inception conditions cannot be met**: ONE requires a satisfactory claims history AND a
+    previous policy schedule — **the client has never been insured, so neither exists.** Tell both
+    insurers in writing and get the price confirmed on a no-prior-cover basis BEFORE acceptance.
+    ONE's inception/endorsement dates read **01/01/3000** (placeholder) — no start date is set.
+  - ⚠️ **Buildings disagree: Hollard R1,750,000 vs ONE R2,555,000** — R805,000 apart on the same
+    premises. Contents agree exactly (Hollard P&M R350k + stock R5.2m = ONE's fire SI R5,550,000).
+  - ⚠️ **ONE charges NO M4 Sasria** on motor traders; Hollard charges R44.27. Query it.
+    ⚠️ ONE's internal-risk extension list shows **"WorkAway: No" AND "WorkAway: Yes"** on
+    consecutive lines. ⚠️ ONE theft is 43% cheaper than Hollard on an identical R100,000 — read both
+    sections' warranties before leaning on it.
+  - **Nothing on either quote for:** business interruption (R5.2m of stock, one address — the most
+    serious omission), machinery breakdown on hoists/presses, electronic equipment (diagnostic
+    gear), money, glass, fidelity, GIT, accidental damage, or **any vehicle Gear Lab owns**.
+  - Hollard liability is **claims-made** (retro = inception, fine for a first policy but disclose
+    it); ONE broadform basis/retro not stated. Hollard commission 20% non-motor / 12.5% motor +
+    **R75 broker fee**; ONE intermediary commission R476.27.
+  - **Deliverables built 25 Aug** (`gearlab_proposal_content.html` / `gearlab_playbook_content.html`):
+    client proposal PDF (5pp) + RM playbook PDF (5pp, INTERNAL).
+
 ## Conventions
 - Commit trailers used in this project:
   `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>` + `Claude-Session: …`
