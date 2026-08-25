@@ -477,3 +477,64 @@ insurance **quote comparisons** for the RMs.
     accident** — place separately.
   - **Deliverables built 19 Aug** (`idol_proposal_content.html` / `idol_playbook_content.html`):
     client proposal PDF (6pp) + RM playbook PDF (9pp, INTERNAL).
+
+- **Vuyos Funerals (Pty) Ltd** (funeral group, 11 premises across Soweto / Vanderbijlpark /
+  Vosloorus; head office Shop 8 Mapatleng Shopping Centre, Devland 1811; 61 vehicles incl.
+  **16 Mercedes Vito buses**). RM: **Elizabeth Schlebusch**. Full detail in
+  `deal-notes/vuyos-funerals.md`. Analysed 25 Aug 2026. ⏰ **Anniversary 03/09/2026.**
+  - **CURRENT: Old Mutual Insure `LD/M/02/MSURE/699973904`**, broker of record **Mellins Insure
+    Brokerage (Pty) Ltd** (agency 9916857), mid-term adjustment eff. 23/03/2026, 91pp —
+    **R151,685.30/mo = R1,820,224/yr.** 11 sections reconcile exactly.
+  - **Santam `40318049` v1 R116,783.28 (−R34,902.02/mo ≈ −R418,824/yr, −23.0%)** · Auto & General
+    `T6H407743` R135,249.12 (−R16,436.18) · Bryte R135,638.93 (−R16,046.37). **All three beat the
+    incumbent.** 82% of Santam's saving is motor alone (R129,748.50 → R101,104.10) — and Santam
+    quotes **63 vehicles against the current 61**.
+  - 🚨 **THE FINDING — Santam dropped a zero.** Ten of eleven premises match the current schedule
+    **to the rand**; **285 Granville Avenue, Robertville is R15,000,000 on the policy and
+    R1,500,000 at Santam.** That single item is the *entire* R13,500,000 gap between Santam's
+    R13.7m and the R27,200,000 both Bryte and A&G carry (which ties exactly to the current schedule
+    less R260,000 of escalators). **Bryte and A&G are right; Santam is wrong.** Uncorrected, a fire
+    at Robertville settles under average at ~10c in the rand. **Correcting it adds ≈R2,900–R3,400/mo
+    → present ≈R120,000, NOT R116,783.28** — still R31,000+/mo below current.
+  - 🚨 **SECOND FINDING — the current public liability carries a WORK AWAY EXCLUSION:** *"no
+    indemnity … for liability arising from any work carried out elsewhere than at the premises
+    occupied by the insured"* (+ a spread-of-fire exclusion). **Every funeral happens at a church, a
+    cemetery or a family home.** **Bryte writes "General and Tenants/Workaway R5,000,000" into the
+    limit for R295.83/mo**; Santam and A&G are silent → get both in writing. **Same shape as the
+    Lomaen Medical find.** Retro date **01/09/2025**, so moving forfeits only ~12 months of tail —
+    disclose it, but don't let it stall the deal.
+  - 🚨 **THE BRYTE QUOTE IS WRONG TWICE and it changes the ranking.** Prints R136,128.65; true
+    R135,638.93. (1) **Sasria block divides by TEN not twelve** — R29,382.73/yr shown as R2,938.27/mo,
+    truly R2,448.56: **identical to the Lomaen quotes, so it is systemic in Bryte's spreadsheet.**
+    (2) **The ANNUAL column carries one premises of glass instead of five** — R12,121.90 vs a true
+    R56,201.50, **under-counting R44,079.60.** ⚠️ **CORRECTS an earlier working figure of
+    R131,965.63** (derived by ÷12 of an annual that was itself wrong) — **Bryte is the dearest, not
+    the middle**, and its broker fee is still "to be advised".
+  - ⚠️ **Passenger liability R2,500,000 on ALL FOUR documents** — 16 Vito buses carrying mourners.
+    **Not a regression; a standing gap nobody ever put to them.** Same shape as Wes-Kaap Busdiens.
+    Third party R2.5m current/Santam/A&G, **R5m only at Bryte** (+ contingent & parking facilities
+    R5m) — cheap fix is to ask Santam to price TP at R5m.
+  - ⚠️ **Deterioration of stock is nowhere** — and the current schedule's **Electricity Grid
+    Interruption exclusion names *"deterioration of stock, food or other items"*.** They refrigerate
+    bodies: load-shedding + no deterioration cover is a live hole today. **No BI anywhere** (R0 on
+    current, not selected A&G, R0 Bryte) — standing gap. No machinery breakdown on the refrigeration.
+  - ⚠️ **Santam's theft covers ONE premises** (Devland); **Bryte has no theft section at all.**
+  - ⚠️ **A wrong address originates with the incumbent and has been copied onto the quotes:**
+    *"9368 Mophiring Street Orlando, **Cato Ridge, 3680**"* — Orlando is Soweto, Cato Ridge is KZN.
+    Carries buildings R2,000,000, fire, glass R220,398 and accidental damage.
+  - ⚠️ **R4,771,300 of non-funeral vehicles** on the fleet as "business/pool drivers": 2021 BMW X6 M
+    R2,514,000, 2012 Merc SL 500 R1,635,000, 2023 Harley Tri Glide R622,300 (~17% of fleet value).
+    Fleet SI disagree: **R28,331,021 (A&G) vs R30,211,680 (Bryte)**.
+  - 💰 **FAIS disclosure: Mellins earns R17,599.12/mo = R211,189/yr** on this account (broker service
+    fee shows R0.00). **Expect a same-day counter-quote** — the work-away exclusion is the answer a
+    price cut can't give.
+  - 🛰️ **54-unit Cartrack lead, and we're already the incumbent:** only **7 of 61 vehicles** carry a
+    tracking warranty on the current policy and **all seven are Cartrack**, named on the schedule.
+  - ⚠️ **A&G charges the R75 broker fee TWICE** (once on motor, once on non-motor).
+  - **Deliverables built 25 Aug** (`vuyos_proposal_content.html` / `vuyos_playbook_content.html`):
+    client proposal PDF (7pp) + RM playbook PDF (6pp, INTERNAL), rebuilt against the current
+    schedule once it arrived via Google Drive. Extract kept at `vuyos_current_om_extract.txt`.
+  - 📎 **How the current policy arrived:** it would not attach in the Claude web app — Anne uploaded
+    it to **Google Drive → My Drive/Comparisons** and it was pulled with the Drive MCP tools
+    (`search_files` → `download_file_content`, base64 → PDF → pypdf). **Use this route for any
+    file that fails to attach.**
