@@ -426,6 +426,49 @@ insurance **quote comparisons** for the RMs.
     SANS-compliant surge-arrestor condition.
   - Deliverables **rebuilt 19 Aug** for round 2 (`integral_proposal_content.html` /
     `integral_playbook_content.html`): client proposal 6pp + RM playbook 7pp.
+  - 🆕 **ROUND 3 — MiWay + the FULL current Santam schedule (26 Aug 2026).** Detail appended to
+    `deal-notes/integral-trading-silent-valley.md`.
+    - **Current Santam `10000064816`** (98pp, eff. 3 Jul 2026, intermediary **PROFILE RISK MANAGERS
+      CC** AGT4207099) = **R131,719.79** — motor R105,452.84 (**27 items summing to R31,311,815
+      exactly** ✓) + GIT R14,918.01 + PL R1,452.32 + Sasria R9,883.62 + VAS R13.
+    - 💰 **Intermediary commission R16,455.67/mo (R197,468/yr), broker fee R0.00** — the client is
+      used to seeing a zero in the fee line. **That is the answer to Petrosure's fee question.**
+    - **SEVEN named insureds**, not two: Integral Trading, **CGR Holdings**, **Serin South Africa**,
+      **Fuel Me**, Silent Valley, **Investec Bank** (rights & interest), **Petrocure**. Any
+      replacement must name all seven.
+    - Current **GIT limit per load R1,000,000**, 12 territories, both FAP reducers confirmed
+      (R100,000→**R20,000** own damage; R250,000→**R20,000** theft/hijack). Current **PL
+      R10,000,000 per event, UNLIMITED aggregate**, work-away excess capped R25,000.
+    - **MiWay `123806085` = R129,095.75** (reconciles ✓). ⛔ **REJECTED.**
+    - 🚨 **THE FINDING: MiWay's "saving" IS the public liability section.** Motor R117,763.07 for
+      **20 units** vs Santam R115,150.38 for **27** = **+R2,612.69 DEARER for seven fewer
+      vehicles**; it pays for that by **deleting the whole R10m PL section** (−R1,452.32) and a
+      cheaper GIT (−R3,800.67) carrying a **R67,500 hijack excess vs R20,000**. Net −R2,624.04 is a
+      smaller policy, not a re-rating.
+    - **≈R9,359,555 of fleet unquoted** — LW22DGGP R2.4m, NB20YMGP + NB19WFGP R2,068,000 each,
+      KM75WBGP, LD70ZPGP, LP98BKGP, MY40PZGP, KS34GCGP, FVR386EC + FVR390EC — plus the R2,415,000
+      "TBA" trailer. ⚠️ MiWay lists **MY40PXGP** where Santam has **MY40PZGP**.
+    - 🎯 **ITS REAL VALUE: MiWay is the ONLY quote rated on the claims.** It prints *"December 2025 ·
+      Vans & Trucks · Vehicle Accident (2 Losses) · R6 500 000"* on the face of the quote, and lands
+      **R5,795.73/mo ABOVE Petrosure's R123,300.02**, which still reads *"Loss History: Tba"*.
+      **That is proof Petrosure's number will move — use it in the reply.** ⚠️ But MiWay recorded
+      them as *accidents*, both in Dec 2025, not **two hijackings one year apart** — correct it in
+      writing before treating R129,095.75 as firm.
+    - MiWay regressions: **TP R5m** (vs current R10m on the 10 truck-tractors; trailers only R1m) —
+      *the same ceiling that benched Petrosure*; motor excess **10% min R30,000**; **+15% excess on
+      any single-vehicle articulated accident without driver/road-facing camera footage** (→ video
+      telematics lead); +R10,000 for <4yr or foreign licences; **passenger liability, environmental
+      transport liability and credit shortfall all EXCLUDED** (Investec/Redtree noted); neighbouring
+      + extended territories excluded (tolerable — diesel/RSA only — but record it as an instruction).
+    - MiWay gains: **GIT load limit R1,350,000** (up from R1,000,000), **driver dishonesty INCLUDED
+      on GIT**, side tank spill R250,000, towing R100,000, mech-breakdown tow R75,000 — all
+      materially better than Petrosure's R15,000 towing / R10,000 wreckage and nothing above 3.5t.
+    - ⚠️ MiWay proposal data is wrong: **"number of vehicles in the last 3 years: 10"** (it is 27),
+      previous insurer **"UNDISCLOSED"**, risk address **No 1 Melrose Blvd** (Santam has Cnr Dekema
+      & Steenbras, Wadeville), day AND night parking both **"VARIABLE"** — after two hijackings.
+      Tracking names **Tracker/Netstar/SAIAS/VESA — Cartrack NOT named**, though Cartrack is already
+      on 16 of 18 tracked units; quote warns *"some vehicles do not meet the security requirement."*
+    - ⛔ **The hold stands.** MiWay is dearer than Petrosure and worse than staying.
 - **Idol Transport (Pty) Ltd** (long-haul HCV + GIT, 35 Steyer Street, Aureus, Randfontein; reg
   2016/003501/07; contact Zinhle Zulu `zinhle@idoltransport.co.za`). RM: **Cules**. 5-market
   comparison done 19 Aug 2026 — full detail in `deal-notes/idol-transport.md`.

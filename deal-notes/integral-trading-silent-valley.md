@@ -300,3 +300,186 @@ Petrosure requires **tracking on all vehicles over R250,000 — 24 of the 27** �
 competitor devices to convert, and the pre-inspection is a natural reason to survey the fleet.
 Two hijackings in two years is also the strongest possible case for **video telematics and driver
 monitoring** on the ten horses.
+
+---
+
+# ROUND 3 — MiWay, and the full current Santam schedule (26 Aug 2026)
+
+Two documents landed on 26 Aug: the **complete current Santam policy** (98pp) and a **MiWay
+quotation** — a fourth market. Both reconcile to the cent.
+
+## The current policy, now in full
+
+**Santam `10000064816`**, effective 3 July 2026, intermediary **PROFILE RISK MANAGERS CC**
+(AGT4207099) — **R131,719.79/mo**, exactly as previously worked.
+
+| Section | Monthly |
+|---|---|
+| Motor specified vehicles — **27 items, R31,311,815** | R105,452.84 |
+| Santam Cargo Cover Plus (GIT) | R14,918.01 |
+| Public liability | R1,452.32 |
+| Sasria — motor | R9,697.54 |
+| Sasria — goods in transit | R186.08 |
+| VAS — 24h motor emergency assistance | R13.00 |
+| **Total** | **R131,719.79** ✓ |
+
+The 27 motor items sum to **R105,452.84 to the cent** and **R31,311,815** of sum insured — the
+figure the round-2 correction on MG45VLGP was meant to produce. **Confirmed.**
+
+**New from the full schedule:**
+- 💰 **Intermediary commission R16,455.67/mo** (= R197,468/yr) to Profile Risk Managers, with
+  **"fees due to your intermediary… R0.00"**. So the incumbent charges **no broker fee** and lives
+  on commission. **Relevant to Petrosure's question about our fee** — the client is used to seeing
+  a zero in that line.
+- **Seven named insureds**, not two: Integral Trading Services, **CGR Holdings**, **Serin South
+  Africa**, **Fuel Me (Pty) Ltd**, Silent Valley Investments CC, **Investec Bank for their
+  respective rights & interest**, and **Petrocure (Pty) Ltd**. Any replacement policy must carry
+  all seven or the interests are unprotected.
+- **GIT: limit per load R1,000,000**, all risks, **12 territories**, with both first-amount-payable
+  reducers confirmed: own damage insured amount R100,000 → **R20,000**, theft/hijack insured amount
+  R250,000 → **R20,000**.
+- **Public liability R10,000,000 per event, UNLIMITED in the annual aggregate**, excess min R1,000
+  (work away 10%, min R1,000, **max R25,000**), jurisdiction worldwide excluding USA/Canada.
+
+## MiWay `123806085` — R129,095.75/mo
+
+Quote dated 24 Jul 2026, printed 26 Aug, expires 21 Sept. Broker **Cartrack Insurance Agency
+FSP 17266**, commission 12.5% motor / 20% non-motor.
+
+| Section | Monthly |
+|---|---|
+| HCV fleet — **10 vehicles**, retail value | R60,691.63 |
+| Trailer fleet — **10 trailers**, R12,899,000 | R51,117.57 |
+| Goods in transit — petrol & petroleum, load limit R1,350,000 | R11,253.42 |
+| Sasria — motor | R5,953.87 |
+| Sasria — GIT | R50.00 |
+| MiBusiness Assist | R29.25 |
+| **Total** | **R129,095.75** ✓ |
+
+## 🚨 THE FINDING — MiWay's "saving" is the public liability section
+
+**MiWay is R2,624.04/mo cheaper than the current policy. Broken down, it is not a saving at all:**
+
+| | Current Santam | MiWay | Difference |
+|---|---|---|---|
+| **Motor** (incl. Sasria) | R115,150.38 — **27 units** | R117,763.07 — **20 units** | **+R2,612.69 DEARER** |
+| **Goods in transit** (incl. Sasria) | R15,104.09 | R11,303.42 | −R3,800.67 |
+| **Public liability** | R1,452.32 | **R0.00 — no section** | −R1,452.32 |
+| Assistance | R13.00 | R29.25 | +R16.25 |
+| **Total** | **R131,719.79** | **R129,095.75** | −R2,624.04 |
+
+**MiWay costs MORE for the motor than the incumbent while insuring seven fewer units**, and pays
+for that by **deleting the entire R10,000,000 public liability section** and taking a **cheaper GIT
+with a hijack excess more than three times higher.** That is not a re-rating; it is a smaller
+policy.
+
+### What MiWay does not quote — ≈R9,359,555 of fleet
+
+Ten items on the current schedule have no counterpart on the MiWay quotation:
+
+| Registration | Description | Sum insured |
+|---|---|---|
+| LW22DGGP | 2024 Trailer & Tanker Technology heavy trailer | R2,400,000 |
+| NB20YMGP | 2026 FAW truck | R2,068,000 |
+| NB19WFGP | 2026 FAW truck | R2,068,000 |
+| KM75WBGP | 2014 Mercedes-Benz S350 | R700,000 |
+| LD70ZPGP | 2021 Toyota Fortuner | R600,200 |
+| LP98BKGP | 2024 GWM P-Series | R511,905 |
+| MY40PZGP | 2014 Iveco truck | R400,000 |
+| KS34GCGP | 2022 Mahindra Pik Up | R226,200 |
+| FVR386EC · FVR390EC | 2012 Paramount heavy trailers | R192,625 each |
+| **Total unquoted** | | **≈R9,359,555** |
+
+Also absent: the **2026 Trailer & Tanker Technology heavy trailer at R2,415,000** shown as "TBA" on
+the Santam schedule. **The two quotes are not comparable until MiWay prices the whole fleet.**
+
+⚠️ **MiWay's HCV list carries `MY40PXGP`; the Santam schedule carries `MY40PZGP`.** One character
+apart on a 2014 Iveco. One of them is wrong.
+
+## 🎯 The real value of the MiWay quote: it is the only one rated on the claims
+
+MiWay's proposal record prints the losses on the face of the quote:
+
+> *"Incidents in the last 3 years — December 2025 · Vans & Trucks · **Vehicle Accident (2 Losses)** ·
+> **R6 500 000**"*
+
+**MiWay has priced this risk with the R6.5m on the table. Petrosure still has not** — W5101 reads
+*"Loss History: Tba"* and is expressly subject to claims experience.
+
+**So MiWay is a live benchmark of what this risk costs once the hijackings are disclosed: it is
+R5,795.73/mo ABOVE Petrosure's R123,300.02.** That is the strongest evidence yet that **Petrosure's
+number will move once they rate it**, and it justifies the round-2 refusal to present W5101 as a
+firm price.
+
+⚠️ **But MiWay may not be firm either.** The losses are recorded as *"Vehicle Accident"* and both
+dated **December 2025**. Cules disclosed **two hijackings, one last year and one this year**. A
+hijacking rated as an accident is a different risk — **put the correct description to MiWay in
+writing** before treating R129,095.75 as reliable.
+
+## Cover regressions on MiWay — beyond the missing liability
+
+- **Third-party liability R5,000,000** on the fleet against the current **R10,000,000 on the ten
+  truck-tractors** — the *same ceiling that benched Petrosure*. Trailers get only **R1,000,000**.
+- **GIT hijack excess R67,500** (vs **R20,000** current). Better than Petrosure's R300,000, still
+  **R47,500 worse per hijack** than today. On a R1m load: MiWay R67,500 · Santam R20,000 ·
+  Petrosure R300,000.
+- **Motor excess 10% of claim, min R30,000** on every truck; trailers 10% min R20,000; third-party
+  liability excess R30,000.
+- **+15% additional excess on any single-vehicle accident on an articulated vehicle** unless
+  driver-facing or road-facing **camera footage** is produced. → **video telematics lead on the 10
+  horses**, exactly as flagged after the hijackings.
+- **+R10,000 excess** where the driver's licence is under four years old or foreign-issued.
+- **Passenger liability EXCLUDED. Environmental transport liability EXCLUDED. Credit shortfall
+  EXCLUDED** (Investec and Redtree interests are noted on the current fleet). **Driver dishonesty
+  excluded on motor** (it *is* included on GIT at R1,205.72 — credit where due).
+- **Neighbouring countries and extended territories EXCLUDED on both motor and goods**, against the
+  current **12-country** cargo territory. ✅ Cules confirmed diesel/RSA-only, so this is tolerable —
+  but it must be a recorded client instruction, not an oversight.
+- **Deterioration of stock EXCLUDED** on GIT.
+
+### Genuine MiWay gains
+- **GIT load limit R1,350,000** against the current R1,000,000 — a real uplift.
+- **Side tank spill R250,000**, towing & recovery R100,000, mechanical breakdown tow R75,000,
+  locks & keys R20,000, emergency repairs R15,000. **Materially better than Petrosure**, which caps
+  towing at R15,000 and wreckage removal at R10,000 and gives nothing above 3.5t GVM.
+- **Driver dishonesty included on GIT** — Petrosure and the Idol MiWay quote both excluded it.
+- GIT third-party liability R2,500,000, load protection R25,000, debris removal R25,000.
+
+## ⚠️ Proposal-data problems on the MiWay quote
+
+- *"What is the number of vehicles that the business had in the last 3 years?"* → **10.** The client
+  runs **27**.
+- *"How many years has the policyholder had business insurance cover in total?"* → **3**, and
+  previous insurer **"UNDISCLOSED"** — the incumbent is Santam and is known.
+- **Risk address "No 1 Melrose Blvd, Melrose"**, against the Santam risk address **Cnr Dekema &
+  Steenbras, Wadeville**. Neither reflects the N17 Diesel Depot or Overall Road Express.
+- Day and night parking both recorded as **"VARIABLE STREET, VARIABLE WORK SUBURB, VARIABLE TOWN,
+  VARIABLE PROVINCE."** After two hijackings, undeclared overnight parking is the last thing this
+  risk needs.
+- **Tracking:** MiWay requires an approved early-warning SVR device, **"Two Tracking Devices"** on
+  the newer units, and names **Tracker, Netstar or any SAIAS/VESA approved** company. **Cartrack is
+  not named** — and Cartrack is already the incumbent on **16 of 18 tracked units**. Get Cartrack
+  approved in writing, or theft and hijack cover falls away. The quote itself warns *"Some vehicles
+  on this policy currently do not meet the security requirement."*
+
+## Verdict — MiWay is rejected, and the hold on Petrosure stands
+
+**Do not present MiWay.** It is dearer than Petrosure by R5,795.73/mo, dearer than the incumbent on
+motor, misses ≈R9.36m of fleet, and its saving is bought by deleting a R10,000,000 public liability
+section with an unlimited aggregate.
+
+**What it is worth is intelligence:** it is the only price in this file struck on the disclosed
+claims record, and it lands **above** Petrosure. Use it in the reply — *"a market that has seen the
+R6.5m has quoted R129,095.75; we need yours rated on the same basis before it goes to the client."*
+
+## Additions to the outstanding-queries list
+
+1. **Petrosure — broker fee.** The incumbent charges **R0.00** and earns **R16,455.67/mo** in
+   commission. Whatever fee is set has to be defensible against a client who currently sees zero.
+2. **Petrosure — all seven insured entities** must be named, Investec's and Redtree's interests
+   noted.
+3. **MiWay — the loss description.** Two hijackings, not "vehicle accidents", and not both in
+   December 2025.
+4. **MiWay — quote the whole fleet** (27 items, R31,311,815) or the quote is not a comparison.
+5. **MiWay — price public liability** at R10,000,000 per event with an unlimited aggregate to match
+   the incumbent, and passenger liability, and confirm Cartrack as an approved tracking supplier.
