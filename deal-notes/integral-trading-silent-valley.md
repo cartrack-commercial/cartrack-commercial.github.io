@@ -483,3 +483,19 @@ R6.5m has quoted R129,095.75; we need yours rated on the same basis before it go
 4. **MiWay — quote the whole fleet** (27 items, R31,311,815) or the quote is not a comparison.
 5. **MiWay — price public liability** at R10,000,000 per event with an unlimited aggregate to match
    the incumbent, and passenger liability, and confirm Cartrack as an approved tracking supplier.
+
+## Deliverables — rebuilt 26 Aug for round 3
+
+`integral_proposal_content.html` / `integral_playbook_content.html` rebuilt as a **three-market**
+pack (current Santam + Petrosure W5101 + MiWay 123806085):
+
+- **Client proposal, 7pp** — new page 03 dedicated to reading the MiWay quotation properly (the
+  saving is the public liability section); third-party, cargo-excess and pollution pages all
+  extended to three columns; final page reworked to a two-market recommendation.
+- **RM playbook, 7pp INTERNAL** — three-way teardown, Play 04 now shows both cuts across both
+  quotes, Naked Truth extended to seven items (5 rewritten, 6 and 7 new on MiWay), Battlecard gains
+  two objections ("MiWay is a big name and it's cheaper" / "prove the price will change").
+
+⚠️ Stale figures corrected while rebuilding: the playbook's thesis said the quote was **7.2%**
+cheaper in two places; it is **6.4%**.
+
