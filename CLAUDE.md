@@ -445,9 +445,15 @@ insurance **quote comparisons** for the RMs.
       vehicles**; it pays for that by **deleting the whole R10m PL section** (−R1,452.32) and a
       cheaper GIT (−R3,800.67) carrying a **R67,500 hijack excess vs R20,000**. Net −R2,624.04 is a
       smaller policy, not a re-rating.
-    - **≈R9,359,555 of fleet unquoted** — LW22DGGP R2.4m, NB20YMGP + NB19WFGP R2,068,000 each,
-      KM75WBGP, LD70ZPGP, LP98BKGP, MY40PZGP, KS34GCGP, FVR386EC + FVR390EC — plus the R2,415,000
-      "TBA" trailer. ⚠️ MiWay lists **MY40PXGP** where Santam has **MY40PZGP**.
+    - **R4,838,555 of fleet unquoted, 7 items** — the R2,415,000 T&TT trailer awaiting registration,
+      **all four light vehicles** (KM75WBGP R700,000, LD70ZPGP R600,200, LP98BKGP R511,905,
+      KS34GCGP R226,200) and both Paramount trailers (FVR386EC + FVR390EC R192,625 each).
+    - 🚨 **And one that IS quoted but UNDER-INSURED: LW22DGGP R2,400,000 → R1,515,000, short
+      R885,000** — average would settle it at ~63c in the rand. Worse than an omission because it
+      looks covered. ⚠️ MiWay lists **MY40PXGP** where Santam has **MY40PZGP**.
+    - ⚠️ **CORRECTS a working figure of ≈R9,359,555 "unquoted"** — that first pass matched trailers
+      on sum insured instead of registration, so LW22DGGP and both 2026 FAW trucks (quoted as "TBA")
+      dropped out of the match wrongly. **20 of 27 units is unchanged; the rand figures are above.**
     - 🎯 **ITS REAL VALUE: MiWay is the ONLY quote rated on the claims.** It prints *"December 2025 ·
       Vans & Trucks · Vehicle Accident (2 Losses) · R6 500 000"* on the face of the quote, and lands
       **R5,795.73/mo ABOVE Petrosure's R123,300.02**, which still reads *"Loss History: Tba"*.

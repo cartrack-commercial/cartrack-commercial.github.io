@@ -373,25 +373,38 @@ for that by **deleting the entire R10,000,000 public liability section** and tak
 with a hijack excess more than three times higher.** That is not a re-rating; it is a smaller
 policy.
 
-### What MiWay does not quote — ≈R9,359,555 of fleet
+### What MiWay does not quote — R4,838,555 across 7 items
 
-Ten items on the current schedule have no counterpart on the MiWay quotation:
+⚠️ **CORRECTS AN EARLIER FIGURE IN THIS NOTE.** A first pass put this at ≈R9,359,555 by matching
+trailers on sum insured rather than registration; three units fell out of the match wrongly. The
+correct position, reconciled registration by registration, is below. **The conclusion is unchanged —
+MiWay quotes 20 of 27 units — but the numbers are these.**
+
+Seven items on the current schedule have no counterpart on the MiWay quotation:
 
 | Registration | Description | Sum insured |
 |---|---|---|
-| LW22DGGP | 2024 Trailer & Tanker Technology heavy trailer | R2,400,000 |
-| NB20YMGP | 2026 FAW truck | R2,068,000 |
-| NB19WFGP | 2026 FAW truck | R2,068,000 |
+| TBA | 2026 Trailer & Tanker Technology heavy trailer (no registration yet) | R2,415,000 |
 | KM75WBGP | 2014 Mercedes-Benz S350 | R700,000 |
 | LD70ZPGP | 2021 Toyota Fortuner | R600,200 |
 | LP98BKGP | 2024 GWM P-Series | R511,905 |
-| MY40PZGP | 2014 Iveco truck | R400,000 |
 | KS34GCGP | 2022 Mahindra Pik Up | R226,200 |
-| FVR386EC · FVR390EC | 2012 Paramount heavy trailers | R192,625 each |
-| **Total unquoted** | | **≈R9,359,555** |
+| FVR386EC | 2012 Paramount heavy trailer | R192,625 |
+| FVR390EC | 2012 Paramount heavy trailer | R192,625 |
+| **Total unquoted** | | **R4,838,555** |
 
-Also absent: the **2026 Trailer & Tanker Technology heavy trailer at R2,415,000** shown as "TBA" on
-the Santam schedule. **The two quotes are not comparable until MiWay prices the whole fleet.**
+**That is all four light vehicles, both Paramount trailers, and the new tanker awaiting
+registration.** MiWay quotes no light vehicles at all.
+
+### 🚨 And one that IS quoted, but under-insured by R885,000
+
+**LW22DGGP** — the 2024 Trailer & Tanker Technology tanker trailer — is **R2,400,000 on the Santam
+schedule and R1,515,000 on the MiWay quotation.** It is on the quote, so it is easy to miss. On a
+total loss the **average clause** would apply and settle at roughly 63 cents in the rand. This is
+worse than an omission, because nobody would notice it.
+
+✅ **The two 2026 FAW trucks ARE quoted** (R2,068,000 each on Santam), listed as "TBA" because
+neither is registered yet — the same reason the T&TT trailer shows TBA on the Santam schedule.
 
 ⚠️ **MiWay's HCV list carries `MY40PXGP`; the Santam schedule carries `MY40PZGP`.** One character
 apart on a 2014 Iveco. One of them is wrong.

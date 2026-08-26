@@ -5,8 +5,8 @@ Drafted 19 Aug 2026 for **Cules van Dyk** to send to **Lezanne Vosloo, FSP Solut
 Reference: **48912018 — Integral Trading Services (Pty) Ltd & Silent Valley**, Petrosure risk code
 **W5101**, quote dated 2026/08/17.
 
-> ⚠️ **Before sending:** the broker fee in item 1 must be filled in. Petrosure has asked us for the
-> figure and the quote cannot be finalised without it. Everything else is ready to go.
+> ✅ **Updated 26 Aug 2026 — ready to send.** Broker fee set at **R750/month**. Two new sections
+> added from the round-3 work: the MiWay benchmark (item 2) and the seven named insureds (item 9).
 
 ---
 
@@ -26,8 +26,13 @@ those first.
 
 ## 1 · Broker fee
 
-**[ INSERT FEE ]** per month. Please load it and reissue so the quotation reflects the final
-payable figure.
+**R750.00 per month.** Please load it and reissue so the quotation reflects the final payable
+figure, and **confirm whether you load it VAT-inclusive or add VAT on top** — on our figures that is
+either **R124,050.02** or **R124,162.52** all-in.
+
+For context, the incumbent charges the client **no broker fee at all** and is remunerated purely by
+commission, so R750 is a change the client will see on the schedule and we would rather it were
+right first time than adjusted later.
 
 ## 2 · The claims record — please rate on it now
 
@@ -41,6 +46,16 @@ Your quotation still records *"Loss History: Tba"* and *"Security details: Tba"*
 confirmed the quote is subject to claims. **We are not prepared to present a premium to the client
 that can move once the record is filed.** Please have the risk rated on the actual experience and
 confirm in writing, with any loading, before we take it any further.
+
+**I can now show you why this matters rather than just assert it.** We have since obtained a
+quotation from another market which was prepared **with the R6,500,000 disclosed on the face of the
+document**. That quotation came in at **R129,095.75** — **R5,795.73 a month above your R123,300.02**
+for a materially *smaller* schedule (twenty units against twenty-seven, and no public liability
+section at all).
+
+I am not using that as leverage and I am not asking you to match it. I am telling you plainly that
+the only priced view of this risk *with the claims on the table* sits well above your current
+figure, and I would rather you re-rated now than have the client see one number and sign another.
 
 The client is arranging the formal loss ratio confirmation from the incumbent. In the meantime,
 please treat the above as disclosed.
@@ -129,6 +144,29 @@ claims stage.
   on the fleet, so we will place it elsewhere.
 - **Electricity Grid Interruption.** The surge-arrestor condition refers to premises. As no material
   damage section is being taken, please confirm the condition has no application to this risk.
+
+## 9 · The insured parties — all seven must be named
+
+Now that we have the full current schedule, the policy is written in the name of **Integral Trading
+Services (Pty) Ltd & Silent Valley**, registration **2016/347784/07**, VAT **4120285699** — but it
+names **seven** parties:
+
+1. Integral Trading Services (Pty) Ltd
+2. **CGR Holdings (Pty) Ltd**
+3. **Serin South Africa (Pty) Ltd**
+4. **Fuel Me (Pty) Ltd**
+5. Silent Valley Investments CC
+6. **Investec Bank**, for their respective rights and interest
+7. **Petrocure (Pty) Ltd**
+
+This is not a formality. **CGR Holdings is the registered owner of at least three of the insured
+vehicles** — KM75WBGP, LW22DHGP and KS34GCGP — and **Serin South Africa's interest is noted on
+three trailers** (items 68, 69 and 70 on the Santam schedule). Financial interests are also noted
+in favour of **Investec Bank** and **Redtree Capital (Pty) Ltd** on individual units.
+
+**Please confirm in writing that W5101 will name all seven parties and note both financiers**, and
+send me the wording you intend to use. A vehicle owned by an entity that is not an insured party is
+a declined claim.
 
 I appreciate the work that has gone into this. If items 3 and 4 can be moved we have a strong
 proposition; if they cannot, I would rather establish that now than take the client through a
