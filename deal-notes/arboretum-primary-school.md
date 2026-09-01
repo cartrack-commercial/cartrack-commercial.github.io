@@ -110,6 +110,70 @@ Includes VAT R3,142.60 and **intermediary commission R4,075.81**.
    regressions — but a school handling fees with no fidelity cover should be asked the question.
 9. Confirm the **excess structure** across every section.
 
+## The ONE quote, in full (added 01 Sep after reading all 49 pages)
+
+| Section | Sum insured | Monthly |
+|---|---|---|
+| Electronic equipment | R4,280,783 | R7,134.64 |
+| Motor (3 buses, 1 LDV, 2 tractors, 4 trailers, all retail value) | retail | R4,872.66 |
+| Buildings combined | **R45,875,277** (+ rent at 25% of R11,468,819) | R3,822.96 |
+| Business all risks | R685,315 | R3,367.84 |
+| Contents | R5,979,917 | R752.53 |
+| Broadform liability | R20,000,000 | R450.00 |
+| Fire | R2,747,490 | R291.25 |
+| Money | R50,000 | R166.65 |
+| General (policy fee) | | R50.00 |
+| Glass | R10,000 | R33.33 |
+| Accidental damage | R20,000 | R16.67 |
+| Employers liability | R5,000,000 | R5.00 |
+
+Total declared property values **R59,648,782**.
+
+### ✅ The strength, and it is a real one
+
+**The three buses each carry passenger liability of R5,000,000** under a bus-and-coach specific
+extension, plus **third party liability of R5,000,000**. Fleet: 2013 Iveco 50C15V15 midibus
+(CH98WYZN), 2008 Toyota Quantum 14-seater (CH07GJZN), 2018 Toyota Quantum 14-seater (CH98VTZN).
+
+⚠️ **A near-miss worth recording.** The schedule prints *"Passenger Liability - Limited to
+R2 500 000: No"* against every vehicle, which reads at first glance as passenger liability being
+declined. It is not. The next line reads *"Passenger Liability R5 000 000 Limited to Buses and
+Coaches: Yes"*. **The R2.5m standard option is off because the R5m bus version is on.** Read both
+lines before reporting on this section.
+
+**That is better than Wes-Kaap Busdiens and Vuyos Funerals both achieved**, and it is the line that
+should be checked against the current Santam policy first.
+
+### ✅ The quote is rated on the claims
+
+The proposal page records *"Has the three year claims history been submitted to ONE? Yes"* and names
+Santam and policy `77115603*002` as the previous insurer. **So this price is not provisional** the
+way Petrosure's Integral quote was.
+
+### Five figures that look like placeholders
+
+- **Glass R10,000** on a primary school. Would not reglaze one classroom block.
+- **Printers R1,699,778** against all desktops, laptops and software at R1,885,100. Improbable;
+  get the asset register.
+- **Money R50,000** on a school that collects fees, with no fidelity anywhere.
+- **Accidental damage R20,000** against R59.6m of property.
+- **All motor on retail value**, including a 2013 midibus.
+
+### Conditions attached
+
+- **Overnight parking to be disclosed within 21 days** (motor section).
+- **Power surge excess is 10% min R2,000 only if the main DB carries surge protection certified
+  compliant with SANS 10142-1.** Endorsements SANS 0007 and SANS 0018. Same shape as the CS
+  Continental find.
+- Survey endorsements **SURV 0006** and **SURV 0016**.
+
 ## Deliverables
 
-⛔ None yet — blocked on the current premium. Queries list above is ready for Hein to send.
+**RM briefing built 01 Sep 2026** (`arboretum_briefing_content.html`) — 5pp INTERNAL, for Hein.
+Reviews the ONE quote on its own terms, explains why no comparison is possible yet, and carries the
+eight questions.
+
+⛔ **No client-facing document until the current sums insured arrive.** Hein believes the school pays
+around R30,000 at Santam. **Deliberately not used** (Anne, 01 Sep): it is not off a schedule, and if
+the figures were removed before the document was shared then working around that would be wrong.
+Ask for the sums insured instead, which the school is far more likely to give.
