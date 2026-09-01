@@ -411,6 +411,10 @@ insurance **quote comparisons** for the RMs.
   `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>` + `Claude-Session: …`
 - Never put the model id in commits / code / PRs (chat only).
 - People's pronouns: use they/them unless stated. **Jean = he.**
+- 🚫 **NEVER use an em dash (the long dash). Anne hates it and says it reads as AI-written.**
+  This is permanent and applies to EVERYTHING: WhatsApp messages, client proposals, RM playbooks,
+  e-mails, deal notes, chat replies. Use a comma, a colon, brackets, or start a new sentence
+  instead. Also avoid the HTML entity for it in the pack templates.
 - **Integral Trading Services / Silent Valley** — ROUND 2 (17 Aug 2026). Petrosure (via **FSP
   Solutions**, Lezanne Vosloo) answered **all 15 queries** and reissued W5101 at **R123,300.02**
   (was R122,203.83) vs Santam **R131,719.79** → **−R8,419.77/mo ≈ −R101,037/yr**. Only two things
