@@ -494,6 +494,30 @@ insurance **quote comparisons** for the RMs.
   - **Deliverables built 2 Sept** (`coriguard_proposal_content.html` / `coriguard_playbook_content.html`):
     client proposal PDF (6pp) + RM playbook PDF (7pp, INTERNAL). No em dashes.
 
+## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
+
+- **Second small loss, 2 Sept 2026.** Elizabeth's "Missing work" tab showed **geo fire (R4,100/m) and
+  Kotto (R48/m)** gone from her Active Clients. Anne restored both from Command View → Recovery at
+  ~14:40. Two rows out of a book is **below the write guard's threshold** (it only refuses a save that
+  empties a book or halves it at 4+ rows), so it passed. Root cause NOT yet traced: get date/time/phone
+  from her if it recurs and read `changes:<date>:elizabeth`.
+- **Recovery also listed, still to restore once confirmed:**
+  - **Cules: Twin Trans Pty CC and Quinton van der Merwe.** Cules confirmed 14:48: both won and active,
+    **Twin Trans R31,000/mo, Quinton R12,000/mo.** ⚠️ Recovery proposes the *deal* figures (R2,800 and
+    R4,129) because it rebuilds from the won deal; the deal record is frozen at signing. **Restore, then
+    correct the book premiums to R31,000 and R12,000 in Command View.**
+  - **Phillip: CS Continental Meat & Butchery**, deal at stage 6 (Proposal / Closing Set), R0, missing
+    from his pipeline. Awaiting his yes/no.
+  - "Needs a human eye (20)" list also had *Bronwyn · Agile Unlimited, details edited 2026-08-11 but the
+    deal looks older*: ask Bronwan.
+- **Group WhatsApp sent 2 Sept 14:47** (System support and comparisons group): explained write guard,
+  snapshots, Missing work tab, v2026.08.27a, Lourie's payroll changes; asked **Bernard to send his change
+  list** and everyone for suggestions. Bernard's list still outstanding.
+- **Feature roadmap (Anne asked "what other cool features", 2 Sept):** full list in
+  `deal-notes/rm-system-roadmap.md`. Suggested next 25k block (~30h): nightly data-health alert, one-tap
+  undo per RM from snapshots, comm stat import, renewal calendar, version nag. Supabase Auth (20h) still
+  parked but should precede the rest.
+
 ## Conventions
 - Commit trailers used in this project:
   `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>` + `Claude-Session: …`
