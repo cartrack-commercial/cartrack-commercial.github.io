@@ -406,6 +406,57 @@ insurance **quote comparisons** for the RMs.
   - **Deliverables built 25 Aug** (`gearlab_proposal_content.html` / `gearlab_playbook_content.html`):
     client proposal PDF (5pp) + RM playbook PDF (5pp, INTERNAL).
 
+- **Cordiguard Security Services (Pty) Ltd** (Elizabeth's e-mail says "Coriguard"; every schedule
+  reads **Cordiguard**, reg 2018/057432/07, VAT 4260286408). Guarding and patrolling, *"No Armed
+  Response, Supervisors and Management Vehicles"*, 107 Trezona Ave, Mindalore, Krugersdorp; second
+  site Elandsfontein Moklo Mine (North West). Co-insured **Multi Source Distribution Agency** (owner
+  of the two Vitz). RM: **Elizabeth Schlebusch**. Client meeting **Thu 4 Sept 2026 pm**. Full detail
+  in `deal-notes/coriguard-security.md`. Analysed 2 Sept 2026.
+  - ⛔ **The "ONE" attachment Elizabeth sent is the GEAR LAB quote** (ONEC/1293516.1, R2,718.29),
+    not Cordiguard's. Real ONE quote still needed. Proposal form = blank Tranquille template.
+  - **CURRENT: Bryte `BCOM23-8364-0032049`** via **Alpina Brokers** (Stephan van Eeden, FSP 42616),
+    review date 01/09/2026 (already rolled) = **R48,516.75/mo** (R46,716.75 + VAPs R1,800:
+    One Loyalty R770, Phishield R100, X'S Sure on the BMW R930). Commission R5,995.23/mo.
+  - **Santam `STM-CAR0313-STMCN2-0301343` R45,882.64 (−R2,634.11/mo, −5.4%, ≈ −R31,609/yr)** ·
+    Hollard via BrokerBuddy `QT1026819` + `QT1026897` R45,628.42 (−R2,888.33). All reconcile.
+    **Motor is flat (Santam −R336.73 on 25 vehicles); the saving is VAPs (−R1,200) plus two things
+    Santam quoted SMALLER: accidental damage R360k→R150k (one site) and the Samsung S24 at R0.
+    Like-for-like ≈ −R2,180/mo ≈ R26,000/yr. Say that.**
+  - 🚨 **FINDING 1: passenger liability.** Bryte "Additional Passenger Liability: No" on all 25;
+    the armoured FJ Cruiser (R850,000, mine patrols) says *"Passenger Liability is excluded."*
+    Guards ride in these bakkies every shift. **Santam: R2.5m passenger + R2.5m unauthorised
+    passenger on every vehicle inside the premium.** Hollard: none. Lead with this.
+  - 🚨 **FINDING 2: public liability R1,000,000 on all three, and Santam's memoranda says
+    "EXCLUDES WORKAWAY"** while its own excess table prices work away (same page). A guarding
+    company's only liability is at other people's premises. Gate: work away written in, R5m and
+    R10m priced. Retro 20 Oct 2023 retained at Santam ✓; **Hollard prints no retro date and drops
+    wrongful arrest + legal defence.** Same shape as Lomaen / Vuyos.
+  - **FINDING 3: excess.** Bryte 10% min R10,000 (+ single-vehicle flat R10,000); **Santam 5% min
+    R4,000**; windscreen 25% min R2,500 → R350.
+  - ⚠️ **Bryte's TP contradicts itself:** item pages say Sub-Section B R5,000,000; wording p35
+    says R2,500,000 aggregate, R1,000,000 fire/explosion. Santam R2.5m (ask R5m). **Hollard
+    R1,000,000.**
+  - ⛔ **Hollard benched:** nominated drivers only; TP R1m; no passenger liability; no theft cover
+    on 24/25 without a tracker certificate ("Received: No" on all 25); "Collared Burner" loss-ratio
+    endorsement (extra premium at 70%); 48-hour inspection on every second-hand vehicle; **its item
+    premiums = Bryte's item totals to the cent on 15 of 22 matched** (rest differ by exactly the
+    credit shortfall it dropped). Not a re-rating.
+  - ⚠️ **Fix on Santam before presenting:** (1) **MOT0003 Ranger JN04CFGP (ABSA) quoted "ADFT",
+    not comprehensive**; (2) work away + limit; (3) AD back to R360k over both sites; (4) Samsung
+    R21,000; (5) interests: ABSA, Wesbank ×6, Ford Credit, Phezulu Oil (5 Polos + i10), FJ seller
+    holds title, MSDA as co-insured/owner of the Vitz (Santam says Cordiguard); (6) BMW year 2023
+    vs 2022; (7) regs blank for 3 JACs, BMW, 2 Vitz everywhere; (8) TP R5m; (9) incept 1 Oct 2026
+    (quote expires 23 Sept, "subject to confirmation of claims history").
+  - **Disclose to Santam:** Bryte MOT0012 KV57DMGP cash-settled damage 03/10/2025, proof of repair
+    outstanding. Get the 3-year claims record from Alpina.
+  - 🛰️ **25-unit lead.** Bryte wording requires trackers on every Ranger 2007+, every Polo, >R750k,
+    TWO on the Fortuner (16 of 25; "Required" printed on 11, none fitted). Santam condition on 4,
+    clause 1937 = 20% min R5,000 excess if security not as declared. Hollard: no theft cover at all.
+  - **Not taken anywhere:** GPA for the guards, fidelity, employers' liability, BI. Quote GPA +
+    fidelity next.
+  - **Deliverables built 2 Sept** (`coriguard_proposal_content.html` / `coriguard_playbook_content.html`):
+    client proposal PDF (6pp) + RM playbook PDF (7pp, INTERNAL). No em dashes.
+
 ## Conventions
 - Commit trailers used in this project:
   `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>` + `Claude-Session: …`
