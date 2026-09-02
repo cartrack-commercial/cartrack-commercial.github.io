@@ -119,6 +119,36 @@ insurance **quote comparisons** for the RMs.
   - **Outstanding before signature:** (1) VAPS **written** confirmation pax liability responds for scheduled commuter/scholar/charter + lift to R2.5m/event; (2) OM to add unauthorised pax R2.5m; (3) client's written SASRIA sign-off (no riot cover on buses = their choice); (4) client keep/cut on KP windscreen (off → R28,408.03).
   - **Method catch-outs:** KP third-party has a **R1m fire/explosion sub-limit**; Santam prices pax liability *in the motor rate*; verify decisive cover **per item, not per summary** (that's how the KP e-hailing exclusion was caught, schedule p10). Client website weskaaptoere.co.za proves scheduled/no-e-hailing ops — cite it against KP wording.
   - Deliverables built via `/cartrack-proposal` (sources `weskaap_playbook_content.html`, `weskaap_proposal_content.html`): RM Playbook + Client Proposal (24 Jul). **Skill + files on Anne's Mac — render branded PDFs locally.**
+  - 🆕 **ROUND 6 (2 Sept 2026): ONE quotes the whole account.** Detail in `deal-notes/weskaap-round6-one.md`.
+    **ONE fleet `HCV/1295809`** (ONE Insurance Underwriting Managers FSP 8783, "fleet basis" R390,000/yr flat)
+    **R32,714.04** + **ONE commercial `ONET/1297249.2`** (One Insurance Limited) R3,531.54 = **R36,245.58
+    vs Santam R37,535.20 (−R1,289.62, −3.4%)**. Fleet value **R13,011,084 = Santam's register to the rand,
+    51 units, same comp/TPFT split.** Fleet is flat (−R514); the saving is STP's **R2,897.76/mo broker fee**.
+    - 🚨 **ONE priced the buses as a building.** Its fire section insures "Miscellaneous R8,942,700" =
+      Santam's column-5 subtotal (which contains a **R7,923,960 "Sasria cover for the busses, depot risk
+      only" line at R0.00**) + the diesel again, at R1,341.41 + Sasria R350.82, and rates the P&M and
+      office contents twice. Real property at Uitspan Street = R868,740. **Corrected ONE ≈ R34,581.73
+      (≈ −R2,953/mo, −7.9%, ≈ R35,440/yr).** Get it reissued before the client sees a number.
+    - ⚠️ **A 52nd vehicle:** 2010 Toyota Prado VX CFG41137 on the ONE commercial quote, not on Santam
+      (R1,276.99). Excluding it ONE ≈ R33,305 (≈ −R4,230). Confirm whose it is.
+    - **Liability doubles:** passenger, unauthorised passenger (closes the July ask), third party (incl.
+      fire/explosion), contingent all **R5,000,000** vs Santam R2,500,000. Keys R20k nil excess, wreckage
+      R30k, fire brigade R25k, roadside on cars/LDVs, 10% profit share option.
+    - ⛔ **THE GATE, sixth time: "Passenger Liability R5 000 000" does NOT say fare-paying.** ONE UM's
+      July TOURS quote needed a dedicated FPPL section. Get it printed on the schedule with seat basis.
+    - **Regressions to disclose:** bus own-damage excess **10% of claim min R4,000** (Santam prints no bus
+      excess, voluntary R5,000; cars 5% min R4,000); **no automatic cover for acquisitions**; single-vehicle
+      limit R650,000 (Iveco R1,280,643 declared); hired-in excluded; "final fleet list required", Sasria
+      "to be agreed", re-rate on claims history; valid to **2 Oct 2026**.
+    - Also: fleet quote insurer NOT named (UM paper; office quote is One Insurance Limited; July was OMART);
+      ONE business description omits the bus operation; office contents "Alarm: No" vs theft section
+      "burglar alarm warranty: Yes"; two MAN 65-seaters have no regs on Santam; laptop R5,500 → R15,500.
+    - 🛰️ **Tracking on 10 units or no theft cover** (≥R500k + Hilux/Fortuner/Quantum): Hilux CFG31635,
+      Fortuner HT38DMGP, Quantum CFG16629, Scanias CFG39808 + CFG24228, both MANs, Irizar CFG 43813,
+      Iveco CFG28098, Prado.
+    - **Deliverables 2 Sept** (`weskaap_r6_proposal_content.html` / `weskaap_r6_playbook_content.html`):
+      client proposal 5pp + RM playbook 7pp. Recommendation: ONE, once fire is reissued, FPPL is on
+      the schedule and the insurer is named. Target inception 1 Nov, notice to STP by 30 Sept.
 - **Tech Tech Consulting (Pty) Ltd** (Old Mutual Insure → Bryte). RM: **Cules**. Reconciled like-for-like (identical **12 vehicles / 18 BAR / 18 electronic items**).
   - CURRENT: Old Mutual Insure, policy **PE218826COM** (Ballast Brokers / Frontline) — **R22,423.35/mo**. Source: "Marcus TECH TECH CURRENT POLICY.pdf".
   - PROPOSED: Bryte **QT1018651** — **R16,967.14/mo**. Source: "Bryte commercial quote - Tech Tech MARCUS.pdf".

@@ -170,3 +170,11 @@ insurance@cartrack.com.
 
 The deal's living memory (for future chats) is in Claude's memory file
 `weskaap-busdiens-comparison.md` — it carries the full current state and points here.
+
+
+### Round 6, ONE quotes the whole account (2 Sept 2026)
+Full detail in `weskaap-round6-one.md`. ONE fleet HCV/1295809 R32,714.04 + ONE commercial ONET/1297249.2
+R3,531.54 = R36,245.58 vs Santam R37,535.20. Fleet matches Santam's 51-unit register to the rand. ONE's
+fire section insures R8,942,700 of "miscellaneous" that is Santam's subtotal including a R7,923,960 bus
+Sasria placeholder; corrected ONE is about R34,582. Liability limits double to R5m. Gate unchanged:
+"fare-paying" is not written on the passenger liability line. Packs: `weskaap_r6_*_content.html`.
