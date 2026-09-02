@@ -19,7 +19,8 @@ Source Distribution Agency** (registered owner of the two Toyota Vitz).
 | Bryte `BCOM23-8364-0032049` v9 endorsement 2, printed 12/05/2026 | **Current policy**, 41pp scan, read page by page | ✅ |
 | Santam `STM-CAR0313-STMCN2-0301343` v1, printed 24/08/2026 | Proposed, 76pp scan, read page by page | ✅ |
 | Hollard `QT1026819` (commercial, 19pp) + `QT1026897` (fleet, 25pp) via BrokerBuddy | Proposed, text OK | ✅ |
-| "ONE" quote | ⛔ **WRONG FILE. It is the Gear Lab Roodepoort quote (ONEC/1293516.1, R2,718.29).** Zero mentions of Cordiguard. | ask Elizabeth for the real one |
+| "ONE" quote (first send) | ⛔ Wrong file: the Gear Lab Roodepoort quote (ONEC/1293516.1). | replaced |
+| ONE `ONEC/1296323.1` (89pp, One Insurance Limited t/a ONE, printed 01/09/2026) | **The real ONE quote**, received 2 Sept 10:46 from Elizabeth. Text OK. | ✅ see section below |
 | Proposal form | Blank Tranquille template | useless |
 
 ## Headline, all-in monthly (VAT, Sasria, fees and value-added products included)
@@ -228,3 +229,72 @@ presentable for this client.
 
 - `deal-notes/coriguard_proposal_content.html` → `Cordiguard Security - Cartrack Proposal.pdf` (client)
 - `deal-notes/coriguard_playbook_content.html` → `Cordiguard Security - RM Playbook.pdf` (internal)
+
+
+## ONE `ONEC/1296323.1` (received 2 Sept 2026, after the packs were first built)
+
+One Insurance Limited t/a ONE (reg 2022/500084/06), printed 01/09/2026, "New quote: subject to written
+confirmation of a full 3 year satisfactory claims history from the current and/or previous insurer prior
+to policy inception." Brokerage e-mail on the quote is brendan.kruger@cartrack.com.
+
+**R42,932.86/mo for 27 vehicles** = general R2.08 + office contents R89.37 + BAR R614.33 + AD R375.00 +
+broadform liability R95.00 + motor R40,731.60 + EE R62.50 + solar R112.02 = R42,081.90, + Sasria R850.96
+(EX R0.98, F2 R50.00, **M2 R799.98**). Commission R5,459.94. No fees. Roadside assistance on every vehicle inside.
+
+### The fleet list is not the same list
+
+ONE has **27 vehicles**, Bryte/Santam/Hollard 25. ONE adds **Ford Ranger 2.2 XLS 2019 KZ32XSGP (Wesbank,
+R1,229.02)** and **Ford Ranger 2.2 XLS 4x4 2022 MY91ZHGP (Wesbank, R1,436.63)**; shows the three JACs as
+**ML73JXGP / ML73KCGP / ML73KHGP**, the Vitz as **MX08DTGP / MX08FBGP**, the Land Cruiser as **MJ25CJGP**
+(Bryte HPL366MP) and the Grand i10 as **MR38ZYGP** (Bryte CM91LNZN); three Polos as "Polo Vivo 1.4" (Bryte
+"Polo GP 1.4"). ONE was clearly given a fresher list by the client. **Confirm the true fleet with the
+client; the other three schedules may be two vehicles short.** No sums insured printed (retail value).
+
+**Like-for-like on the 25:** R42,932.86 − R1,229.02 − R1,436.63 − 2 × R29.63 Sasria = **≈ R40,207.95**
+→ **−R8,308.80/mo vs Bryte (−17.1%, ≈ R99,700/yr) and −R5,674.69 vs Santam.** Motor ≈ R38,806.67 incl.
+Sasria vs Bryte R44,448.18 / Santam R44,111.45.
+
+### What is good
+
+- **Broadform liability R1,000,000, occurrence basis** (retro "no cover" is irrelevant on occurrence),
+  **wrongful arrest and defamation R250,000, statutory legal defence R250,000**, gratuitous advice R1m,
+  spread of fire R2m, excess flat R2,500, **R95/mo**. Broadform covers business activities, not just the
+  premises: the best liability section of the four. Condition: disclaimer notice boards at the premises.
+- Non-motor is like-for-like with Bryte: office contents R110,000 (+ theft R27,500, rent, ICOW), BAR 11
+  items R116,999 + solar R44,807 = R161,806 exactly, AD R360,000 over the four items incl. the mine, EE R50,000.
+- Interests noted: ABSA on JN04CFGP, Wesbank on the JACs, Vitz, MY91ZHGP, KZ32XSGP, KZ23XSGP, HWY859FS, Ford
+  Credit on LN08MZGP; general memorandum "the interest of Phezulu Oil is hereby noted for vehicles without
+  a specified financial interest". Credit shortfall 20% of SI on 8 items (R523.42).
+- Basic excess **5% min R3,000** (Santam 5% min R4,000); theft 10% min R5,000; windscreen 25% min R350,
+  nil via ONE glass. BMW 10% min R10,000, locked garage.
+
+### What is wrong or missing (send back before anything is presented)
+
+1. **No passenger liability.** "Passenger Liability" appears on ONE item (Vitz MX08FBGP, R1,000,000) and
+   as "No" on HWY859FS; the other 25 items are silent. **Unauthorised passenger liability R2,500,000 on
+   8 LDVs only**, "No" on 5, absent on 14. Same gap as Bryte. Ask R2.5m and R5m on every vehicle.
+2. **Third-party liability limit printed on 2 of 27 items (R2,500,000)**; the rest show only the R5,000
+   TP excess. Contingent liability R1m on 19, "No" on 8. The schedule reads differently on every page.
+3. **Night-time and single-vehicle loadings:** "+5% of claim between 23:00 and 04:00" and "+5% single
+   vehicle accident" on every item. A patrol bakkie into a pole at 2am pays 15%. Ask for both to be
+   waived for a security fleet, or priced.
+4. **Sasria M2 (goods vehicles) R29.63 on all 27**, including the Polos, Vitz, BMW, Staria, FJ, Fortuner:
+   Bryte rates cars M1 at R2.02. Roughly R580/mo over. Re-class the 11 light motor vehicles as M1.
+5. Tracking: "Tracking device Required: Yes" on 22 of 27; ONE Secure / High-Secure within 21 days or no
+   theft cover, +10% excess in the grace period. Same 25-unit lead, now 27.
+6. Broadform R1,000,000 is still thin: price R5,000,000 and R10,000,000.
+7. Employers' liability "No" on the broadform section: quote it (guards).
+8. Office contents "Alarm System: Yes" with a dual-monitoring alarm warranty: confirm the alarm exists.
+
+### Standings after ONE (like-for-like 25 vehicles, all-in monthly)
+
+| | All-in | vs Bryte | Passenger liability | Liability section | Excess |
+|---|---|---|---|---|---|
+| **ONE** (corrections pending) | ≈ R40,207.95 | ≈ −R8,309 | none as quoted | best: broadform, WA R250k | 5% min R3k, +5% night, +5% single |
+| **Santam** (corrections pending) | R45,882.64 | −R2,634 | **R2.5m + R2.5m on all 25** | claims-made, work-away memo to fix | 5% min R4k |
+| Hollard | R45,628.42 | −R2,888 | none | no WA, no retro | 10% min R5k + loadings |
+| Bryte (current) | R48,516.75 | | none | claims-made, retro 20 Oct 2023 | 10% min R10k |
+
+**Recommendation (revised 2 Sept, 11:00):** ONE if it reissues with passenger + unauthorised passenger
+liability on every vehicle and the night loading removed; Santam (corrected) if it will not. Present both
+to the client on Thursday as "cheapest, being completed" and "ready now, guards covered".

@@ -442,8 +442,15 @@ insurance **quote comparisons** for the RMs.
   site Elandsfontein Moklo Mine (North West). Co-insured **Multi Source Distribution Agency** (owner
   of the two Vitz). RM: **Elizabeth Schlebusch**. Client meeting **Thu 4 Sept 2026 pm**. Full detail
   in `deal-notes/coriguard-security.md`. Analysed 2 Sept 2026.
-  - ⛔ **The "ONE" attachment Elizabeth sent is the GEAR LAB quote** (ONEC/1293516.1, R2,718.29),
-    not Cordiguard's. Real ONE quote still needed. Proposal form = blank Tranquille template.
+  - ⛔ The first "ONE" attachment was the GEAR LAB quote. **The real ONE `ONEC/1296323.1` arrived 2 Sept
+    10:46: R42,932.86 for 27 vehicles** (adds Rangers KZ32XSGP + MY91ZHGP; fresher regs for JACs, Vitz,
+    FJ MJ25CJGP, i10 MR38ZYGP). **Like-for-like on 25 ≈ R40,207.95 = −R8,309 vs Bryte (−17.1%), −R5,675
+    vs Santam.** Best liability section (broadform, occurrence, wrongful arrest + legal defence R250k
+    each, R95/mo) BUT **no passenger liability on 26/27** (R1m on one Vitz), unauthorised pax on 8 only,
+    TP limit printed on 2 of 27, **+5% excess 23:00 to 04:00 and +5% single-vehicle** (a patrol fleet),
+    Sasria M2 on every car (≈R580/mo over), tracking required on 22. Sent back for reissue.
+    **Revised recommendation: ONE if it adds pax liability on all + drops the night loading; else
+    Santam corrected.** Proposal form = blank Tranquille template.
   - **CURRENT: Bryte `BCOM23-8364-0032049`** via **Alpina Brokers** (Stephan van Eeden, FSP 42616),
     review date 01/09/2026 (already rolled) = **R48,516.75/mo** (R46,716.75 + VAPs R1,800:
     One Loyalty R770, Phishield R100, X'S Sure on the BMW R930). Commission R5,995.23/mo.
