@@ -4,7 +4,7 @@
 without that chat lives in this folder, the deal memory, and the `/cartrack-proposal` skill.*
 
 Deal: **Wes-Kaap Busdiens CC** (Vredenburg; trading as WES-KAAP TOERE, weskaaptoere.co.za —
-daily commuter, WCED scholar transport, charter). RM: **Bronwyn**. Broker: Cartrack Insurance
+daily commuter, WCED scholar transport, charter). RM: **Bronwan**. Broker: Cartrack Insurance
 Agency (Pty) Ltd, FSP 17266. ±R13.1m fleet, 34 buses.
 
 ---
@@ -29,7 +29,7 @@ Agency (Pty) Ltd, FSP 17266. ±R13.1m fleet, 34 buses.
   a non-e-hailing platform"), limits R75k/seat / **R2.0m/event** / R10m p.a.
 - **Finding:** OM = genuine like-for-like at +R1,507/mo; KP = most expensive AND its pax cover
   likely doesn't respond for a scheduled bus operator. The "VAPS letter" became the gate.
-- Client (via Bronwyn) then asked to strip SASRIA + roadside from KP; analysis showed roadside
+- Client (via Bronwan) then asked to strip SASRIA + roadside from KP; analysis showed roadside
   alone (a fair cut — Santam has none) made KP cheapest, and advised keeping SASRIA.
 
 ### Round 3 — the benchmark moved (folder `New 24 July/`, docs of 23–25 Jul)
@@ -43,18 +43,89 @@ Agency (Pty) Ltd, FSP 17266. ±R13.1m fleet, 34 buses.
   R2.0m/event **unchanged through two revisions** — the letter remains the gate.
   Optional: windscreen off → R28,408.03 (−R9,127/mo), glass claims then for client's account.
 
-### Final standings (24 Jul)
+### Round 4 — VAPS answered the wrong question (3 Aug 2026)
+New VAPS quote **VAPS52095 alt 21395** (extra vehicle added) + the Santam 25 Jun schedule re-supplied.
+
+- **KP 21395: R34,464.70** (was R33,928.03 on r21389) — +R536.67 = the extra bus plus windscreen
+  R5,520 → R5,640. Fleet SI now **R13,374,583** (Santam R13,011,084). Roadside off, SASRIA R551.01,
+  **broker fee R0.00**. Sections: motor R22,544.31 · pax liab R4,831.66 · windscreen R5,640 ·
+  fire R260.62 · EE R331.26 · BAR R176.67 · theft R129.17 · SASRIA R551.01.
+- Santam benchmark re-confirmed **R37,535.20** off the 25/06/2026 schedule (headline "Total
+  Premium R34,091.26" is pre-fees/SASRIA/VAT — the trap). Santam motor R33,042.33 on R12,941,084.
+- ⛔ **VAPS's reply: *"We cannot increase the per event to R2.5mil as our max is R2mil."*
+  That answers the LIMIT and ignores the WORDING.** Page 10 is unchanged through THREE revisions:
+  cover for *"e-hailing fare paying passenger"*, vehicle must be *"active on an E-hailing platform"*,
+  excluded when *"in use for a non-e-hailing platform"*. Client runs commuter/WCED scholar/charter —
+  **no e-hailing**, so the section may not respond at all. **The gate is NOT cleared.**
+- 🔍 **New find: pax liability appears DUPLICATED** — two identical items on p10, each 34 buses /
+  892 seats / R66,900,000 / R2,415.83, while the motor section lists the fleet once (34 vehicles).
+  If it's an error, KP falls to **R32,048.87** → −R5,486.33/mo ≈ −R65,836/yr. Raise as a question.
+- 🔍 Fleet SI rose but motor still reads **"Number of vehicles 34"** despite the added bus — get the
+  itemised schedule.
+
+### Round 5 — VAPS split fare-paying from non-fare-paying (underwriter’s reply 5 Aug 2026; pack rebuilt 12 Aug)
+**Who to talk to (from the 5 Aug email header — use this, it collapses the loop):**
+underwriter is **Jason, jason@vapshcv.co.za**; VAPS's own footer says *"Please send new underwriting
+requests to **underwriting@vapshcv.co.za**"* with **amendments on a 24-hour turnaround**. VAPS's
+allocation ref for this deal is **R48679345**. ⚠️ The reply reached us **relayed**: Jason → **Tanya Kapp
+(TanyaK@fspsolutions.com)** → Bronwan, cc **Meldon Kruger (meldon@fspsolutions.com)**. Four revisions
+have failed to fix a wording problem partly because every clarification costs two hops — go direct to
+underwriting@ and cc Jason. **Open question for Anne: why is FSP Solutions sitting between Cartrack
+and VAPS on this risk, and whose FSP number/commission is on the schedule?** (FSP Solutions also
+appears on the Hamisa/Kgahlisa Petrosure quote — same "confirm it's ours" question.)
+
+Written reply from the VAPS underwriter (Jason), relayed via Tanya Kapp:
+
+> *"I meant that we would not be able to make endorsements for non-fare paying passenger liability
+> but as per the wording we do cover and will be able to assist with fare paying passenger liability."*
+
+- ✅ **Progress:** first reply that engages the *cover*, not the limit. They confirm the section is
+  intended to respond for **fare-paying** passengers.
+- ⛔ **The gate is still NOT cleared.** "As per the wording" is precisely the problem — page 10 is
+  unchanged through **four** revisions and still reads *"e-hailing fare paying passenger"*, vehicle must
+  be *"active on an E-hailing platform"*, excluded when *"in use for a non-e-hailing platform"*. An
+  underwriter's email does not override a schedule at claims stage; **the document is what responds.**
+  The ask is now narrow: confirm the section responds for scheduled commuter / WCED scholar / charter
+  with NO e-hailing platform, **and issue an amended schedule or endorsement striking the e-hailing
+  qualifiers.**
+- 🔴 **NEW confirmed regression:** VAPS say in writing they **cannot endorse non-fare-paying passenger
+  liability at all**. Santam's current policy carries **R2.5m unauthorised + R2.5m third-party
+  passenger** alongside the R2.5m fare-paying. That is a definite reduction in cover, not a suspicion →
+  **must be disclosed in writing in the Record of Advice before the client decides.**
+  Why it bites on this operator: WCED scholar transport (the department pays, not the child), charter
+  (the organiser pays), conductors/assistants, and anyone carried free — exactly the people who end up
+  in a "was this passenger fare-paying?" argument after a crash.
+- Still open from round 4: the **duplicated pax liability items** (two identical p10 entries, 34 buses /
+  892 seats / R66,900,000 / R2,415.83 each — if an error KP falls to **R32,048.87**, −R5,486.33/mo ≈
+  −R65,836/yr) and the **34 vs 35 vehicle count** on a fleet SI that rose to R13,374,583.
+- **Recommendation unchanged: hold at Old Mutual .4** until an amended KP schedule is issued.
+
+### Standings (12 Aug 2026)
 | | All-in/mo | vs current | Pax liability |
 |---|---|---|---|
-| King Price r21389 | R33,928.03 | −R3,607.17 | R2.0m/event, e-hailing form ⚠ |
-| Old Mutual .4 | R37,304.63 | −R230.57 | R2.5m/vehicle, clean ✓ |
-| Santam current | R37,535.20 | benchmark | R2.5m/vehicle ✓ |
+| King Price 21395 | R34,464.70 | −R3,070.50 | fare-paying: verbally yes (5 Aug), **schedule still says e-hailing** ⚠ · R2.0m/event max · **non-fare-paying confirmed UNAVAILABLE** 🔴 |
+| Old Mutual .4 | R37,304.63 | −R230.57 | R2.5m/vehicle, clean ✓ (unauthorised pax still not taken) |
+| Santam current | R37,535.20 | benchmark | R2.5m fare-paying + R2.5m unauthorised + R2.5m third-party ✓ |
 
-**Outstanding before signature:** (1) VAPS written confirmation that pax liability responds for
-scheduled commuter/scholar/charter ops + lift to R2.5m/event; (2) OM to add unauthorised
-passenger R2.5m; (3) client's written SASRIA sign-off (no riot cover on buses — their choice);
-(4) client's keep/cut decision on KP windscreen. Also pending: Bronwyn's surname + email for
-the proposal contact card.
+**Outstanding before signature:** (1) an **amended KP schedule/endorsement striking the e-hailing
+qualifiers** — a verbal "we do cover" does not fix a schedule that will be read at claim stage;
+(2) the duplicate pax items + the 34/35 vehicle count; (3) OM to add unauthorised passenger R2.5m
+(open since round 2); (4) client's written SASRIA sign-off (no riot cover on buses — their choice);
+(5) **ROA disclosure of the confirmed non-fare-paying regression** if KP is ever put forward.
+**Recommendation held at Old Mutual until an amended schedule is issued.**
+
+**Round 5 deliverables (12 Aug):** `weskaap_proposal_content.html` / `weskaap_playbook_content.html` (updated in place)
+→ `WesKaap Busdiens - Client Proposal 6Aug2026.pdf` + `... RM Playbook 6Aug2026 (INTERNAL).pdf`.
+Recommendation now stated as **Old Mutual**, not "the fallback"; the confirmed non-fare-paying
+regression is disclosed on p2 of the client proposal as the Record of Advice requires.
+
+**Round 4 deliverables (3 Aug):** `weskaap_proposal_content.html` / `weskaap_playbook_content.html`
+→ `WesKaap Busdiens - Client Proposal 3Aug2026.pdf` + `... RM Playbook 3Aug2026 (INTERNAL).pdf`.
+✅ **Name spelling SETTLED — "Bronwan" is correct** (Anne, 3 Aug and re-confirmed 12 Aug; the 28 Jul
+note saying Bronwyn was wrong, and her own WhatsApp contact card showing "Bronwyn Fouche Cartrack"
+is not authoritative — stop re-opening this). Round 4 uses Bronwan; the 24 Jul pack and the Hamisa Safety pack still
+say Bronwyn and need rebuilding if that matters. Direct email still unknown; packs carry
+insurance@cartrack.com.
 
 ## Method (how the comparison was done)
 
@@ -99,3 +170,11 @@ the proposal contact card.
 
 The deal's living memory (for future chats) is in Claude's memory file
 `weskaap-busdiens-comparison.md` — it carries the full current state and points here.
+
+
+### Round 6, ONE quotes the whole account (2 Sept 2026)
+Full detail in `weskaap-round6-one.md`. ONE fleet HCV/1295809 R32,714.04 + ONE commercial ONET/1297249.2
+R3,531.54 = R36,245.58 vs Santam R37,535.20. Fleet matches Santam's 51-unit register to the rand. ONE's
+fire section insures R8,942,700 of "miscellaneous" that is Santam's subtotal including a R7,923,960 bus
+Sasria placeholder; corrected ONE is about R34,582. Liability limits double to R5m. Gate unchanged:
+"fare-paying" is not written on the passenger liability line. Packs: `weskaap_r6_*_content.html`.
