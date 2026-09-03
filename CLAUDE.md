@@ -14,6 +14,12 @@ insurance **quote comparisons** for the RMs.
 | **RM System** (pipeline, clients, payroll, Command View) | `cartrack-commercial/cartrack-rm-system` | `…github.io/cartrack-rm-system/` |
 | **Premium Comparison portal** | `cartrack-commercial/cartrack-premium-comparison` | `…github.io/cartrack-premium-comparison/tool.html` |
 
+- 🚫 **NETLIFY IS NOT INVOLVED.** No `netlify.toml`, no Netlify build, no functions, in any of the
+  three repos. Hosting is GitHub Pages off `main`; the data path is browser → supabase-js → Supabase
+  PostgREST → Postgres, with no back end of ours in between. Anne's personal Netlify team does hold
+  three CLI-uploaded sites (`krugerhouse`, `eminentwealthmedical`, `radiant-mermaid-ac8ce7`), but none
+  is a Cartrack app. Wiring reference (3 Sept 2026):
+  https://claude.ai/code/artifact/b0838e98-0833-45b9-b917-dd4948279f67
 - **Deploy = commit + push to `main`.** No build step, no code to paste — Pages rebuilds in ~1–2 min. The apps in `/workspace/<repo>` are the working clones (add via `add_repo` if not in session scope).
 - **Version stamp:** bump `const APP_VERSION='v2026.MM.DDx'` in the RM app on every push (shows on the sign-in card so support knows what a phone is running).
 - **Design system for the APPS:** "Compliance DS" — Saira (headings) + IBM Plex Sans (body) + IBM Plex Mono (mono), near-black `#0B0C0F` ink + brand orange `#F47735`. Home-screen icons = white Cartrack arrow on `#0B0C0F` (in each repo's `assets/`).
