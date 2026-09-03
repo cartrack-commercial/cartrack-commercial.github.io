@@ -25,6 +25,14 @@ insurance **quote comparisons** for the RMs.
 - **Design system for the APPS:** "Compliance DS" — Saira (headings) + IBM Plex Sans (body) + IBM Plex Mono (mono), near-black `#0B0C0F` ink + brand orange `#F47735`. Home-screen icons = white Cartrack arrow on `#0B0C0F` (in each repo's `assets/`).
 
 ### RM System notes
+- 🔐 **RLS check, and why RLS alone cannot fix this (3 Sept 2026).** Run
+  `deal-notes/rm-system-rls-check.sql` in the SQL editor: it reports RLS on/off per table, every
+  policy with its role and rule, and anon's table grants. **Read all three, not just the first.**
+  The app holds no Supabase Auth session, so every request arrives as `anon`; any policy loose
+  enough for the app to work is loose enough for anyone who copies the key out of the page source.
+  So RLS being ON is necessary but not sufficient, and payroll cannot be truly closed until
+  Supabase Auth is in (roadmap, ~20h). Sandboxed web sessions cannot reach Supabase to test this;
+  the SQL has to be run from Anne's browser.
 - Supabase-backed (anon key in client; **RLS is the only protection — payroll holds salaries, confirm RLS is locked down**; no server-side auth, PIN gate is client-side only). Tables: `deals`, `portfolio`, `payroll`, `config`, `orgs`, plus `users`/`activity`.
 - **Which Supabase project:** ref `govvmqgpxzbqghzgcitb`, project **`cartrack-rm-system`**, under org **annekruger3010-svg's Org** (✅ **on the Pro plan** — daily backups, 7-day retention; PITR is a separate ~$100/mo add-on and is NOT taken) — *not* the "Kruger House" org, whose project has none of these tables. SQL Editor: `https://supabase.com/dashboard/project/govvmqgpxzbqghzgcitb/sql/new`.
 - Saves are merge-safe per-row upserts; durable localStorage outbox for mobile resilience.
@@ -75,6 +83,12 @@ insurance **quote comparisons** for the RMs.
 
 1. **Extract every schedule.** `pdftotext -layout` for digital PDFs; **Read the pages as images** when it's an iPhone/CamScanner photo (no text layer — e.g. Twin Trans current). Never guess a figure off a faded scan.
 2. **Reconcile to the cent.** Compare on the **all-in monthly (VAT + fees + SASRIA included)** figure. ⚠️ SA schedules often show a "Total Premium" that is *before* fees/SASRIA/VAT — find the true all-in (e.g. WesKaap Santam headline R34,091 vs real all-in **R43,946.83**).
+2b. ⚠️ **If a like-for-like adjustment moves an insurer's headline, PRINT THE AS-QUOTED TOTAL
+   NEXT TO IT, on the cover and in the table.** The RM and the client both read our pack with the
+   insurer's own quote open beside it. A number that does not appear on either document reads as
+   an error and the pack loses. Caught 3 Sept 2026: the Cordiguard pack led with ONE at
+   ≈R40,208 (the honest like-for-like on 25 vehicles) while ONE's quote says R42,932.86 for 27,
+   and Elizabeth flagged the mismatch. Name the gap and what causes it, every time.
 3. **Line-for-line**, current vs each proposal, with a per-line verdict + plain-English "why".
 4. **Recommendation logic:** *dearer-but-better = still move; only a genuine cover GAP justifies holding.* Credit a proposal for extra cover the current lacks (don't treat added cover as just "more expensive").
 5. **The decisive cover varies by client type** — find it and lead with it:

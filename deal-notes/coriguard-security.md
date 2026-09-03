@@ -298,3 +298,29 @@ Sasria vs Bryte R44,448.18 / Santam R44,111.45.
 **Recommendation (revised 2 Sept, 11:00):** ONE if it reissues with passenger + unauthorised passenger
 liability on every vehicle and the night loading removed; Santam (corrected) if it will not. Present both
 to the client on Thursday as "cheapest, being completed" and "ready now, guards covered".
+
+---
+
+## Correction, 3 September 2026 (Elizabeth)
+
+Elizabeth read the pack against ONE's quote and flagged that they show different numbers:
+our proposal led with **R40,208** while **ONE's quote says R42,932.86**.
+
+**Both figures are right.** R42,932.86 is ONE's total for **27 vehicles**. R40,207.95 is the same
+quote reduced to the **25 vehicles** the other three insurers priced, by removing the two Ford
+Rangers ONE added that are not on the Bryte schedule: **KZ32XSGP R1,229.02 + MY91ZHGP R1,436.63 +
+R29.63 Sasria each = R2,724.91**. Without that reduction the four columns would not be comparable.
+
+**What was wrong was the presentation, not the arithmetic.** The cover card and the table total
+led with the adjusted figure and the as-quoted total appeared once, in brackets, mid-page. Anyone
+holding both documents sees two different prices for the same insurer and assumes we slipped.
+
+Fixed in both packs, rebuilt 3 Sept:
+- Cover stat now reads `-R8,309 on your 25 · ONE quoted R42,933 for 27`.
+- A callout **"Why our ONE figure is not the figure on ONE's quote"** sits directly under the
+  comparison table, naming both totals, both Rangers and the R2,724.91.
+- Playbook hero stat now reads `on your 25 · quoted R42,932.86 for 27`.
+
+**Question this raises for the client:** are those two Rangers Cordiguard vehicles that should be
+on the policy? If yes, ONE's R42,932.86 is the real price and it is still the cheapest of the four.
+Confirm at the meeting.
