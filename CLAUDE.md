@@ -18,6 +18,28 @@ insurance **quote comparisons** for the RMs.
 - **Version stamp:** bump `const APP_VERSION='v2026.MM.DDx'` in the RM app on every push (shows on the sign-in card so support knows what a phone is running).
 - **Design system for the APPS:** "Compliance DS" — Saira (headings) + IBM Plex Sans (body) + IBM Plex Mono (mono), near-black `#0B0C0F` ink + brand orange `#F47735`. Home-screen icons = white Cartrack arrow on `#0B0C0F` (in each repo's `assets/`).
 
+### Commercial Performance Intelligence — DUMMY edition (`performance-intelligence/` in THIS repo)
+- Built 7 Sep 2026 as the twin of the actuary's call-centre pack ("CIA Performance Intelligence v1.1": Montserrat light/dark shell,
+  13 pages Executive → nine questions → journey → month → Jul vs Aug → inefficiencies at 3 levels → analytics → forward view →
+  desk/RM drill-down → roadmap, one embedded `BB` data blob, SVG primitives, mask-names toggle). Same coding, pointed at the RM
+  division on the RM System's own vocabulary (7 stages, 4 lead sources, 8 lost reasons, 7-day stale rule, 12.5% brokerage).
+  Live at `…github.io/performance-intelligence/` once on `main`. `#p=<code>` deep links (`a q j m c i v x n f g p r`); `#smoke` self-check.
+- **ALL DATA SIMULATED, ROSTER FICTIONAL.** The repo is public → never put real RM names next to fake numbers. `RM_DISPLAY={}` in
+  `index.html` is a local-only name override map; leave it empty in the committed file. `python3 build_data.py` regenerates
+  (seed 20260907) and injects the blob between the `@@BB@@` markers. No live Supabase data was touched.
+- Definitions (keep for the live version): stage rates are **cohort rates with maturity windows**, never period ratios — contact
+  in-month; schedules ≤21 d of contact; proposal ≤14 d of schedules; win ≤21 d of proposal; only deals whose window has elapsed by
+  the data cut count. Headline lever = the **14-day proposal rule** (schedules in → proposal out); blind desks = Dealerships +
+  Renewal Book (premium, no pipeline records) — the commercial analogue of the floor's Islands 4/5.
+- To go live: replace `simulate()` in `build_data.py` with a reader over Supabase `deals` + the per-RM activity log + `portfolio`.
+  Aggregation, benchmarks, ledger, tests and the whole HTML stay as they are. Fields the live record lacks (segment, sale class,
+  chosen lead source, per-insurer quote dates) are listed on the app's nine-questions and roadmap pages.
+- The actuary's original file carries real agent names and performance data → it stays OFF this public repo (session upload only).
+- ⚠️ **Security finding (7 Sep, while reading the public `cartrack-rm-system` source for vocabulary):** the masterkey passcodes
+  (Brendan, Lourie, Bernard, the Anne/Brendan operator code, Juan's key) and a `SEED_DEALS` block with real prospect names and
+  premiums are hard-coded in that repo's `index.html`, and the repo is public. Anyone with the URL can open Command View and
+  Payroll. Fix: move the gate to Supabase Auth + RLS; at minimum rotate every code and strip `SEED_DEALS` from the public file.
+
 ### RM System notes
 - Supabase-backed (anon key in client; **RLS is the only protection — payroll holds salaries, confirm RLS is locked down**; no server-side auth, PIN gate is client-side only). Tables: `deals`, `portfolio`, `payroll`, `config`, `orgs`.
 - Saves are merge-safe per-row upserts; durable localStorage outbox for mobile resilience.
