@@ -1,7 +1,7 @@
 /* Launcher service worker — instant open on poor signal.
    Network-first, falling back to cache: the freshest launcher is served when
    online; the cached shell only kicks in offline. */
-const CACHE = 'ct-launcher-v2';
+const CACHE = 'ct-launcher-v3';
 const SHELL = [
   './',
   './index.html',
