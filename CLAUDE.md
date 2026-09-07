@@ -40,6 +40,33 @@ insurance **quote comparisons** for the RMs.
   premiums are hard-coded in that repo's `index.html`, and the repo is public. Anyone with the URL can open Command View and
   Payroll. Fix: move the gate to Supabase Auth + RLS; at minimum rotate every code and strip `SEED_DEALS` from the public file.
 
+### Commercial Performance Intelligence — LIVE edition (`cartrack-rm-system/intelligence.html`)
+- Built 7 Sep 2026 (PR on branch `claude/hopeful-fermat-c4ahbm` in BOTH repos). Same 13 pages and coding as the dummy, but the
+  data blob is **computed in the browser from a payload the RM System hands over** — no second gate, no second copy of the
+  passcodes, no Supabase call from the page itself. Lives at `…github.io/cartrack-rm-system/intelligence.html`; launcher tile
+  points there (`v2026.09.07b`, sw `ct-launcher-v3`); the dummy keeps its own tile ("demo edition").
+- **Hand-off contract:** Command View → tab **📈 Intelligence** → `openIntelligence()` in `index.html` loads every RM's deals,
+  house deals, lost lists, the whole change journal (`sGet('changes:')`), every book and every payroll month, writes
+  `sessionStorage['ct-pi-payload'] = {v:1, at, viewer, roster[], deals[], lost{slug:[]}, journal[], portfolio[], payroll[{month,rows}], settings{target}}`
+  and navigates to `./intelligence.html` **in the same tab** (sessionStorage is per-tab, dies with it). Payroll rows are trimmed
+  to `client, rm, premium, insurer, policy` — **salaries are never in the payload**; `S.meta` is only read for `piTarget`.
+  `?demo=1` (optional `&seed=`) renders the fictional roster instead; with no payload the page shows a lock screen.
+- **Target:** `settings.target` comes from the RM System config row `meta.piTarget` (new monthly premium a month, pipeline only);
+  until it is set the page uses R600,000 and says so on the Executive and Forward pages.
+- **How the page derives what the deal row lacks:** the journal is replayed per deal (`parseJ` = the RM app's `_recParse`
+  regexes + "won" forms) to recover created-at and the date each stage was reached; deals with no journal line have no
+  creation date and are **excluded from every cohort rate, never guessed** (coverage is stated in the sidebar and on the
+  Month page). Stage 7 + archived = won; `lost:<slug>` record = lost; `stageEntryDate` = current stage date; stale = 7 days idle.
+- **Channel = lead source** is the middle tier (Cartrack Data is the field default, so it is flagged as overstated) plus a
+  **Renewal book** blind row from the portfolio's renewal dates. Month pair is selectable (default = last two complete months);
+  a running month renders "to date" with cohort rates on the matured part only.
+- `#smoke` self-check walks every page × month × channel × issue × level × RM × pair and scans the DOM for `NaN/undefined/null`
+  leaks (361 steps green in demo mode and via a sessionStorage harness, 7 Sep). **Not yet exercised against live Supabase data**
+  (the sandbox cannot reach supabase.co): the first real open from Command View is the live test — check the sidebar counts
+  and the Executive lede first.
+- **Names on the live page are real** → management screen only. `RM_DISPLAY={}` stays empty; the mask toggle covers RM and
+  prospect names for screenshots. Passcode/`SEED_DEALS` security finding (below) is unchanged by this work.
+
 ### RM System notes
 - Supabase-backed (anon key in client; **RLS is the only protection — payroll holds salaries, confirm RLS is locked down**; no server-side auth, PIN gate is client-side only). Tables: `deals`, `portfolio`, `payroll`, `config`, `orgs`.
 - Saves are merge-safe per-row upserts; durable localStorage outbox for mobile resilience.

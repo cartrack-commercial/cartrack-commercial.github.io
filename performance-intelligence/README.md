@@ -84,3 +84,10 @@ Everything downstream of `simulate()` — aggregation, benchmarks, ledger, tests
 of `index.html` stays as it is. Fields the live record does not have yet (segment, sale class,
 a chosen lead source, per-insurer quote dates) are listed on the app's *nine questions* and
 *roadmap* pages as the fixes that would unlock them.
+
+## Live edition
+
+The live version of this pack is `cartrack-rm-system/intelligence.html`. It keeps these pages and definitions and
+replaces the embedded blob with a client-side aggregation of a payload the RM System writes to `sessionStorage`
+after the Command View sign-in (see the CLAUDE.md in the launcher repo for the payload contract). This dummy edition
+stays as the version safe to send outside the division.
