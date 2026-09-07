@@ -23,7 +23,7 @@ insurance **quote comparisons** for the RMs.
   13 pages Executive → nine questions → journey → month → Jul vs Aug → inefficiencies at 3 levels → analytics → forward view →
   desk/RM drill-down → roadmap, one embedded `BB` data blob, SVG primitives, mask-names toggle). Same coding, pointed at the RM
   division on the RM System's own vocabulary (7 stages, 4 lead sources, 8 lost reasons, 7-day stale rule, 12.5% brokerage).
-  Live at `…github.io/performance-intelligence/` once on `main`. `#p=<code>` deep links (`a q j m c i v x n f g p r`); `#smoke` self-check.
+  Live at `…github.io/performance-intelligence/` (merged to `main` 7 Sep; launcher has a **Management** section with its tile, launcher `v2026.09.07`, sw cache `v2`). `#p=<code>` deep links (`a q j m c i v x n f g p r`); `#smoke` self-check.
 - **ALL DATA SIMULATED, ROSTER FICTIONAL.** The repo is public → never put real RM names next to fake numbers. `RM_DISPLAY={}` in
   `index.html` is a local-only name override map; leave it empty in the committed file. `python3 build_data.py` regenerates
   (seed 20260907) and injects the blob between the `@@BB@@` markers. No live Supabase data was touched.
