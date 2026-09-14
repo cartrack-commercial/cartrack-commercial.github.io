@@ -514,6 +514,51 @@ insurance **quote comparisons** for the RMs.
   - **Deliverables built 2 Sept** (`coriguard_proposal_content.html` / `coriguard_playbook_content.html`):
     client proposal PDF (6pp) + RM playbook PDF (7pp, INTERNAL). No em dashes.
 
+- **Arboretum Primary School and Pre-Primary School FTRRI** (Richards Bay; two campuses, 3 school
+  buses, buildings R45.9m). RM: **Hein van Rooyen**. ✅ **UNBLOCKED 14 Sept 2026** (was "blocked on a
+  clean Marsh schedule"). Full detail in `deal-notes/arboretum-primary.md`.
+  - **A better scan of the current Santam schedule arrived**: the 1 Sept file was pure black/white
+    (2 grey values, figures gone); the new one has 200+ grey levels and **every sum insured is
+    legible**. ⚠️ **Premiums are still zeroed out** (every section 0.00, Total Due blank), so the
+    current price remains unknown. Anne's standing rule on the R30,000 still applies.
+  - Current: **Santam via Marsh `77115603*002` v11**, Ronel Irvine, anniversary **01/04/2027**.
+  - **Three-way: Hollard `HOL-CAR0313-NBUS2-0303527` R23,516.03 · ONE `EDU/1294794.1` (OMART)
+    R24,093.16 · Bryte `QT1029359` via BrokerBuddy R29,672.78.** All reconcile to the cent.
+  - 🚨 **BENCH HOLLARD. Endorsement LIA_011 "Schools exception" excludes child molestation or sexual
+    abuse, wrongful or excessive discipline, and bullying or harassment**, and a memo excludes
+    **pupil-to-pupil liability**. Limit **R1,000,000** claims-made **retro = inception**; no legal
+    defence, no wrongful arrest, no products. EL cut R5m → R1m. Its **R17.5m umbrella needs a R2.5m
+    underlying but the underlying is R1m** (same defect as Western/Powerflow). ⚠️ Two Hollard PDFs
+    share one quote number: 10:28 superseded by 11:07 "corrected Combined Liability to R1m", and
+    **the premium did not move when the limit did**.
+  - 🚨 **BENCH BRYTE: "Passenger liability: No" on all 11 items**, incl. both Quantums and the Iveco
+    midibus (unauthorised pax R2.5m only). Also 4 data errors: CH07GJZN coded **10 seat** vs Santam
+    **14**; Venter Traveller trailer coded as a **2007 Force Traveller minibus**; a trailer dated
+    **1925**; both tractors reg "Required".
+  - ⚠️ **CORRECTS the 1 Sept briefing on three points.** (1) **ONE's R5m passenger liability is a
+    MATCH of Santam, not an upgrade** (the old pack told Hein to lead with it as better). (2) Glass
+    **R10,000** and (3) accidental damage **R20,000** are on the CURRENT Santam schedule at exactly
+    those figures, so they are standing gaps, not ONE placeholders. Printers R1,699,778 likewise
+    copied from Santam to the rand.
+  - **Current-policy cover nobody has costed:** liability is **R1m + R20m top-up on an OCCURRENCE
+    basis** (top-up applies to PL only, motor TPL and EL deleted), **teacher liability + pupil
+    liability included**, **PI teacher & scholars R1,000,000**, legal defence R500k, wrongful arrest
+    R250k; **employers liability R5m claims-made with retro 01/04/2008** (18 years of tail);
+    **escalation + inflation R9,952,238** across both buildings (no quote carries it); **Government
+    is a co-insurer for the balance of the Waterberry Wood buildings**; **Leaf Technologies' interest**
+    noted on EE (36 leased Intel NUCs R499,905); Dangerous Activity Exception (fireworks, fairground
+    rides, animals, archery) already excludes a school fete today.
+  - ✅ ONE is **better on the surge excess** (10% min R2,000 vs Santam 20% min R2,500), ⛔ but its PL
+    is conditional on **COM 0003 disclaimer notice boards at the entrances**.
+  - **No theft, no fidelity, no BI** on the current policy or any quote. Standing gaps. Fidelity first.
+  - **Recommend ONE**, subject to 5 fixes: all three entities named (ONE names only the primary
+    school), retro dates on broadform + EL, teacher/pupil/PI priced, escalation + inflation,
+    inception date (still reads 01/01/3000, renewal 01/08/2027 vs anniversary 01/04/2027).
+  - **Deliverables 14 Sept** (`arboretum_proposal_content.html` / `arboretum_playbook_content.html`):
+    client proposal 6pp + RM playbook 6pp (INTERNAL).
+- **Gateway School & Society** (Phillip Van Wyk). Current schedule + **King Price `COM58558`**,
+  **BrokerBuddy** and **Auto & General** quotes are in Gmail (11 + 14 Sept). ⏳ Not yet started.
+
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 
 - **Second small loss, 2 Sept 2026.** Elizabeth's "Missing work" tab showed **geo fire (R4,100/m) and
