@@ -588,6 +588,10 @@ insurance **quote comparisons** for the RMs.
   `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>` + `Claude-Session: …`
 - Never put the model id in commits / code / PRs (chat only).
 - People's pronouns: use they/them unless stated. **Jean = he.**
+- 📲 **ALWAYS end a comparison with the Afrikaans WhatsApp for the RM.** Every pack ships with one:
+  informal Afrikaans, English words mixed in, no em dashes, the headline number, the one finding
+  that decides it, and what the RM must do next. Anne should never have to ask for it. (Standing
+  instruction, restated 14 Sept 2026.)
 - 🚫 **NEVER use an em dash (the long dash). Anne hates it and says it reads as AI-written.**
   This is permanent and applies to EVERYTHING: WhatsApp messages, client proposals, RM playbooks,
   e-mails, deal notes, chat replies. Use a comma, a colon, brackets, or start a new sentence
