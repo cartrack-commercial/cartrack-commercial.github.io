@@ -556,8 +556,49 @@ insurance **quote comparisons** for the RMs.
     inception date (still reads 01/01/3000, renewal 01/08/2027 vs anniversary 01/04/2027).
   - **Deliverables 14 Sept** (`arboretum_proposal_content.html` / `arboretum_playbook_content.html`):
     client proposal 6pp + RM playbook 6pp (INTERNAL).
-- **Gateway School & Society** (Phillip Van Wyk). Current schedule + **King Price `COM58558`**,
-  **BrokerBuddy** and **Auto & General** quotes are in Gmail (11 + 14 Sept). ⏳ Not yet started.
+- **The Gateway School and Gateway Society FTRR&I** (school for special-needs children, Van Dalen
+  Street North, Ruimsig, Roodepoort 1724; reg 2000/260903/07, NPO; **21 Toyota Quantum Sesfikile 15
+  and 16 seaters** on a 25-item fleet). RM: **Phillip Van Wyk**. Three-way done 15 Sept 2026, full
+  detail in `deal-notes/gateway-school.md`.
+  - ⚠️ **NOT a current-versus-proposed comparison.** The current policy is **Alpha
+    `ALPHACOM204975`** (Alpha is a UMA, Guardrisk carries the risk) and the schedule never reached us
+    (stuck as a cloud placeholder on Anne's Mac; suggested the Google Drive → My Drive/Comparisons
+    route). Phillip asked for "'n volledige vergelyking tussen die drie kwotasies", so quote vs quote
+    is the deliverable; the Alpha benchmark is a later layer.
+  - **All-in monthly, all three reconcile to the cent: Bryte via BrokerBuddy Specialised (FSP 17703)
+    `QT1029228` R41,359.96 · King Price (FSP 43862) `COM58558` R42,901.67 · Auto & General
+    (FSP 16354) R46,795.48.** King Price commission R6,941.46/mo, broker fee R0.00.
+  - 🚨 **THE FINDING: King Price prints "Passenger liability: Private and LDV only"
+    R3,000,000 on all 25 vehicle items** (same on unauthorised passengers). A Quantum Sesfikile is a
+    minibus, so the printed limit does not fit the vehicle class and on a plain reading will not
+    respond. **Same shape as Wes-Kaap Busdiens**, where King Price via VAPS printed pax liability on
+    an e-hailing RTU form for a scheduled bus operator. **Second time, same insurer.** Bryte gives
+    R2,500,000 on 23 of 25; A&G R2,500,000 on 21.
+  - 🚨 **THE COUNTER-FINDING: King Price is the ONLY quote rated as a school**
+    ("Schools / swimming schools" vs Bryte's **"Industry: Unspecified"**): PL **R25,000,000** (Bryte
+    R20m, A&G **R5m**), **teacher liability**, **pupil liability incl. pupil-to-pupil**, **PI
+    R1,000,000** covering wrongful expulsion of a scholar, post-traumatic counselling R2k/person
+    R10k/event, special-event cancellation R5k/event, food and drink extension, and **the insured is
+    defined to include principal, teachers, student teachers, pupils, governing-body trustees and the
+    PTA**. So the R1,542/mo gap is a different policy, not a rating difference.
+  - **Recommendation: King Price, CONDITIONAL on passenger liability being extended to the minibuses
+    in writing.** If refused, the deal becomes **Bryte re-rated as a school** and needs a new pack.
+    **Bench A&G**: dearest, PL R5m, no EL, no fidelity, no glass, no GIT, AD R25,000 vs R75,000.
+  - ⚠️ **Admin gates:** (1) Bryte VAT number **`9517532`** is 7 digits (SA VAT is 10 starting
+    with 4, same error shape as Gear Lab); (2) **about 10 of the 21 buses carry no registration** on
+    the Bryte schedule (items 6, 10, 11, 12, 13, 14, 17, 18, 20, 21); (3) **buildings disagree by
+    R4,667,734** (Bryte R91,377,112 vs A&G R86,709,378) on the same premises; (4) **BI is R297,000 on
+    all three**, identical, so nobody has calculated it; (5) **no employers liability anywhere**.
+  - 🛰️ **24-unit Cartrack lead, written into the quotes as a condition of theft cover.**
+    Bryte's "Tracking Device" field reads **"Early warning system required" on 21 of 25 items**, 3
+    "Unspecified", and **exactly one vehicle has a tracker (Netstar)**; security on the rest is
+    "Factory fitted immobilizer". King Price: *all vehicles need an immobiliser or tracking, anything
+    ≥R500,000 needs tracking, tested every 6 months*, and **non-compliance = an extra excess of
+    25% of the claim**. A&G theft excess **R5,600 or 7.5% of value, whichever is higher, waived
+    entirely if a tracking device is fitted** (≈R33,750 on a R450k Quantum). A&G records daytime
+    parking as **"ROAMING"**.
+  - **Deliverables built 15 Sept** (`gateway_proposal_content.html` / `gateway_playbook_content.html`):
+    client proposal PDF (6pp) + RM playbook PDF (7pp, INTERNAL). Afrikaans WhatsApp sent for Phillip.
 
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 
