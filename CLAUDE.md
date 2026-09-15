@@ -557,54 +557,74 @@ insurance **quote comparisons** for the RMs.
   - **Deliverables 14 Sept** (`arboretum_proposal_content.html` / `arboretum_playbook_content.html`):
     client proposal 6pp + RM playbook 6pp (INTERNAL).
 - **The Gateway School and Gateway Society FTRR&I** (school for special-needs children, Van Dalen
-  Street North, Ruimsig, Roodepoort 1724; reg 2000/260903/07, NPO; **21 Toyota Quantum Sesfikile 15
-  and 16 seaters** on a 25-item fleet). RM: **Phillip Van Wyk**. Three-way done 15 Sept 2026, full
-  detail in `deal-notes/gateway-school.md`.
-  - ⚠️ **INCOMPLETE, and the first pass got the documents wrong twice (corrected 15 Sept).**
-    (1) **The current policy schedule WAS sent**, 11 Sept, as `Gateway School Schedules 1.pdf`
-    ("I have attached their quotation together with the client's current policy schedule"). It never
-    reached the analysis, so the three-way carries **no current benchmark**. (2) **Alpha
-    `ALPHACOM204975` is a FOURTH QUOTE, not the incumbent** ("Sien asb die aangeheg Alpha Quote, kan
-    ons hom dalk in die comparison in-werk?", 14 Sept 13:47). **The real job is four quotes against
-    the current schedule.** 📌 **Lesson: when a mail says an attachment is the current
-    schedule and it is not in hand, say so and ask for it by filename. Do not infer an incumbent
-    from a quote.**
-  - **All-in monthly, all three reconcile to the cent: Bryte via BrokerBuddy Specialised (FSP 17703)
-    `QT1029228` R41,359.96 · King Price (FSP 43862) `COM58558` R42,901.67 · Auto & General
-    (FSP 16354) R46,795.48.** King Price commission R6,941.46/mo, broker fee R0.00.
-  - 🚨 **THE FINDING: King Price prints "Passenger liability: Private and LDV only"
-    R3,000,000 on all 25 vehicle items** (same on unauthorised passengers). A Quantum Sesfikile is a
-    minibus, so the printed limit does not fit the vehicle class and on a plain reading will not
-    respond. **Same shape as Wes-Kaap Busdiens**, where King Price via VAPS printed pax liability on
-    an e-hailing RTU form for a scheduled bus operator. **Second time, same insurer.** Bryte gives
-    R2,500,000 on 23 of 25; A&G R2,500,000 on 21.
-  - 🚨 **THE COUNTER-FINDING: King Price is the ONLY quote rated as a school**
-    ("Schools / swimming schools" vs Bryte's **"Industry: Unspecified"**): PL **R25,000,000** (Bryte
-    R20m, A&G **R5m**), **teacher liability**, **pupil liability incl. pupil-to-pupil**, **PI
-    R1,000,000** covering wrongful expulsion of a scholar, post-traumatic counselling R2k/person
-    R10k/event, special-event cancellation R5k/event, food and drink extension, and **the insured is
-    defined to include principal, teachers, student teachers, pupils, governing-body trustees and the
-    PTA**. So the R1,542/mo gap is a different policy, not a rating difference.
-  - **Recommendation: King Price, CONDITIONAL on passenger liability being extended to the minibuses
-    in writing.** If refused, the deal becomes **Bryte re-rated as a school** and needs a new pack.
-    **Bench A&G**: dearest, PL R5m, no EL, no fidelity, no glass, no GIT, AD R25,000 vs R75,000.
-  - ⚠️ **Admin gates:** (1) Bryte VAT number **`9517532`** is 7 digits (SA VAT is 10 starting
-    with 4, same error shape as Gear Lab); (2) **about 10 of the 21 buses carry no registration** on
-    the Bryte schedule (items 6, 10, 11, 12, 13, 14, 17, 18, 20, 21); (3) **buildings disagree by
-    R4,667,734** (Bryte R91,377,112 vs A&G R86,709,378) on the same premises; (4) **BI is R297,000 on
-    all three**, identical, so nobody has calculated it; (5) **no employers liability anywhere**.
-  - 🛰️ **24-unit Cartrack lead, written into the quotes as a condition of theft cover.**
-    Bryte's "Tracking Device" field reads **"Early warning system required" on 21 of 25 items**, 3
-    "Unspecified", and **exactly one vehicle has a tracker (Netstar)**; security on the rest is
-    "Factory fitted immobilizer". King Price: *all vehicles need an immobiliser or tracking, anything
-    ≥R500,000 needs tracking, tested every 6 months*, and **non-compliance = an extra excess of
-    25% of the claim**. A&G theft excess **R5,600 or 7.5% of value, whichever is higher, waived
-    entirely if a tracking device is fitted** (≈R33,750 on a R450k Quantum). A&G records daytime
-    parking as **"ROAMING"**.
-  - ⚠️ **Deliverables built 15 Sept are PROVISIONAL and must NOT go to Phillip yet**
-    (`gateway_proposal_content.html` / `gateway_playbook_content.html`): client proposal 6pp + RM
-    playbook 7pp. They analyse three quotes with no current benchmark and no Alpha column. Rebuild
-    once `Gateway School Schedules 1.pdf` and the Alpha quote are in hand.
+  Street North, Ruimsig, Roodepoort 1724; reg 2000/260903/07, NPO; **21 Toyota Quantum Sesfikile
+  midi-buses** + 3 trailers + 1 LDV = 25 items). RM: **Phillip Van Wyk**. Four-way done 15 Sept 2026,
+  full detail in `deal-notes/gateway-school.md`.
+  - **CURRENT: Old Mutual Insure, `OMI - MULTISURE 2024.4`, policy `MUF-PWV0680-M-0208559`** (insurer
+    ref 690934272) via **PWV Insurance Brokers** FSP 22500, agency `PWV0680`, broker **Gerda Baker**;
+    administrator Broker Solutions Group FSP 31598. **On risk since 01/09/2010**, review date
+    **01/09/2026 (already rolled)**, version 22 printed 11/08/2026. **All-in R46,640.87/mo**
+    (R45,936.34 + Sasria R657.77 + Sasria shortfall R46.76; VAT R6,083.59; fees R0.00).
+    ⚠️ **95-page scan with no text layer**, read as page images (256 grey levels).
+  - **Four-way, all reconcile to the cent: Bryte via BrokerBuddy `QT1029228` R41,359.96
+    (−R5,280.91/mo, −R63,371/yr) · King Price `COM58558` R42,901.67 (−R3,739.20)
+    · Alpha `ALPHACOM204975` R45,539.16 (−R1,101.71) · Auto & General R46,795.48
+    (+R154.61, DEARER than staying).**
+  - 🚨 **BRYTE HAS DROPPED A ZERO ON RENT.** Buildings Combined Sub-Section C: current
+    **R21,677,345**, King Price R21,677,345, A&G R21,677,344, **Bryte R2,167,734** (short
+    **R19,509,611**). The cheapest quote is cheapest partly because it is not quoting the same policy.
+    **Same shape as the Vuyos Santam Robertville find.**
+  - 🚨 **KING PRICE prints "Passenger liability: Private and LDV only" R3,000,000 on all 25
+    items**, and **the current policy already gives R2,500,000 passenger + R2,500,000 unauthorised
+    passenger + R2,500,000 contingent on every bus, inside the premium.** So it is a **regression
+    dressed as an upgrade**. Proof to put to them: the OMI schedule classifies the vehicles as
+    **"MIDI-BUS"** and rates them Sasria **Category M3 Minibus (16 passengers incl driver)**, and
+    **Alpha quoted R2.5m pax at a NIL excess on the same fleet** (R5m on 3). **Second time on this
+    insurer after Wes-Kaap Busdiens** (e-hailing RTU form). Keep the precedent internal.
+  - ✅ **King Price's schools cover is GENUINELY NEW, not a match.** The current broadform
+    extensions print **"Schools extension: No"** and "Cancellation of special event extension: No".
+    So teacher liability, pupil liability incl. pupil-to-pupil, **PI R1,000,000** (wrongful expulsion
+    of a scholar), post-traumatic counselling and event cancellation are all cover the school has
+    never had. **On LIMIT it is a match**: current = R5m broadform + **R20,000,000 umbrella** = R25m.
+    Bryte R20m is a reduction, A&G R5m drops the umbrella, **Alpha quotes NO liability at all**.
+  - 🚨 **THE MOST URGENT ITEM: they are in breach of a tracking WARRANTY today.** Every bus
+    on the CURRENT schedule reads *Immobiliser: Factory Fitted · **Tracking 1: Early Warning
+    System Required** · Alarm system: **None***, and carries **"Vehicle Recovery System (the
+    Device) Warranty and Memorandum"** under Warranties and Endorsements. Required, recorded absent,
+    written as a warranty. **24 of 25 vehicles carrying special-needs children.** King Price adds
+    **+25% of the claim** as excess for non-compliance; **A&G waives its theft excess entirely if a
+    device is fitted** (≈R33,750 on a R450k Quantum). **24-unit lead, and it is urgent whoever wins.**
+  - ❌ **CORRECTIONS to my own earlier passes, all superseded in the deal note:**
+    (1) "Buildings under-insured by R13.6m / R18.3m": **WRONG.** All four carry base buildings at
+    **R86,709,378 to the rand**; the R104,968,348 headline is base + **R18,208,970 of 1st and 2nd year
+    inflation escalation** + R50,000 geysers. What IS true: escalation margins are thinner on every
+    quote (KP carries R8,670,938, one year only).
+    (2) "Buildings disagree by R4,667,734 between Bryte and A&G": **WRONG**, an artifact of
+    summing base + rent R2,167,734 + liability R2,500,000 on one side and base alone on the other.
+    (3) "About ten buses carry no registration on Bryte": **WRONG.** Bryte has all 25;
+    **two are TRANSPOSED**: `XYG685GP` should be **YXG685GP**, `HG38XBGP` should be **HG38BXGP**.
+    (4) "Alpha is the current policy": **WRONG**, it is a fourth quote.
+  - **Property owners' liability cut by all:** current R5,000,000 → KP R2,500,000, Bryte
+    R2,500,000, **A&G R1,000,000**.
+  - **Standing gaps confirmed on the CURRENT policy** (so not quote laziness): **employers' liability,
+    fidelity, glass, BI at R297,000**, deterioration of stock, accounts receivable, D&O, employment
+    practices, GIT, products/defective workmanship, negligent advice, statutory defence costs,
+    wrongful arrest, defamation. **The current broadform DOES carry pollution liability R5,000,000**
+    (R17.28/mo), third party vehicles R1m and a provider of food and drink extension (tuck shop).
+  - Current detail worth keeping: fire R9,635,900 = school contents R7,883,489 + **solar system
+    R1,752,411**; EE **R1,615,810** (= Bryte and KP to the rand) + data reinstatement R21,600;
+    **GPA covers 25 BUS DRIVERS** R50k death / R50k disability (**Bryte has no GPA section**);
+    machinery breakdown is a **borehole pump** R16,800; buildings basic excess R25,000; Sasria type on
+    buildings recorded as **"Residential"** on a school. **Alpha has not quoted the 3 trailers**; A&G
+    quotes 22 of 25 items.
+  - ⚠️ **VAT number is blank on the CURRENT schedule too**, and Bryte prints `9517532`
+    (7 digits; SA VAT is 10 starting with 4).
+  - 📎 **How the documents arrived:** they would not upload from the Mac. Anne used Gmail's
+    **"Add to Drive"** on the attachment chips (Google to Google, no download, no file dialog) and they
+    were pulled with the Drive MCP. **This Gmail connector cannot download attachments** (no
+    `GetMessageAttachment`; `RAW` is unusable at 4-5MB). **Use the Add to Drive route every time.**
+  - **Deliverables rebuilt 15 Sept** (`gateway_proposal_content.html` / `gateway_playbook_content.html`):
+    client proposal 6pp + RM playbook 6pp (INTERNAL). Alpha extract at `gateway_alpha_extract.txt`.
 
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 
