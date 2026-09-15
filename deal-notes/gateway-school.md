@@ -76,20 +76,82 @@ Alpha sections R39,988.72 + Sasria R5,550.44 + broker fee R0.00 = R45,539.16 (VA
 commission R7,142.78).
 Auto & General R41,277.89 + Sasria R5,517.59 = R46,795.48.
 
-## ⚠️ THREE THINGS THE CURRENT SCHEDULE SETTLES
+## ⚠️ WHAT THE CURRENT SCHEDULE SETTLES
 
-1. **🚨 BUILDINGS ARE R104,968,348 ON THE POLICY.** Bryte quoted **R91,377,112** (short
-   **R13,591,236**) and Auto & General **R86,709,378** (short **R18,258,970**). **Average applies to
-   both.** The earlier note framed this as the two quotes disagreeing with each other by R4.67m; the
-   real gap is against the incumbent and it is three to four times larger. **Nothing goes to the
-   school until both are rebuilt at R104,968,348.**
-2. **🚨 LIABILITY TODAY IS R5m BROADFORM + A R20,000,000 UMBRELLA = R25m.** So **King
-   Price's R25,000,000 is a MATCH, not an upgrade** (the provisional pack sold it as the reason to
-   pay more). **Bryte R20m is a reduction. Auto & General R5m drops the umbrella entirely.** And
-   **Alpha quotes NO liability section at all.**
-3. **BI R297,000, employers' liability NO, fidelity NO, glass NO are all on the CURRENT policy.**
-   Standing gaps carried forward onto every quote, not quote laziness. Correct the earlier wording:
-   the R297,000 is copied from the incumbent.
+### ❌ CORRECTION: the buildings were NOT under-insured. I had it wrong twice.
+
+Page 11 of the current schedule breaks Buildings Combined down exactly:
+
+| Line | Current |
+|---|---|
+| Sub-Section A property, standard construction | **R86,454,035** |
+| Sub-Section A property, non-standard (carports, shadecloth) | **R255,343** |
+| **Base buildings** | **R86,709,378** |
+| Additional inflation margin, 1st year escalation, 10% | R8,670,938 |
+| Additional inflation margin, 2nd year escalation, 10% | R9,538,032 |
+| Accidental damage to geysers, 5 × R10,000 | R50,000 |
+| **= index sum insured** | **R104,968,348** |
+
+**All three quotes carry base buildings at R86,709,378, to the rand.** The R104,968,348 headline
+includes **R18,208,970 of inflation escalation margins**, which is a different thing.
+
+- ❌ **Superseded:** "Bryte is short R13,591,236 and A&G short R18,258,970, average applies to
+  both." Wrong. That compared a base figure against an escalated one.
+- ❌ **Also superseded:** "buildings disagree by R4,667,734 between Bryte and A&G." That was an
+  artifact of summing different things: my Bryte figure of R91,377,112 was
+  base + rent R2,167,734 + liability R2,500,000, and R2,167,734 + R2,500,000 = R4,667,734 exactly.
+  A&G's R86,709,378 was Sub-Section A alone. **There was never a R4.67m disagreement.**
+- ✅ **What IS true:** the escalation margins are thinner on every quote. Current carries 1st AND
+  2nd year (R18,208,970). **King Price carries R8,670,938 (1st year only).** Bryte carries
+  R8,645,403 + R864,540 + R25,534 + R2,553 = R9,538,030. Ask all of them to match both years.
+
+### 🚨 THE REAL FINDING: Bryte has dropped a zero on the rent item
+
+| Sub-Section C, Rent | |
+|---|---|
+| **Current** | **R21,677,345** |
+| King Price ("Rent and alternative premises", 12 months) | **R21,677,345** ✅ exact |
+| Auto & General ("Loss of rent") | **R21,677,344** ✅ one rand out |
+| **Bryte** | **R2,167,734** ❌ |
+
+R21,677,345 ÷ 10 = R2,167,734.5. **Bryte is carrying one tenth of the rent cover, short
+R19,509,611.** It is the cheapest quote and this is part of why. **Same shape as the Vuyos Santam
+Robertville find.** Get it corrected and re-rated before the price is quoted to anyone.
+
+### ⚠️ Property owners' liability inside Buildings Combined is cut by all three
+
+Current **Sub-Section D liability R5,000,000**. King Price R2,500,000 · Bryte R2,500,000 ·
+Auto & General ("landlord's liability") **R1,000,000**.
+
+### 🚨 The current policy has NO schools extension, so King Price's schools cover is genuinely new
+
+The Broadform Public Liability extensions page prints **"Schools extension: No"** and
+**"Cancellation of special event extension: No"**.
+
+So the earlier "King Price's R25m is only a match" needs splitting in two:
+- **On LIMIT it is a match.** Current = broadform R5,000,000 **plus a R20,000,000 umbrella** = R25m.
+  Bryte R20m is a reduction, A&G R5m drops the umbrella, **Alpha quotes no liability at all**.
+- **On SCOPE King Price genuinely adds cover the school does not have today**: teacher liability,
+  pupil liability including pupil-to-pupil, PI R1,000,000, post-traumatic counselling, special-event
+  cancellation. All absent from the current policy. **That is the honest case for paying R3,739/mo
+  more than Bryte.**
+
+### ✅ The current broadform DOES carry pollution liability
+
+Sub-Section A public liability R5,000,000 (R155.47) + **Sub-Section B pollution liability
+R5,000,000 (R17.28)**. Sub-Section C products liability / defective workmanship **NO**. Sub-Section D
+negligent advice **NO**. Statutory defence costs, wrongful arrest, defamation, **employers liability**
+all **No**. Third party vehicles **Yes R1,000,000**, provider of food and drink **Yes** (the tuck shop).
+
+### Standing gaps confirmed against the incumbent, not quote laziness
+
+**BI R297,000**, employers' liability, fidelity guarantee and glass are all absent on the CURRENT
+policy, which is why every quote shows the same. Also absent today: accounts receivable,
+deterioration of stock, D&O, employment practices liability, goods in transit, motor traders.
+
+Other current-policy detail: buildings basic excess **R25,000**; subsidence, landslip and heave
+limited cover YES but the Sub-Section A extension NO; **riot and strike outside RSA/Namibia NO**;
+power surge R25,000; bursting R15,000; Sasria type recorded as **"Residential"** on a school.
 
 ## Alpha `ALPHACOM204975` (the fourth quote)
 
