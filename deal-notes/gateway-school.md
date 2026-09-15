@@ -6,10 +6,24 @@ Business description on the quotes: **"School for special-needs children"**
 
 ## Scope
 
-Phillip asked (14 Sept) for "'n volledige vergelyking tussen die drie kwotasies", so this is a
-**three-way between the quotes**. ⏳ The current policy is **Alpha `ALPHACOM204975`** (Alpha is a
-UMA; Guardrisk carries the risk) and the schedule has not reached us yet, so there is no
-current-versus-proposed line. Everything below is quote against quote.
+⚠️ **CORRECTED 15 Sept 2026. The first pass got the documents wrong twice.**
+
+1. **The client's current policy schedule WAS sent**, on 11 Sept, as
+   `Gateway School Schedules 1.pdf`. Phillip's words: *"I have attached their quotation together
+   with the client's current policy schedule."* That file did not reach the analysis, so the
+   three-way below has **no current benchmark in it**. It needs one.
+2. **Alpha `ALPHACOM204975` is a FOURTH QUOTE, not the current policy.** Phillip, 14 Sept 13:47:
+   *"Sien asb die aangeheg Alpha Quote, kan ons hom dalk in die comparison in-werk?"* The earlier
+   note calling Alpha the incumbent (Alpha UMA, Guardrisk behind it) was wrong.
+
+**So the real job is four quotes against the current schedule, not three quotes against nothing.**
+Everything below is still correct as quote-against-quote analysis of Bryte, King Price and
+Auto & General. It is incomplete as a recommendation until the current schedule and the Alpha
+quote are read.
+
+**Outstanding files:** `Gateway School Schedules 1.pdf` (current policy, 11 Sept mail) and the
+Alpha `ALPHACOM204975` quote (14 Sept 13:47 mail). Route: chat upload, or
+Google Drive → My Drive/Comparisons.
 
 ## All-in monthly
 

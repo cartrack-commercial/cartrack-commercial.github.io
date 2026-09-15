@@ -560,11 +560,15 @@ insurance **quote comparisons** for the RMs.
   Street North, Ruimsig, Roodepoort 1724; reg 2000/260903/07, NPO; **21 Toyota Quantum Sesfikile 15
   and 16 seaters** on a 25-item fleet). RM: **Phillip Van Wyk**. Three-way done 15 Sept 2026, full
   detail in `deal-notes/gateway-school.md`.
-  - ⚠️ **NOT a current-versus-proposed comparison.** The current policy is **Alpha
-    `ALPHACOM204975`** (Alpha is a UMA, Guardrisk carries the risk) and the schedule never reached us
-    (stuck as a cloud placeholder on Anne's Mac; suggested the Google Drive → My Drive/Comparisons
-    route). Phillip asked for "'n volledige vergelyking tussen die drie kwotasies", so quote vs quote
-    is the deliverable; the Alpha benchmark is a later layer.
+  - ⚠️ **INCOMPLETE, and the first pass got the documents wrong twice (corrected 15 Sept).**
+    (1) **The current policy schedule WAS sent**, 11 Sept, as `Gateway School Schedules 1.pdf`
+    ("I have attached their quotation together with the client's current policy schedule"). It never
+    reached the analysis, so the three-way carries **no current benchmark**. (2) **Alpha
+    `ALPHACOM204975` is a FOURTH QUOTE, not the incumbent** ("Sien asb die aangeheg Alpha Quote, kan
+    ons hom dalk in die comparison in-werk?", 14 Sept 13:47). **The real job is four quotes against
+    the current schedule.** 📌 **Lesson: when a mail says an attachment is the current
+    schedule and it is not in hand, say so and ask for it by filename. Do not infer an incumbent
+    from a quote.**
   - **All-in monthly, all three reconcile to the cent: Bryte via BrokerBuddy Specialised (FSP 17703)
     `QT1029228` R41,359.96 · King Price (FSP 43862) `COM58558` R42,901.67 · Auto & General
     (FSP 16354) R46,795.48.** King Price commission R6,941.46/mo, broker fee R0.00.
@@ -597,8 +601,10 @@ insurance **quote comparisons** for the RMs.
     25% of the claim**. A&G theft excess **R5,600 or 7.5% of value, whichever is higher, waived
     entirely if a tracking device is fitted** (≈R33,750 on a R450k Quantum). A&G records daytime
     parking as **"ROAMING"**.
-  - **Deliverables built 15 Sept** (`gateway_proposal_content.html` / `gateway_playbook_content.html`):
-    client proposal PDF (6pp) + RM playbook PDF (7pp, INTERNAL). Afrikaans WhatsApp sent for Phillip.
+  - ⚠️ **Deliverables built 15 Sept are PROVISIONAL and must NOT go to Phillip yet**
+    (`gateway_proposal_content.html` / `gateway_playbook_content.html`): client proposal 6pp + RM
+    playbook 7pp. They analyse three quotes with no current benchmark and no Alpha column. Rebuild
+    once `Gateway School Schedules 1.pdf` and the Alpha quote are in hand.
 
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 
