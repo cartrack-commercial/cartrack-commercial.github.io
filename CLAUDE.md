@@ -632,7 +632,7 @@ insurance **quote comparisons** for the RMs.
   final answer.** Full detail in `deal-notes/bakers-tankers.md`. Analysed 15 Sept 2026.
   - ⛔ **THE FINDING: the motor insurer excludes what the client carries.** OUTsurance
     `OT89649119` records the business as *"Service & repair, Transport, goods"* and prints under
-    **Fleet special conditions**: *"OUTsurance does not provide cover … **when the vehicle
+    **Fleet special conditions**: *"OUTsurance does not provide cover ... **when the vehicle
     transports hazardous materials**"*. The **CLP goods-in-transit submission of 14 Sept** declares
     the subject matter as *"General Goods, **Diesel, Petrol, Illuminated Paraffin, Jet Fuel**, FMCG,
     Scrap Metal and Scrap Batteries."* And the SAME OUT schedule sells **environmental impairment
