@@ -758,65 +758,101 @@ insurance **quote comparisons** for the RMs.
     `bakers_outsurance_OT78078997.pdf` (+ `bakers_out_OT78078997_extract.txt`),
     `bakers_envirosure_quote.pdf`, `bakers_alpha_v4_quote.pdf`.
 
-- **Tshenolo Waste (Pty) Ltd** (medical and hazardous waste: containers, speci-bins, collection and
-  transport, hazardous waste training; Lanseria Corporate Estate, 25 Amelia Lane, Krugersdorp 1739).
-  RM: **Cules Van Dyk**. ⛔ **GATED, 16 Sept 2026: one document of at least three is in hand.**
+- **Tshenolo Waste (Pty) Ltd** (medical and hazardous waste: speci-bins and containers to health
+  care practitioners and institutions, collection and transport, hazardous waste training; head
+  office Lanseria Corporate Estate, 25 Amelia Lane, Krugersdorp 1739). RM: **Cules Van Dyk**.
+  ⛔ **STILL GATED 16 Sept 2026: both Natsure quotes are in, NEITHER current schedule is.**
   Full detail in `deal-notes/tshenolo-waste.md`.
   - Cules (15 Sept): *"Dit is twee polisse wat opgesplit is … Natsure spaar hulle R77 000/mo."*
-    **We have only the Natsure MOTOR quote. No current schedule, no second quote, so the R77,000
-    cannot be tested and there is no comparison to do.** ⚠️ **Do not infer the incumbent from a
-    quote** (the Gateway mistake).
-  - **HAVE: Natsure / Compass `HCVU192176`** (Compass FSP 12148, UMA Natsure HCV and Commercial,
-    quoted by Olga Van Der Merwe, broker Cartrack FSP 17266), 11 Sept, effective 01/10/2026, valid
-    to 11 Oct = **R311,086.71/mo** (vehicle R268,232.90 + optional extensions R20,220.00 + Sasria
-    R22,633.81). Reconciles to the cent. **Broker commission R38,659.50/mo = R463,914/yr.**
-    **55 vehicles, SI R61,174,651:** HCV 45 R53,132,476 (5.50%, R5,411.64 each) · trailers 2
-    R3,386,929 (3.00%) · LDV 6 R2,917,060 (4.00%) · bus 2 R1,738,186 (4.50%). **No per-vehicle
-    schedule in the PDF.**
-  - **NEED, by name:** both **current** schedules, the **second Natsure quote** (a `COM…` number,
-    since this one is motor only), the **vehicle schedule** (reg / year / value / tracking) and the
-    **3-year claims record** Natsure requires before the price is firm.
-  - 🚨 **FINDING 1, and it is ours: the nil-excess theft benefit names a COMPETITOR.**
+    **Natsure programme = `HCVU192176` R311,086.71 + `COM192164` R150,768.60 = R461,855.31/mo =
+    R5,542,264/yr.** If the R77,000 is right the current is ≈ **R538,855/mo ≈ R6.47m/yr**, but that
+    **cannot be confirmed without the current schedules**. ⚠️ **Do not infer the incumbent from a
+    quote** (the Gateway mistake). **NEED: both current schedules, the vehicle schedule behind
+    `HCVU192176` (reg/year/value/tracking), the 3-year claims record, and any THIRD policy.**
+  - Both quotes: **Compass Insurance FSP 12148, UMA Natsure HCV and Commercial FSP 50704**, broker
+    Cartrack FSP 17266. HCV quoted by Olga Van Der Merwe, COM by Thuli Sibiya to
+    brendan.kruger@cartrack.com. **Commission R38,659.50 + R26,200.77 = R64,860.27/mo =
+    R778,323/yr.** Both reconcile to the cent. Both monthly policies, 12 territories, subject to
+    confirmed claims experience, payment method "Cash deposit" against a debit-order condition,
+    **VAT and company reg blank on both**.
+  - **`HCVU192176`** (11 Sept, eff 01/10/2026, valid to 11 Oct) **R311,086.71**: vehicle R268,232.90
+    + optional extensions R20,220.00 + Sasria R22,633.81. **55 vehicles, SI R61,174,651:** HCV 45
+    R53,132,476 (5.50%, R5,411.64 ea) · trailers 2 R3,386,929 (3.00%) · LDV 6 R2,917,060 (4.00%) ·
+    bus 2 R1,738,186 (4.50%). **No per-vehicle schedule in the PDF.**
+  - **`COM192164`** (14 Sept, eff **01/11/2026**) **R150,768.60**: office contents R1,643.51 + AD
+    R145.83 + fire R3,596.88 + theft R2,158.33 + **BAR R87,773.88** + EE R4,456.82 + **motor
+    R45,179.94** + assists R480 + car hire R2,290 + road assist R390 + Sasria R2,653.41.
+    **Six premises:** Lanseria (twice), Kimberley, Maitland CT, Mafikeng, **Denver JHB (plant and
+    machinery R12,839,148)**. Lanseria stock R2,856,318, BAR R13,249,973, EE R503,761, theft
+    R280,000 first loss. **No buildings SI anywhere** (leased, confirm).
+  - 🚨 **FINDING 1: THERE IS NO PUBLIC LIABILITY ON EITHER QUOTE.** No PL, no products, no employers'
+    liability. The only liability is motor third party. **They put sharps containers into hospitals,
+    handle biohazardous waste on other people's premises and run training.** ⛔ **Ask Cules FIRST
+    whether a THIRD policy carries it**; if not, the client would move to a programme without its
+    characteristic cover. **Also absent everywhere: BI, fidelity, money, glass, GIT, machinery
+    breakdown (on R12.8m of plant), deterioration of stock, environmental impairment liability.**
+  - 🚨 **FINDING 2: R6,405,927 of TREK RACING BICYCLES on Business All Risks, 30 items at
+    R300,000 to R785,952 each, R37,367.90/mo = R448,415/yr at 7.00%.** That is 43% of the BAR sum
+    insured and 43% of its premium, on a medical waste company. Plus **"Air Conditioner
+    R2,298,999 at R16,284.58/mo = 8.5% pa all-risks = R195,415/yr"** (stock at the same address is
+    rated 0.275%). 🎯 **Together R53,652.48/mo = R643,830/yr = 36% of the commercial quote and 12%
+    of the whole programme, against a claimed saving of R77,000/mo.** Are they the client's? Are
+    they on the current policy? Get the air conditioning re-rated off all risks.
+  - 🚨 **FINDING 3: 15 luxury cars, R17,847,679, EVERY ONE "Tracking System Name: Required /
+    Tracking device installed: No"** (two also "Immobiliser: No"). Merc-AMG G63 R2,761,100 · BMW X7
+    M60i R2,745,829 · BMW X5 R2,526,800 · Defender 110 R2,112,505 · RR Velar SVAD R1,820,979 · BMW
+    X7 M50d R1,585,400 · BMW M135i R1,225,671 … **11 are over R350,000 and the quote says a tracker
+    must be fitted BEFORE theft/hijack cover incepts = R16,822,004 with no theft cover on day one.**
+    ⚠️ **Two cars carry NO registration** (the M135i R1,225,671 and a Suzuki Ertiga R255,500).
+    🛰️ **70-unit lead across R79,022,330** (55 fleet + 15 cars), and on the cars it is a condition
+    precedent. EE schedule already lists "Team Track Bin Tracking and Management" R35,000.
+  - 🚨 **FINDING 4: the two quotes incept a MONTH APART**, 01/10/2026 and 01/11/2026, both monthly.
+    Align them or there is a month of half-moved cover or double payment.
+  - 🚨 **FINDING 5, and it is ours: the nil-excess theft benefit names a COMPETITOR.**
     *"**Ctrack** Tracking and Recovery Device operational on Heavy Commercial Vehicle or Trailer when
-    the entire combination is stolen or hijacked in the same event: **NILL Excess**"*, against
+    the entire combination is stolen or hijacked in the same event: **NILL Excess**"* against
     *"Tracking or Recovery Device operational: 10% of the value of the vehicle"*. **Cartrack is the
-    broker on this quote.** On the dearest truck (R2,012,670) that is **R201,267 a claim**; dearest
-    trailer (R2,689,098) **R268,910**. **Get Cartrack written into that clause, in BOTH places
-    (HCV/Busses and Trailers), before the quote goes anywhere.**
-  - 🚨 **FINDING 2: the 2 buses have NO Sasria.** Sasria ME declares R59,436,465 (LDV M2 + trucks M8
-    + trailers M8) against a fleet of R61,174,651. **The R1,738,186 difference is exactly the buses.**
-  - 🚨 **FINDING 3: clean-up is R250,000 a truck on a HAZARDOUS WASTE fleet** (R11,250,000 over
-    45 HCV at R600/yr per unit), **and only on the trucks**, nothing on trailers, LDVs or buses.
-    Ask for R1m/R2.5m/R5m per vehicle and whether R11.25m is an aggregate. ⚠️ **And clean-up costs
-    are NOT environmental impairment liability** (NEMA); on a hazardous waste operator that gap
-    needs naming, same route as Bakers (Envirosure Spill Protect).
-  - 🚨 **FINDING 4: third party is an AGGREGATE R5,000,000**, not layers: passenger liability
-    R2,500,000 and fire/explosion R5,000,000 both sit **inside** *"any other event and the aggregate
-    of (a), (b) and (c) R5,000,000"*. Reads like R7.5m, is R5m.
-  - ⚠️ **Excess stacks and the basic is a % of VEHICLE VALUE, not of claim:** HCV/bus **4.5% of the
-    value, min R5,000** (= **R53,132 on the average truck**, every claim) **+5% single-vehicle
-    +5% driving 23h00 to 04h00**, cumulative. ⛔ **Ask Cules what shifts they run**, healthcare
-    waste often moves before dawn. Same shape as Cordiguard.
-  - 🛰️ **Up to 55 units and it is a CONDITION of cover:** no theft cover over **R500,000** without an
-    operational device (avg HCV R1,180,722), LDVs over **R350,000** need one before theft cover
-    incepts (avg R486,177), both buses R869,093, trailers 20% of value with no device.
-    ⚠️ **Natsure will FUND a device itself** (insurer owns the unit, standard RSA fees only, service
-    suspended on premium default, insured consents to the insurer receiving all tracking data), so
-    there is a competing offer written inside the policy. **Get the current fitment list.**
-  - ⚠️ **Not firm:** 3 years' loss history confirmed by the current insurer · signed proposal AND
-    debit order (yet payment method reads **"Cash deposit"**) · **inspection/valuation certificates
-    for every vehicle 10 years and older** (unknown count without the schedule, same practical gate
-    as Bakers) · *"Should the risk already be insured with Natsure HCV and Commercial this quotation
-    will be null and void"* → **check which UMA the current policy sits behind.**
-  - ⚠️ Also: **reg and VAT numbers blank**; windscreen on LDVs reads "Yes" with **0 vehicles** and
-    R0.00; **car hire not taken** on buses and LDVs and **loss of use has a 7-day excess period**;
-    **credit shortfall No** everywhere; "Additional Third Party Liability: No" on LDV/PVT; policy is
-    **monthly** (01/10 to 31/10 "and monthly thereafter", renewal 01/11/2026, review 01/10/2027);
-    **12 territories, ask if used**; warranty *"Busses: excludes fare paying passengers"*; two
-    trailers averaging **R1,693,464** (dearest R2,689,098) is high, confirm what they are.
-  - **Source at `deal-notes/tshenolo_natsure_HCVU192176.pdf`** (33pp: 15pp schedule then Sasria
-    wording and the Truck Assist brochure; text layer present).
-
+    broker on this quote.** Dearest truck (R2,012,670) = **R201,267 a claim**; dearest trailer
+    (R2,689,098) = **R268,910**. **Get Cartrack written in, in BOTH places (HCV/Busses and
+    Trailers).**
+  - 🚨 **FINDING 6: Sasria is wrong on BOTH quotes.** HCV declares R59,436,465 against a fleet of
+    R61,174,651, **the R1,738,186 difference is exactly the two buses**. COM declares the 15 private
+    cars as **"Goods Vehicles M2" at R18,219,979** against a motor SI of **R17,847,679**
+    (**R372,300 out**, and private cars are not goods vehicles).
+  - 🚨 **FINDING 7: clean-up is R250,000 a truck** (R11,250,000 over 45 HCV at R600/yr per unit) on a
+    hazardous waste fleet, **and only on the trucks**, nothing on trailers, LDVs or buses. Ask for
+    R1m/R2.5m/R5m and whether R11.25m is an aggregate. **Clean-up costs are NOT environmental
+    impairment liability** (NEMA), same gap and same route as Bakers (Envirosure Spill Protect).
+  - 🚨 **FINDING 8: third party is an AGGREGATE R5,000,000**: passenger liability R2,500,000 and
+    fire/explosion R5,000,000 both sit **inside** *"any other event and the aggregate of (a), (b)
+    and (c) R5,000,000"*. Reads like R7.5m, is R5m.
+  - ⚠️ **FINDING 9: excess stacks and the basic is a % of VEHICLE VALUE, not of claim.** HCV/bus
+    **4.5% of value, min R5,000** (= **R53,132 on the average truck**, every claim) **+5%
+    single-vehicle +5% driving 23h00 to 04h00**, cumulative. ⛔ **Ask Cules what shifts they run**,
+    healthcare waste often moves before dawn. Same shape as Cordiguard.
+  - ⚠️ **Office contents look copied and one is rated 10× the others:** the same **R440,748** appears
+    at Lanseria AND Kimberley to the rand (R104.68 = 0.285% and R101.00 = 0.275%), while a second
+    Lanseria entry of R605,399 is **R1,437.82/mo = 2.85% pa**, all three described identically.
+    ≈R15,500/yr. ⚠️ **Maitland and Mafikeng carry theft R20,000 and NOTHING else.** ⚠️ Lanseria
+    theft is **R280,000 first loss** against R13.25m of BAR and R2.86m of stock at that address.
+  - ⚠️ **National Power Failure (Blackout) Exclusion incl. load shedding** across the whole
+    commercial policy. ⚠️ **Warranties that void cover** (not paperwork on a hazardous waste site):
+    SAIDSA alarm with armed response + arming log, electrical CoC, fire equipment serviced annually,
+    **SABS Class I lightning arrestor and Class II surge arrestor**, stock raised 150mm on pallets,
+    **hazardous and flammable storage per OHS Act Reg 4 and SANS 02363**, **waste bagged daily and
+    removed weekly**, ventilation, no smoking, keys in a locked fixed safe.
+  - ⚠️ **Fleet quote not firm:** 3 years' loss history confirmed by the current insurer · signed
+    proposal and debit order · **inspection/valuation certificates for every vehicle 10 years and
+    older** (count unknown without the schedule) · *"Should the risk already be insured with Natsure
+    HCV and Commercial this quotation will be null and void"* → **check which UMA the current policy
+    sits behind** (Natsure also wrote Powerflow and Idol).
+  - ⚠️ Also: windscreen on LDVs "Yes" with **0 vehicles** and R0.00; **car hire not taken** on buses
+    and LDVs with a **7-day loss of use excess period**; **credit shortfall No** on all 70 vehicles;
+    "Additional Third Party Liability: No" on LDV/PVT; 2 trailers averaging **R1,693,464** (dearest
+    R2,689,098) is high, confirm.
+  - **Sources: `deal-notes/tshenolo_natsure_HCVU192176.pdf` (33pp) and
+    `deal-notes/tshenolo_natsure_COM192164.pdf` (119pp)**, both with text layers.
+    📎 `COM192164` arrived via **Google Drive from iOS**, same route as Gateway, Vuyos and Bakers.
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 
 - **Second small loss, 2 Sept 2026.** Elizabeth's "Missing work" tab showed **geo fire (R4,100/m) and
