@@ -118,6 +118,23 @@ insurance **quote comparisons** for the RMs.
 - Older generation kit (Libre Franklin era, ALW pilot): `cartrack-premium-comparison/pack-builder/`
   (HANDOFF.md there). Legacy fonts `spacegrotesk/spacemono/librefranklin` remain in
   `cartrack-premium-comparison/assets/`.
+- ⚠️ **USE THE HOUSE TABLE COMPONENTS. Do NOT invent a cut-down table style** (Anne caught
+  this 16 Sept 2026: the Bakers client pack "suddenly looked different" from the Vuyos one). The
+  template and CSS are identical across packs; what changes a pack's look is using a reduced subset.
+  **Every client proposal must have:**
+  - **Cover leads with MONEY, not a warning.** Three `.stat` cards: what they pay today, the best
+    quotation, the difference. A finding goes on page 2 or 3, never in place of the numbers.
+  - **A "Markets approached" chip row on the cover**: `.chips > .chip` (`.dot` orange dot for the
+    ones quoted, `.on` filled for incumbents).
+  - **Page 2 = "reconciled to the cent"**: a `.stat-band` of 3 to 4 cards, then a REAL house table.
+  - **House tables**: plain `<table>` + `<colgroup>` with `<col class="propcol">` on the recommended
+    insurer's column and `class="propcol"` on its cells; **first column left-aligned** with
+    `.item` (bold label) + `.desc` (grey sub-note); `class="r"` on figure columns ONLY;
+    `tr.total` for the totals row; **`.neg` = GREEN saving, `.pos` = RED cost** (note the naming is
+    inverted from intuition).
+  - 🚫 **Never add a `<style>` block with `.fx{table-layout:fixed}` / `.tight` overrides.**
+    That is what flattened the Bakers and Gateway packs into grey lists and left half-empty pages.
+  - A page that ends halfway down is a sign the content is too thin, not that the design changed.
 - Afrikaans RM messages: informal, mix in English words (Anne's standing preference). Figures must NOT be monospace — Space Grotesk (display) / Libre Franklin tabular (figures) / Space Mono (labels only).
 
 ---
