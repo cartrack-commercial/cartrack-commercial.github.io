@@ -734,12 +734,32 @@ insurance **quote comparisons** for the RMs.
     if the exclusion does not bite, Envirosure largely duplicates the trucks and what is needed is a
     **trailers-only** price; if it does bite, the EIL on 52 trucks is worthless and R15,890 is cheap.
     **Ask Adelle for both versions.**
-  - 💰 **Programme: current R214,999.13/mo** (motor R173,332.46 + GIT R41,666.67) **v R247,040.83 as
-    quoted = +R32,041.70/mo ≈ +R384,500/yr.** Alpha without towing → R229,511.67 = +R14,512.54.
-  - ✅ **RECOMMENDATION CHANGED: keep the motor at OUTsurance** (cheaper, far better excesses, 5× the
-    pollution limit, an R11.664m PL section Alpha does not quote, R562,632 of bonus); **move the GIT
-    to CLP**; **buy spill cover sized to the hazmat answer**; **fix what is broken on their own book**
-    (tanker values, 3 untracked vehicles, no trailer EIL, no credit shortfall, no defective products).
+  - 🆕 **ANNE, 16 Sept: "Ignore outsurance." The stay-put case is OFF. Recommendation is now to
+    MOVE.** Rationale recorded so a later session knows why the advice turned: the hazmat exclusion
+    is on **both** OUTsurance schedules, and a motor policy that excludes the load this fleet carries
+    is not a home for the account whatever it costs. ⚠️ **What that does NOT change:** the current
+    spend stays the benchmark (a comparison needs something to compare to), and the forfeited
+    OUTbonus stays a **written Record of Advice disclosure**. Neither is a reason to stay.
+  - 💰 **THE PLAN: Alpha requoted without towing R174,409.52 + CLP GIT R39,212.15 + Envirosure
+    R15,890.00 = R229,511.67/mo** against a current **R214,999.13** (motor R173,332.46 + GIT
+    R41,666.67) = **+R14,512.54/mo ≈ +R174,150/yr.** Say it plainly: GIT saves R2,454.52, motor
+    lands within **R1,077.06** of today once towing comes out (R18,606.22 above it if it does not),
+    and the rest is spill cover the fleet has never had.
+  - **FIVE THINGS ALPHA MUST DO** (Sandile Ndlovu via FSP Commercial On-Line, Tanya Kapp):
+    (1) **requote WITHOUT the towing section**; (2) **clean-up R5,000,000 on trucks AND all 124
+    trailers** (the R5m price is provable off OUT's own schedule, so it is a correction not a
+    negotiation); (3) **passenger liability on the heavy section**; (4) **written confirmation it
+    rated on the 3-year claims record**, the quote only asks for it; (5) **name all three entities,
+    align inception (reads 01/10/2026), book the 61 vehicle evaluations.**
+  - ⛔ **TWO DISCLOSURES, Record of Advice, in writing before signature:** (a) 🚨 **the excess gets
+    materially worse**, OUT **R11,400 to R26,640/truck and R5,720/trailer** v Alpha **10% of claim
+    min R30,000** on HCV and all 124 trailers = **R150,000 v R11,400 on a R1.5m truck**, the biggest
+    regression in the move; (b) **R562,632.03 of projected OUTbonus forfeited.** Also lost: **PL
+    R11,664,000 for R1,853.59** (Alpha quotes broadform R0.00, place separately), and OUT insures the
+    91 vehicles at **retail with no declared sum** v Alpha's declared R86,139,924.
+  - **FIX ON THEIR OWN BOOK whoever writes it:** value the nine R56,047 tanker trailers (Alpha copied
+    the values); **KZ73CSGP, CB42HNZN, FJ04NTGP have no theft or hijack cover today**; quote
+    defective products/workmanship, credit shortfall and BI.
   - **Admin:** address **15 Nereeniging Rd, Alberton 1449** (Santam) v **15 Vereeniging Rd,
     Alberton 1451** (both OUT + CLP), and `OT78078997` prints "Vereeninging" on its own page 2;
     **VAT and reg blank on BOTH OUT schedules** so neither is a tax invoice; loss of keys R3,000 v

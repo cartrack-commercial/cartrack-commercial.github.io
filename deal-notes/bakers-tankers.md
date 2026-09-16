@@ -410,35 +410,93 @@ Alpha without its towing line: **R229,511.67 = +R14,512.54/mo.**
 ⚠️ This **supersedes** the 16 September figures of R117,123.77 current and R130,559.25 proposed.
 Both were built on `OT89649119` alone, which is 30 of the client's 215 vehicles.
 
-## ✅ THE RECOMMENDATION HAS CHANGED
+## ✅ THE RECOMMENDATION: MOVE, AND MAKE ALPHA FIX TWO LINES FIRST
 
-1. **Keep the motor at OUTsurance.** It is R18,606.22/mo cheaper, its excesses are dramatically
-   better on any serious loss (R11,400 against 10% minimum R30,000), it carries R5,000,000 of
-   pollution cover per truck against Alpha's R1,000,000, it includes an R11,664,000 public liability
-   section Alpha does not quote, and leaving forfeits **R562,632.03** of projected OUTbonus.
-2. **Move the goods in transit to CLP.** A real R29,454/yr saving, matched limits, eight more
-   territories that this fleet demonstrably uses. Fix the named insureds and pin the High Risk Cargo
-   definition first.
-3. **Buy the spill cover, sized to the answer OUTsurance gives** on the hazardous materials
-   exclusion. Get Envirosure to price trailers-only as well as the 27-vehicle version.
-4. **Fix what is broken on the current programme**, which is worth more than the re-market was:
-   tanker sums insured, three vehicles with no theft cover, no EIL on any trailer, no credit
-   shortfall, no defective products cover on a R150m repair-and-transport business.
+**Instruction from Anne, 16 September: ignore OUTsurance.** The stay-put case is off the table.
+Working assumption recorded so a later session knows why the advice turned: the hazardous materials
+exclusion sits on **both** OUTsurance schedules, and a motor policy that excludes the load this
+fleet carries is not a home for this account whatever it costs. Everything below is written on that
+basis.
+
+**What that does NOT change:** the current spend is still the benchmark, because a comparison with
+nothing to compare against is not a comparison, and the forfeited OUTbonus is still a **written
+disclosure** under the Record of Advice. Neither is a reason to stay.
+
+### The plan
+
+| | Monthly |
+|---|---|
+| **Motor: Alpha V4, requoted without the towing section** | **R174,409.52** |
+| **Goods in transit: CLP / New National via Nautical** | **R39,212.15** |
+| **Spill clean-up: Envirosure Spill Protect Plan** | **R15,890.00** |
+| **Recommended programme** | **R229,511.67** |
+| Current programme (motor R173,332.46 + GIT R41,666.67) | R214,999.13 |
+| | **+R14,512.54/mo ≈ +R174,150/yr** |
+
+**Say it plainly: this costs more, and it should.** The GIT genuinely saves R2,454.52/mo. The spill
+cover is R15,890.00/mo of protection this fleet has never had. The motor lands within R1,077.06/mo
+of today **once the towing section comes out**, and R18,606.22/mo above it if it does not.
+
+### The five things Alpha has to do before it is signed
+
+1. **Requote without the towing section.** R17,529.16/mo to buy a R30,000 limit, two lines at 16.0%.
+   That single change moves Alpha from +R18,606.22 to +R1,077.06 against today.
+2. **Clean-up at R5,000,000, on trucks AND on all 124 trailers.** R1,000,000 on the heavy section
+   only is not a tanker fleet's pollution cover, and OUTsurance writes R5m per vehicle for
+   R3,483.84/mo across 52 trucks, so the price is provable. **On a tanker fleet the product is in
+   the trailer.**
+3. **Passenger liability on the heavy section.** Alpha's HCV liability table prints none; OUTsurance
+   carries R5,000,000 on a 15-seat basis.
+4. **Confirm in writing that R191,938.68 was rated on the 3-year claims record.** The quote only
+   asks for it. Until that comes back the price is not firm. Same gate as CS Continental and Idol.
+5. **Name all three entities** (Alpha names Bakers Tankers alone), **align the inception date**
+   (Alpha reads 01/10/2026), and **schedule the 61 vehicle evaluations** its own conditions require
+   on anything over 20 years old.
+
+### What must be disclosed in writing (Record of Advice)
+
+- 🚨 **The excess gets materially worse.** Alpha is **10% of claim, minimum R30,000** on heavy
+  commercial and on all 124 trailers, against OUTsurance's **R11,400 to R26,640 per truck** and
+  **R5,720 per trailer**. **On a R1,500,000 truck that is R150,000 against R11,400.** This is the
+  single biggest regression in the move and the client must sign that they understand it.
+- 🚨 **R562,632.03 of projected OUTbonus is forfeited**, R255,621.49 on 27 February 2028 and
+  R307,010.54 on 7 August 2028. Both policies are running at or under a 30% claims ratio, which is
+  why they are projected at all. **Raise it yourself, in writing, before the client finds it.**
+- **The public liability section is lost.** OUTsurance carries **R11,664,000** for R1,853.59/mo
+  (legal defence and wrongful arrest R10.8m each). **Alpha quotes broadform liability at R0.00.**
+  Replace it or disclose the gap.
+- **Sums insured replace retail value.** OUTsurance insures the 91 vehicles at **retail with no
+  declared sum**; Alpha at **declared sums totalling R86,139,924**. If a truck's retail exceeds its
+  declared figure on the day, Alpha pays the declared figure.
+- **Credit shortfall stays untaken** on both, with Absa Vehicle and Asset Finance's interest noted.
+
+### Fix on the client's own book, whoever writes it
+
+1. 🚨 **Value the tanker trailers.** Nine tankers at **R56,047** each against a replacement cost of
+   R800,000 to R1,600,000, a 2017 road tanker at R729,000 beside them, **and Alpha has copied the
+   same values straight across** (R28,444,295 on 124 against OUTsurance's R27,454,899 on 120).
+   The under-insurance travels onto the new policy. **This is the most expensive line in the file.**
+2. 🚨 **Three vehicles have tracking required and not installed** and therefore no theft or hijack
+   cover today: **KZ73CSGP, CB42HNZN, FJ04NTGP.** Fix this week regardless of who is on risk.
+3. **Quote what nobody has:** defective products and defective workmanship (OUTsurance itself
+   recommends it in writing and it is not selected, on R150,000,000 of turnover), business
+   interruption, and credit shortfall.
 
 ## Where this lands, for Thursday
 
-1. **Written answer from OUTsurance on the hazardous materials exclusion.** Everything else waits.
-2. **Reconfirm the lapsed Envirosure quote**, and get Cartrack's broker code on the reissue.
-3. **Tell Bronwan the headline has flipped.** Alpha is not cheaper. The client is not underinsured by
-   184 vehicles. There was a second policy.
-4. **Ask Alpha for a re-quote without the towing section**, and for its clean-up limit at R5,000,000
-   on trucks and trailers. If both come back, Alpha is back in the conversation.
-5. **Get the tanker trailers valued.** Nine at R56,047 is the most expensive line in this file and
-   neither insurer has queried it.
-6. **Cost the R562,632.03 OUTbonus openly** before anybody talks about moving the motor.
-7. **Quote what is missing:** defective products and defective workmanship, credit shortfall,
-   passenger liability on the Alpha heavy section, and business interruption.
-8. **179-unit tracking lead**, three of which are a compliance fix this week.
+1. **Tell Bronwan the recommendation is to move, and why the number went up.** The old packs said
+   R117,123.77 to R130,559.25; the real figures are R214,999.13 to R229,511.67, because the account
+   is 215 vehicles across two policies, not 30.
+2. **Get Alpha's requote without towing and with clean-up at R5,000,000 on trucks and trailers.**
+   Sandile Ndlovu, via FSP Commercial On-Line, Tanya Kapp. Nothing else moves until that lands.
+3. **Reconfirm the lapsed Envirosure quote** and get Cartrack's broker code on the reissue,
+   replacing "Vaps". Ask for the 27-vehicle version **and** a trailers-only version, because the
+   trailers are the exposure nobody covers.
+4. **Move the GIT to CLP** once all three entities are named and High Risk Cargo is pinned in
+   writing against the scrap metal and scrap battery loads.
+5. **Get the tanker trailers valued** before anything is signed with anyone.
+6. **Put the two disclosures in writing**: the excess, and the R562,632.03 bonus.
+7. **179-unit tracking lead**, three of which are a compliance fix this week.
 
 ## Admin
 
