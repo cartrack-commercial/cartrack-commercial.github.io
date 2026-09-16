@@ -97,24 +97,72 @@ Two problems with Alpha's version:
 ⚠️ **And OUTsurance's EIL is claims-made with a retroactive date of 30 June 2026**, so it reaches
 back six weeks. Anything before that is uninsured for pollution on either document.
 
-## 📋 Envirosure is a BLANK PROPOSAL FORM, not a quote
+## ✅ UPDATE 16 Sept: Envirosure came back with a REAL quote, and it has ALREADY EXPIRED
 
-`Envirosure Centriq - The Transport Clean-Up Proposal Form.pdf` contains **no client details at
-all**. It is a template. **Envirosure Underwriting Managers FSP 38594, underwritten by Centriq
-Insurance Company Limited**, product "The Transport Clean-Up":
+Bronwan had sent a blank template on the first pass. The actual quote arrived 16 Sept, and it
+changes the shape of the whole account. 🚨 **It is dated 14 August 2026, valid until 14 September
+2026. Today is 16 September. The client meeting is tomorrow, 17 September. This quote lapsed two
+days ago.** Get it reconfirmed or reissued before it goes anywhere near the client.
 
-- **Indemnity limit R1,000,000 to R30,000,000**, higher available by excess of loss
-- **Excess Solution RSA** reduces the excess to **nil** in RSA (R50,000 cross border); a separate
-  cross-border version; both can be bought together to bring both to nil
-- Spillage **from own vehicle fuel tank** R100,000 or R200,000
-- Spillage **whilst loading / off-loading** R250,000 or R500,000
-- Consignor cover where a contractor or sub-contractor spills; riot spillage; dry non-hazardous
-- 24-hour number, insurer-appointed spillage clean-up specialist, stickers issued on inception
-- Subject to drivers holding the appropriate licence
+**Envirosure Underwriting Managers (Pty) Ltd, FSP 38594**, product **Spill Protect Plan, Transport**,
+underwritten by **Centriq Insurance Company (FSP 3417)**, ref `20260814/FP/01`, prepared by Adelle
+Hartley. ⚠️ **Broker on the quote is printed as "Vaps"**, attention Nadia Pelser, not Cartrack.
+Confirm Cartrack's broker code is on it before it is bound, or the commission goes elsewhere.
 
-**This is the product that actually answers on a tanker fleet**, and it has not been quoted.
-✅ **ACTION FOR BRONWAN TODAY, NOT THURSDAY: complete and submit the form.** Same referral route
-Petrosure gave us on Integral Trading.
+**Insured Cover: "General Goods, Diesel, Petrol, Illuminated Paraffin, Jet Fuel, FMCG, Scrap Metal
+and Scrap Batteries."** Word for word the same list as the CLP goods-in-transit submission. Cover is
+**clean-up and rehabilitation costs caused by a pollution release from transported cargo**:
+environmental and ecological restoration, 1st and 3rd party clean-up costs, loading and off-loading.
+**Claims-made, retroactive date = inception of the Envirosure policy** (a fresh policy, no tail to
+lose). Territory **Africa, south of the Equator**.
+
+| Limit | Annual aggregate |
+|---|---|
+| Transportation of Dangerous Goods | **R5,000,000** |
+| Third Party Liability Solution | **R5,000,000** |
+| Riot & Strike Solution | R2,500,000 / R1,000,000 |
+| Transfer Assist | R250,000 / R50,000 |
+| Side Tank Solution | R150,000 |
+| **Specified vehicles** | **27** |
+
+**Excess: nil within RSA, nil outside RSA (the Excess Solution), EXCEPT all Third Party Liability
+Solution claims carry a flat R10,000** ("Excess Solutions cover will not apply to Third Party
+Liability Solution claims").
+
+**Premium: R14,850/mo environmental impairment + R500/mo Hazcall24 fee + R540/mo VAPS, broker fee
+R0.00 = R15,890.00/mo = R190,680.00/yr.** Commission to the broker R1,923.75/mo, included in premium.
+
+### 🎯 The vehicle count is the tell: 27, not 30, not 183
+
+**Envirosure specifies 27 vehicles.** OUTsurance's own depot record reads **"Max number of vehicles
+27"**, against the 30 scheduled. Alpha quoted **183**. **Working theory: 27 is the real, active
+tanker fleet doing hazardous-goods work; OUTsurance's 30 and Alpha's 183 are wider fleet counts
+across the group (Bakers Tankers, Bakers Bulk, MG Carriers) that include vehicles never carrying
+fuel.** This is not confirmed. **Bronwan's new 108-page OUTsurance schedule (`OT78078997`,
+seen only in a WhatsApp screenshot so far, not yet received as a file) may settle it.** Get it
+sent to this chat, not just described.
+
+### What this adds to the programme
+
+| | Monthly |
+|---|---|
+| Motor, OUTsurance (30 vehicles, unresolved pending the new schedule) | R75,457.10 |
+| Goods in transit, Santam → New National | R39,212.15 |
+| **Spill Protect Plan, Envirosure** | **R15,890.00** |
+| **Full programme, once all three are in place** | **R130,559.25** |
+
+Against the current programme of R117,123.77 (motor + GIT only, no clean-up cover at all today),
+that is **+R13,435.48/mo** to add pollution cover the client has never had. **This is the honest
+frame: the switch is not a saving once clean-up is included, it is buying real cover for the
+first time.** Say that plainly, do not let the GIT saving carry the whole conversation.
+
+## 📋 Superseded: the old note calling Envirosure a blank proposal form
+
+`Envirosure Centriq - The Transport Clean-Up Proposal Form.pdf` was a blank template with no client
+details, product "The Transport Clean-Up", limits R1,000,000 to R30,000,000. **That product was
+never quoted for this client. The real, priced product is "Spill Protect Plan, Transport" above,**
+a different product name from the same underwriting manager, at a fixed R5,000,000 dangerous-goods
+limit rather than an R1m-R30m range. Do not mix the two up when talking to the client.
 
 ## Goods in transit: the one genuine like-for-like on this account
 

@@ -677,13 +677,32 @@ insurance **quote comparisons** for the RMs.
     liability table**; trailers >3,500kg, LCV and private each show sub-section B R5m and **no
     clean-up at all**. **On a tanker fleet the product is in the TRAILER.** Read per item, not per
     summary. ⚠️ OUT's EIL is **claims-made, retro 30 Jun 2026**, so ~6 weeks of tail only.
-  - 📋 **Envirosure is a BLANK PROPOSAL FORM, not a quote** (zero client details on it).
-    **Envirosure UM FSP 38594 / Centriq**, "The Transport Clean-Up": indemnity **R1m to R30m**,
-    **Excess Solution takes the excess to NIL inside RSA** (R50,000 cross border; separate
-    cross-border version, both can go to nil), spillage from own fuel tank R100k/R200k, spillage
-    loading/off-loading R250k/R500k, consignor cover, riot spillage, 24h insurer-appointed clean-up
-    specialist. **ACTION: submit the form, it is the product that actually answers here.** Same
-    referral route Petrosure gave on Integral Trading.
+  - ✅ **UPDATE 16 Sept: the REAL Envirosure quote landed, and it has ALREADY EXPIRED.** Superseded
+    the earlier "blank proposal form" note (that was the wrong product, "The Transport Clean-Up").
+    Real product: **Envirosure Spill Protect Plan, Transport**, FSP 38594, underwritten by Centriq
+    FSP 3417, ref `20260814/FP/01`, prepared by Adelle Hartley. 🚨 **Dated 14 Aug, valid until
+    14 Sept. Today is 16 Sept, meeting is tomorrow 17 Sept. IT HAS LAPSED. Get it reconfirmed before
+    presenting anything.** ⚠️ **Broker printed as "Vaps", not Cartrack.** Confirm the code before
+    it's bound, or the commission goes elsewhere.
+    - **R15,890.00/mo = R190,680/yr**: environmental impairment premium R14,850 + Hazcall24 fee
+      R500 + VAPS R540, broker fee R0.00. Commission R1,923.75/mo, in premium.
+    - **Cover: "General Goods, Diesel, Petrol, Illuminated Paraffin, Jet Fuel, FMCG, Scrap Metal
+      and Scrap Batteries"**, word for word the CLP GIT wording. Claims-made, **retro = inception**
+      (fresh policy, no tail lost). Territory **Africa, south of the Equator**.
+    - Limits: **transportation of dangerous goods R5,000,000** · third party liability solution
+      **R5,000,000** · riot & strike R2,500,000/R1,000,000 · transfer assist R250,000/R50,000 ·
+      side tank R150,000. **Excess nil within and outside RSA, EXCEPT a flat R10,000 on every third
+      party liability claim** (Excess Solution doesn't apply there).
+    - 🎯 **Specifies 27 vehicles**, matching OUTsurance's own depot cap **"Max number of vehicles
+      27"** (vs 30 scheduled), while Alpha quoted 183. **Working theory, NOT confirmed: 27 is the
+      real active tanker fleet doing hazmat work; the wider counts are group totals across Bakers
+      Tankers/Bulk/MG Carriers.** Bronwan's new 108pp OUTsurance schedule (`OT78078997`, seen only
+      in a WhatsApp screenshot, not yet received as a file) may settle it. **Get it sent as an
+      actual file.**
+    - **Full programme once all three land: R130,559.25/mo** (motor R75,457.10 + GIT R39,212.15 +
+      spill R15,890.00) **vs current R117,123.77 = +R13,435.48/mo, NOT a saving.** Frame it
+      honestly: GIT genuinely saves R2,454.52/mo, spill cover is a real new cost for cover the
+      client has never had. Don't let the GIT saving carry the pitch.
   - ✅ **GIT is the one clean like-for-like. CURRENT Santam Specialist Marine `AMDBLE265448M`
     (Durban), broker of record STERLING HAMILTON WRIGHT (code 4349453) = R50,000,000 annual haulage
     fee at 1.00% = R500,000/yr incl VAT and strikes at 0.05% = R41,666.67/mo.** vs **CLP / New
