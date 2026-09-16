@@ -122,6 +122,13 @@ insurance **quote comparisons** for the RMs.
   this 16 Sept 2026: the Bakers client pack "suddenly looked different" from the Vuyos one). The
   template and CSS are identical across packs; what changes a pack's look is using a reduced subset.
   **Every client proposal must have:**
+  - 🎨 **MASTHEADS: client proposal = ALWAYS plain `class="masthead"` (black ink).
+    NEVER `.orange` / `.teal` / `.blue` / `.purple` / `.pink`.** The coloured mastheads are the
+    **RM playbook's** signature and nothing else. (Anne, 16 Sept 2026: "All the heading blocks in the
+    client facing proposal must be black, not colour, only the playbook must be colourful." Every
+    other client pack in the repo was already clean; only Bakers and Gateway had been coloured.)
+    Coloured **callouts** (`.rec` / `.warn` / `.info` / `.verdict` / `.dark`) stay as they are in
+    both document types; the rule is about the heading blocks.
   - **Cover leads with MONEY, not a warning.** Three `.stat` cards: what they pay today, the best
     quotation, the difference. A finding goes on page 2 or 3, never in place of the numbers.
   - **A "Markets approached" chip row on the cover**: `.chips > .chip` (`.dot` orange dot for the
