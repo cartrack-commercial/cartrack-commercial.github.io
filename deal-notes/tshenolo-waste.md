@@ -3,9 +3,14 @@
 **RM:** Cules Van Dyk · **Received 15 September 2026**, analysed 16 September 2026.
 Lanseria Corporate Estate, 25 Amelia Lane, Lanseria, Krugersdorp 1739.
 
-**Cules' brief (WhatsApp 15 Sept 09:36):** *"Die is vir Tshenolo Waste. Dit is twee polisse wat
-opgesplit is. Kan ek groot asb vra vir n comparison, die is n moerse klient en Natsure spaar hulle
-R77 000/mo."*
+**Cules' brief (WhatsApp 15 Sept 09:34 and 09:36):** two PDFs, then *"Die is vir Tshenolo Waste.
+Dit is twee polisse wat opgesplit is. Kan ek groot asb vra vir n comparison, die is n moerse klient
+en Natsure spaar hulle R77 000/mo."*
+
+⚠️ **"Twee polisse wat opgesplit is" describes the two files he sent, that is the NATSURE proposal
+split into a fleet policy and a commercial policy.** It is not a reference to two current policies.
+Read the other way round it sends you looking for documents that do not exist. Cules has given us
+the complete Natsure side. **What is missing is the other side of the comparison.**
 
 ---
 
@@ -15,7 +20,7 @@ R77 000/mo."*
 |---|---|
 | **Natsure / Compass HCV quote `HCVU192176`**, 11 Sept | ✅ R311,086.71/mo, 55 vehicles, motor only |
 | **Natsure / Compass commercial quote `COM192164`**, 14 Sept | ✅ R150,768.60/mo, 6 premises + 15 cars |
-| **The CURRENT policy schedule(s), both of them** | ❌ **not received** |
+| **Whatever the client pays today** | ❌ **not received, and it is the whole other side** |
 | **The per-vehicle schedule behind `HCVU192176`** | ❌ **not in the PDF** |
 | **The 3-year claims record** | ❌ both quotes require it in writing |
 
@@ -28,9 +33,10 @@ things in the Natsure quotes big enough to change the answer even if the R77,000
 
 ⚠️ **Do not infer the incumbent from a quote.** (The Gateway mistake.)
 
-**Ask Cules for, by name:** both **current** schedules, the **vehicle schedule** behind
-`HCVU192176` (reg / year / value / tracking fitted), and the **3-year claims record**. If a **third**
-policy exists carrying public liability, that one too. See Finding 1.
+**Cules has sent everything on the Natsure side. Ask him for the other side, by name:** the
+**current policy schedule or schedules**, whatever the client is on today and whoever writes it;
+the **vehicle schedule** behind `HCVU192176` (registration, year, value, tracking fitted per unit);
+and the **3-year claims record** both quotes require before the price is firm.
 
 ## What `HCVU192176` says, reconciled to the cent
 
@@ -130,10 +136,11 @@ people's premises, and run training.** A container failing at a hospital, a need
 spill in a ward, contaminated waste in the wrong stream, bad advice in a training session: none of
 that is a motor claim and none of it is covered by anything on these two documents.
 
-⛔ **Ask Cules first, before anything else: is there a THIRD policy?** Cules said the account is
-"twee polisse wat opgesplit is", so it is entirely possible liability sits somewhere we have not
-been shown. **But if it does not, the client would be moving to a programme with no public liability
-at all, and that is a bigger issue than R77,000 a month.**
+⛔ **This is the first question for the current schedule.** If the client carries public liability
+today and the Natsure proposal does not replace it, the move strips out their characteristic cover
+and nobody has said so. If they do not carry it today, then it is a standing gap and it is the best
+thing we can put on the table for this client. **Either way it is worth more than R77,000 a month,
+and the current schedule is what settles which it is.**
 
 **Also absent everywhere:** business interruption, fidelity, money, glass, goods in transit,
 machinery breakdown (on R12,839,148 of plant at Denver), deterioration of stock, and any
