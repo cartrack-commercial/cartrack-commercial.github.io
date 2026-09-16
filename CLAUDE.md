@@ -653,120 +653,110 @@ insurance **quote comparisons** for the RMs.
 - **Bakers Tankers / Bakers Bulk / MG Carriers FTRR&I** (bulk fuel and general haulage, 15 Vereeniging
   Road, Alrode, Alberton 1451; reg 2008/014516/07, VAT 4720248410; contact **Mr Z Essop**,
   zaahid@bakerstankers.co.za). RM: **Bronwan Fouche**. ⏰ **Client meeting Thu 17 Sept 2026 for a
-  final answer.** Full detail in `deal-notes/bakers-tankers.md`. Analysed 15 Sept 2026.
-  - ⛔ **THE FINDING: the motor insurer excludes what the client carries.** OUTsurance
-    `OT89649119` records the business as *"Service & repair, Transport, goods"* and prints under
-    **Fleet special conditions**: *"OUTsurance does not provide cover ... **when the vehicle
-    transports hazardous materials**"*. The **CLP goods-in-transit submission of 14 Sept** declares
-    the subject matter as *"General Goods, **Diesel, Petrol, Illuminated Paraffin, Jet Fuel**, FMCG,
-    Scrap Metal and Scrap Batteries."* And the SAME OUT schedule sells **environmental impairment
-    liability R5,000,000/vehicle** (R91.09) recording *"Type of substance: Liquid. Containers used:
-    Yes."* **Nothing else matters until OUTsurance answers in writing.** Same shape as Twin Trans.
-  - ⚠️ **THE TWO MOTOR DOCUMENTS ARE NOT COMPARABLE, and V4 (16 Sept, same day as Envirosure) made
-    the gap BIGGER not smaller.** Identical wording to V2, only figures moved. **OUTsurance covers
-    30 vehicles (R75,457.10/mo)**; **Alpha V4 now quotes 214 (R191,938.68/mo, SI R86,139,924)**, up
-    from V2's 183/R138,104.10. Both reconcile. Alpha V4 by class: **HCV 55 (was 29) R50,491,543 /
-    R92,567.83** · **trailers >3,500kg 124 (was 119) R28,444,295 / R23,694.10** · private 19
-    (unchanged) R5,240,025 / R7,698.47 · LCV 16 (unchanged) R1,964,061 / R3,392.59. All growth is
-    +26 HCV and +5 trailers; private and LCV are the same vehicles to the rand.
-  - 🎯 **Per-truck rate dropped sharply: OUT 26 trucks R62,854.24 = R2,417.47 each vs
-    Alpha V4 55 trucks R92,567.83 = R1,682.14 each (−R735.33, −30%)**, up from V2's −8.2%. Average
-    SI per truck went UP (R832,659→R918,028), so it isn't simply cheaper trucks. **Get this rate
-    confirmed in writing by Sandile Ndlovu before treating it as firm.**
-    ⛔ **ASK FIRST: what insures the other 184 vehicles (was 153 on V2)?** Extra HCV alone is now 29
-    (55 vs OUT's 26), not 3 as on V2. Either a second policy nobody sent, or a large part of the
-    fleet is uninsured. Do not present a motor comparison until that is known.
-  - 🚨 **Pollution goes BACKWARDS at Alpha and that is the decisive cover on a tanker fleet.**
-    OUT **EIL R5,000,000 per vehicle** vs Alpha **"Clean up costs (leakage from vehicle)
-    R1,000,000"** (0.240% = R11,000 on V4, up from R5,800 on V2, same rate on a bigger HCV base).
-    And **Alpha's clean-up line still sits ONLY in the HEAVY COMMERCIAL liability table** on V4;
-    trailers >3,500kg, LCV and private each show sub-section B R5m and **no clean-up at all**.
-    **On a tanker fleet the product is in the TRAILER.** Read per item, not per summary.
-    ⚠️ OUT's EIL is **claims-made, retro 30 Jun 2026**, so ~6 weeks of tail only.
-  - ✅ **V4 also fixed the Sasria gap flagged on V2**: sections now total R31,511.80 against a
-    summary of R31,511.54 (26c rounding, was R6,236.60 out). Nothing to chase there anymore.
-  - ✅ **UPDATE 16 Sept: the REAL Envirosure quote landed, and it has ALREADY EXPIRED.** Superseded
-    the earlier "blank proposal form" note (that was the wrong product, "The Transport Clean-Up").
-    Real product: **Envirosure Spill Protect Plan, Transport**, FSP 38594, underwritten by Centriq
-    FSP 3417, ref `20260814/FP/01`, prepared by Adelle Hartley. 🚨 **Dated 14 Aug, valid until
-    14 Sept. Today is 16 Sept, meeting is tomorrow 17 Sept. IT HAS LAPSED. Get it reconfirmed before
-    presenting anything.** ⚠️ **Broker printed as "Vaps", not Cartrack.** Confirm the code before
-    it's bound, or the commission goes elsewhere.
-    - **R15,890.00/mo = R190,680/yr**: environmental impairment premium R14,850 + Hazcall24 fee
-      R500 + VAPS R540, broker fee R0.00. Commission R1,923.75/mo, in premium.
-    - **Cover: "General Goods, Diesel, Petrol, Illuminated Paraffin, Jet Fuel, FMCG, Scrap Metal
-      and Scrap Batteries"**, word for word the CLP GIT wording. Claims-made, **retro = inception**
-      (fresh policy, no tail lost). Territory **Africa, south of the Equator**.
-    - Limits: **transportation of dangerous goods R5,000,000** · third party liability solution
-      **R5,000,000** · riot & strike R2,500,000/R1,000,000 · transfer assist R250,000/R50,000 ·
-      side tank R150,000. **Excess nil within and outside RSA, EXCEPT a flat R10,000 on every third
-      party liability claim** (Excess Solution doesn't apply there).
-    - 🎯 **Specifies 27 vehicles**, matching OUTsurance's own depot cap **"Max number of vehicles
-      27"** (vs 30 scheduled), while Alpha V4 now quotes 214 (was 183). **Working theory, NOT
-      confirmed: 27 is the real active tanker fleet doing hazmat work; the wider counts are group
-      totals across Bakers Tankers/Bulk/MG Carriers.** Alpha's own count moving 183→214 in three
-      days without explanation makes neither figure easy to trust on its own. Bronwan's new 108pp
-      OUTsurance schedule (`OT78078997`, seen only in a WhatsApp screenshot, not yet received as a
-      file) may settle it. **Get it sent as an actual file.**
-    - **Full programme once all three land: R130,559.25/mo** (motor R75,457.10 + GIT R39,212.15 +
-      spill R15,890.00) **vs current R117,123.77 = +R13,435.48/mo, NOT a saving.** Frame it
-      honestly: GIT genuinely saves R2,454.52/mo, spill cover is a real new cost for cover the
-      client has never had. Don't let the GIT saving carry the pitch.
-  - ✅ **GIT is the one clean like-for-like. CURRENT Santam Specialist Marine `AMDBLE265448M`
-    (Durban), broker of record STERLING HAMILTON WRIGHT (code 4349453) = R50,000,000 annual haulage
-    fee at 1.00% = R500,000/yr incl VAT and strikes at 0.05% = R41,666.67/mo.** vs **CLP / New
-    National Assurance FSP 2603 via Nautical Underwriting Managers FSP 43437 (JP Liebenberg) =
-    R50,000,000 at 0.90% = R37,500/mo + Sasria R1,712.15 = R39,212.15/mo**, 20% broker commission.
-    **−R2,454.52/mo ≈ −R29,454/yr.** Any one conveyance **R1,620,000** and driver
-    fidelity **R1,620,000** on BOTH to the rand; general excess 10% min R10,000 and hijack 25% min
-    R25,000 on both; debris removal R25,000 → R30,000.
-    - ✅ **Territory 4 → 12:** Santam is RSA + Eswatini, Botswana, Mozambique; CLP adds DRC
-      (not north of Kolwezi), Namibia, Lesotho, Angola, Kenya, Zimbabwe, Zambia, Malawi. **Ask if
-      they actually cross those borders** (on Integral Trading the wide territory was unused).
-    - ⚠️ **CLP names "Bakers Tankers" ALONE; Santam insures all THREE entities** (Bakers
-      Tankers, Bakers Bulk & MG Carriers). Moving as quoted leaves two uninsured. Same shape as the
-      seven named insureds on Integral Trading.
-    - ⚠️ **CLP adds an extra excess Santam does not have: High Risk Cargo over R1,000,000
-      attracts a FURTHER 25% of claim min R25,000 unless armed escort.** Its own example puts a
-      R1.5m hijacked load at **R525,000 total excess**. **High Risk Cargo is defined to include
-      "Precious Metals including Copper, Cobalt, Ferro Chrome etc." and "Solar Panels / Batteries /
-      Inverters / Generators"**, and the declared cargo includes **Scrap Metal and Scrap Batteries**.
-      **Fuel is NOT on the list.** Get it confirmed in writing.
-    - ⚠️ **CLP theft cover on any load over R500,000 requires live satellite tracking
-      operational at the time of claim, or a convoy of 3+.** A full fuel load is well over R500,000,
-      so it is every trip.
-  - 💰 **OUTsurance projects a Business OUTbonus of R307,010.54 payable 07 Aug 2028** and
-    confirms "the new Business OUTbonus is applicable on this Fleet policy". **Moving the motor
-    forfeits it.** Claims-ratio based, nothing above 30%. **Same trap as CS Continental** (where a
-    R42,637.61 bonus was worth 57 years of the saving), seven times larger here. **Raise it yourself.**
-  - ⚠️ **Claims: 43 dated fleet incidents over 10 years, R1,588,000 disclosed** across the
-    22 entries carrying a value; worst single loss **R663,192 on 23/07/2022**; by year 2017×1,
-    2018×7, 2019×6, 2020×10, 2021×11, 2022×8, mostly accidental damage.
-    **Nothing on the Alpha quote says it was rated on that record.** Same gate as CS Continental/Idol.
-  - **Excess cuts the other way:** OUT **flat R50,000** basic on heavy units (TP R6,980, glass
-    R2,000, accessories nil) vs **Alpha 10% of claim min R30,000** on HCV and trailers >3,500kg
-    (5% min R5,000 light/private). On a R1.5m truck that is R150,000 vs R50,000. **OUT is materially
-    better on any serious loss.**
-  - 🛰️ **Up to 179-unit lead on V4: 55 trucks + 124 trailers** (was 148 on V2), and it is a
-    condition of GIT theft cover, not a suggestion. Trailers need their own units (cargo and theft
-    exposure travel with the trailer). Confirm the real number once the OUTsurance schedule question
-    is settled. OUT's depot record lists only "Access control 24 hours, Unspecified" and "Alarm with
-    armed response, radio link, Unspecified", nothing on vehicle tracking. 43 incidents also makes the
-    driver-scoring and camera case.
-  - **Admin:** address is **15 Nereeniging Road, Alberton 1449** on Santam vs **15 Vereeniging Road,
-    Alberton 1451** on OUT and CLP; **OUT depot allows max 27 vehicles against 30 scheduled**
-    (same shape as CS Continental's 7 vs 9); **Alpha's Sasria gap from V2 is FIXED on V4** (sections
-    now total R31,511.80 vs summary R31,511.54, 26c rounding, was R6,236.60 out); CLP period reads
-    **"commencing on TBA and ending on TBA"** and loss history reads *"No previous claims in the last
-    3 years"* against eight motor incidents in 2022; OUT inception 03/08/2026, renewal 01/09/2027;
-    **OUT broker of record is Virgil Niekerk, an in-house OUTsurance broker** (same arrangement as
-    Lara Gray on CS Continental). Current GIT: inception 06/07/2026, renewal 01/07/2027,
-    endorsement 1, authorised by Justin Naidoo 14/07/2026.
-  - ⚠️ `Bakers_GIT.pdf` is a **40-page scan with no text layer** (229 grey levels), read as
-    page images.
-  - **Deliverables built 15 Sept, rebuilt 16 Sept for Envirosure + Alpha V4** (`bakers_proposal_content.html`
-    / `bakers_playbook_content.html`): client proposal 6pp + RM playbook 6pp (INTERNAL). Source
-    documents kept at `bakers_envirosure_quote.pdf` and `bakers_alpha_v4_quote.pdf`.
+  final answer.** Full detail in `deal-notes/bakers-tankers.md`. Analysed 15 Sept, **rewritten
+  16 Sept when the second OUTsurance schedule landed.**
+  - 🚨 **`OT78078997` (108pp, via Google Drive, 16 Sept) IS A SECOND OUTSURANCE POLICY, NOT A
+    REISSUE, AND IT REVERSES THE RECOMMENDATION.** Inception 10 Jun 2022, renewal **10 Jun 2027**,
+    **185 items (65 vehicles + 120 trailers)**, **R97,875.36/mo**. Together with `OT89649119`
+    (30 items, R75,457.10, renewal 1 Sept 2027) that is **215 distinct vehicles, ZERO shared
+    registrations, R173,332.46/mo**. Both reconcile to the cent; the seven insured fleets on
+    `OT78078997` sum exactly to its two section totals.
+  - ✅ **THE 184-VEHICLE QUESTION IS ANSWERED. Nothing is uninsured, and Alpha V4 is quoting the
+    same fleet.** Trucks 54 v 55 · **trailers 124 v 124 exact** · cars and LCV 37 v 35 · trailer SI
+    R27,454,899 on 120 v R28,444,295 on 124 · **Sasria R31,732.51 v R31,511.54, R221 apart on a
+    statutory rate.** Four checks, none could line up by accident.
+  - 💥 **SO ALPHA IS DEARER: R191,938.68 v R173,332.46 = +R18,606.22/mo ≈ +R223,275/yr (+10.7%).**
+    🎯 **But its RATES are better:** trucks R1,682.14 v R1,805.45, trailers R191.08 v R207.02, cars
+    R316.89 v R448.15, **vehicle sections R127,352.98 v R139,746.36 = −R12,393.38.** What makes it
+    dearer is **R33,074.16/mo of additions**: **towing R17,529.16** (two lines at 16.0%, both capped
+    at **R30,000** = R210,350/yr to buy R30,000 of towing) + **clean-up R11,000.00 for R1,000,000**
+    + windscreen R2,750 + VAPS R1,605 + general R190. OUT carries roadside, extended territories,
+    EIL, keys and passenger liability **inside** its rates and adds **PL R11,664,000 for R1,853.59
+    that Alpha does not quote**. 🎯 **Strip Alpha's towing and it lands at R174,409.52, within
+    R1,077.06/mo of staying. That is the lever.**
+  - ❌ **CORRECTIONS to the 15/16 Sept packs, all superseded:** (1) "OUTsurance covers 30 vehicles,
+    R75,457.10" was one policy of two; (2) "per-truck rate −30%" was the wrong basis, across all 54
+    OUT trucks it is **−6.8%**; (3) "184 vehicles may be uninsured" is answered; (4) **the OUTbonus
+    is TWICE what I recorded: R255,621.49 on 27 Feb 2028 + R307,010.54 on 7 Aug 2028 =
+    R562,632.03**; (5) "OUT's EIL reaches back six weeks" is the newer policy, **`OT78078997` carries
+    retro 01 Jan 2025**; (6) programme figures R117,123.77 / R130,559.25 were built on 30 of 215.
+  - ⛔ **THE HAZMAT FINDING STANDS AND IS NOW ON BOTH POLICIES**, business described "Service &
+    Repair, Transport, Goods", turnover **R150,000,000**, 200 employees. 🚨 **And the contradiction
+    is in OUTsurance's own words twice:** the EIL special conditions require drivers to be familiar
+    with *"the transport of dangerous substances and goods"* and to hold *"a professional driving
+    permit for vehicles transporting dangerous goods"*, on the same schedule that excludes hazardous
+    materials. Put both paragraphs to Virgil Niekerk.
+  - 🚨 **POLLUTION IS THE OPPOSITE OF WHAT THE LAST PACK SAID. OUT already gives R5,000,000 per
+    vehicle on 52 trucks for R3,483.84/mo** (R895.33 retro 01 Jan 2025 + R2,588.51 retro 30 Jun
+    2026); Alpha wants **R11,000/mo for R1,000,000, HCV only**. 3.2× the price for a fifth of the
+    limit. ⚠️ **BUT NO TRAILER ON EITHER OUT POLICY CARRIES EIL.** I wrote this up as an Alpha
+    regression; it is a **standing gap** on 124 trailers, and on a tanker fleet the product is in the
+    trailer. ⚠️ "Containers used" reads **NO** on `OT78078997` and **YES** on `OT89649119`.
+  - 🚨 **NEW: the tanker trailer sums insured cannot be right.** 34 described tankers: **nine at
+    R56,047**, five at R95,659, eight at R150,664, two at R729,000, six at R1,293,750. A 2017 road
+    tanker at R729,000 beside 1999/2006 tankers at R56,047; replacement is R800k to R1.6m.
+    **And Alpha has copied the same values across.** Get a valuation. Largest exposure in the file.
+  - 🚨 **NEW: 61 of the 215 items are 2006 or older**, and Alpha requires *"a full vehicle evaluation
+    before comprehensive cover"* on anything over 20 years. 61 inspections before cover attaches.
+  - ✅ **NEW: they DO cross borders.** Extended territories is bought on **every one of the seven
+    fleets, R15,611.75/mo = R187,341/yr**. ⚠️ **Corrects the open GIT question** ("ask if they
+    actually cross those borders"): CLP's 12 territories v Santam's 4 is a **real** gain.
+  - ⚠️ **3 vehicles have tracking REQUIRED and NOT INSTALLED: KZ73CSGP, CB42HNZN, FJ04NTGP** →
+    **no theft or hijack cover today**. All 26 on `OT89649119` require a device with no fitment
+    recorded. ✅ **Cartrack is NAMED on OUTsurance's approved list.** 🛰️ **179-unit lead** (55 trucks
+    + 124 trailers); no trailer carries a tracking field on either policy while **CLP's GIT makes
+    theft cover on any load over R500,000 conditional on live tracking**.
+  - ⚠️ **Claims are BETTER than assumed: both policies project an OUTbonus, which needs a claims
+    ratio ≤30%.** `OT78078997`'s own page 6 lists **38 Guardian incidents 2018 to Feb 2022,
+    R778,376 across the 17 valued**, incl. a hijack 30 Jun 2021, yet every fleet section prints
+    *"incidents in the last ten years: None"*. Alpha still only **asks for** 3 years' claims
+    experience, so **R191,938.68 is not firm**.
+  - ⚠️ **PL R11,664,000 at R1,853.59** (legal defence + wrongful arrest R10.8m each, excess R8,020).
+    🚨 **OUTsurance itself prints "Based on your industry type, we recommend the Defective Products
+    optional cover, which is not currently selected."** Defective products AND workmanship both
+    untaken on a R150m repair-and-transport business. **Credit shortfall untaken** with ABSA's
+    interest noted. **Passenger liability R5m/15 seats IS taken at OUT; Alpha's HCV liability table
+    prints none.** **Extended TP not taken either side, so TP is R5m both.**
+  - **Excess: OUT wins and it is not close.** Trucks **R11,400 to R26,640**, trailers **R5,720**,
+    light R6,840 to R9,320 v **Alpha 10% of claim min R30,000** on HCV and all 124 trailers. On a
+    R1.5m truck that is R150,000 v R11,400.
+  - **GIT unchanged and still the one clean win:** Santam `AMDBLE265448M` R41,666.67 → CLP / New
+    National via Nautical R39,212.15 = **−R2,454.52/mo ≈ −R29,454/yr**, matched limits (conveyance
+    and driver fidelity R1,620,000 both), debris R25k→R30k. ⚠️ CLP names **Bakers Tankers alone**
+    (Santam and BOTH OUT schedules name all three); ⚠️ **High Risk Cargo over R1m = a further 25%
+    min R25,000** and the definition includes copper and batteries against declared **Scrap Metal
+    and Scrap Batteries** (fuel is not on the list); ⚠️ period "commencing on TBA".
+  - ✅ **Envirosure Spill Protect Plan, Transport** (FSP 38594, Centriq FSP 3417, ref
+    `20260814/FP/01`, Adelle Hartley) **R15,890.00/mo**, dangerous goods R5m + TP solution R5m,
+    claims-made **retro = inception**, Africa south of the Equator, 27 vehicles, excess nil except
+    **flat R10,000 on TP claims**. 🚨 **Dated 14 Aug, valid to 14 Sept, LAPSED.** ⚠️ **Broker printed
+    as "Vaps", not Cartrack.** 🎯 **Do NOT quote a spill price until OUTsurance answers on hazmat:**
+    if the exclusion does not bite, Envirosure largely duplicates the trucks and what is needed is a
+    **trailers-only** price; if it does bite, the EIL on 52 trucks is worthless and R15,890 is cheap.
+    **Ask Adelle for both versions.**
+  - 💰 **Programme: current R214,999.13/mo** (motor R173,332.46 + GIT R41,666.67) **v R247,040.83 as
+    quoted = +R32,041.70/mo ≈ +R384,500/yr.** Alpha without towing → R229,511.67 = +R14,512.54.
+  - ✅ **RECOMMENDATION CHANGED: keep the motor at OUTsurance** (cheaper, far better excesses, 5× the
+    pollution limit, an R11.664m PL section Alpha does not quote, R562,632 of bonus); **move the GIT
+    to CLP**; **buy spill cover sized to the hazmat answer**; **fix what is broken on their own book**
+    (tanker values, 3 untracked vehicles, no trailer EIL, no credit shortfall, no defective products).
+  - **Admin:** address **15 Nereeniging Rd, Alberton 1449** (Santam) v **15 Vereeniging Rd,
+    Alberton 1451** (both OUT + CLP), and `OT78078997` prints "Vereeninging" on its own page 2;
+    **VAT and reg blank on BOTH OUT schedules** so neither is a tax invoice; loss of keys R3,000 v
+    R10,000 between the two policies; **2 MAN TGA trucks (JXH251MP, JXH256MP) are third-party only**,
+    R65.15/mo, no own damage/theft/hijack; **Alpha's renewal reads 01/10/2026** against OUT renewals
+    of 10 Jun 2027 and 1 Sept 2027, so a move cancels both mid-term; Alpha names Bakers Tankers alone;
+    `OT89649119`'s depot caps at 27 vehicles (**that is a depot record, NOT the hazmat fleet count**,
+    which kills the earlier "27 is the real tanker fleet" theory); `OT78078997` has no depot record.
+  - ⚠️ `Bakers_GIT.pdf` is a **40-page scan with no text layer** (229 grey levels), read as page
+    images. `OT78078997` has a text layer, 108 pages.
+  - 📎 **`OT78078997` arrived via Google Drive from iOS** ("Saving to Drive"), pulled with
+    `search_files` → `download_file_content` → base64 → pymupdf. **Same route as Gateway and Vuyos.
+    Use it every time a file will not upload.**
+  - **Deliverables rebuilt 16 Sept** (`bakers_proposal_content.html` / `bakers_playbook_content.html`):
+    client proposal 6pp + RM playbook 7pp (INTERNAL). Sources kept at
+    `bakers_outsurance_OT78078997.pdf` (+ `bakers_out_OT78078997_extract.txt`),
+    `bakers_envirosure_quote.pdf`, `bakers_alpha_v4_quote.pdf`.
 
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 
