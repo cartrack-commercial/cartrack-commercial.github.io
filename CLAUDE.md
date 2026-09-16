@@ -662,21 +662,29 @@ insurance **quote comparisons** for the RMs.
     Scrap Metal and Scrap Batteries."* And the SAME OUT schedule sells **environmental impairment
     liability R5,000,000/vehicle** (R91.09) recording *"Type of substance: Liquid. Containers used:
     Yes."* **Nothing else matters until OUTsurance answers in writing.** Same shape as Twin Trans.
-  - ⚠️ **THE TWO MOTOR DOCUMENTS ARE NOT COMPARABLE.** **OUTsurance covers 30 vehicles
-    (R75,457.10/mo)**; **Alpha V2 quotes 183 (R138,104.10/mo, SI R58,720,832)**. Both reconcile.
-    Alpha by class: **HCV 29 R24,147,118 / R64,392.31** · **trailers >3,500kg 119 R27,206,482 /
-    R22,663.00** · private 19 R5,338,232 / R7,842.75 · LCV 16 R2,029,000 / R3,504.76.
-  - 🎯 **On trucks alone Alpha is CHEAPER: OUT 26 trucks R62,854.24 = R2,417.47 each vs
-    Alpha 29 trucks R64,392.31 = R2,220.42 each (−R197.05, −8.2%), on three more trucks.**
-    The whole R62,647 gap is the **115 extra trailers, 16 LCV and 19 private cars OUT does not cover**.
-    ⛔ **ASK FIRST: what insures the other 153 vehicles?** Either a second policy nobody sent, or
-    a large part of the fleet is uninsured. Do not present a motor comparison until that is known.
+  - ⚠️ **THE TWO MOTOR DOCUMENTS ARE NOT COMPARABLE, and V4 (16 Sept, same day as Envirosure) made
+    the gap BIGGER not smaller.** Identical wording to V2, only figures moved. **OUTsurance covers
+    30 vehicles (R75,457.10/mo)**; **Alpha V4 now quotes 214 (R191,938.68/mo, SI R86,139,924)**, up
+    from V2's 183/R138,104.10. Both reconcile. Alpha V4 by class: **HCV 55 (was 29) R50,491,543 /
+    R92,567.83** · **trailers >3,500kg 124 (was 119) R28,444,295 / R23,694.10** · private 19
+    (unchanged) R5,240,025 / R7,698.47 · LCV 16 (unchanged) R1,964,061 / R3,392.59. All growth is
+    +26 HCV and +5 trailers; private and LCV are the same vehicles to the rand.
+  - 🎯 **Per-truck rate dropped sharply: OUT 26 trucks R62,854.24 = R2,417.47 each vs
+    Alpha V4 55 trucks R92,567.83 = R1,682.14 each (−R735.33, −30%)**, up from V2's −8.2%. Average
+    SI per truck went UP (R832,659→R918,028), so it isn't simply cheaper trucks. **Get this rate
+    confirmed in writing by Sandile Ndlovu before treating it as firm.**
+    ⛔ **ASK FIRST: what insures the other 184 vehicles (was 153 on V2)?** Extra HCV alone is now 29
+    (55 vs OUT's 26), not 3 as on V2. Either a second policy nobody sent, or a large part of the
+    fleet is uninsured. Do not present a motor comparison until that is known.
   - 🚨 **Pollution goes BACKWARDS at Alpha and that is the decisive cover on a tanker fleet.**
     OUT **EIL R5,000,000 per vehicle** vs Alpha **"Clean up costs (leakage from vehicle)
-    R1,000,000"** (0.240% = R5,800). And **Alpha's clean-up line sits ONLY in the HEAVY COMMERCIAL
-    liability table**; trailers >3,500kg, LCV and private each show sub-section B R5m and **no
-    clean-up at all**. **On a tanker fleet the product is in the TRAILER.** Read per item, not per
-    summary. ⚠️ OUT's EIL is **claims-made, retro 30 Jun 2026**, so ~6 weeks of tail only.
+    R1,000,000"** (0.240% = R11,000 on V4, up from R5,800 on V2, same rate on a bigger HCV base).
+    And **Alpha's clean-up line still sits ONLY in the HEAVY COMMERCIAL liability table** on V4;
+    trailers >3,500kg, LCV and private each show sub-section B R5m and **no clean-up at all**.
+    **On a tanker fleet the product is in the TRAILER.** Read per item, not per summary.
+    ⚠️ OUT's EIL is **claims-made, retro 30 Jun 2026**, so ~6 weeks of tail only.
+  - ✅ **V4 also fixed the Sasria gap flagged on V2**: sections now total R31,511.80 against a
+    summary of R31,511.54 (26c rounding, was R6,236.60 out). Nothing to chase there anymore.
   - ✅ **UPDATE 16 Sept: the REAL Envirosure quote landed, and it has ALREADY EXPIRED.** Superseded
     the earlier "blank proposal form" note (that was the wrong product, "The Transport Clean-Up").
     Real product: **Envirosure Spill Protect Plan, Transport**, FSP 38594, underwritten by Centriq
@@ -694,11 +702,12 @@ insurance **quote comparisons** for the RMs.
       side tank R150,000. **Excess nil within and outside RSA, EXCEPT a flat R10,000 on every third
       party liability claim** (Excess Solution doesn't apply there).
     - 🎯 **Specifies 27 vehicles**, matching OUTsurance's own depot cap **"Max number of vehicles
-      27"** (vs 30 scheduled), while Alpha quoted 183. **Working theory, NOT confirmed: 27 is the
-      real active tanker fleet doing hazmat work; the wider counts are group totals across Bakers
-      Tankers/Bulk/MG Carriers.** Bronwan's new 108pp OUTsurance schedule (`OT78078997`, seen only
-      in a WhatsApp screenshot, not yet received as a file) may settle it. **Get it sent as an
-      actual file.**
+      27"** (vs 30 scheduled), while Alpha V4 now quotes 214 (was 183). **Working theory, NOT
+      confirmed: 27 is the real active tanker fleet doing hazmat work; the wider counts are group
+      totals across Bakers Tankers/Bulk/MG Carriers.** Alpha's own count moving 183→214 in three
+      days without explanation makes neither figure easy to trust on its own. Bronwan's new 108pp
+      OUTsurance schedule (`OT78078997`, seen only in a WhatsApp screenshot, not yet received as a
+      file) may settle it. **Get it sent as an actual file.**
     - **Full programme once all three land: R130,559.25/mo** (motor R75,457.10 + GIT R39,212.15 +
       spill R15,890.00) **vs current R117,123.77 = +R13,435.48/mo, NOT a saving.** Frame it
       honestly: GIT genuinely saves R2,454.52/mo, spill cover is a real new cost for cover the
@@ -738,15 +747,16 @@ insurance **quote comparisons** for the RMs.
     R2,000, accessories nil) vs **Alpha 10% of claim min R30,000** on HCV and trailers >3,500kg
     (5% min R5,000 light/private). On a R1.5m truck that is R150,000 vs R50,000. **OUT is materially
     better on any serious loss.**
-  - 🛰️ **148-unit lead: 29 trucks + 119 trailers**, and it is a condition of GIT theft
-    cover, not a suggestion. Trailers need their own units (cargo and theft exposure travel with the
-    trailer). OUT's depot record lists only "Access control 24 hours, Unspecified" and "Alarm with
+  - 🛰️ **Up to 179-unit lead on V4: 55 trucks + 124 trailers** (was 148 on V2), and it is a
+    condition of GIT theft cover, not a suggestion. Trailers need their own units (cargo and theft
+    exposure travel with the trailer). Confirm the real number once the OUTsurance schedule question
+    is settled. OUT's depot record lists only "Access control 24 hours, Unspecified" and "Alarm with
     armed response, radio link, Unspecified", nothing on vehicle tracking. 43 incidents also makes the
     driver-scoring and camera case.
   - **Admin:** address is **15 Nereeniging Road, Alberton 1449** on Santam vs **15 Vereeniging Road,
     Alberton 1451** on OUT and CLP; **OUT depot allows max 27 vehicles against 30 scheduled**
-    (same shape as CS Continental's 7 vs 9); **Alpha's Sasria does not add up** (sections total
-    R20,571.21 vs summary R14,334.61, gap R6,236.60, only the summary reconciles); CLP period reads
+    (same shape as CS Continental's 7 vs 9); **Alpha's Sasria gap from V2 is FIXED on V4** (sections
+    now total R31,511.80 vs summary R31,511.54, 26c rounding, was R6,236.60 out); CLP period reads
     **"commencing on TBA and ending on TBA"** and loss history reads *"No previous claims in the last
     3 years"* against eight motor incidents in 2022; OUT inception 03/08/2026, renewal 01/09/2027;
     **OUT broker of record is Virgil Niekerk, an in-house OUTsurance broker** (same arrangement as
@@ -754,8 +764,9 @@ insurance **quote comparisons** for the RMs.
     endorsement 1, authorised by Justin Naidoo 14/07/2026.
   - ⚠️ `Bakers_GIT.pdf` is a **40-page scan with no text layer** (229 grey levels), read as
     page images.
-  - **Deliverables built 15 Sept** (`bakers_proposal_content.html` / `bakers_playbook_content.html`):
-    client proposal 6pp + RM playbook 6pp (INTERNAL). Afrikaans WhatsApp sent for Bronwan.
+  - **Deliverables built 15 Sept, rebuilt 16 Sept for Envirosure + Alpha V4** (`bakers_proposal_content.html`
+    / `bakers_playbook_content.html`): client proposal 6pp + RM playbook 6pp (INTERNAL). Source
+    documents kept at `bakers_envirosure_quote.pdf` and `bakers_alpha_v4_quote.pdf`.
 
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 

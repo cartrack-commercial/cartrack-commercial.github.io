@@ -35,55 +35,69 @@ cover while loaded, and that is the entire conversation on Thursday.
 **Same shape as Twin Trans**, where King Price came in cheaper on a fuel tanker and had dropped
 pollution liability.
 
-## ⚠️ The two documents are NOT comparable, and the first read of them is wrong
+## ⚠️ The two documents are NOT comparable, and the gap has grown, not closed
+
+🆕 **UPDATE 16 Sept: Alpha reissued as V4, same day as the Envirosure quote.** Identical wording
+throughout, only the numbers moved. **The fleet grew by 31 vehicles and the price by R53,834.58/mo.**
+V2 figures kept below for the record; V4 is now the live quote.
 
 | | Vehicles | All-in monthly |
 |---|---|---|
 | **CURRENT OUTsurance `OT89649119`** | **30** | **R75,457.10** |
-| **Alpha motor fleet V2** | **183** | **R138,104.10** |
-
-**Alpha is quoting a fleet six times larger**, so R138,104.10 against R75,457.10 is not a price
-comparison. Both reconcile.
+| Alpha motor fleet **V2**, superseded | 183 | R138,104.10 |
+| **Alpha motor fleet V4**, current | **214** | **R191,938.68** |
 
 **OUTsurance, 30 items:** motor fleet vehicle R62,854.24 + motor fleet trailer R1,717.12 =
 R64,571.36 + Sasria R10,885.74 = **R75,457.10**. 26 heavy units on FS registrations
 (HLH/HJZ/HMJ/HRC/HSH) + 4 on GP registrations.
 
-**Alpha, 183 items, SI R58,720,832** (reconciles exactly):
+**Alpha V4, 214 items, SI R86,139,924** (reconciles exactly, dated 16/09/2026, quoting administrator
+Sandile Ndlovu, broker unchanged FSP Commercial On-Line / Tanya Kapp):
 
-| Class | Units | Sum insured | Premium | Sasria |
+| Class | Units | V2 units | Sum insured | Premium | V2 premium |
+|---|---|---|---|---|---|
+| Heavy commercial | **55** | 29 | R50,491,543 | **R92,567.83** | R64,392.31 |
+| Trailers > 3,500kg | **124** | 119 | R28,444,295 | R23,694.10 | R22,663.00 |
+| Private type | 19 | 19 | R5,240,025 | R7,698.47 | R7,842.75 |
+| Light commercial | 16 | 16 | R1,964,061 | R3,392.59 | R3,504.76 |
+| | **214** | 183 | **R86,139,924** | **R127,352.98** | R98,402.82 |
+
+Summary: general R190.00 + motor R127,352.98 + liability R11,000.00 + extensions R2,750.00 +
+VAPS R1,605.00 + Sasria R31,511.54 + towing R17,529.16 + GIT R0.00 + broadform R0.00 =
+**R191,938.68** ✓
+
+**The entire fleet growth is in heavy commercial (+26) and trailers (+5).** Private and light
+commercial are unchanged to the vehicle. Excess structure is identical to V2 (10% min R30,000 HCV
+and trailers, 5% min R5,000 light and private, third party R7,500 flat).
+
+### 🎯 On trucks alone, Alpha is now MUCH cheaper, and that itself needs checking
+
+| | Trucks | Premium | Per truck | Avg SI per truck |
 |---|---|---|---|---|
-| Heavy commercial | **29** | R24,147,118 | **R64,392.31** | R9,582.06 |
-| Trailers > 3,500kg | **119** | R27,206,482 | R22,663.00 | R10,796.08 |
-| Private type | 19 | R5,338,232 | R7,842.75 | R49.78 |
-| Light commercial | 16 | R2,029,000 | R3,504.76 | R143.29 |
-| | **183** | **R58,720,832** | **R98,402.82** | |
+| OUTsurance | 26 | R62,854.24 | R2,417.47 | – |
+| Alpha V2 | 29 | R64,392.31 | R2,220.42 | R832,659 |
+| **Alpha V4** | **55** | **R92,567.83** | **R1,682.14** | **R918,028** |
 
-Summary: general R190.00 + motor R98,402.83 + liability R5,800.00 + extensions R1,450.00 +
-VAPS R1,372.50 + Sasria R14,334.61 + towing R16,554.16 + GIT R0.00 + broadform R0.00 =
-**R138,104.10** ✓
+**Per truck the rate has dropped 24.2% since V2 (R2,220.42 → R1,682.14) while the average sum
+insured per truck went UP 10.3%.** A bigger, more valuable fleet costing less per unit to insure is
+not impossible, better fleet-size rating is a real thing, but it is the kind of jump that deserves a
+written confirmation from Alpha rather than being taken at face value. **Ask Sandile Ndlovu to
+confirm the rate basis before this number is presented as firm.**
 
-### 🎯 On trucks alone, Alpha is CHEAPER
-
-| | Trucks | Premium | Per truck |
-|---|---|---|---|
-| OUTsurance | 26 | R62,854.24 | **R2,417.47** |
-| Alpha | 29 | R64,392.31 | **R2,220.42** |
-
-**Alpha is R197.05 per truck cheaper (−8.2%) and covers three more of them.** The entire R62,647
-difference between the two documents is the **115 extra trailers, 16 light commercials and 19
-private cars that OUTsurance does not cover at all**.
-
-⛔ **So the first question for Bronwan is not price. It is: what insures the other 153 vehicles
-today?** Either there is another motor policy nobody has sent us, or a large part of this fleet is
-uninsured. **Do not present any comparison until that is established.**
+⛔ **The core question has NOT been answered, it has grown.** Extra units on Alpha vs
+OUTsurance: **29 more heavy trucks** (55 vs 26, not 3 as V2 suggested), **120 more trailers** (124
+vs 4), plus all 19 private and 16 light commercial. **184 vehicles on Alpha's schedule with nothing
+matching on OUTsurance's.** Either Bronwan's new 108-page OUTsurance schedule (`OT78078997`, still
+only seen as a WhatsApp screenshot, not received as a file) covers a similarly larger fleet and this
+resolves itself, or a very large part of this group is genuinely uninsured today. **Do not present
+any comparison until that schedule is in hand and read.**
 
 ## 🚨 The pollution cover goes BACKWARDS at Alpha, and that is the decisive cover here
 
 | | Third party | Pollution / clean-up |
 |---|---|---|
 | **OUTsurance** | Sub-section B **R5,000,000** | **Environmental impairment liability R5,000,000** per vehicle, R91.09/mo, **claims-made, retro 30 Jun 2026** |
-| **Alpha** | Sub-section B **R5,000,000** | **Clean up costs (leakage from vehicle) R1,000,000**, 0.240% = R5,800.00 |
+| **Alpha V4** | Sub-section B **R5,000,000** | **Clean up costs (leakage from vehicle) R1,000,000**, 0.240% = R11,000.00 |
 
 Two problems with Alpha's version:
 
@@ -216,12 +230,13 @@ whether scrap metal and scrap batteries are treated as High Risk Cargo.** Fuel i
 operational at the time of the claim, or a convoy of no fewer than three vehicles.** A full fuel load
 is well over R500,000, so this applies to essentially every trip.
 
-## 🛰️ The Cartrack lead: 148 units, and it is a condition of cover
+## 🛰️ The Cartrack lead: up to 179 units on the V4 fleet, and it is a condition of cover
 
 - **CLP GIT: live satellite tracking, operational at the time of claim, on every load over
   R500,000** (or convoy of 3). That is nearly every load this fleet moves.
-- **29 trucks + 119 trailers = 148 units.** Tanker trailers need their own units, because the cargo
-  and the theft exposure travel with the trailer, not the horse.
+- **Alpha V4: 55 trucks + 124 trailers = 179 units** (V2 was 148). Tanker trailers need their own
+  units, because the cargo and the theft exposure travel with the trailer, not the horse. Confirm
+  the real number once the OUTsurance schedule settles what the actual fleet is.
 - OUTsurance's depot record shows security as **"Access control, 24 hours, Unspecified"** and
   **"Alarm with armed response, radio link, Unspecified"**. Nothing about vehicle tracking at all.
 - **43 accident claims over 10 years** (see below) also makes the driver-scoring and camera case.
@@ -268,15 +283,22 @@ is well over R500,000, so this applies to essentially every trip.
   weeks old. OUTsurance broker of record is **Virgil Niekerk**, an in-house OUTsurance broker
   (niekerkv@out.co.za), the same in-house arrangement as CS Continental's Lara Gray.
 
-## Where this lands
+## Where this lands (updated 16 Sept, meeting tomorrow 17th)
 
 1. **Written answer from OUTsurance on the hazardous materials exclusion.** Everything else waits.
-2. **Establish what covers the other 153 vehicles.** Alpha quotes 183, OUTsurance covers 30.
-3. **Submit the Envirosure form** so there is a real clean-up number, at a real limit, on Thursday.
-4. **GIT: CLP saves R29,454/yr** and adds eight territories, but names one entity instead of three
+2. **Reconfirm the Envirosure quote before presenting anything.** It is real, R15,890.00/mo, and it
+   lapsed 14 September. Confirm Cartrack's broker code is on the reissue.
+3. **Establish what covers the other 184 vehicles.** Alpha V4 now quotes 214, OUTsurance covers 30.
+   The gap grew, it did not close. Get Bronwan's new 108-page OUTsurance schedule as an actual file.
+4. **Query Alpha's per-truck rate drop** (R2,220.42 → R1,682.14, −24.2%, on trucks worth
+   more on average, not less) before treating R191,938.68 as firm.
+5. **GIT: CLP saves R29,454/yr** and adds eight territories, but names one entity instead of three
    and adds a high-risk-cargo excess that bites on the scrap loads. Fixable, worth doing, not
    automatic.
-5. **Alpha on trucks is 8.2% cheaper than OUTsurance and covers the whole fleet**, but its pollution
-   cover is one fifth of OUTsurance's and sits on the wrong section. **Do not move motor until
-   clean-up is solved, either inside Alpha at R5m+ or alongside it at Envirosure.**
-6. **The R307,010.54 OUTbonus is the counter-argument to any motor move.** Cost it openly.
+6. **Alpha on trucks is now materially cheaper per unit**, but its pollution cover is one fifth of
+   OUTsurance's and still sits only on the heavy commercial section, not the 124 trailers. **Do not
+   move motor until clean-up is solved**, either inside Alpha at R5m+ or alongside it at Envirosure.
+7. **The R307,010.54 OUTbonus is the counter-argument to any motor move.** Cost it openly.
+8. **Frame the whole account honestly.** Full programme once GIT and Envirosure are both in place is
+   R130,559.25/mo against a current R117,123.77 with no clean-up cover at all: **+R13,435.48/mo, not
+   a saving.** Lead with the cover the client has never had, not the small GIT saving.
