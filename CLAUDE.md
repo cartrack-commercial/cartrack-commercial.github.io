@@ -761,14 +761,67 @@ insurance **quote comparisons** for the RMs.
 - **Tshenolo Waste (Pty) Ltd** (medical and hazardous waste: speci-bins and containers to health
   care practitioners and institutions, collection and transport, hazardous waste training; head
   office Lanseria Corporate Estate, 25 Amelia Lane, Krugersdorp 1739). RM: **Cules Van Dyk**.
-  ⛔ **STILL GATED 16 Sept 2026: both Natsure quotes are in, NEITHER current schedule is.**
+  ⛔ **STILL GATED 21 Sept 2026: THREE quotes are in (two Natsure + Alpha), NO current schedule.**
   Full detail in `deal-notes/tshenolo-waste.md`.
   - Cules (15 Sept): *"Dit is twee polisse wat opgesplit is … Natsure spaar hulle R77 000/mo."*
-    **Natsure programme = `HCVU192176` R311,086.71 + `COM192164` R150,768.60 = R461,855.31/mo =
-    R5,542,264/yr.** If the R77,000 is right the current is ≈ **R538,855/mo ≈ R6.47m/yr**, but that
-    **cannot be confirmed without the current schedules**. ⚠️ **Do not infer the incumbent from a
-    quote** (the Gateway mistake). **NEED: both current schedules, the vehicle schedule behind
-    `HCVU192176` (reg/year/value/tracking), the 3-year claims record, and any THIRD policy.**
+    ⚠️ **That phrase describes the two files he sent, the NATSURE proposal split into a fleet policy
+    and a commercial policy. It is NOT a reference to two current policies.**
+  - 🆕 **THIRD QUOTE, 21 Sept: Alpha / Guardrisk `ALPHACOM205554` = R423,308.39/mo**, reconciles to
+    the cent, 190pp, printed 18 Sept, one Commercial policy. **Alpha (Pty) Ltd FSP 21820** underwriter,
+    **Guardrisk FSP 75** insurer, accounts executive **[redacted]**, commission R58,383.08/mo,
+    broker fee R0.00, inception 01/10/2026. Cules: *"R122 000 spaar per maand"*.
+    **vs Natsure R461,855.31 = −R38,546.92/mo ≈ −R462,563/yr (−8.3%)**: motor −R13,380.83,
+    non-motor −R22,310.54, Sasria −R2,855.55.
+    ⚠️ **Cules's two figures agree**: R423,308 + R122,000 ≈ R545,300 and R461,855 + R77,000 ≈
+    R538,900, so the current is **near R540,000/mo**. **That is an inference, NOT the schedule.**
+  - 🚨 **ALPHA FINDING 1: "Liability arising out of the carriage of dangerous goods: No" on ALL 45
+    trucks**, together with "Clean up costs (leakage from vehicle): No", "Spillage and clean-up
+    costs: Substance transported: No" and "Tool of trade liability: No". **Alpha prices all of these
+    on its own schedule and none is taken, on a hazardous and medical waste fleet.** The clean-up
+    lines do not appear at all on the buses or trailers. **So pollution ranks Natsure R250,000/truck,
+    Alpha nothing.** ⚠️ And Alpha identifies the trailers: a skeletal 7.2m drawbar R697,831 and a
+    **G.R.P 15,500mm tridem axle trailer R2,689,098** (a liquid body, no registration), the unit most
+    likely to spill, with no clean-up line.
+  - 🚨 **ALPHA FINDING 2: third party HALVED on trucks and buses, R5,000,000 → R2,500,000**, behind a
+    R5,000 excess. Alpha is R2.5m across all 70. (Natsure's R5m was itself an aggregate containing
+    passenger and fire/explosion, so the real gap is under 2:1, but it is a gap.)
+  - 🚨 **ALPHA FINDING 3: STILL NO PUBLIC LIABILITY. "Broadform liability: Not included."**
+    **Three quotes, R423k to R462k/mo, not one carries PL, products or employers' liability.** Also
+    not included at Alpha: buildings combined, BI, accounts receivable, accidental damage, GIT,
+    money, glass, fidelity, machinery breakdown, deterioration, GPA, D&O, umbrella.
+  - 🚨 **ALPHA FINDING 4: the quotes disagree on vehicle values by R4,580,901 on the SAME 70.**
+    HCV R53,132,476 (N) v R49,232,600 (A) · private R17,847,679 v R17,447,259 · LCV R2,917,060 v
+    R2,636,455 · **buses and trailers match to the rand**. Per car: G63 R2,761,100 → **R3,366,480**
+    (+605,380) · X5 R2,526,800 (**2026**) → R1,878,600 (**2023**) · M135i R1,225,671 (2025) →
+    R860,271 (**2024**) · X7 M50d R1,585,400 → R1,900,600. **Two cars carry different MODEL YEARS on
+    the two quotes.** Resolve against a real asset register, do not just take the higher number.
+  - ✅ **ALPHA FINDING 5: the excess loadings are GONE. No night loading, no single-vehicle
+    loading**, against Natsure's +5% and +5% cumulative. **So the "what shifts do they run" question
+    does not arise at Alpha.** ⚠️ But the basis flips: Natsure **4.5% of VEHICLE VALUE** min R5,000
+    (≈R45,000 on the average truck whatever the claim) v Alpha **10% of CLAIM** min R5,000.
+    🎯 **Crossover ≈ R450,000: below it Alpha is far better, above it Natsure is.** Theft 15% of
+    claim min R3,000 (A) v 20%/10%/nil-with-Ctrack of value (N). **The Ctrack clause is Natsure's
+    alone; Alpha names no brand.**
+  - ✅ **ALPHA FINDING 6: BAR R60,240.03 v R87,773.88, −R27,533.85/mo ≈ −R330,400/yr.** Bicycles
+    6.00% v 7.00%, **air conditioning R2,298,999 at 5.20% v 8.50%** (≈R6,300/mo of the gap).
+    ⚠️ But Alpha has **10 fewer items and R1,578,149 less SI**, so reconcile the lists first.
+    ⚠️ **The 30 Trek bicycles are on BOTH quotes**, R5.98m to R6.41m.
+  - ✅ **ALPHA GIVES THE FLEET LIST Natsure never did.** 45 trucks, almost all **Isuzu** FTR 850 AMT
+    and FRR 600, one Fuso, one **2025 Volvo FH 520 6x4 truck-tractor R2,617,300 (reg "Required")**.
+    By year 2019×2, 2020×9, 2021×1, 2022×7, 2023×6, 2024×12, 2025×8. ✅ **Nothing older than 2019, so
+    Natsure's "inspection certificates for every vehicle 10 years and older" affects ZERO vehicles.**
+    Plates span GP, ZN and NU, so the fleet sits across the six premises.
+  - ⚠️ **Carried over to Alpha unchanged:** 🛰️ **63 of 70 "tracking required" with "Approved tracking
+    device: Unknown"** (70-unit lead stands on both) · **fare-paying passenger liability "No" on both
+    buses** at both insurers (2020/2021 Iveco 50C15 Sisonke midibuses, confirm they carry staff) ·
+    **credit shortfall No on all 70** (BMW Finance noted on MK81FKGP) · **reg and VAT read
+    "Required"** on all three documents · **"Included entities: refer to page 2" and page 2 is the
+    cover summary**, no entity list in 190 pages · **declared turnover, wages and employees all
+    BLANK** (same shape as Lomaen) · **Electricity Grid Failure exclusion** incl. surge on
+    reconnection · towing thinner (R15,000 in/out and R15,000 wreckage v Natsure R25,000/R50,000
+    plus optional non-accident towing R900,000 and Truck Assist).
+  - **Source: `deal-notes/tshenolo_alpha_ALPHACOM205554.docx`** (+ `tshenolo_alpha_extract.txt`).
+    📎 Arrived as a **.docx** after the Drive upload failed; extracted from `word/document.xml`.
   - Both quotes: **Compass Insurance FSP 12148, UMA Natsure HCV and Commercial FSP 50704**, broker
     Cartrack FSP 17266. HCV quoted by Olga Van Der Merwe, COM by Thuli Sibiya to
     brendan.kruger@cartrack.com. **Commission R38,659.50 + R26,200.77 = R64,860.27/mo =
