@@ -9,8 +9,9 @@
 | 3 | `03-comparison-method.md` | The quote comparison method: the seven steps, the findings taxonomy, decisive cover by client type, excess structures, and the Cartrack lead. |
 | 4 | `04-portal.md` | The comparison portal: what it does, what it cannot do, and a prioritised build spec drawn from checks that have actually caught something. |
 
-**Document 2 is deliberately absent from this repository.** It summarises weaknesses in a live
-system, and all three repositories are currently public. It is handed over as a file.
+**Document 2 is deliberately absent from this repository**, in both markdown and PDF form. It
+describes weaknesses in a live system, so it is handed over as a file and kept out of version
+control. Ask Anne for it.
 
 Read 3 before 4. Read 1 before touching any code in `cartrack-rm-system`.
 
@@ -26,4 +27,5 @@ do not fit are split row by row with the header repeated.
 
     python3 handoff/build/build_handoff.py
 
-Document 2's PDF is produced but, like its markdown, is **not committed**.
+Document 2's PDF is produced but, like its markdown, is **not committed**. The builder reads it
+from outside the repository for that reason.

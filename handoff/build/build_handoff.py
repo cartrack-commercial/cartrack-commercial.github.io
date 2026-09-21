@@ -30,7 +30,7 @@ DOCS = [
          num='02', kicker='Handoff document 2 of 4', h1='The security position',
          blurb='Stated here rather than left to be found. What is exposed today, why row level security on its own cannot close it, and the twenty hours that can.',
          stats=[('Server side auth', 'None', 'every request arrives as anon'),
-                ('Repositories', '3 of 4 public', 'including 35 MB of deal notes'),
+                ('Protecting payroll', 'RLS only', 'and RLS alone cannot do it'),
                 ('The fix', 'Supabase Auth', 'about 20 hours, do it first')]),
     dict(src=REPO / 'handoff/03-comparison-method.md', out='Cartrack Handoff 3 - Comparison Method.pdf',
          num='03', kicker='Handoff document 3 of 4', h1='The comparison method',
@@ -46,7 +46,7 @@ DOCS = [
                 ('Build spec', '12 items', 'each one cites a live finding')]),
 ]
 DOC2 = pathlib.Path('/tmp/claude-0/-home-user-cartrack-commercial-github-io/'
-                    '18cc1d9e-a15a-5af3-a000-be6c792ba0e1/scratchpad/handoff/02-security-position.md')
+                    '18cc1d9e-a15a-5af3-a000-be6c792ba0e1/scratchpad/handoff/02-security-position-handover.md')
 DOCS[1]['src'] = DOC2
 
 OUTDIR = pathlib.Path('/tmp/claude-0/-home-user-cartrack-commercial-github-io/'
