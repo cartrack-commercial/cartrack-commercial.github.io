@@ -1,7 +1,7 @@
 # The Quote Comparison Method
 
-**Cartrack Insurance, Commercial Division. Handoff document 1 of 4.**
-Prepared for Jaden Stauch, 17 September 2026.
+**Cartrack Insurance, Commercial Division. Handoff document 3 of 4.**
+17 September 2026, revised 21 September 2026.
 
 This is the method behind every comparison this division has produced. It was built by doing
 roughly twenty five of them across transport, schools, security, funeral, medical, waste, retail
@@ -262,6 +262,24 @@ Read the incumbent's own claims disclosure. It is usually on the schedule.
 A high ratio is a gate. It also tells you which cover actually matters: on Integral the losses were
 **hijackings**, which was precisely the excess the cheaper insurer would not reduce. One hijack ate
 33 months of the saving.
+
+### I. Excess structures that decide which quote actually wins
+
+The excess is where a cheaper quote most often stops being cheaper, and it is the class most often
+skipped, because it sits in a table three pages behind the premium.
+
+| Pattern | Seen on | What to look for |
+|---|---|---|
+| **A percentage of VEHICLE VALUE, not of the claim** | Tshenolo Waste (Natsure), Idol (VAPS tippers) | Natsure's basic motor excess is **4.5% of the vehicle's value, minimum R5,000**. On the average truck that is about **R53,000 on every claim, however small**. Alpha's is 10% **of the claim**, minimum R5,000. Neither is simply better: **the crossover is around R450,000 of claim.** Below it the percentage-of-claim insurer is far better, above it the percentage-of-value insurer is. Work out the crossover and say where the client's actual claims fall. |
+| **Loadings that stack** | Tshenolo (Natsure), Cordiguard (ONE) | **+5% for a single-vehicle accident and +5% for driving between 23:00 and 04:00, cumulative**, on a waste fleet that may well run before dawn, and on a patrol fleet that by definition works at night. The loading turns the headline excess into something else entirely. **This is a question for the RM, not an assumption.** |
+| **A bad base excess bought down to a flat inner excess** | CS Continental (King Price) | On paper KP is worse: 10% of claim, minimum R30,000 on trucks, against OUTsurance's R7,610 basic. But the three reducers actually bought (own damage, theft and hijack, third party) cap it at a **flat R5,000, with third-party damage nil on eight of nine items**. On the Hino that is R8,500 better per claim. **Read the reducers before you rank the excess.** |
+| **The excess the client's actual losses will hit** | Integral Trading | The losses were two **hijackings**, R6,500,000. The cheaper insurer would not reduce the hijack excess: R1m load hijacked is **R20,000 at the incumbent against R300,000**. That is +R280,000 a hijack against R101,037/yr of saving, so **one hijack eats 33 months of the saving.** Match the excess table to the claims record, not to the average case. |
+| **An excess that is a penalty for something not done** | Gateway School, Integral (MiWay) | King Price adds **+25% of the claim** where the required tracking device is not fitted. MiWay adds **+15%** on a single-vehicle articulated accident with no driver or road-facing camera footage. These are conditional excesses that read as cover but behave as exclusions in the cases that matter. |
+| **Excess waived for a device, and the comparison is not close** | Gateway (Auto & General), CS Continental | A&G **waives its theft excess entirely** where an approved device is fitted, about R33,750 on a R450,000 minibus. Where an insurer prices the device into the excess, the device is part of the quote, not an upsell. |
+
+**The working rule:** never compare excesses on the basic figure alone. Compare on
+(basic or percentage) + (reducers bought) + (loadings that apply to this client's operations) +
+(conditional penalties they will trip), and state the crossover in rands.
 
 ---
 
