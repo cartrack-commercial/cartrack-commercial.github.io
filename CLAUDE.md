@@ -934,12 +934,12 @@ insurance **quote comparisons** for the RMs.
 - Commit trailers used in this project:
   `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>` + `Claude-Session: …`
 - Never put the model id in commits / code / PRs (chat only).
-- 🚫 **Do not name [redacted] in packs, playbooks, deal notes, WhatsApps or e-mails** (Anne,
-  21 Sept 2026). **[redacted] is the owner of the business**, so naming him in RM or client material
-  serves no purpose. He shows up as the "accounts executive" in the Cartrack intermediary block on
-  insurer schedules (e.g. the Alpha Tshenolo quote). **Refer to the insurer or the underwriter by
-  company name instead.** Verbatim extracts of an insurer's own document are left untouched, since
-  altering a source is worse; the rule covers what WE author.
+- 🚫 **NEVER name the Cartrack accounts executive shown in the intermediary block on insurer
+  schedules. Not in a pack, playbook, deal note, WhatsApp, e-mail, chat reply, commit message or
+  source file. Ever.** (Anne, 21 Sept 2026, restated emphatically.) He owns the business, so naming
+  him in RM or client material serves no purpose. **Refer to the insurer or the underwriter by
+  company name.** Where an insurer's own document carries the name, **redact it to `[redacted]` in
+  anything stored in this repo**, including source extracts.
 - People's pronouns: use they/them unless stated. **Jean = he.**
 - 📲 **ALWAYS end a comparison with the Afrikaans WhatsApp for the RM.** Every pack ships with one:
   informal Afrikaans, English words mixed in, no em dashes, the headline number, the one finding
