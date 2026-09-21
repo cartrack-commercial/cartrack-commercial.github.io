@@ -637,3 +637,214 @@ that would have to be settled even if the R77,000 is exactly right:
 `deal-notes/tshenolo_natsure_COM192164.pdf` (119pp).** Both have text layers.
 📎 **`COM192164` arrived via Google Drive from iOS**, pulled with `search_files` →
 `download_file_content` → base64 → pymupdf. Same route as Gateway, Vuyos and Bakers.
+
+---
+
+# ROUND 2, 21 SEPTEMBER 2026: THE CURRENT SCHEDULE LANDED. THE DEAL IS UNGATED.
+
+`Policy Schedule - TW.pdf`, 175 pages, text layer, arrived via Google Drive (My Drive/Comparisons).
+Saved as `tshenolo_current_policy_schedule.pdf`, extract at `tshenolo_current_extract.txt`.
+
+## The benchmark, at last
+
+**CURRENT: Hollard Business V9 Binder, policy `NBUS2-0213978`**, insurer **The Hollard Insurance
+Company Limited (Binder) FSP 17698**, intermediary **NuWest Insurance Brokers (Pty) Ltd FSP 17094**,
+agency `NUW0071`, Mafikeng. Original inception **01/08/2024**, review date **01/07/2027**, monthly,
+debit order 7th. Version 21 Endorsement 3, printed 04/08/2026.
+
+**TOTAL R545,848.95/mo**, and it reconciles to the cent:
+
+| | R/mo |
+|---|---|
+| Sections (7 of 24 taken) | 456,980.26 |
+| Policy fees | 10,050.00 |
+| **Insurance payment** | **467,030.26** |
+| Sasria | 23,718.57 |
+| Sasria shortfall | −15.69 |
+| **Subtotal** | **490,733.14** |
+| Additional services (value added products) | 55,115.81 |
+| **TOTAL** | **545,848.95** |
+
+Commission **R67,975.33/mo = R815,704/yr** (including R11,123.83 earned on the value added
+products). VAT R71,197.69.
+
+**✅ Cules's two figures are confirmed.** Current R545,848.95 against Natsure R461,855.31 is
+**−R83,993.64** (he said R77,000) and against Alpha R423,308.39 is **−R122,540.56** (he said
+R122,000, exact). **The earlier inference of "near R540,000/mo" was right.**
+
+| | R/mo | vs current | per year |
+|---|---|---|---|
+| **Current Hollard** | 545,848.95 | | |
+| Natsure `HCVU192176` + `COM192164` | 461,855.31 | **−83,993.64** | −1,007,924 |
+| Alpha `ALPHACOM205554` | 423,308.39 | **−122,540.56** | −1,470,487 |
+
+**✅ And it settles the "twee polisse" question for good: the current programme is ONE policy.**
+Cules's phrase described the Natsure proposal, split into a fleet quote and a commercial quote.
+
+## 🚨 FINDING A, AND IT OUTRANKS EVERYTHING ELSE: THEY HAVE NO THEFT COVER ON MOST OF THE FLEET TODAY
+
+The policy carries **"Tracking Devices Warranty (Value over R500,000)"**:
+
+> "In the event of loss or damage to the vehicle as a result of theft and/or hijacking it is
+> precedent to the liability of the Company, that the insured vehicle is fitted with an early
+> warning tracking and recovery system", linked at all times, operational and armed, with the
+> subscription kept up to date.
+
+It also carries `MOT_019` (one device), `MOT_020` (two devices) and `MOT_004` (approved security
+device), all worded as conditions precedent.
+
+**And the vehicle schedule records, on the policy they are paying for right now:**
+
+- **50 of the 56 vehicles carrying a tracking field read "Required"** (32 plain "Required",
+  18 "Early Warning System Required") against **"Tracking device installed: No"**.
+- **"Alarm system: None" on all 70 vehicles.**
+- Only **three** devices are named anywhere: **Beame, C Track and Bidtrack**. All competitors.
+  **Cartrack is on nothing.**
+
+**Vehicles above the R500,000 warranty threshold: 45 heavy vehicles at R53,132,476 (average
+R1,180,722 each), 2 trailers at R697,831 and R2,689,098, and 2 buses at R869,093 each. That is
+R58,257,591 before the luxury cars at R8,456,000.**
+
+This is not a comparison point. It is a live uninsured exposure on the incumbent policy, and the
+same shape as the Gateway School find. **Lead the RM playbook with it.** It is also the honest
+reason the 70-unit Cartrack lead is a service call, not an upsell, and it explains why Natsure's
+nil-excess clause names Ctrack: the client already runs one.
+
+## 🚨 FINDING B: R55,115.81/mo OF THE CURRENT SPEND IS NOT INSURANCE, AND NEITHER QUOTE REPLACES IT
+
+The value added product schedule reconciles exactly to the R55,115.81 line:
+
+| Provider | Product | R/mo |
+|---|---|---|
+| Empire Insurance Administrators | **EFS Car Hire (45 or 60 days)** | 30,989.00 |
+| Key Alliance Group | **HCV Roadside Assist** | 10,989.63 |
+| ASI Blue CMF | CMF fee | 5,037.50 |
+| Infinite Credit Underwriting Managers | **i-Credit (credit shortfall)** | 4,328.69 |
+| Empire Insurance Administrators | Scratchsure | 1,785.00 |
+| Empire Insurance Administrators | Blue EFS Car Hire (30 days) | 1,342.00 |
+| Key Alliance Group | ASI Blue Commercial Assistance | 643.99 |
+| | **Total** | **55,115.81** |
+
+**R661,390 a year.** Against it: Natsure offers car hire R2,290 plus assists R480 and road assist
+R390; Alpha's towing is R15,000 in and out plus R15,000 wreckage. **And credit shortfall reads "No"
+on all 70 vehicles at BOTH insurers**, while the client buys it today for R4,328.69/mo with BMW
+Finance noted on MK81FKGP.
+
+🎯 **So the headline saving is a range, not a number, and the pack must say so:**
+
+| | As quoted | Like for like, VAPs stripped from the current |
+|---|---|---|
+| Natsure | −R83,993.64 | **−R28,877.83** |
+| Alpha | −R122,540.56 | **−R67,424.75** |
+
+**Present the lower number as the honest one and the higher as the ceiling if the client drops the
+car hire, the roadside and the credit shortfall. Get both insurers to price all three.**
+
+## ✅ FINDING C: THE CURRENT SCHEDULE IS THE ASSET REGISTER, AND IT SETTLES THE R4,580,901 DISPUTE
+
+The register totals **R79,394,630 across 70 vehicles**:
+
+| Class | Current | Natsure | Alpha |
+|---|---|---|---|
+| Commercial heavy (45) | 53,132,476 | **53,132,476 ✓** | 49,232,600 |
+| Private motor + luxury (15) | 18,219,979 | 17,847,679 | 17,447,259 |
+| Trailers (2) | 3,386,929 | **3,386,929 ✓** | 3,386,929 ✓ |
+| LDV (6) | 2,917,060 | **2,917,060 ✓** | 2,636,455 |
+| Bus (2) | 1,738,186 | **1,738,186 ✓** | 1,738,186 ✓ |
+| **Total** | **79,394,630** | 79,022,330 | 74,441,429 |
+
+🎯 **Natsure has copied the current book to the rand on four of five classes and is short only
+R372,300, all of it on the private cars. Alpha is short R4,953,201, and R3,899,876 of that is on
+the trucks.** Average would settle an Alpha heavy-vehicle total loss at about **92.7c in the rand**.
+
+**This corrects FINDING 4 of the first pass**, which said the disagreement had to be resolved
+against a real asset register and refused to pick a side. The register exists, it is on the
+incumbent's schedule, and **Natsure is right**. Alpha must re-rate to R79,394,630 before anyone
+signs. Both model-year disputes (X5, M135i) resolve the same way.
+
+## ⚠️ FINDING D: THE INDEX PAGE AND THE ASSET REGISTER DISAGREE BY R18,040,297
+
+The premium schedule and index of cover prints **Motor Specified sum insured R61,354,333**. The
+vehicle asset register, four pages later, totals **R79,394,630**, and it is the register that ties
+to the motor premium (R348,707.72 plus Sasria R16,389.04 = R365,096.76). Raise it with NuWest in
+writing. A schedule that misstates its own largest sum insured is exactly what an insurer leans on
+at claim stage.
+
+## ❌ CORRECTIONS TO THE FIRST PACK, ALL SUPERSEDED BY THE CURRENT SCHEDULE
+
+**1. "Alpha halves third party, R5,000,000 to R2,500,000" was measured against the wrong baseline.**
+The current policy carries **third party liability R2,500,000 on all 70 vehicles** and
+**unauthorised passenger's personal injury liability R2,500,000 on 67**. So **Alpha matches what
+they have** and **Natsure's R5,000,000 is an upgrade** (still an aggregate that contains passenger
+and fire and explosion inside it, so the real gain is under 2:1). Alpha's limit is not a regression.
+
+**2. "Alpha declines dangerous goods liability and clean-up on all 45 trucks" is still true and
+still the reason to prefer Natsure, but it is not a loss of cover.** The current policy carries
+**no clean-up, no spillage and no dangerous goods liability at all**. So Natsure's R250,000 a truck
+is **new cover**, and Alpha simply fails to add it. Say it that way.
+
+**3. "R6,405,927 of Trek bicycles, are they the client's, are they on the current policy?"
+Answered: yes.** The current schedule specifies **32 bicycles at R6,357,177 costing R37,083.54/mo**
+and **one air conditioner at R2,298,999 costing R18,898.45/mo**, which is **9.9% a year on an air
+conditioner**. Together **R55,981.99/mo = R671,784/yr, 12.3% of the entire programme.** They are
+not quote padding. And Alpha re-rates exactly these two lines down to 6.00% and 5.20%, worth about
+**R14,234/mo ≈ R170,800/yr**, which is a real part of why Alpha is cheaper.
+
+**4. "There is no public liability on either quote" is confirmed and is worse than reported.**
+The current policy prints **Combined Liability (claims-made): NO. Umbrella Liability: NO.
+Employer's Liability: NO.** So the gap is not created by the move. **This client has had no public
+liability, no products liability and no employers' liability since at least 01/08/2024**, while
+placing sharps containers into hospitals, handling biohazardous waste on other people's premises
+and running hazardous waste training. **This is the most valuable thing in the pack and it is not a
+criticism of any quote.**
+
+## Standing gaps confirmed on the CURRENT policy, so nobody is taking them away
+
+Only **7 of 24 sections** are taken: fire, office contents, theft, business all risks, accidental
+damage, motor specified, electronic equipment. **Not taken: buildings combined, business
+interruption, accounts receivable, money, glass, fidelity, goods in transit, combined liability,
+umbrella liability, employers' liability, directors' and officers', cyber, group personal accident,
+motor traders, machinery breakdown, solar power and Sasria policy extensions.**
+
+⚠️ **Fare-paying passenger liability appears nowhere** on the current policy or either quote, on
+two 2020/2021 Iveco 50C15 Sisonke midibuses rated **Sasria Category M3 Minibus (16 passengers
+including driver)**. Standing gap, same shape as Vuyos Funerals.
+
+⚠️ **Theft is R370,000 first loss** against R13,209,515 of business all risks and R2,856,318 of
+stock at Lanseria. ⚠️ **VAT number is blank** on the policyholder details of the current schedule
+too, so it matches the "Required" on both quotes.
+
+## Section detail on the current policy
+
+| # | Section | Sum insured | R/mo |
+|---|---|---|---|
+| 1 | Fire | 15,695,466 | 4,052.28 |
+| 3 | Office contents | 1,932,963 | 1,785.87 |
+| 6 | Theft | 370,000 | 2,466.66 |
+| 11 | Business all risks | 13,209,515 | 91,432.06 |
+| 12 | Accidental damage | 150,000 | 234.99 |
+| 19 | Motor specified | 79,394,630 (register) | 348,707.72 |
+| 21 | Electronic equipment | 1,886,443 | 8,300.68 |
+| | **Total** | | **456,980.26** |
+
+Warranties that bite on the current policy: firefighting equipment serviced annually with records,
+gas installations to SANS 100087-1, hot work permit system with **cover suspended from the moment
+of breach**, computer equipment excluded from fire, micro-organism exclusion, subsidence and
+landslip not taken.
+
+## What is still open
+
+1. **The claims record.** The schedule carries no loss history, only "No claim bonus: 0" per
+   vehicle. Both quotes are conditional on three years' experience confirmed in writing, so
+   **neither price is firm.** Get it from NuWest.
+2. **Which UMA sits behind the current policy.** It is Hollard binder paper, not Natsure, so the
+   "null and void if already with Natsure" clause does not bite. Confirm in writing.
+3. **Public liability, products and employers' liability**: get all three priced by both insurers
+   before anything is presented.
+4. **Car hire, roadside and credit shortfall**: priced by both, so the comparison can be made
+   like for like.
+5. **Alpha to re-rate to R79,394,630** and correct the two model years.
+6. **Fare-paying passenger liability on the two midibuses**, printed on the schedule with a seat
+   basis.
+7. **Shift patterns**, because Natsure loads the excess 5% for driving between 23h00 and 04h00 and
+   Alpha does not.
