@@ -44,7 +44,7 @@ Cules sent it on 19 September with *"R122 000 spaar per maand"*. 190 pages, prin
 **R423,308.39/mo, and it reconciles to the cent.**
 
 **Alpha (Pty) Ltd FSP 21820 as underwriter, Guardrisk Insurance Company Limited FSP 75 as insurer**,
-intermediary Cartrack Insurance Agency FSP 17266, accounts executive **[redacted]**. Inception
+intermediary Cartrack Insurance Agency FSP 17266. Inception
 01/10/2026, renewal 01/10/2027, one Commercial policy rather than Natsure's split into two.
 Commission **R58,383.08/mo**, broker fee R0.00.
 

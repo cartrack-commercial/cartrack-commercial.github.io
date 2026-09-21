@@ -768,7 +768,7 @@ insurance **quote comparisons** for the RMs.
     and a commercial policy. It is NOT a reference to two current policies.**
   - 🆕 **THIRD QUOTE, 21 Sept: Alpha / Guardrisk `ALPHACOM205554` = R423,308.39/mo**, reconciles to
     the cent, 190pp, printed 18 Sept, one Commercial policy. **Alpha (Pty) Ltd FSP 21820** underwriter,
-    **Guardrisk FSP 75** insurer, accounts executive **[redacted]**, commission R58,383.08/mo,
+    **Guardrisk FSP 75** insurer, commission R58,383.08/mo,
     broker fee R0.00, inception 01/10/2026. Cules: *"R122 000 spaar per maand"*.
     **vs Natsure R461,855.31 = −R38,546.92/mo ≈ −R462,563/yr (−8.3%)**: motor −R13,380.83,
     non-motor −R22,310.54, Sasria −R2,855.55.
@@ -934,6 +934,11 @@ insurance **quote comparisons** for the RMs.
 - Commit trailers used in this project:
   `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>` + `Claude-Session: …`
 - Never put the model id in commits / code / PRs (chat only).
+- 🚫 **NEVER name [redacted]** in any pack, playbook, deal note, WhatsApp, e-mail or chat
+  reply (Anne, 21 Sept 2026). He appears as the accounts executive on the Alpha Tshenolo
+  quote. Refer to the insurer or the underwriter by company name instead. Verbatim source
+  extracts of an insurer's own document are left untouched, since altering evidence is worse;
+  the rule is about what WE author.
 - People's pronouns: use they/them unless stated. **Jean = he.**
 - 📲 **ALWAYS end a comparison with the Afrikaans WhatsApp for the RM.** Every pack ships with one:
   informal Afrikaans, English words mixed in, no em dashes, the headline number, the one finding
