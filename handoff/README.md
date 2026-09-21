@@ -13,3 +13,17 @@
 system, and all three repositories are currently public. It is handed over as a file.
 
 Read 3 before 4. Read 1 before touching any code in `cartrack-rm-system`.
+
+## Branded PDFs
+
+Each document also renders as a branded A4 PDF on the house design system (Saira + IBM Plex,
+coloured mastheads because these are internal documents, INTERNAL classification on the cover).
+
+`handoff/build/build_handoff.py` does it. It converts the markdown to the house components and
+**paginates by measuring real layout in headless Chromium** rather than estimating, because
+`cartrack.css` sets `.page{overflow:hidden}` and a mis-estimated page clips silently. Tables that
+do not fit are split row by row with the header repeated.
+
+    python3 handoff/build/build_handoff.py
+
+Document 2's PDF is produced but, like its markdown, is **not committed**.
