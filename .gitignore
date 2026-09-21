@@ -1,0 +1,7 @@
+# Python bytecode. The proposal builder and the handoff builder are imported as
+# modules, so running them leaves __pycache__ beside the scripts.
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
