@@ -121,6 +121,74 @@ insurance **quote comparisons** for the RMs.
   - Claims history (for ROA): 2021 geyser R10,400; 2021 lightning R107,693. Replacing CIB ⇒ written disclosure of any reductions (ROA).
   - **PENDING:** client proposal PDF + RM playbook (via repo skill) + written questions to Hollard & Santam.
 
+## Compliance work (FSP 17266) — separate from the quote comparisons
+
+**Hard facts to remember:**
+- **Brendan AND Jennie ("Jenny") Allen are BOTH Key Individuals.** Either can sign as KI.
+  Brendan is also Head of Company and **Anne's husband**. Juan Marais = Director (signed the
+  Telesure Partner Application Questionnaire).
+- **Anne has NO Cartrack email address and NO access to any Cartrack internal system.**
+  All mail to Jenny, Brendan or anyone at Cartrack goes from **annekruger3010@gmail.com**. Never
+  assume a Cartrack address, a VPN, an intranet, HR or group IT is reachable — it is not.
+- **ReadyState / Thought Lab (Huntley Smith): Brendan signed NOTHING and is NOT proceeding.**
+  Verified in their own PDFs: no IP clause, no copyright notice, no non-compete, no
+  non-circumvention, no confidentiality marking. The only NDA reference is "mutual NDA signed
+  before the onboarding session" — never reached. So building an in-house equivalent carries no
+  contract risk from them. Real risks are POPIA on rep data, Anne's FAIS positioning (she is not
+  an approved CO or KI — she supports the KI, she does not perform the compliance function), and
+  who owns the copyright in what she builds if she is not an employee.
+
+### Telesure (TIH) Outsource Partner Due Diligence — report received 22 Sep 2026
+Compiled by **Gugu Mkhize**, monitoring period **August 2026**. Overall **Limited Concern**;
+arrangement **NOT material** under Joint Standard 1 of 2024. No sanctions, suspensions or
+enforcement. Scoreboard: No Concern 26 · Limited Concern 4 · Major Concern 6.
+
+⚠️ **The report uses TWO different numbering schemes** — a front checklist table (p4–p5) and a
+back narrative (p21–p24). Same number means different things in each. Always say which one.
+- **Front checklist §9 Complaints = 9.1–9.6, ALL SIX Major Concern.** (register 12m · 10 complaint
+  samples · escalated · Ombud · list of reps who handle complaints · TCF evidence.)
+- **Front checklist §6 Fit & proper: 6.3 + 6.4 Limited Concern** (rep file samples not provided).
+- **Back narrative §9** = Fit and proper, rates those same rep files **Major Concern** →
+  **internal contradiction, worth challenging.**
+- Back narrative POPI section: No Concern **but** PAIA/Privacy approval section is *incomplete and
+  unsigned*, Information Regulator refs need updating, plus data-subject rights, breach
+  notification and version control. **All closeable by Anne.**
+- Telesure calls the FSP **"Apex Financial Services"** twice (p1 footer, p3 summary) — their error.
+- The report carries blank **"Cartrack Insurance Agency Feedback:"** boxes — respond in those.
+
+**Root cause of the 6 Major Concerns:** Section 6 of the pack held only ONE file (the nil
+complaints register). Telesure asked for six things. **Verified in sent mail: only two OSA emails
+were ever sent — Section 1 on 14 Jul, and the full zip on 15 Jul. The numbered section emails
+2–13 were never sent.** A nil position must be *declared*, not merely shown.
+
+**Built 22 Sep to close it** (sources in scratchpad `telesure-response/`, house style + fillable):
+`Nil Complaints Return and Declaration.pdf` (closes 9.1–9.4) · `Complaints Handling Responsibility
+Schedule.pdf` (closes 9.5, needs 4 names) · `TCF in Complaints Handling - Evidence Map.pdf`
+(closes 9.6). All need a KI signature.
+
+**Cannot be closed by Anne** — cyber security questionnaire (she flagged it in writing on 15 Jul),
+sample rep files 6.3/6.4, 12-month backup evidence, register data corrections. All need
+Brendan / Jenny / HR / group IT.
+
+**Shareholder organogram** was built AND sent (14 Jul, Section 1 email) — a transmission gap, not
+a build gap. Resend, don't rebuild.
+
+### Accuracy protocol for compliance work (non-negotiable)
+1. **Cite primary sources only** — Act + section number, never a summary and never Claude's memory.
+2. **Two-pass rule** — build from source, then verify every citation in a separate pass.
+3. **Say which numbering scheme / which document / which page** a finding comes from.
+4. Use the register's **"To confirm"** status honestly; an unverified cell stays unverified.
+5. **Date-stamp everything.** FAIS moves (Fit & Proper Determination 2017, Joint Standards, NFO).
+6. Claude gets section numbers wrong. Every citation needs a primary-source check before it goes
+   into anything signed.
+
+### Compliance design system
+Separate from Compliance DS (the apps). Print docs = black full-bleed masthead, orange `#F47735`
+rule, orange circle section badges, lilac fillable fields `#e9edf8`, meta strip, authline footer.
+Cambria/Caladea + Calibri/Carlito + Consolas. Build: HTML → Chromium headless
+(`/opt/pw-browsers/chromium-1194/chrome-linux/chrome --headless --print-to-pdf`) → PyMuPDF widget
+injection. ⚠️ The auto field-detector overreaches — exclude meta-strip and table-header captions.
+
 ## Conventions
 - Commit trailers used in this project:
   `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>` + `Claude-Session: …`
