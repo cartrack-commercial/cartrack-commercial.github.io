@@ -124,3 +124,23 @@ description and the two vehicle errors, then present.
 4. Envirosure HAZ and increased third party priced by VAPS.
 5. Is any vehicle hired out to third parties?
 6. Is the abattoir (building, cold rooms, stock, liability) insured anywhere?
+
+## VAPS reply, 28 Sept 2026 (via FSP Solutions)
+
+Cules sent our e-mail at 11:21; VAPS's junior underwriter answered at 12:56.
+
+- ✅ **The R8,403.36 same-ten figure is VAPS's own.** Their first quote (21 Sept) was R8,403.36 for
+  the ten vehicles; the tanker was added on 22 Sept. Our reconstruction matches it to the cent.
+- ✅ **Rated on the claims history.** Still subject to 3 years' written claims (or an NCB letter)
+  from Santam and a bank confirmation letter; rates can move if the written record differs.
+  Quote valid 30 days from print (22 Sept, so to about 22 Oct 2026).
+- ✅ **Sasria is a print fault, not a pricing error.** Domestic motor items (Prado, SLK) carry
+  Sasria in the system but do not print; they have escalated it to MMX support. R455.55 stands.
+- ✅ Doing the other amendments (business description, Hyundai reg, etc.).
+- ❓ **To attach Envirosure they must quote GIT on the tanker. They ask for the load limit.**
+  8,000 L at roughly R22 to R24/L is about R176,000 to R192,000; R200,000 is the sensible limit,
+  subject to the client's own diesel price and whether the tanker ever carries anything else.
+- ❓ **TP R5m on all HCVs or only the tanker?** Answer: tanker as standard, Fuso priced as a
+  separate option (what we asked for).
+- They took "model year 0" as possibly the Fuso; confirmed it is the tanker.
+- Still unanswered: the DJ6WDGP model year, and what they need on dangerous goods drivers.
