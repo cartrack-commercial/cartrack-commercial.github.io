@@ -4,25 +4,25 @@ description: >-
   Build branded Cartrack Insurance documents as PDF on the house design system (Saira +
   IBM Plex, dark/coloured mastheads, orange accent, green savings / red cost figures, stat
   cards, line-by-line tables, SWITCH/UPGRADE pills). Two document types: the client-facing
-  PROPOSAL (sober, ink mastheads) and the internal RM PLAYBOOK (field edition — coloured
+  PROPOSAL (sober, ink mastheads) and the internal RM PLAYBOOK (field edition, coloured
   mastheads, PLAY badges, RM-EYES-ONLY stamp, teardown tables, objection battlecard, "in the
   room" scripts). Use for premium comparisons, renewal proposals, policy reviews, RM playbooks.
   Fonts, logos and CSS are packaged; you only write content and render.
 ---
 
-# Cartrack Insurance — client proposal builder
+# Cartrack Insurance: client proposal builder
 
-Produces the branded proposal look (see the ALW / Waste Carriers proposals) as an A4 PDF.
+Produces the branded Cartrack proposal look as an A4 PDF.
 **Everything visual is already built.** Do not re-derive CSS, re-read the design system, or
-rebuild fonts/logos — that is the whole point of this skill. You write content HTML and run
+rebuild fonts/logos, that is the whole point of this skill. You write content HTML and run
 one command.
 
-## Two document types — pick the template
+## Two document types: pick the template
 
 - **Client proposal** → `assets/template.html`. What you hand the client. Sober ink-950
   mastheads, cover + exec-summary + line-by-line + next-steps/contact + sign-off.
 - **RM playbook** → `assets/playbook-template.html`. Internal field guide the RM takes into the
-  meeting — **RM only, never handed over**. Coloured mastheads per "play", PLAY badges, the
+  meeting, **RM only, never handed over**. Coloured mastheads per "play", PLAY badges, the
   RM-EYES-ONLY stamp, "what's in this pack", dense per-item teardown tables, Policy-DNA cards,
   the scoreboard, per-building pages with a "why" column, the **Naked Truth** (red-team weak
   spots + exact answers) and the **Battlecard** (objections + "in the room" scripts).
@@ -33,12 +33,11 @@ the proposal, the RM works from the playbook.
 ## Workflow (3 steps)
 
 1. **Copy the template** to a working file (scratchpad or the client's folder). `<skill>` below
-   is this skill's folder — `~/.claude/skills/cartrack-proposal` on Anne's Mac, or
-   `.claude/skills/cartrack-proposal` inside the `cartrack-commercial.github.io` repo in
-   web/cloud sessions:
+   is this skill's folder: `.claude/skills/cartrack-proposal` inside a repo that carries it,
+   or `~/.claude/skills/cartrack-proposal` when installed for one user:
    `cp <skill>/assets/template.html <name>_content.html`   (or `playbook-template.html`)
-   Name the content file distinctly (e.g. `*_content.html`) — build.py writes a `<output>.html` preview beside the PDF, so a content file sharing the output stem would be at risk (build.py now guards against it, but keep them separate).
-2. **Edit the body** — replace placeholder text/figures. Add or remove `.page` blocks by
+   Name the content file distinctly (e.g. `*_content.html`): build.py writes a `<output>.html` preview beside the PDF, so a content file sharing the output stem would be at risk (build.py now guards against it, but keep them separate).
+2. **Edit the body**: replace placeholder text/figures. Add or remove `.page` blocks by
    copying the component blocks (each page in the template is labelled with an HTML comment).
    Keep each page's content within one A4 sheet (overflow is clipped).
 3. **Render:**
@@ -57,7 +56,7 @@ work file so the build is repeatable.
 
 `{{CARTRACK_WHITE}}` `{{CARTRACK_DARK}}` `{{CARTRACK_MARK}}` `{{CARTRACK_MARK_WHITE}}` `{{CLIENT_LOGO}}`
 
-## Component cheat-sheet (classes in assets/cartrack.css — no need to open it)
+## Component cheat-sheet (classes in assets/cartrack.css: no need to open it)
 
 - **Page**: `<div class="page">` (light) or add `cover` for the gradient cover. One page = one A4.
 - **Masthead** (dark band, bleeds to edges): `.masthead` with `.eyebrow.on-dark` + `<h2>` +
@@ -109,7 +108,25 @@ work file so the build is repeatable.
 - Voice: plain, confident, decision-first. Lead with the recommendation and the number.
 - Always carry the FSP 17266 disclosure and "policy wording prevails" in the legal footer.
 - Cartrack is the preparer (masthead/footer/sign-off); the client logo goes in the "prepared for"
-  tile only — never present the document as if the client authored it.
+  tile only, never present the document as if the client authored it.
+
+## Rules learned on live packs (keep these, they are why the packs look right)
+
+- **Client proposal mastheads are ALWAYS plain `class="masthead"`, black ink.** Never `.orange`,
+  `.teal`, `.blue`, `.purple` or `.pink` on a client document. Coloured mastheads are the RM
+  playbook's signature and nothing else. Two client packs once went out coloured and read as a
+  different company's work.
+- **Never add a `<style>` block with `.fx{table-layout:fixed}` or `.tight` overrides.** That is
+  what flattened two packs into grey lists with half-empty pages. Use the house tables as they are.
+- **A page that ends halfway down means the content is too thin, not that the layout is wrong.**
+  Add substance, do not shrink or restyle.
+- **The cover leads with money:** three `.stat` cards (what they pay today, the best quotation, the
+  difference). A finding goes on page 2 or 3, never in place of the numbers.
+- **If you adjust an insurer's headline for like-for-like, print the as-quoted figure beside it.**
+  The client reads the pack with the insurer's own quote open next to it; a number that appears on
+  neither document reads as an error.
+- **No em dashes anywhere** in packs, playbooks or messages. Use a comma, a colon, brackets or a
+  new sentence.
 
 ## Entity data (Cartrack Insurance Agency (Pty) Ltd)
 
@@ -117,8 +134,7 @@ Reg 2001/008050/07 · FSP 17266 · Grosvenor Corner, 13 Keyes Avenue, Rosebank, 
 
 ## Notes
 
-- Renderer: build.py auto-detects headless Chrome — Mac Chrome, Playwright Chromium
+- Renderer: build.py auto-detects headless Chrome, Mac Chrome, Playwright Chromium
   (`/opt/pw-browsers/…`, used in web/cloud sessions), or system chromium. Override with the
   `CARTRACK_CHROME` env var if needed.
-- Reference of the finished look: `01 Cartrack/Commercial - RMs/Commercial Policies 16.24.50/ALW- Phillip/Design.pdf`.
-- The design system this is distilled from lives at `05 Builds & Code/Claude Code/_ds/cartrack-insurance-compliance-design-sys-*` (only needed if extending the CSS).
+- The design system this is distilled from is Compliance DS (Saira, IBM Plex Sans, IBM Plex Mono, ink `#0B0C0F`, orange `#F47735`). Only needed if extending the CSS.

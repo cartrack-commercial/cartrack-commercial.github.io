@@ -1,9 +1,9 @@
 /* ============================================================
-   CARTRACK INSURANCE — Client Proposal design system
+   CARTRACK INSURANCE, Client Proposal design system
    A4 print stylesheet. Saira (display) · IBM Plex Sans (body) ·
    IBM Plex Mono (figures/labels). Near-black ink + brand orange,
    green = saving/cheaper, red = costs more, amber = upgrade/attention.
-   @font-face is injected by build.py — this file only styles.
+   @font-face is injected by build.py, this file only styles.
    ============================================================ */
 :root{
   --orange:#F47735; --orange-600:#E2631C; --orange-50:#FEF4EC; --orange-100:#FCE3D2;
@@ -167,7 +167,7 @@ ul.sq li::before{content:"";position:absolute;left:0;top:5px;width:6px;height:6p
    badges, audience tags, RM-only stamp, teardown tables, DNA
    cards, red-team + battlecard script blocks.
    ============================================================ */
-/* Coloured mastheads — set section mood. Text stays white. */
+/* Coloured mastheads, set section mood. Text stays white. */
 .masthead.orange{background:linear-gradient(105deg,#F58C4F 0%,#E2631C 100%)}
 .masthead.teal{background:linear-gradient(105deg,#1FA69C 0%,#1F8A5A 100%)}
 .masthead.blue{background:linear-gradient(105deg,#3E72DA 0%,#2E5AAC 100%)}
@@ -175,7 +175,7 @@ ul.sq li::before{content:"";position:absolute;left:0;top:5px;width:6px;height:6p
 .masthead.pink{background:linear-gradient(105deg,#E0407A 0%,#C01E63 100%)}
 .masthead.orange .eyebrow,.masthead.teal .eyebrow,.masthead.blue .eyebrow,
 .masthead.purple .eyebrow,.masthead.pink .eyebrow{color:rgba(255,255,255,.9)}
-/* PLAY 0X badge — outlined pill top-right of a masthead */
+/* PLAY 0X badge, outlined pill top-right of a masthead */
 .play-badge{position:absolute;top:12mm;right:16mm;border:1px solid rgba(255,255,255,.55);
   color:#fff;border-radius:7px;padding:6px 13px;font-family:var(--font-mono);font-weight:600;
   font-size:8.4px;letter-spacing:.12em;text-transform:uppercase}
@@ -197,7 +197,7 @@ ul.sq li::before{content:"";position:absolute;left:0;top:5px;width:6px;height:6p
 .pack .n{font-family:var(--font-display);font-weight:800;font-size:16px;color:var(--ink-300)}
 .pack .ti{font-family:var(--font-display);font-weight:600;font-size:11px;color:var(--ink-950);flex:1}
 .pack .d{font-size:8.6px;color:var(--ink-500)}
-/* "How to run the meeting" — orange-accent step cards */
+/* "How to run the meeting", orange-accent step cards */
 .run{display:flex;gap:12px;align-items:center;border:1px solid var(--ink-150);border-left:3px solid var(--orange);border-radius:6px;padding:8px 13px;margin-bottom:7px}
 .run .n{font-family:var(--font-display);font-weight:800;font-size:19px;color:var(--ink-950);flex:none;width:22px}
 .run .b{font-size:9.2px;color:var(--ink-700)}
@@ -233,7 +233,7 @@ tr.allin td .item{color:#fff}
 .bignum .k{font-family:var(--font-mono);font-size:7.6px;letter-spacing:.1em;text-transform:uppercase;color:var(--orange-600);font-weight:600}
 .bignum .v{font-family:var(--font-display);font-weight:700;font-size:24px;color:var(--ink-950);margin:2px 0}
 .bignum .sub{font-size:8.6px;color:var(--ink-600)}
-/* Red-team cards (The Naked Truth) — live on a .page.dark */
+/* Red-team cards (The Naked Truth): live on a .page.dark */
 .rt-grid{display:grid;grid-template-columns:1fr 1fr;gap:11px}
 .rt{background:#17191F;border:1px solid #24272F;border-radius:8px;padding:11px 13px}
 .rt .h{display:flex;gap:9px;margin-bottom:4px}
@@ -253,7 +253,7 @@ tr.allin td .item{color:#fff}
 
 /* ---- Cover ---- */
 /* Cover page. The sheet itself carries the dark ground so a short .top can never
-   leave a white band at the foot of the cover (belt) — and where the cover has no
+   leave a white band at the foot of the cover (belt): and where the cover has no
    light .bottom half, .top is also told to fill the sheet (braces). */
 .cover{padding:0;display:flex;flex-direction:column;background:var(--ink-950)}
 .cover .top{position:relative;background:var(--ink-950);color:#fff;padding:16mm 16mm 14mm;overflow:hidden;flex:none}

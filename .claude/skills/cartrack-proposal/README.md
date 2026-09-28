@@ -1,4 +1,4 @@
-# cartrack-proposal — Claude Code skill
+# cartrack-proposal: Claude Code skill
 
 Builds branded **Cartrack Insurance** client proposals and RM playbooks as A4 PDFs.
 Invoke in Claude Code with `/cartrack-proposal`, or just describe the task
@@ -6,23 +6,23 @@ Invoke in Claude Code with `/cartrack-proposal`, or just describe the task
 system: the client-facing **proposal** and the internal **RM playbook**.
 
 ## Install
-Copy this whole `cartrack-proposal/` folder into `~/.claude/skills/` on the target
-machine. It's picked up automatically at the next Claude Code session start.
+Nothing to install when working in this repo: Claude Code picks the skill up from
+`.claude/skills/` at session start. To use it in other projects too, copy this whole
+`cartrack-proposal/` folder into `~/.claude/skills/` on your machine.
 
 ## Requirements
-- **Google Chrome** — `build.py` renders the PDF via headless Chrome and expects it at
-  `/Applications/Google Chrome.app/Contents/MacOS/Google Chrome`. If Chrome is elsewhere,
-  edit the `CHROME` path near the top of `build.py`.
-- **Python 3** (standard library only — no pip installs needed).
-- macOS assumed (paths use the macOS Chrome location).
+- **Chrome or Chromium.** `build.py` renders the PDF headless and looks for it automatically:
+  Chrome on macOS or Windows, Playwright's Chromium, or a system Chromium on Linux. If yours is
+  somewhere else, set the `CARTRACK_CHROME` environment variable to the browser's full path.
+- **Python 3**, standard library only. No pip installs.
 
 ## Files
-- `SKILL.md` — the instructions Claude follows (workflow + component cheat-sheet).
-- `build.py` — content HTML → self-contained A4 PDF (fonts/logos/CSS embedded as base64).
-- `assets/cartrack.css` — the full design system.
-- `assets/template.html` — client-proposal template.
-- `assets/playbook-template.html` — RM-playbook template.
-- `assets/fonts/`, `assets/logos/` — self-hosted Saira/IBM Plex fonts and Cartrack logos.
+- `SKILL.md`: the instructions Claude follows (workflow + component cheat-sheet).
+- `build.py`: content HTML → self-contained A4 PDF (fonts/logos/CSS embedded as base64).
+- `assets/cartrack.css`: the full design system.
+- `assets/template.html`: client-proposal template.
+- `assets/playbook-template.html`: RM-playbook template.
+- `assets/fonts/`, `assets/logos/`: self-hosted Saira/IBM Plex fonts and Cartrack logos.
 
 ## Quick manual build (Claude does this for you)
 ```
