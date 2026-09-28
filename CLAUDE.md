@@ -906,6 +906,19 @@ insurance **quote comparisons** for the RMs.
   - **Sources: `deal-notes/tshenolo_natsure_HCVU192176.pdf` (33pp) and
     `deal-notes/tshenolo_natsure_COM192164.pdf` (119pp)**, both with text layers.
     📎 `COM192164` arrived via **Google Drive from iOS**, same route as Gateway, Vuyos and Bakers.
+- **Skip-a-Way / NJ Swart** (abattoir with cold storage + hire-out, Rooihuiskraal, Centurion). RM:
+  **Cules Van Dyk**. Full detail in `deal-notes/skipaway-nj-swart.md`. Analysed 28 Sept 2026.
+  - **Santam `10000049349`** via Bell Ryck, **R8,429.80/mo, 10 vehicles** (only pages 1, 11, 12 of 72
+    seen) vs **King Price / VAPS `VAPS53947` R11,485.94 for 11**. The eleventh is an **8,000 L diesel
+    tanker (FAW HH10SGGP, R500,000) not on the Santam policy, R3,082.58/mo**. **Same ten: VAPS
+    R8,403.36, −R26.44. Flat.** Service move, not a price move.
+  - ⛔ **Tanker: TP R1m on fire/explosion, spill extension excludes SABS 0228 dangerous goods
+    (diesel), Envirosure HAZ not taken.** Is it insured anywhere today? Also: business "Transporter"
+    vs abattoir; MVBITNGP = MV81TNGP; DJ6WDGP year 2014 v 2019; tracking on 4 units >R200k.
+  - **Deliverables 28 Sept** (`skipaway_proposal_content.html` / `skipaway_playbook_content.html`):
+    client proposal 7pp + RM playbook 7pp, built on the partial Santam schedule. Rebuild the excess
+    and limits lines when the full 72 pages arrive.
+
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 
 - **Second small loss, 2 Sept 2026.** Elizabeth's "Missing work" tab showed **geo fire (R4,100/m) and
