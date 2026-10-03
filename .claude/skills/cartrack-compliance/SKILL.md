@@ -47,6 +47,9 @@ is law: quote it freely.
 
 HTML → headless Chromium → PyMuPDF widget injection. Three steps:
 
+`assets/build.sh <form-basename> "<Output Name.pdf>" [table-default]` does all three steps and
+prints per-page fill plus a PNG of every page. Or by hand:
+
 ```bash
 # 1. author  <name>.html, linking ../assets/style.css  (copy templates/document.html)
 # 2. render
@@ -75,8 +78,19 @@ Calibri/Carlito body, Consolas for references.
   thead{display:table-header-group}`.
 - **Orphan footers.** Wrap the closing signature block, authline and footer in one
   `<div class="keep">` with `break-inside:avoid`.
-- **Always look at the rendered pages.** Render to PNG and read them. Page-fill and widget counts
-  do not catch a covered meta strip.
+- **Spurious fields under signature lines.** A `.sig` caption ("DATE", "SIGNATURE — …") sits just
+  below a drawn rule. `fill.py` detects that rule and skips the caption. Don't solve this by adding
+  the word to `SKIP`.
+- **Keep `SKIP` to meta-strip labels only.** Table headers are white-on-black, so `greyish()` already
+  excludes them. Adding "DATE" or "VERSION" to `SKIP` silently kills real fields elsewhere.
+- **A section split across pages looks unprofessional.** Wrap each section that fits a page in
+  `<div class="sec">` with `.sec{break-inside:avoid}`. If that pushes the document to an extra page,
+  the section is too big — **split it into two smaller sections** rather than forcing it. A gap at a
+  clean section boundary is fine; a heading stranded at the foot of a page is not.
+- **Long labels wrap into the field below**, and the wrapped fragment gets captured as a default
+  value. Keep captions short ("Date checked", not "Regulator details checked on (date)").
+- **Always look at the rendered pages.** Render to PNG and read them. Page-fill and widget counts do
+  not catch a covered meta strip, a split section, or a missing field.
 
 ```bash
 python3 -c "
