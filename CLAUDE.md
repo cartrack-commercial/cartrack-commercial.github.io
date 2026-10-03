@@ -173,6 +173,51 @@ Brendan / Jenny / HR / group IT.
 **Shareholder organogram** was built AND sent (14 Jul, Section 1 email) — a transmission gap, not
 a build gap. Resend, don't rebuild.
 
+### RE5 / FAIS source material — lives in Google Drive, NOT in this repo
+Anne's Drive → **My Drive / RE5** (`1tvxEft5aIhhjiBfhy3f9X8oKvu0IPrGB` — note the capital **I**,
+the browser font renders it like a lowercase l and the wrong one 404s). Reachable with the Drive
+MCP from any session; the scratchpad has been wiped 3× so **always re-read from Drive, never
+assume local copies survive**.
+
+| File | Drive ID | What it is | May it go in the repo? |
+|---|---|---|---|
+| `Re5 Task QC - 14 January 2025.pdf` | `193-G-eL-Wuhf4JV80reHBl0ZR7apqWDl` | **FSCA official qualifying-criteria matrix** — every RE5 task mapped to exact Act + section. The authoritative citation index. | ✅ Yes — regulator's published criteria |
+| `RE1 RE5 Prep Guide - 14 January 2025.pdf` | `1q5XDd7FNmU8jQ-JhmdUtifd8ixtn5s59` | Official FSCA prep guide, exam mechanics | ✅ Yes |
+| `F5 Academy - RE1 Study Guide - RE5 Online - Jan 2025 update.pdf` | `1U4vaD5HH0gYEvf9gyfFoa0kYsJKpRBUJ` | Third-party study guide, covers **both RE1 and RE5** | ⛔ **NO** |
+
+⚠️ **Copyright boundary — hold this line.** The F5 guide reads *"© 2024 RE5 Online, a division of
+F5 Academy. You may print this guide to use as your study material. You may not reproduce,
+distribute, rebrand or edit it."* Committing it (or chunks of its prose) to this repo is
+distribution. The split:
+- **FSCA Task/QC matrix** → regulator's published criteria. Build the compliance citation map from this.
+- **Statutory text** (Act / GCOC wording the guide quotes) → it is law. Quote it freely in Cartrack documents.
+- **F5's own explanatory prose** → study use only. Never in a Cartrack-facing deliverable or this repo.
+
+**RE5 exam mechanics:** 50 questions · 2% each · 2 hours · **pass 66% (33/50)** · closed book,
+nothing allowed in the room · **unlimited attempts** · no negative marking, so never leave a blank.
+Every task is examined at least once (no safe skips). Question styles include **negative**
+("which is NOT…") and **roman-numeral multi-select** — where careful readers lose marks.
+Only the published criteria can be examined, so the Task/QC doc is a complete syllabus.
+
+### GCOC complaints framework — verified 2 Oct 2026
+⚠️ Telesure cited only **"GCOC s17"** and the first draft of our complaints documents followed them.
+That is too narrow. The framework is **General Code of Conduct Part XI, ss16–19** (BN 80 of 2003 as
+amended June 2020), plus **FAIS Act ss20 and 27**, and the **Ombud Council Rules for the Ombud for
+Financial Services Providers, 2024**.
+
+**s16 defines the terms — use these, not general usage:**
+- **"reportable complaint"** = any complaint OTHER than one (a) upheld immediately by the person who
+  received it; (b) upheld within ordinary client-query processes in **≤5 business days**; or
+  (c) submitted so the provider had no reasonable opportunity to record prescribed details.
+- **"upheld"**, **"rejected"**, **"compensation payment"** (provider accepts liability; excludes
+  goodwill payments, contractual amounts and refunds), **"goodwill payment"** (no liability accepted).
+- A provider must **categorise, record and report on reportable complaints**.
+
+`Nil Complaints Return and Declaration.pdf` was rebuilt 2 Oct on these defined terms: 13 rows that
+*derive* the reportable figure (received, less upheld-immediately, less upheld-in-5-days), plus
+compensation and goodwill payments, and a confirmation that no categorisation was required because
+no reportable complaint arose **while the framework exists anyway**.
+
 ### Accuracy protocol for compliance work (non-negotiable)
 1. **Cite primary sources only** — Act + section number, never a summary and never Claude's memory.
 2. **Two-pass rule** — build from source, then verify every citation in a separate pass.
