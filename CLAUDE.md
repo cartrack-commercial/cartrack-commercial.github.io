@@ -161,10 +161,23 @@ complaints register). Telesure asked for six things. **Verified in sent mail: on
 were ever sent — Section 1 on 14 Jul, and the full zip on 15 Jul. The numbered section emails
 2–13 were never sent.** A nil position must be *declared*, not merely shown.
 
+**Named roles (confirmed by Brendan via Anne, 3 Oct 2026):** Complaints Officer = **Brendan
+Kruger** · Key Individuals = **Brendan Kruger + Jennie Allen** · Compliance Officer = **Daniel
+Opperman** · **Ombud liaison = none appointed** → assigned to the Complaints Officer with oversight
+by the other KI.
+⚠️ **Brendan holds two roles (Complaints Officer AND KI)**, so "escalate to the KI" is not an
+independent route for a complaint about the Complaints Officer. Those go to **Jennie Allen** (second
+KI) + **Daniel Opperman** (CO). This is written into the Responsibility Schedule and flagged to
+Brendan for confirmation — a due-diligence reviewer will look for it.
+
 **Built 22 Sep to close it** (sources in scratchpad `telesure-response/`, house style + fillable):
-`Nil Complaints Return and Declaration.pdf` (closes 9.1–9.4) · `Complaints Handling Responsibility
-Schedule.pdf` (closes 9.5, needs 4 names) · `TCF in Complaints Handling - Evidence Map.pdf`
-(closes 9.6). All need a KI signature.
+`Nil Complaints Return and Declaration.pdf` (closes 9.1–9.4; **rebuilt 2 Oct on GCOC ss16–19**) ·
+`Complaints Handling Responsibility Schedule.pdf` (closes 9.5; **names filled 3 Oct**) ·
+`TCF in Complaints Handling - Evidence Map.pdf` (closes 9.6) · `POPIA and PAIA Compliance
+Addendum.pdf` (closes the 3 POPI recommendations; needs **Information Officer AND KI**).
+The other three need a KI signature.
+**Mail to Brendan ONLY** — Anne decided 3 Oct not to send to Jenny. Draft is in Gmail, unsent,
+attachments to be added by hand (too large to attach via the API).
 
 **Cannot be closed by Anne** — cyber security questionnaire (she flagged it in writing on 15 Jul),
 sample rep files 6.3/6.4, 12-month backup evidence, register data corrections. All need
@@ -226,6 +239,14 @@ no reportable complaint arose **while the framework exists anyway**.
 5. **Date-stamp everything.** FAIS moves (Fit & Proper Determination 2017, Joint Standards, NFO).
 6. Claude gets section numbers wrong. Every citation needs a primary-source check before it goes
    into anything signed.
+
+### `/cartrack-compliance` skill — built 3 Oct 2026, IN THIS REPO
+`.claude/skills/cartrack-compliance/` — use it for any FSP 17266 compliance document.
+`SKILL.md` (entity details, accuracy protocol, build chain, the traps) ·
+`references/fais-citation-map.md` (the FSCA RE5 qualifying-criteria matrix re-keyed by topic — the
+authoritative index of which section governs what) · `references/gcoc-complaints.md` (ss16–19 +
+the s16 defined terms, verified) · `assets/style.css` + `assets/fill.py` (the build toolkit, with
+the meta-strip and redaction bugs fixed) · `templates/document.html`.
 
 ### Compliance design system
 Separate from Compliance DS (the apps). Print docs = black full-bleed masthead, orange `#F47735`
