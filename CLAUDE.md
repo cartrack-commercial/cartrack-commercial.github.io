@@ -919,6 +919,14 @@ insurance **quote comparisons** for the RMs.
     client proposal 7pp + RM playbook 7pp, built on the partial Santam schedule. Rebuild the excess
     and limits lines when the full 72 pages arrive.
 
+- **Impact Distributors / Bandini Cheese** (cheese maker + farm + own distribution fleet, Robertsham).
+  RM: **Elizabeth Schlebusch**. Detail in `deal-notes/impact-distributors-bandini.md`. 7 Oct 2026.
+  - **No current schedule.** VAPS54248 on **Renasa** paper, **R219,941.79/mo**, 155 units in 9 groups,
+    SI R67,419,000, reconciles. **No GIT**, **agreed value not on the schedule**, no excess reducers
+    (≥R496,893 of excess on the R3.84m claims supplied), TP R2.5m/R1m fire, theft = 49% of claims →
+    tracking lead 93 to 112 units. Hail line on p18 to clear in writing.
+  - Deliverables 7 Oct: client proposal 6pp + RM playbook 7pp.
+
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 
 - **Second small loss, 2 Sept 2026.** Elizabeth's "Missing work" tab showed **geo fire (R4,100/m) and
