@@ -183,3 +183,16 @@ vs Hollard (true) +R57,572.56.
   Q5 − split = R25,810.43 = light +18,739.83 + Sasria +4,549.94 + admin +3,061.61 − plant 540.95. Corrected both sides
   (Q2 Sasria, 5% admin on Riskflow/Bouwen) the split is still ≈R18,836/mo cheaper with all-risks plant.
 - Fleet list (5 Oct e-mail to Tranquille/FSP) is not in Anne's mailbox.
+
+### Lean client proposal (8 Oct, after the Teams call)
+
+Brendan: "less is more", the client pack must put us in a position to close. Rebuilt as **3 pages**: cover,
+the numbers (Bryte today v recommended v all with King Price) + excess, and what is included + next steps +
+sign-off. All insurer criticism and findings removed from the client pack (they stay in the playbook).
+Hollard and VAPS54248 dropped from the client pack per Brendan ("los Hollard").
+**Recommended = VAPS54229 Q2 trucks/trailers + Riskflow cars + Bouwen plant, without the excess reducers
+and windscreen waiver, Sasria on all trucks: R214,238.43/mo** (trucks/trailers R165,758.72 · cars
+R41,618.97 · plant R6,860.74) v Bryte R192,960.56 before its increase; level at a ≈13.2% increase.
+All with King Price (Q5, same basis) R219,346.42. Sales point: Bryte has R7.8m of special types on third
+party only. Full four-way kept as `bandini_proposal_full_content.html`.
+⚠️ Before binding: Bouwen road TP on the registered plant; Tranquille 5% admin; VAPS reissue with truck Sasria.
