@@ -76,3 +76,28 @@ strictly liable.** Products liability and recall are the decisive covers; none s
 
 **Deliverables rebuilt 8 Oct:** proposal 6pp + playbook 7pp. Bryte e-mail drafted (request full
 COM208596JB schedule, increase, claims, other policies, using the signed BAL).
+
+## Round 3, 8 Oct 2026: a third market, Hollard Trucking (via ASI Blue), from Elizabeth at 10:07
+
+**Hollard quote 309490, 7 Oct 2026, broker on the quote: ASI BLUE (PTY) LTD (not Cartrack).**
+155 units, SI R67,104,000: HCV 40 R25,680,000 (4%) · trailers 47 R20,590,000 (2%) · special types 25
+R5,310,000 comprehensive (2%) · LDV 17 R3,085,000 (4%) · PMV 26 R12,439,000 (4%). Motor R2,166,160/yr
+(R180,513.33/mo) + extensions R65,400 (tool of trade R1m R24,000, PL R1m R3,000, increased TP R10m
+R38,400) + risk services fee R111,578 + Sasria R207,538.33 = **R2,550,676.33/yr**.
+- 🚨 **Sasria monthly divided by 10, not 12:** printed R20,753.83, true R17,294.86. **Printed monthly
+  R216,015.33; true R212,556.36** (R3,458.97 overstated). Same error as the Bryte quotes on Lomaen/Vuyos.
+- ⚠️ **Increased TP R10m marked "No" but R38,400/yr is charged** inside the R65,400. TP printed R5m
+  any event and R5m fire/explosion. Clarify which.
+- ✅ Better than VAPS: TP R5m incl. fire (VAPS R2.5m/R1m); **agreed value = retail + extras + 20%**;
+  windscreen included on all 108; special types comprehensive; driver PA R30k; tool of trade R1m; PL R1m;
+  territory to Kenya/Uganda/Angola/DRC; **80/20 fund** (cash-back if claims ≤60% of risk premium,
+  mechanics not stated).
+- ⚠️ Worse: **excess is 5% of SUM INSURED min R5,000 per registration** (avg truck R32,100, avg PMV
+  R23,921 on any claim), **theft +10% of SI**, +5% 23h00 to 04h00; reducers not taken; **risk services
+  fee R9,298.17/mo**; parking accumulation clause cut off mid-sentence ("the following limits shall
+  apply:" with nothing after); no passenger liability; GIT and EIL "available on request", not quoted.
+- ⚠️ Valid **14 days (to 21 Oct)**; void if already with Hollard; needs signed proposal + 3-year blow-by-blow
+  loss history. Tracking on self-propelled >R250k; **two devices (one early warning) on Hilux/Fortuner
+  2016+, Prado 2018+, LC200 2017+, Lexus 2018+ in Gauteng/KZN**; alarm/immobiliser on LDV/PMV >R50k.
+- Proposal form (Hollard HCV & GIT v6) is **blank**, 278 fields. Disclosure notice is generic.
+- Three fleets, three splits: Bryte 42 HCV/30 trailers/159 units; VAPS 42/32/155; Hollard 40/47/155.
