@@ -926,6 +926,10 @@ insurance **quote comparisons** for the RMs.
     (≥R496,893 of excess on the R3.84m claims supplied), TP R2.5m/R1m fire, theft = 49% of claims →
     tracking lead 93 to 112 units. Hail line on p18 to clear in writing.
   - Deliverables 7 Oct: client proposal 6pp + RM playbook 7pp.
+  - 🆕 **8 Oct: incumbent is BRYTE `COM208596JB`** (renewal R192,960.56/mo before an unstated increase;
+    VAPS −R6,488.77 on the same vehicles, break-even as quoted at ≈17.5% increase). Client is **the Bandini
+    Group: 5 companies, 3 sites** (Robertsham, Doornkop cheese factory, Eikenhof bottling). Packs rebuilt as a
+    group review: products liability + recall (CPA s61) lead. Bryte schedule requested via the signed BAL.
 
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 

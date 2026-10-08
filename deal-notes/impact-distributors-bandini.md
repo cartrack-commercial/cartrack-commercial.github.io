@@ -46,3 +46,33 @@ types are, who rides the bus.
 
 **Deliverables 7 Oct** (`bandini_proposal_content.html` / `bandini_playbook_content.html`): client
 proposal 6pp + RM playbook 7pp. Source PDFs kept out of the repo.
+
+## Round 2, 8 Oct 2026: the incumbent is Bryte, and the client is a food group
+
+**Scan of 2 Oct (Seartec, 4pp):** claims declaration (same six lines, only "2026" dated), broker
+authorisation letter signed by U.S. Bandini for **Bryte policy COM208596JB** (transfer date 30 Sept 2026),
+Bryte's "October 2026 Renewal" page and its aggregate excess quote.
+
+**Bryte renewal, before an unstated increase on lines 1 to 4:** 42 HCV R28,060,000 R916,064 · 30 goods
+vehicles (trailers) R18,790,000 R526,120 · 19 private M2 R4,048,690 R148,032.80 · 19 private M1
+R10,492,040 R338,025.60 · special types TPO R4,895,000 R97,900 + R152,000 R24,960 + R2,750,000 R66,000
+(49 units) · Sasria R198,424.31 = **R2,315,526.71/yr = R192,960.56/mo**. VAT basis not stated.
+
+**Against VAPS:** same vehicles **R186,471.79 (−R6,488.77/mo)**; as quoted R219,941.79 (+R26,981.23,
+the R33,470 being roadside + windscreen). Each 5% of Bryte increase ≈ R8,034/mo; **break-even as quoted
+at ≈17.5%**. Bryte has the 49 special types on **third party only**; VAPS insures 38 comprehensive.
+
+**Bryte excess options:** (1) 10% min R30,000 at a higher premium; (2) 20% min R30,000 with 10% bought
+back: R421,650.44 (72 HCV/trailers, R46,850,049) + R130,866.57 (5% on 38 PMV/LDV, R14,540,730) =
+R552,517/yr. **Aggregate excess:** client funds R2.5m/yr of truck/trailer Subsection A claims, stop loss
+R250k, inner R20k, outer 20% min R30k; insurer premium R1,972,073; 90% deposit R1,774,865.70 up front;
+burner 60% = R1,064,919.42.
+
+**The group (mozzarella.co.za):** Bandini family since 1957; Impact Distributors, Bandini Cheese,
+Fresco Foods, Fresco Beverages, Elena's Delicatessen. Robertsham HQ (15 Landsborough St, Fresco Foods
+manufacturing), Doornkop cheese factory (Plot 109 Hopewell St), Eikenhof bottling plant (96 Bronk Dr).
+About 25 ranges incl. imported Divella. **CPA s61: producer, importer, distributor and retailer all
+strictly liable.** Products liability and recall are the decisive covers; none seen yet.
+
+**Deliverables rebuilt 8 Oct:** proposal 6pp + playbook 7pp. Bryte e-mail drafted (request full
+COM208596JB schedule, increase, claims, other policies, using the signed BAL).
