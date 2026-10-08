@@ -935,6 +935,10 @@ insurance **quote comparisons** for the RMs.
     windscreen incl., 80/20 fund; excess **5% of SUM INSURED** min R5k (+10% SI theft); risk fee R9,298.17/mo;
     increased TP 'No' but R38,400/yr charged; parking clause cut off; **valid to 21 Oct**. Packs rebuilt 3-way
     (proposal 6pp, playbook 8pp).
+  - 🆕 **8 Oct 11:25: split option** RFSP00162 Riskflow/Old Mutual (43 light, R41,618.97) + VAPS54229
+    King Price (75 HCV+trailers, R221,649.21) + BOUT204946 Tranquille Bouwen/Compass plant all risks (40, R6,860.74)
+    = **R270,128.92** for 158 items R67,379,000. Dearer only because of R62,420 of reducers/waivers + R9,287 admin fee;
+    core R192,408.49. Plant policy has **no third party road risk** on registered tractors/crane. Show as its own column.
 
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 

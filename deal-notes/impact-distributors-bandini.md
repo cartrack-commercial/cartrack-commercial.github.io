@@ -103,3 +103,49 @@ R38,400) + risk services fee R111,578 + Sasria R207,538.33 = **R2,550,676.33/yr*
   2016+, Prado 2018+, LC200 2017+, Lexus 2018+ in Gauteng/KZN**; alarm/immobiliser on LDV/PMV >R50k.
 - Proposal form (Hollard HCV & GIT v6) is **blank**, 278 fields. Disclosure notice is generic.
 - Three fleets, three splits: Bryte 42 HCV/30 trailers/159 units; VAPS 42/32/155; Hollard 40/47/155.
+
+## Round 4 (8 Oct 2026, from Elizabeth 11:25): a SPLIT placement across three insurers
+
+Elizabeth: *"should be quoted next to others and not under another insurer"*. Read as: this set is
+its own option, shown as its own column beside Bryte, VAPS54248 and Hollard, with each part named
+for the insurer that carries it, not filed under VAPS. The client has now given an itemised
+register: **158 items, R67,379,000** (43 LDV/cars R15,524,000 · 44 HCV R26,990,000 · 31 trailers
+R18,846,000 · 23 farm R2,064,000 · 17 plant R3,955,000).
+
+| Part | Quote | Carrier | Items / SI | Monthly |
+|---|---|---|---|---|
+| Light vehicles | RFSP00162 | Riskflow Solutions (FSP 54957) on **Old Mutual Insure** | 43 / R15,524,000 | R41,618.97 |
+| Trucks + trailers | VAPS54229 | VAPS on **King Price** (not Renasa like VAPS54248) | 75 / R45,836,000 | R221,649.21 |
+| Farm + plant | BOUT204946 | Tranquille Bouwen Engineering (FSP 54312) on **Compass** | 40 / R6,019,000 | R6,860.74 |
+| **Split total** | | | **158 / R67,379,000** | **R270,128.92** |
+
+All three reconcile to the cent. Split vs Bryte renewal +R77,168.36 · vs VAPS54248 +R50,187.13 ·
+vs Hollard (true) +R57,572.56.
+
+- **The gap is the add-ons, not the rates.** VAPS54229 carries own damage, theft and TP excess
+  reducers R55,160.43 (R661,925/yr) + windscreen waiver R5,280 + driver assist R1,980 + roadside
+  R11,000 + a new **administrator fee R9,287.17**. Core (vehicle sections + Sasria + admin fee + PAR)
+  = **R192,408.49**: +R5,936.70 on VAPS54248's R186,471.79, level with Bryte's pre-increase renewal.
+- Reducers at R661,925/yr against R3,843,726 of claims (period unknown, standard excess on them
+  ≥R496,893 in total): only pays if that is ONE year of claims. Get the period.
+- Rates: HCV **4.00%** (VAPS54248 3.75%), trailers **2.25%** (2.00%), Riskflow light vehicles
+  **2.80%** (VAPS 3.75%), plant all risks 1.23%. Trucks got dearer when the light book left.
+- **BOUT204946 is the right home for the yellow metal** (full all-risks, R1m contractors plant
+  liability, glass, credit shortfall, 20% value escalation) BUT **"Third party road risk liability:
+  No"** on both items, and the lists include registered road-going units (Landini tractors LR12FZGP
+  R225,000 and LT09YYGP R500,000, roller JVB282GP, Ford TLB FMV129GP, P&H crane WDD029GP R900,000,
+  horse box YVR970GP, game trailer PLH439GP). Price road risk or keep those on motor. Item limits
+  R500,000 farm / R900,000 plant (the crane and a Landini sit exactly on them). Excess 10% min
+  R500 to R30,000 by value. Broker = Cartrack FSP 17266 ✓, commission R1,317.61.
+- **RFSP00162:** TP R2.5m / R1m fire, unauthorised passenger R2.5m, credit shortfall YES, car hire
+  30 days R15,000, excess 5% min R5,000 (better than VAPS 10% min R30,000 on HCV). **Theft and
+  hijack EXCLUDED on high-risk models without an auto-arming tracker with recovery** (Ranger, Hilux,
+  Fortuner, Land Cruiser/Prado, D-Max/KB, Quantum, Polo, H100, NP200) and +2.5% over R750,000.
+  Broker block names **Old Mutual Insure (Tied agent)**, not Cartrack: confirm our code.
+- **VAPS54229 Sub-Section B limits are blank** (fire/explosion and "any other event" print no
+  figure; passenger liability "Not taken"). Get them printed.
+- **Elizabeth's spreadsheet** also lists "Quote 3" (R232,864.16, 115 items) and "Quote 5" (VAPS
+  whole fleet 158 items R295,939.35, farm and plant third party only). **No PDF for either.** Its
+  Summary sheet copies Quote 5's premium-to-SI ratio and 100% shares onto Quote 4 (true: 0.114%/mo,
+  25% of items, 8.9% of SI), and Quote 3 prices farm + plant at R10,031.67 where Quote 5 prices the
+  same items at R6,269.79. Use the PDFs, not the sheet.
