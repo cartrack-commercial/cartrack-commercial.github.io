@@ -939,6 +939,7 @@ insurance **quote comparisons** for the RMs.
     King Price (75 HCV+trailers, R221,649.21) + BOUT204946 Tranquille Bouwen/Compass plant all risks (40, R6,860.74)
     = **R270,128.92** for 158 items R67,379,000. Dearer only because of R62,420 of reducers/waivers + R9,287 admin fee;
     core R192,408.49. Plant policy has **no third party road risk** on registered tractors/crane. Show as its own column.
+    🚨 VAPS54229 Sasria sits on the light-vehicle SI, **none on the 44 trucks** (+R4,549.94). Packs rebuilt four-way (6pp + 9pp).
 
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 

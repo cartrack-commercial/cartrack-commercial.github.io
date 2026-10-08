@@ -127,7 +127,18 @@ vs Hollard (true) +R57,572.56.
   R11,000 + a new **administrator fee R9,287.17**. Core (vehicle sections + Sasria + admin fee + PAR)
   = **R192,408.49**: +R5,936.70 on VAPS54248's R186,471.79, level with Bryte's pre-increase renewal.
 - Reducers at R661,925/yr against R3,843,726 of claims (period unknown, standard excess on them
-  ≥R496,893 in total): only pays if that is ONE year of claims. Get the period.
+  ≥R496,893 in total): **costs more than it returns even if that is ONE year of claims** (unless many
+  small claims push the minimums up). Get the period; price without, and theft-only.
+- 🚨 **VAPS54229 Sasria is on the wrong sum insured:** trailers R18,846,000 R7,478.46 + **R15,524,000
+  R6,160.23**, which is the light-vehicle SI (on Riskflow, Sasria R1,096.30 there). **The 44 trucks,
+  R26,990,000, carry no Sasria.** Same rate → R10,710.17, true Sasria R18,188.63, **+R4,549.94/mo**.
+  Split with Sasria fixed ≈ **R274,678.86**; fixed and without reducers, waiver and driver assist ≈
+  **R212,258.43** (level with Hollard; breaks even with Bryte at a 12.0% increase).
+- Split vehicles + Sasria **R183,121.32 = cheapest of the four** (Bryte 192,960.56, VAPS 186,471.79,
+  Hollard 197,808.19). Cars/bakkies R36,222.67 v VAPS R48,512.50 v Hollard R51,746.66.
+- Register shows a **fourth site, "Potch"** (farm equipment, grader, roller), **R1,380,000 of forklifts**
+  across Impact/Bandini/Fresco Bev, a **horse box and game trailer**, and **no bus** (VAPS54248 had one).
+- **Deliverables rebuilt 8 Oct (four-way):** proposal 6pp + playbook 9pp (new Play 02 = split teardown).
 - Rates: HCV **4.00%** (VAPS54248 3.75%), trailers **2.25%** (2.00%), Riskflow light vehicles
   **2.80%** (VAPS 3.75%), plant all risks 1.23%. Trucks got dearer when the light book left.
 - **BOUT204946 is the right home for the yellow metal** (full all-risks, R1m contractors plant
