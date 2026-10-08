@@ -927,9 +927,14 @@ insurance **quote comparisons** for the RMs.
     tracking lead 93 to 112 units. Hail line on p18 to clear in writing.
   - Deliverables 7 Oct: client proposal 6pp + RM playbook 7pp.
   - 🆕 **8 Oct: incumbent is BRYTE `COM208596JB`** (renewal R192,960.56/mo before an unstated increase;
-    VAPS −R6,488.77 on the same vehicles, break-even as quoted at ≈17.5% increase). Client is **the Bandini
+    VAPS −R6,488.77 on the same vehicles, break-even as quoted at ≈16.8% increase; Hollard at ≈12.2%). Client is **the Bandini
     Group: 5 companies, 3 sites** (Robertsham, Doornkop cheese factory, Eikenhof bottling). Packs rebuilt as a
     group review: products liability + recall (CPA s61) lead. Bryte schedule requested via the signed BAL.
+  - 🆕 **8 Oct: third market, Hollard Trucking 309490 via ASI Blue** (broker on quote is ASI Blue, not
+    Cartrack). Prints R216,015.33/mo but **Sasria ÷10** → true **R212,556.36**. TP R5m incl. fire, agreed value,
+    windscreen incl., 80/20 fund; excess **5% of SUM INSURED** min R5k (+10% SI theft); risk fee R9,298.17/mo;
+    increased TP 'No' but R38,400/yr charged; parking clause cut off; **valid to 21 Oct**. Packs rebuilt 3-way
+    (proposal 6pp, playbook 8pp).
 
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 

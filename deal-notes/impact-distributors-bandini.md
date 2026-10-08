@@ -60,7 +60,7 @@ R10,492,040 R338,025.60 · special types TPO R4,895,000 R97,900 + R152,000 R24,9
 
 **Against VAPS:** same vehicles **R186,471.79 (−R6,488.77/mo)**; as quoted R219,941.79 (+R26,981.23,
 the R33,470 being roadside + windscreen). Each 5% of Bryte increase ≈ R8,034/mo; **break-even as quoted
-at ≈17.5%**. Bryte has the 49 special types on **third party only**; VAPS insures 38 comprehensive.
+at ≈16.8%** (corrected 8 Oct; first note said 17.5%). Bryte has the 49 special types on **third party only**; VAPS insures 38 comprehensive.
 
 **Bryte excess options:** (1) 10% min R30,000 at a higher premium; (2) 20% min R30,000 with 10% bought
 back: R421,650.44 (72 HCV/trailers, R46,850,049) + R130,866.57 (5% on 38 PMV/LDV, R14,540,730) =
