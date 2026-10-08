@@ -930,8 +930,8 @@ insurance **quote comparisons** for the RMs.
     VAPS −R6,488.77 on the same vehicles, break-even as quoted at ≈16.8% increase; Hollard at ≈12.2%). Client is **the Bandini
     Group: 5 companies, 3 sites** (Robertsham, Doornkop cheese factory, Eikenhof bottling). Packs rebuilt as a
     group review: products liability + recall (CPA s61) lead. Bryte schedule requested via the signed BAL.
-  - 🆕 **8 Oct: third market, Hollard Trucking 309490 via ASI Blue** (broker on quote is ASI Blue, not
-    Cartrack). Prints R216,015.33/mo but **Sasria ÷10** → true **R212,556.36**. TP R5m incl. fire, agreed value,
+  - 🆕 **8 Oct: third market, Hollard Trucking 309490 via ASI Blue** (placed by Cartrack through ASI,
+    not BrokerBuddy; confirm our code and commission). Prints R216,015.33/mo but **Sasria ÷10** → true **R212,556.36**. TP R5m incl. fire, agreed value,
     windscreen incl., 80/20 fund; excess **5% of SUM INSURED** min R5k (+10% SI theft); risk fee R9,298.17/mo;
     increased TP 'No' but R38,400/yr charged; parking clause cut off; **valid to 21 Oct**. Packs rebuilt 3-way
     (proposal 6pp, playbook 8pp).

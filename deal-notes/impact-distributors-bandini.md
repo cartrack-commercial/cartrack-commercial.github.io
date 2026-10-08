@@ -79,7 +79,9 @@ COM208596JB schedule, increase, claims, other policies, using the signed BAL).
 
 ## Round 3, 8 Oct 2026: a third market, Hollard Trucking (via ASI Blue), from Elizabeth at 10:07
 
-**Hollard quote 309490, 7 Oct 2026, broker on the quote: ASI BLUE (PTY) LTD (not Cartrack).**
+**Hollard quote 309490, 7 Oct 2026, broker on the quote: ASI BLUE (PTY) LTD.** Elizabeth confirmed
+8 Oct: Cartrack placed it **through ASI** (not BrokerBuddy), so ASI is our placement channel; confirm our
+code and the commission.
 155 units, SI R67,104,000: HCV 40 R25,680,000 (4%) · trailers 47 R20,590,000 (2%) · special types 25
 R5,310,000 comprehensive (2%) · LDV 17 R3,085,000 (4%) · PMV 26 R12,439,000 (4%). Motor R2,166,160/yr
 (R180,513.33/mo) + extensions R65,400 (tool of trade R1m R24,000, PL R1m R3,000, increased TP R10m
