@@ -22,13 +22,15 @@ def find_chrome():
     # CARTRACK_CHROME env var wins; then Mac Chrome; then Playwright/Linux chromium.
     cands = [os.environ.get("CARTRACK_CHROME"),
              "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+             r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+             r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
              "/opt/pw-browsers/chromium",
              *sorted(glob.glob("/opt/pw-browsers/chromium-*/chrome-linux/chrome"), reverse=True),
              "/usr/bin/chromium", "/usr/bin/chromium-browser", "/usr/bin/google-chrome"]
     for c in cands:
         if c and pathlib.Path(c).exists():
             return c
-    sys.exit("build.py: no Chrome/Chromium found — set CARTRACK_CHROME to the binary path")
+    sys.exit("build.py: no Chrome/Chromium found, set CARTRACK_CHROME to the binary path")
 
 CHROME = find_chrome()
 
