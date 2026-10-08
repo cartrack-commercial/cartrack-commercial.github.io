@@ -160,3 +160,26 @@ vs Hollard (true) +R57,572.56.
   Summary sheet copies Quote 5's premium-to-SI ratio and 100% shares onto Quote 4 (true: 0.114%/mo,
   25% of items, 8.9% of SI), and Quote 3 prices farm + plant at R10,031.67 where Quote 5 prices the
   same items at R6,269.79. Use the PDFs, not the sheet.
+
+### Round 4b (8 Oct): Quote 3 arrived; Quote 5 still outstanding
+
+- **VAPS54229 Q3 = Q2 + plant on motor**: tractors/farm 23 R2,064,000 comprehensive R3,440.00 (2.0%) + plant
+  17 R3,955,000 comprehensive R6,591.67 (2.0%) + Sasria M6 R681.70 + admin R501.58 = **R232,864.16**
+  (+R11,214.95 on Q2). Reconciles. Against Bouwen R6,860.74: **+R4,354.21/mo, but includes motor road TP.**
+  Best mix: registered units on VAPS, the rest on Bouwen.
+- **Q3 prints the Sub-Section B limits Q2 left blank: TP R2,500,000, fire/explosion R1,000,000**, contingent and
+  unauthorised passenger R2.5m, parking R1m, temporary repairs R15k, keys R50k, fire extinguishing R35k,
+  wreckage R50k, towing R100k, cross-border towing R20k, fuel spill R250k. Passenger liability, riot and strike,
+  increased TP: **No**. So Q2's blanks are a print fault; the terms are R2.5m/R1m.
+- Q3 still carries Sasria on the R15,524,000 light-vehicle SI and none on the 44 trucks.
+- **Tranquille (Shelley, 7 Oct 16:32): "admin fee has not yet been added onto all of the quotes, please make
+  allowances for 5% admin fee"**. Riskflow and Bouwen show R0 admin → ≈ +R2,424/mo on the split.
+  Placed through **Tranquille Intermediary Services (FSP 48264)**: confirm our commission share.
+- **Quote 5 arrived: VAPS54229 whole fleet on King Price, R295,939.35**, 158 items R67,379,000, reconciles. Trucks and trailers
+  identical to Q2; light vehicles 43 R15,524,000 comprehensive R38,810 (3.0%) + reducers OD R6,468.33 / theft R3,234.17
+  (inner R1,000) / TP R1,290 + windscreen waiver R5,160 + roadside R4,300 + Sasria M2 R1,096.30 = **R60,358.80 v Riskflow
+  R41,618.97**; tractors and plant **third party only** R2,150 + R4,119.79 (Sasria M6 R0, R50 minimum). **Q5 Sasria is
+  correct (trucks R26,990,000 R10,710.17), which proves Q2/Q3's error.** Admin R12,348.78.
+  Q5 − split = R25,810.43 = light +18,739.83 + Sasria +4,549.94 + admin +3,061.61 − plant 540.95. Corrected both sides
+  (Q2 Sasria, 5% admin on Riskflow/Bouwen) the split is still ≈R18,836/mo cheaper with all-risks plant.
+- Fleet list (5 Oct e-mail to Tranquille/FSP) is not in Anne's mailbox.

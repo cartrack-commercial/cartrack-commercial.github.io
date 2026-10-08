@@ -940,6 +940,8 @@ insurance **quote comparisons** for the RMs.
     = **R270,128.92** for 158 items R67,379,000. Dearer only because of R62,420 of reducers/waivers + R9,287 admin fee;
     core R192,408.49. Plant policy has **no third party road risk** on registered tractors/crane. Show as its own column.
     🚨 VAPS54229 Sasria sits on the light-vehicle SI, **none on the 44 trucks** (+R4,549.94). Packs rebuilt four-way (6pp + 9pp).
+    Q3 (plant on VAPS motor, comprehensive incl. road TP) R232,864.16; **Q5 VAPS whole fleet R295,939.35** (+R25,810 on the split;
+    light vehicles R60,359 v Riskflow R41,619; plant TPO) and Q5's correct truck Sasria proves the Q2 error. Tranquille: add 5% admin to Riskflow/Bouwen.
 
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 
