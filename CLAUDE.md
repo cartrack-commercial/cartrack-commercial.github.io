@@ -176,15 +176,37 @@ Brendan for confirmation — a due-diligence reviewer will look for it.
 `TCF in Complaints Handling - Evidence Map.pdf` (closes 9.6) · `POPIA and PAIA Compliance
 Addendum.pdf` (closes the 3 POPI recommendations; needs **Information Officer AND KI**).
 The other three need a KI signature.
-**Mail to Brendan ONLY** — Anne decided 3 Oct not to send to Jenny. Draft is in Gmail, unsent,
-attachments to be added by hand (too large to attach via the API).
+**SENT 9 Oct 2026 (01:49 + 01:50), both to Brendan only.** Email 1 = forwardable pack (5 PDFs loose:
+Nil Return, Responsibility Schedule, TCF Map, POPIA Addendum, Organogram). Email 2 = INTERNAL (no
+attachments). ⚠️ **The 15 Jul 15:44 "by section" zip did NOT attach to Email 1** although the body
+says "enclosed in the archive" — a one-line reply draft (`r3203196410834962143`) sits on that thread
+for Anne to attach the zip and send. Until it goes, the archive reference is dangling.
+**Outlook for Mac does not show Gmail-API drafts** — always open mail.google.com in a browser.
+**"OSA Pack corrected finals.zip" (15 Jul 10:14) is NOT the pack** — it is the 31 built docs, flat,
+missing the 7 evidence docs (CIPC Ann A, 2 audit reports, compliance monitoring Jun 26, AFS Ann C+D,
+ISO cert) and it contains the internal OSA checklist. Only the 15:44 "by section" zip is complete.
+
+**Supabase (RM System DB) — hard date.** Anne's 2 Oct request (thread `1a0fb9e09a2c7a57`): Cartrack
+must create a Pro-plan Supabase org on a company card so the `cartrack-rm-system` project can be
+transferred off her personal account. Jaden replied 5 Oct: agrees but "not sure I have the
+jurisdiction" — stuck pending **Carmen / Roger**. **Her personal card is debited 13 Oct.** Self-set
+9 Oct deadline missed. Chase draft created 9 Oct.
 
 **Cannot be closed by Anne** — cyber security questionnaire (she flagged it in writing on 15 Jul),
 sample rep files 6.3/6.4, 12-month backup evidence, register data corrections. All need
 Brendan / Jenny / HR / group IT.
 
-**Shareholder organogram** was built AND sent (14 Jul, Section 1 email) — a transmission gap, not
-a build gap. Resend, don't rebuild.
+**Shareholder organogram — ⚠️ it is the WRONG DOCUMENT.** "CIA Organogram Annexure B" is a **staff
+org chart** (directors → Head of Company → GSM → 7 teams, headcount 70), not a shareholding chart.
+Telesure item 3.1 asks for a *shareholder* organogram (FSR Act / FAIS s8 = ownership + controlling
+interest chain). That is the probable reason it was marked "not submitted" after being sent twice.
+Rendered to PDF 9 Oct (`03.1 Organogram - Annexure B.pdf`, landscape, house style, source
+`telesure-response/forms/organogram.html`) and sent as Annexure B — fine as a supporting doc, but
+**3.1 is NOT closed. Need from Brendan: who holds the shares in Cartrack Insurance Agency (Pty) Ltd,
+in what %, up to the ultimate holding company.** Then build a one-page ownership diagram. Never
+assert the shareholding from memory.
+Source chart has name typos reproduced faithfully (Schlebush→Schlebusch, Van Resnburg, Jacons,
+baloyi, VanWyk) — flagged to Anne, not corrected without authority.
 
 ### RE5 / FAIS source material — lives in Google Drive, NOT in this repo
 Anne's Drive → **My Drive / RE5** (`1tvxEft5aIhhjiBfhy3f9X8oKvu0IPrGB` — note the capital **I**,
