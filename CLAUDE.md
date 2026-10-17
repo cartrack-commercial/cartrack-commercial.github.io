@@ -972,6 +972,24 @@ insurance **quote comparisons** for the RMs.
     Q3 (plant on VAPS motor, comprehensive incl. road TP) R232,864.16; **Q5 VAPS whole fleet R295,939.35** (+R25,810 on the split;
     light vehicles R60,359 v Riskflow R41,619; plant TPO) and Q5's correct truck Sasria proves the Q2 error. Tranquille: add 5% admin to Riskflow/Bouwen.
 
+- **Lesedi Group** (Lesedi Holding Solution (Pty) Ltd + Edgy Nicollo (Pty) Ltd, 446 Rigel Ave South,
+  Erasmusrand, Pretoria; civil/municipal plant: water trucks, tippers, grader, TLBs). RM: **Bernard
+  Venter**. Detail in `deal-notes/lesedi-group.md`. Analysed 17 Oct 2026.
+  - **Current: three ONE/OMART policies via Spectre Wealth, new business 10 Jun 2026 (ex CIB):** plant
+    `PAR/1015740` R30,429.25 · Lesedi commercial `COMM/1008951` R34,733.42 · Edgy `COMM/1009095`
+    R2,089.47 = **R67,252.14**, incl. **R5,021.19/mo Spectre broker fees** (+R5,337.33 commission).
+  - **Quotes: Western plant R23,673.36 (true R23,177.90) · Bryte R28,871.93 (true R28,791.98) · King
+    Price `COM00625A` R1,616.21 = R53,586.09, −R13,666.05/mo.** 🚨 **Western AND Bryte divide Sasria
+    by 10** (again). Fixed (plant at full SI + Powerstar Sasria) ≈ R55,313, **−R11,940/mo**.
+  - Western: **no plant list, SI R26,148,126 vs current R27,749,127.25 (R1.6m short)**, wrong insured
+    name, excess bands R40k-R50k vs R25k-R30k, site TP R2.5m (better), theft by hirers excluded.
+  - Bryte: **same 19 vehicles to the rand**, TP R5m (vs R2.5m), but wrongful arrest/defence R250k→R50k,
+    gratuitous advice/spread of fire not stated, no excess table, Powerstar in <3,500kg Sasria, Hollard
+    footer. King Price copies ONE except PL R656.25 vs R130.47; its saving is the Spectre fee.
+  - 🚨 **Current ONE describes Lesedi as "Marketing Research Firms".** ONE memo: **every D-Max needs EWS
+    + SVR or no theft cover** (6 D-Max). Packs 17 Oct: proposal 6pp + playbook 6pp. Recommend move all
+    three after fixes.
+
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 
 - **Second small loss, 2 Sept 2026.** Elizabeth's "Missing work" tab showed **geo fire (R4,100/m) and
