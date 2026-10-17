@@ -36,7 +36,7 @@ reissues and client information (section 6). As of 17 Oct 2026 the chat runs und
   Commissioned the structural fix: a write guard and snapshots (section 3).
 - 2 Sept 2026: restored two lost client rows for an RM from the Recovery tab. Briefed the whole RM
   group by WhatsApp on the write guard, snapshots, "Missing work" tab and payroll changes.
-- 3 Sept 2026: commissioned a security position and an RLS check script for the RM System; decided
+- 3 Sept 2026: commissioned a security position and an RLS check script for the RM System, and
   received the advice that Supabase Auth (≈20h) should come before new features. Parked.
 - 16 Sept 2026: set the house rule that client-facing proposals use black heading blocks only, and
   that only internal playbooks are coloured. All packs brought into line.
