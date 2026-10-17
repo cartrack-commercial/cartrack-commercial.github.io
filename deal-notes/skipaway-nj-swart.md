@@ -154,3 +154,24 @@ giving the **GIT load limit R200,000** on the tanker (8,000 L diesel) so Enviros
 TP R5m incl. fire on the tanker (Fuso as option), DJ6WDGP year, dangerous-goods driver requirements,
 reissue before lapse. Client proposal unchanged (its figures and findings still stand). Still
 missing: the full 72-page Santam schedule, where the tanker is insured today, Santam's price for it.
+
+## 🆕 VAPS reissue of 30 Sept 2026 (WhatsApp from Cules, 30 Sept 18:03; reached us 17 Oct)
+
+`VAPS53947` reissued 30/09/2026, 42pp, King Price, inception 01/10/2026 (passed), valid 30 days
+(lapses about 30 Oct). **R12,455.27/mo**, reconciles: motor R6,155.19 + GIT R433.33 + OD reducer
+R1,494 + theft reducer R631.20 + TP reducer R360 + windscreen R1,200 + GIT basic reducer R66 + GIT
+theft reducer R165 + Sasria R505.55 + roadside R1,340 + GIT 24/7 assist R105. Commission R1,421.31.
+
+- **+R969.33 on 22 Sept**: increased TP R5,000,000 on the tanker AND the Fuso (R75 each), GIT on the
+  tanker (diesel, load limit **R200,000**, all risks, **driver fidelity included**, salvage/load
+  recovery R250,000, debris R30,000; excess 10% min R20,000 → R5,000 inner for R66; theft/hijack 25%
+  → R5,000 inner on R50,000 for R165), GIT assist R105, Sasria +R50.
+- **Same ten: R8,478.36 vs Santam R8,429.80 = +R48.56** (the R75 Fuso TP option is in it; without it
+  R8,403.36, −R26.44). **Tanker + load: R3,976.91/mo.** All in vs Santam **+R4,025.47**.
+- ✅ Fixed: business description "Abattoir with cold storage; hire out service", MV81TNGP, DJ6WDGP 2014.
+- ❌ Still open: **Envirosure HAZ "Not taken"** (VAPS's precondition, GIT, is now met); spill extension
+  still excludes SABS 0228; **Sub Section B still prints fire/explosion R1,000,000** beside the R5m,
+  get it confirmed in writing; tanker year "0", owner/HP/tracking blank; policyholder reg, VAT and
+  addresses "TBA"; reset inception.
+- Packs rebuilt 17 Oct (plain cover titles). Still missing: full 72-page Santam schedule, where the
+  tanker is insured today, Santam's price for it.
