@@ -1015,6 +1015,15 @@ insurance **quote comparisons** for the RMs.
   parked but should precede the rest.
 
 ## Conventions
+- 🗂️ **ROOT INNOVATIONS HANDOVER (from 17 Oct 2026).** This chat now runs under Anné's company, Root
+  Innovations (Pty) Ltd. The record lives in TWO places, kept identical: OneDrive (account
+  anne@eminentwealth.co.za) `Root Innovations/Handovers/RM-Quote-comparison-Main-coding.md`, and branch
+  `root-handover`, `root-handover/RM-Quote-comparison-Main-coding.md`. **"Update the handover"** = add the
+  dated item under the right heading in both (OneDrive upload with conflictBehavior `replace`), plus a
+  change-log line. The handover names NO client, member or colleague; sources are S-codes resolved in
+  `deal-notes/handover-source-map.md`. Write **Anné** with the acute accent. Client work keeps the
+  client's brand; templates harvested from it belong to Root Innovations, so build every deliverable
+  to be strippable.
 - Commit trailers used in this project:
   `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>` + `Claude-Session: …`
 - Never put the model id in commits / code / PRs (chat only).
