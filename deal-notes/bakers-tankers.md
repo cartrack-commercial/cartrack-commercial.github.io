@@ -526,3 +526,59 @@ R25,000); containers R100k/R200k/**tanktainers R500k** match Santam; Sasria half
 **Verdict (GIT): CLP stays the recommendation.** ONE becomes the best GIT only if it (1) confirms
 the price with commission, (2) adds driver fidelity R1,620,000, (3) names all three entities and
 (4) writes the scrap loads in.
+
+## 🆕 ROUND 3b (17 Oct 2026): ONE motor quote `HCV/1304264`
+
+`Bakers Bulk.pdf` (113pp) arrived via Google Drive (My Drive/Comparisons, uploaded from the Mac).
+**ONE: HCV Long Haul & GIT, OMART Insure (FSP 49551), printed 22/09/2026, renewal 01/09/2027,
+inception 01/01/3000 placeholder, names Bakers Bulk (Pty) Ltd only, VAT blank.**
+Motor R136,537.78 + general R100 + PL R1,200 + Sasria R31,087.88 (M1 R52.40, M2 R149.74, M8
+R30,885.74) = **R168,925.66/mo**, reconciles to the cent; commission R20,860.91, VAT R22,032.74.
+The 215 item premiums sum exactly to the motor section.
+
+✅ **SAME FLEET, PROVEN BY REGISTRATION: all 215 ONE items match OT78078997 (185) + OT89649119
+(30), none missing, none added.** ONE classes 55 HCV / 124 trailers / 16 LDV / 20 cars (OUT
+groups one vehicle differently: 54 / 124 / 37). The two MAN TGAs are TP only both sides (ONE R230
+each, OUT R65.15 together). **Values copied from OUT** (Sasria schedule shows the R56,047 tankers),
+basis "Retail Value".
+
+| Per month | Both OUT | ONE | Diff |
+|---|---|---|---|
+| Trucks | R97,494.08 | R92,155.75 | −R5,338.33 |
+| Trailers | R25,670.74 | R25,426.76 | −R243.98 |
+| Cars + LCV | R16,581.54 | R18,955.27 | +R2,373.73 |
+| PL R11,664,000 | R1,853.59 | R1,200.00 | −R653.59 |
+| Fee + Sasria | R31,732.51 | R31,187.88 | −R544.63 |
+| **All in** | **R173,332.46** | **R168,925.66** | **−R4,406.80 (≈ −R52,882/yr, −2.5%)** |
+
+🚨 **What ONE leaves out:** (1) **"Cross Border Liability Cover: No" on all 215**, against OUT's
+extended territories on all seven fleets at **R15,611.75/mo**; riot and strike outside RSA/Namibia
+also No. (2) **No EIL**: "Spillage and Leakage Liability: Yes" R34.50 on 53 trucks (R1,828.50/mo),
+**no limit printed anywhere**; OUT R5m per truck on 52 for R3,483.84. Neither covers trailers.
+(3) **Truck excess flat R30,000** (OUT R11,400 to R26,640), **and endorsement HCV 0004 contradicts
+the schedule**: 5% of vehicle value min R5,000 (R75,000 on a R1.5m Actros) **+5% of claim for
+accidents 23:00 to 04:00** on trucks and trailers, +R10,000 foreign licence. (4) Theft/hijack 10%
+of vehicle value with a tracker, **nil only with "ONETRAK"** (ONE's own product); outside RSA
+without cross-border roaming the tracker counts as not operational (20%). **Get Cartrack written
+in.** (5) **"Goods carried: TBA"** on the motor proposal, no hazmat exclusion printed, wordings not
+in the PDF. (6) Credit shortfall No (same as OUT). Passenger liability only on cars/LDVs R2.5m;
+unauthorised passenger R2.5m on trucks.
+
+✅ Better at ONE: trailer excess R5,000 (OUT R5,720), light R5,000 (OUT R6,840 to R9,320), PL
+R1,200 v R1,853.59 for the same R11,664,000 with excess R2,500 v R8,020, windscreen nil via IMC,
+towing R35,000, cross-border towing R30,000, wreckage R50,000, keys R20,000.
+
+💰 **Bonus maths:** R562,632.03 forfeited ÷ R52,882/yr = **10.6 years of ONE's saving**. Both
+bonuses are paid by 7 Aug 2028, after which a move forfeits nothing: **keep ONE warm for mid-2028.**
+
+**Programme:** today R214,999.13 · recommended OUT + CLP **R212,544.61 (−R2,454.52)** · all ONE as
+quoted R206,498.33 (−R8,500.80, before cross-border, EIL and driver fidelity are added and before
+the GIT commission is loaded).
+
+✅ **RECOMMENDATION UNCHANGED: keep the motor at OUTsurance; GIT to CLP.** Send ONE back for
+cross-border liability, EIL on trucks and trailers with a stated limit, the truck excess, Cartrack
+beside ONETRAK, fuel declared, all three entities named, inception dates; and on the GIT, commission
+and driver fidelity.
+
+**Deliverables rebuilt 17 Oct** (`bakers_proposal_content.html` 7pp / `bakers_playbook_content.html`
+7pp). Client cover is a plain "Bakers Group Insurance Review" (Anne: no sayings on page 1).

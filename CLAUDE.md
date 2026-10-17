@@ -775,7 +775,15 @@ insurance **quote comparisons** for the RMs.
     `search_files` → `download_file_content` → base64 → pymupdf. **Same route as Gateway and Vuyos.
     Use it every time a file will not upload.**
   - **Deliverables rebuilt 16 Sept** (`bakers_proposal_content.html` / `bakers_playbook_content.html`):
-    client proposal 6pp + RM playbook 7pp (INTERNAL). Sources kept at
+    client proposal 6pp + RM playbook 7pp (INTERNAL).
+  - 🆕 **ROUND 3 (17 Oct 2026): ONE quoted the whole account.** Detail in the deal note.
+    **Motor `HCV/1304264` R168,925.66 vs OUT R173,332.46 = −R4,406.80/mo**, all 215 registrations
+    matched. But **cross border liability "No" on all 215** (OUT pays R15,611.75 for territories),
+    **no EIL** (spillage R34.50/truck, no limit), truck excess flat R30,000 vs wording 5% of value +5%
+    at night, nil theft excess only with ONETRAK. **GIT `MARN/1305840` R37,572.67** but commission
+    R102.72 = 12% of Sasria only (gross-up ≈R46,739) and **driver fidelity excluded**. Recommendation
+    unchanged: OUT motor + CLP GIT. Bonus R562,632 = 10.6 yrs of ONE's saving; revisit after Aug 2028.
+    Packs rebuilt 17 Oct (proposal 7pp, playbook 7pp). Sources kept at
     `bakers_outsurance_OT78078997.pdf` (+ `bakers_out_OT78078997_extract.txt`),
     `bakers_envirosure_quote.pdf`, `bakers_alpha_v4_quote.pdf`.
 
