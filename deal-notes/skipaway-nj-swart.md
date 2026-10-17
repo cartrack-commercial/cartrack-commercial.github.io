@@ -144,3 +144,13 @@ Cules sent our e-mail at 11:21; VAPS's junior underwriter answered at 12:56.
   separate option (what we asked for).
 - They took "model year 0" as possibly the Fuso; confirmed it is the tanker.
 - Still unanswered: the DJ6WDGP model year, and what they need on dangerous goods drivers.
+
+## 17 Oct 2026: Cules's reminder (WhatsApp group, Thu 15 Oct)
+
+Nothing new arrived from Cules, VAPS, Santam or Bell Ryck after 28 Sept (Gmail and Drive checked).
+**The VAPS quote was printed 22 Sept and is valid 30 days, so it lapses about 22 Oct 2026.**
+RM playbook Play 06 updated: VAPS's 28 Sept answers marked closed/open, and a ready-to-send reply
+giving the **GIT load limit R200,000** on the tanker (8,000 L diesel) so Envirosure HAZ can attach,
+TP R5m incl. fire on the tanker (Fuso as option), DJ6WDGP year, dangerous-goods driver requirements,
+reissue before lapse. Client proposal unchanged (its figures and findings still stand). Still
+missing: the full 72-page Santam schedule, where the tanker is insured today, Santam's price for it.
