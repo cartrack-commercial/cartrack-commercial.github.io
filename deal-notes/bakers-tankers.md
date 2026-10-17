@@ -458,3 +458,71 @@ Both were built on `OT89649119` alone, which is 30 of the client's 215 vehicles.
   upload.**
 - Source kept at `deal-notes/bakers_outsurance_OT78078997.pdf`, extract at
   `deal-notes/bakers_out_OT78078997_extract.txt`.
+
+---
+
+## 🆕 ROUND 3 (17 Oct 2026): ONE goods in transit quote `MARN/1305840`
+
+Bronwan sent two ONE documents on WhatsApp on 1 Oct (*"Ek hoop op n manier kan ons hulle iets beters
+aanbied as Outsurance"*): **`Bakers Bulk.pdf` (113pp)** and **`Quote Schedule MARN1305840.pdf`
+(41pp)**. Only the second has reached a session so far; `Bakers Bulk.pdf` failed to upload from the
+Mac (OneDrive Personal, not reachable by any connector). **The motor answer to her question is in
+the 113-page file, so the packs are NOT rebuilt yet.**
+
+**`MARN/1305840`**: ONE: Marine (new), One Underwriting Managers t/a ONE, **underwritten by OMART
+Insure (FSP 49551)**, printed 23/09/2026, broker Cartrack (FSP 17266). Reconciles to the cent:
+cargo R36,666.67 + VAP R50.00 + Sasria R856.00 = **R37,572.67/mo** (VAT R4,900.78 = 15/115 ✓).
+Basis: **R50,000,000 haulage at 0.88%** = R440,000/yr, 100% minimum and deposit, adjustable on
+declaration. Same haulage and limit as Santam and CLP.
+
+| GIT, monthly all-in | | v Santam | v CLP |
+|---|---|---|---|
+| **Santam `AMDBLE265448M`** (current) | R41,666.67 | | |
+| **CLP / New National via Nautical** | R39,212.15 | −R2,454.52 | |
+| **ONE `MARN/1305840`** | **R37,572.67** | **−R4,094.00 (−R49,128/yr)** | −R1,639.48 (−R19,674/yr) |
+
+🚨 **FINDING 1: THE PRICE CARRIES NO COMMISSION ON THE CARGO.** "Intermediary commission
+R102.72" = **exactly 12% of the R856.00 Sasria**. Nothing on the R36,666.67. CLP pays 20% on GIT.
+Either ONE quoted net by mistake, or Cartrack places a R440,000/yr account for R1,233/yr. **If 20%
+is loaded the way CLP's is, the cargo grosses up to ≈R45,833 and the total to ≈R46,739/mo, DEARER
+than Santam.** Confirm with ONE before any figure goes to the client.
+
+🚨 **FINDING 2: DRIVER FIDELITY IS GONE.** Santam and CLP both give **R1,620,000 driver fidelity**.
+ONE lists a **"Fidelity Exclusion Clause"** under specific exceptions and grants no fidelity
+anywhere, and its own notes say cover not specifically stated is not in force. **On a fuel hauler,
+the driver who disappears with a tanker of diesel IS the loss.** Same gap MiWay had on Idol.
+
+⚠️ **Contamination excluded absolutely** (all transits, exclusion 4.8, plus "environmental,
+contamination and pollution liability"). Wrong product in a compartment is a classic fuel claim.
+Check what Santam's wording does with it before calling it a regression.
+
+⚠️ **Tracking is a WARRANTY on every truck AND every trailer** (5.2: *"active satellite tracking and
+recovery devices that are in working condition at all times"*; 5.1: breach = repudiation). CLP's
+was a condition on loads over R500,000. **No trailer on either OUTsurance policy records a tracker,**
+so as quoted the client is in breach from day one. 🛰️ Strengthens the 179-unit lead.
+
+⚠️ **Cargo contradicts itself.** Subject matter declares **"Scrap Metal and Scrap Batteries"**; the
+excluded-goods list reads **"Cobalt, Copper ... Solar Panels/Inverters/Batteries"**, excluded
+*absolutely* unless agreed before transit. (CLP's version of this was the High Risk Cargo loading.)
+Get written confirmation the scrap loads are covered.
+
+⚠️ **Names "Bakers Bulk (Pty) Ltd" ALONE** (reg 2017/055527/07, VAT blank). Santam names all three;
+CLP named Bakers Tankers alone. **Three GIT quotes, three different insured sets.**
+
+Also: **tarpaulins R25,000 → R15,000**; salvage/recovery and debris **one combined R25,000** (Santam
+R25,000 each, CLP debris R30,000); **subcontractors' conveyances excluded** unless agreed; contracts
+warranty (STCs with the cargo owner or no cover); spontaneous combustion excluded; loading/unloading
+only under the insured's own control; inception **01/01/3000** placeholder, renewal 01/09/2027;
+subject to 3 years' claims and a signed proposal. **Memo arithmetic is R300 out**: the premium
+adjustment clause totals R37,872.67, the schedule and debit order R37,572.67 (the schedule is
+right). Import/export Sasria R2.77 each is printed but not in the total.
+
+✅ **Gains:** **no High Risk Cargo loading** (CLP's R525,000-on-a-R1.5m-hijack catch is absent);
+**hazardous goods expressly accepted** (warranties 5.5 to 5.7: SANS, NRTA-licensed vehicles,
+experienced drivers), a clean contrast with OUTsurance's motor hazmat exclusion; **imports and
+exports across SADC, DRC to Kolwezi**; excesses identical (10% min R10,000; hijack/theft 25% min
+R25,000); containers R100k/R200k/**tanktainers R500k** match Santam; Sasria half CLP's rate.
+
+**Verdict (GIT): CLP stays the recommendation.** ONE becomes the best GIT only if it (1) confirms
+the price with commission, (2) adds driver fidelity R1,620,000, (3) names all three entities and
+(4) writes the scrap loads in.
