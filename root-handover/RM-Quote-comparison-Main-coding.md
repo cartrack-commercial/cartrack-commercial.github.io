@@ -52,6 +52,9 @@ reissues and client information (section 6). As of 17 Oct 2026 the chat runs und
 - 9 Oct 2026: requested and received a bundle of all code produced in this chat (212 files).
 - 17 Oct 2026: asked who the two developers are and what they were given. Received an audit of their
   copy app and access (section 6). Decided that compliance stays with her and is not handed over.
+- 19 Oct 2026: requested and received the RM System's code and documentation as one package
+  (source at v2026.09.22a, commit `ba7b48d` of 30 Sept 2026, plus the handoff document, RLS check
+  script and roadmap). Section 3.
 
 **Comparisons delivered (built in this chat at Anné's direction, for the RMs)**
 - 25 client accounts analysed, 13 Jul to 17 Oct 2026. 34 branded client and playbook PDFs and 44
@@ -89,6 +92,7 @@ reissues and client information (section 6). As of 17 Oct 2026 the chat runs und
 | Separate-business starter brief | Brief for building another firm's app on the same pattern, sharing no data | Anné | Draft (12 Aug 2026) | Launcher repo `eminent-wealth-starter-brief.md` | Markdown | As is |
 | Claude artifacts | App wiring map (3 Sept 2026), RM System security position (22 Sept 2026), early comparison frames (13 to 14 Jul 2026) | Anné | Published, private | `claude.ai/code/artifact/b0838e98-0833-45b9-b917-dd4948279f67`, `claude.ai/artifact/PaUibU2kGcDZ28PuJjKCXU`, and four comparison frames listed on the session | HTML | Wiring map pattern only |
 | Code bundle | Zip of all code from this chat, 212 files, 8 folders, README | Anné | Delivered 9 Oct 2026 | Session scratchpad only (ephemeral); copy is with Anné | Zip | Archive |
+| RM System code and docs package | Full RM System source (no build step) plus handoff doc, RLS check and roadmap, with a README; the source carries the anon key, passcodes and seeded deals, so it is internal only | Anné | Delivered 19 Oct 2026 | Session scratchpad only (ephemeral); copy is with Anné | Zip (560 KB) | Archive; strip before any reuse |
 | Developers' copy app | A Vercel app on a `cia` schema copy, built by the two developers, not by this chat | Developers | Theirs, last synced 6 Oct 2026 | `cia-phi-five.vercel.app`, Supabase schema `cia` | Their stack | Not ours |
 | Performance Intelligence page | Management pack on simulated data | None | **Abandoned**, deleted 22 Sept 2026 | Git history only | HTML | Not at all as built. Approach reusable with roles, never names |
 
@@ -260,3 +264,4 @@ the accounts executive's name.
 
 ### Change log
 - 17 Oct 2026: handover created (snapshot).
+- 19 Oct 2026: RM System code and documentation package delivered (sections 2 and 3).
