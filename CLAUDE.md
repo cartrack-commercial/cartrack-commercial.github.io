@@ -990,6 +990,19 @@ insurance **quote comparisons** for the RMs.
     + SVR or no theft cover** (6 D-Max). Packs 17 Oct: proposal 6pp + playbook 6pp. Recommend move all
     three after fixes.
 
+- **SAI Group (Pty) Ltd** (rent-to-own / e-hailing fleet + used-car dealership, Vorna Valley). RM: **Jean
+  Swanepoel** (he). Two comparisons, 22 Oct 2026, detail in `deal-notes/sai-group.md`.
+  - **Fleet: Renasa/RTUSA e-hailing `RTUEF000044` R200,888.81 (136 items) v AC&E/New National `ACE
+    COMM114750` R165,093.16 (128).** Same 126 cars: **−R20,528.45/mo**. AC&E "SASRIA Motor R25,332.50" is
+    really the R195 × 128 excess waiver + R372.50 Sasria. ⛔ **AC&E never mentions e-hailing** (class
+    "Private & Business", "excluding taxis"): the gate. Renter theft uninsured on both. RTU profit share to
+    check. LV78HNGP on RTU twice. 63 cars need early warning at AC&E.
+  - **Dealership: Natsure/Compass `COM176916` R129,069.60 v Western `48445131` R120,615.83 = −R8,453.77.**
+    ⛔ Western excludes **demo use** + MT passengers + work away, resets retro dates to 01/06/2026, umbrella
+    cannot attach, item 22 to TPFT, **policy-wide rent-to-own exclusion** (rental cars must move to the fleet
+    first). Natsure stock SI R3.5m short of its own list; BAR item 27 at 100% (R1,026.67/mo over).
+  - Packs 22 Oct: one proposal 7pp + one playbook 7pp covering both. Neither ready to sign.
+
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 
 - **Second small loss, 2 Sept 2026.** Elizabeth's "Missing work" tab showed **geo fire (R4,100/m) and
