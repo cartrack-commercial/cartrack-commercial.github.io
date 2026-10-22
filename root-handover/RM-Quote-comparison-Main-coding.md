@@ -55,6 +55,9 @@ reissues and client information (section 6). As of 17 Oct 2026 the chat runs und
 - 19 Oct 2026: requested and received the RM System's code and documentation as one package
   (source at v2026.09.22a, commit `ba7b48d` of 30 Sept 2026, plus the handoff document, RLS check
   script and roadmap). Section 3.
+- 22 Oct 2026: asked again for the RM System documentation. The developer document was brought up
+  to the live version (v2026.09.22a): snapshot fix, write-guard halving rule, a dated change list.
+  Re-issued as a 7-page PDF and in the package.
 
 **Comparisons delivered (built in this chat at Anné's direction, for the RMs)**
 - 25 client accounts analysed, 13 Jul to 17 Oct 2026. 34 branded client and playbook PDFs and 44
@@ -86,7 +89,7 @@ reissues and client information (section 6). As of 17 Oct 2026 the chat runs und
 | Deal notes and pack sources | One Markdown note per account plus `*_proposal_content.html` / `*_playbook_content.html` and built PDFs | This chat, RMs (PDFs) | Live record | Launcher repo, branch `claude/rm-portal-chat-location-bef5o5`, folder `deal-notes/` (25 notes, 44 sources, 34 named PDFs) | Markdown, HTML | Not as is (client data). Structure and section order reusable |
 | Working memory | Hand-off notes so a fresh session starts informed: apps, method, house rules, every account | This chat | Live | Launcher repo, `CLAUDE.md` | Markdown | After stripping (client and personal data) |
 | Comparison kickoff prompt | Reusable prompt to start a comparison | Anné | Live | Launcher repo, `COMPARISON_PROMPT.md` (20 Jul 2026) | Markdown | As is, after a brand check |
-| Handover pack to developers | RM System architecture, comparison method, portal build spec, and (off-repo) security position | Two developers | Delivered 21 Sept 2026 | Launcher repo `handoff/` (`01-rm-system.md`, `03-comparison-method.md`, `04-portal.md`, PDFs, `build/build_handoff.py`); doc 2 kept off-repo | Markdown, Python, Chromium pagination by measured layout | Method doc and PDF paginator: after stripping |
+| Handover pack to developers | RM System architecture, comparison method, portal build spec, and (off-repo) security position | Two developers | Delivered 21 Sept 2026; RM System document updated 22 Oct 2026 | Launcher repo `handoff/` (`01-rm-system.md`, `03-comparison-method.md`, `04-portal.md`, PDFs, `build/build_handoff.py`); doc 2 kept off-repo | Markdown, Python, Chromium pagination by measured layout | Method doc and PDF paginator: after stripping |
 | RLS check script | Reports RLS state, policies and anon grants per table | Anné (run in her browser) | Ready | `deal-notes/rm-system-rls-check.sql` | SQL | As is |
 | RM System roadmap | Prioritised feature list with hours | Anné | Draft (2 Sept 2026) | `deal-notes/rm-system-roadmap.md` | Markdown | Pattern only |
 | Separate-business starter brief | Brief for building another firm's app on the same pattern, sharing no data | Anné | Draft (12 Aug 2026) | Launcher repo `eminent-wealth-starter-brief.md` | Markdown | As is |
@@ -265,3 +268,4 @@ the accounts executive's name.
 ### Change log
 - 17 Oct 2026: handover created (snapshot).
 - 19 Oct 2026: RM System code and documentation package delivered (sections 2 and 3).
+- 22 Oct 2026: RM System documentation updated to v2026.09.22a and re-issued (sections 2 and 3).
