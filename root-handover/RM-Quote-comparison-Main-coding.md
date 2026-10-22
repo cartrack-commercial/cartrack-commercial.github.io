@@ -4,7 +4,7 @@ Owner of this record: **Root Innovations (Pty) Ltd** (Anné Kruger). Snapshot wr
 Chat session `session_01WYo9baZkrtwYdeTMUmKWgn`, created **13 July 2026**, still running.
 Kept current from now on: every delivery, decision or result is added under the right heading, dated.
 
-Sources: codes [S00] to [S12] resolve to files via `deal-notes/handover-source-map.md` on branch
+Sources: codes [S00] to [S13] resolve to files via `deal-notes/handover-source-map.md` on branch
 `claude/rm-portal-chat-location-bef5o5` (kept with the client deal notes, not in this file).
 
 Naming rule for this file: no client, member or colleague names. Colleagues appear by role. The host
@@ -65,6 +65,9 @@ reissues and client information (section 6). As of 17 Oct 2026 the chat runs und
 - 17 Oct 2026 alone: four accounts delivered. A new-business policy review (5pp + 6pp), a fuel
   hauler round 3 (7pp + 7pp), an abattoir reissue (7pp + 7pp) and a civil contractor three-way
   (6pp + 6pp), each with its Afrikaans WhatsApp.
+- 22 Oct 2026: a rental and e-hailing fleet with a used-car dealership. Two comparisons in one pack
+  (7pp + 7pp): fleet −R20,528/mo on the same 126 cars, dealership −R8,454/mo, neither ready to sign
+  ([S13]).
 
 **Sales and results**
 - A cheese manufacturer group's fleet and property deal was reported signed at **R210,000/month**
@@ -142,6 +145,8 @@ Innovations, confirm what the arrangement with the host agency allows.
 - A dropped zero on a R15m building ([S04]) and on R21.7m of rent cover at a
   special-needs school ([S11]).
 - A quote covering 20 of 27 vehicles and under-insuring one by R885,000 ([S09]).
+- An excess waiver of R24,960/mo printed as "Sasria", and a fleet quote that never disclosed the cars do
+  e-hailing ([S13]).
 
 **Lead generation for the host group's core product**
 - ≈580 vehicle-tracking units identified as policy conditions or theft-cover gaps across 15 accounts.
@@ -197,6 +202,10 @@ Innovations, confirm what the arrangement with the host agency allows.
 - Cheese manufacturer group: fleet list from the RM's 5 Oct e-mail; incumbent's reply; insurer replies.
 
 **Waiting on clients or RMs**
+- Rental and e-hailing fleet + dealership (22 Oct 2026): fleet insurer to accept e-hailing use in
+  writing and re-quote the full list; incumbent's accrued profit share; dealership quote to restore demo
+  use, passenger cover and retro dates; client's stock register split into dealer stock and rental cars.
+  Dealership quote lapses 20 Nov 2026 ([S13]).
 - New-business policy review: real premium (debit order) and a market quotation (RM).
 - Abattoir: the full 72-page current schedule, and where the tanker is insured today.
 - Medical waste fleet: current schedule arrived 21 Sept 2026 and the deal was ungated. Still open: the
@@ -269,3 +278,4 @@ the accounts executive's name.
 - 17 Oct 2026: handover created (snapshot).
 - 19 Oct 2026: RM System code and documentation package delivered (sections 2 and 3).
 - 22 Oct 2026: RM System documentation updated to v2026.09.22a and re-issued (sections 2 and 3).
+- 22 Oct 2026: two-comparison pack delivered for a rental fleet and dealership (sections 2, 4 and 6).
