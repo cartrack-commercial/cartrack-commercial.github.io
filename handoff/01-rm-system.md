@@ -1,7 +1,8 @@
 # The RM System: architecture, data model, and the decisions that look odd
 
 **Cartrack Insurance, Commercial Division. Handoff document 1 of 4.**
-21 September 2026. Source read at `cartrack-rm-system@2959ea2`, app version `v2026.08.27a`.
+Updated 22 October 2026. Source read at `cartrack-rm-system@ba7b48d`, app version `v2026.09.22a`.
+First issued 21 September 2026 against `2959ea2` / `v2026.08.27a`; what changed since is in section 9.
 
 Read section 5 before you change anything. Most of this file's strangest code is load-bearing,
 and each piece of it is there because something was lost once.
@@ -264,7 +265,7 @@ anyway. It sits in `sSet` and **refuses** the write, telling the user rather tha
 On the collection keys only, matching `/^(deals|portfolio|lost):/`:
 
 - refuse a write that would **empty** a non-empty collection;
-- refuse a write that would drop **more than half** of it in one go.
+- refuse a write that would leave **half or fewer** of its rows in one go (`<=`, since 22 Sept 2026).
 
 With two deliberate carve-outs:
 
@@ -281,6 +282,11 @@ time.
 Its known limit, and it is real: on 2 September 2026 two rows went missing from an RM's book and
 that is **below the threshold**, so it passed. The guard is a floor, not a fence.
 
+A second gap was real and is closed. Until 22 September 2026 the rule was `<` half, so a book going
+from six rows to three (exactly half) passed by one row. That is how an RM's book was overwritten on
+21 September 2026 without the guard firing. It is now `<=`. Deleting one row at a time still works at
+every size, because each single step stays above the line.
+
 ### 5.4 `_snapshot`: exact rows, not a reconstruction
 
 Before every overwrite of a guarded key, the previous value is copied to `config:snapshot:<key>`,
@@ -288,6 +294,12 @@ at most once per key per ten minutes, fire and forget so it never delays the sav
 
 The reason it exists alongside Recovery: **Recovery reconstructs** a book from journals and payroll
 months, and a reconstruction loses notes and next steps. **A snapshot is the exact rows back.**
+
+⚠️ **Snapshots only exist from 22 September 2026.** From 12 August to 22 September every snapshot write
+failed silently: `_snapshot` passed `_route(...)` into `_sbSetAdopt`, which routes its key itself, so the
+second `_route` threw on an object and an empty `catch` swallowed it. The database held zero snapshot
+rows. The call now passes the key, and a failure is logged with `console.warn`. Anything lost before 22
+September can only be rebuilt through Recovery (section 6).
 
 ### 5.5 `_livePremium`: a won deal exists twice and the two records drift
 
@@ -380,6 +392,7 @@ restore.
 - Do not let `refreshFromServer` run with a modal open or an input focused.
 - Do not ship without bumping `APP_VERSION`.
 - Do not give RMs a restore button.
+- Do not wrap a safety write (snapshot, journal, outbox) in an empty `catch`. Log the failure.
 
 ---
 
@@ -388,6 +401,8 @@ restore.
 - **Two rows went missing from an RM's book on 2 September 2026** and were restored from Command
   View. Root cause not traced. If it recurs, get the date, time and device from the RM and read
   `changes:<date>:<slug>`.
+- **An RM's book went from six clients to three on 21 September 2026.** That traced to the halving gap
+  in 5.3, now closed. No snapshot existed to restore from (5.4); rows came back through Recovery.
 - `users` and `activity` tables exist and are unused.
 - RM slugs are hard-coded in a `RMS` array in the source, including one whose display name is
   spelled differently from the settled spelling of the person's name. Changing a slug orphans that
@@ -397,3 +412,13 @@ restore.
 - Suggested next work, roughly 30 hours, is in `deal-notes/rm-system-roadmap.md`: nightly
   data-health alert, one-tap undo per RM from snapshots, commission statement import, renewal
   calendar, version nag. **Supabase Auth should precede all of it.**
+
+---
+
+## 9. Changes since the first issue (21 Sept 2026)
+
+- **21 Sept 2026, `942f4e0`:** operator master keys labelled by role in the source, not by a person's name.
+- **22 Sept 2026, `31fad50`:** `_snapshot` fixed so snapshots actually write, failures logged; `_guardWrite`
+  halving rule `<` → `<=`; `APP_VERSION` `v2026.09.22a`.
+- **30 Sept 2026, `ba7b48d`:** a separate `conveyancing/` folder removed from the repo (55 files). No app
+  code changed.
