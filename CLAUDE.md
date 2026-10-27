@@ -1003,6 +1003,15 @@ insurance **quote comparisons** for the RMs.
     first). Natsure stock SI R3.5m short of its own list; BAR item 27 at 100% (R1,026.67/mo over).
   - Packs 22 Oct: one proposal 7pp + one playbook 7pp covering both. Neither ready to sign.
 
+- **Routelogic (Pty) Ltd** (long-haul / bulk transporter, 44 Chevrolet St, Aureus, Randfontein). Request from
+  **Brendan**, 27 Oct 2026: a programme summary (fleet, buildings, GIT, each with excess) for the client
+  meeting 28 Oct. Detail in `deal-notes/routelogic.md`.
+  - Fleet Bryte/BSM `BSMT000284` via Tiger Risk **R741,038.65/mo**, 346 units R255.7m, **cancelled by Bryte
+    22 Oct for non-payment** although R359,000 + R382,038.66 (= one month to the cent) was paid 20 and 21
+    Oct. Client wants the fleet placed asap. Buildings Bryte quote `BQM-6C28A210` R25,923.86 (escalation rated
+    100× and left out of the total). GIT Navigate/OMART bailee R125,752.67 on declared haulage **R5.5bn**.
+  - Summary built 27 Oct: 9pp client document. Next: fleet placement on the current register (values needed).
+
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 
 - **Second small loss, 2 Sept 2026.** Elizabeth's "Missing work" tab showed **geo fire (R4,100/m) and
