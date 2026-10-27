@@ -4,7 +4,7 @@ Owner of this record: **Root Innovations (Pty) Ltd** (Anné Kruger). Snapshot wr
 Chat session `session_01WYo9baZkrtwYdeTMUmKWgn`, created **13 July 2026**, still running.
 Kept current from now on: every delivery, decision or result is added under the right heading, dated.
 
-Sources: codes [S00] to [S13] resolve to files via `deal-notes/handover-source-map.md` on branch
+Sources: codes [S00] to [S14] resolve to files via `deal-notes/handover-source-map.md` on branch
 `claude/rm-portal-chat-location-bef5o5` (kept with the client deal notes, not in this file).
 
 Naming rule for this file: no client, member or colleague names. Colleagues appear by role. The host
@@ -68,6 +68,9 @@ reissues and client information (section 6). As of 17 Oct 2026 the chat runs und
 - 22 Oct 2026: a rental and e-hailing fleet with a used-car dealership. Two comparisons in one pack
   (7pp + 7pp): fleet −R20,528/mo on the same 126 cars, dealership −R8,454/mo, neither ready to sign
   ([S13]).
+- 27 Oct 2026: a programme summary (not a comparison) for a long-haul transporter whose fleet insurer had
+  just cancelled for non-payment: fleet, buildings and goods in transit, each with its excess structure,
+  9pp, for the client meeting of 28 Oct ([S14]).
 
 **Sales and results**
 - A cheese manufacturer group's fleet and property deal was reported signed at **R210,000/month**
@@ -145,6 +148,8 @@ Innovations, confirm what the arrangement with the host agency allows.
 - A dropped zero on a R15m building ([S04]) and on R21.7m of rent cover at a
   special-needs school ([S11]).
 - A quote covering 20 of 27 vehicles and under-insuring one by R885,000 ([S09]).
+- Buildings escalation rated 100 times too high and left out of the total; goods-in-transit revenue
+  declared at R5.5bn for about 110 trucks ([S14]).
 - An excess waiver of R24,960/mo printed as "Sasria", and a fleet quote that never disclosed the cars do
   e-hailing ([S13]).
 
@@ -202,6 +207,9 @@ Innovations, confirm what the arrangement with the host agency allows.
 - Cheese manufacturer group: fleet list from the RM's 5 Oct e-mail; incumbent's reply; insurer replies.
 
 **Waiting on clients or RMs**
+- Long-haul transporter (27 Oct 2026): fleet of 346 units uninsured since 22 Oct; replacement cover
+  to place on the client's current register (values per unit needed) and a written answer from the
+  cancelling insurer on reinstatement or refund ([S14]).
 - Rental and e-hailing fleet + dealership (22 Oct 2026): fleet insurer to accept e-hailing use in
   writing and re-quote the full list; incumbent's accrued profit share; dealership quote to restore demo
   use, passenger cover and retro dates; client's stock register split into dealer stock and rental cars.
@@ -279,3 +287,4 @@ the accounts executive's name.
 - 19 Oct 2026: RM System code and documentation package delivered (sections 2 and 3).
 - 22 Oct 2026: RM System documentation updated to v2026.09.22a and re-issued (sections 2 and 3).
 - 22 Oct 2026: two-comparison pack delivered for a rental fleet and dealership (sections 2, 4 and 6).
+- 27 Oct 2026: programme summary delivered for a transporter whose fleet was cancelled (sections 2, 4 and 6).
