@@ -175,3 +175,11 @@ theft reducer R165 + Sasria R505.55 + roadside R1,340 + GIT 24/7 assist R105. Co
   addresses "TBA"; reset inception.
 - Packs rebuilt 17 Oct (plain cover titles). Still missing: full 72-page Santam schedule, where the
   tanker is insured today, Santam's price for it.
+
+## 28 Oct 2026: Cules's "laaste quote" (WhatsApp, Fri 23 Oct 08:25) is the OLD one
+
+File `VAPS53947_21450_...` (33pp) is the **original 22 Sept quote, R11,485.94**, identical to the first
+analysis: business "Transporter", MVBITNGP, DJ6WDGP 2019, no GIT, no increased TP. It is an older version
+number than the 30 Sept reissue (`_21458`, 42pp, R12,455.27), which remains the latest. **Packs unchanged.**
+Reissue lapses about **30 Oct 2026**; Envirosure HAZ still not taken. Asked Cules to get the current
+version and an extension from VAPS.
