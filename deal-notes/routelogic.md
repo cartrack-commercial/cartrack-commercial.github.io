@@ -52,3 +52,11 @@ temporarily."*
 
 **Deliverable 27 Oct:** `routelogic_summary_content.html` → client programme summary 9pp (black mastheads,
 one page per policy plus excess, a points page). Source PDFs and the register NOT committed.
+
+## ✅ CLOSED (confirmed by Anne, 2 Nov 2026)
+Fleet placed with **VAPS HCV at R670,000/mo** against Bryte's cancelled R741,038.65 = **−R71,039/mo
+≈ −R852,468/yr** (figures from Brendan's management presentation; the VAPS schedule has not been seen
+here, so confirm it is all-in and covers the same units before quoting the saving externally).
+Next: VAPS tracking conditions (tracking with recovery on every unit over R200,000; two-camera video
+telematics on long-haul trucks over R800,000) = Cartrack lead across the fleet; buildings escalation
+and GIT haulage declaration still to take up. Bakers Tankers is NOT closed.

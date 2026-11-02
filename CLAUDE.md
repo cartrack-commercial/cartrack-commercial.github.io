@@ -1011,6 +1011,8 @@ insurance **quote comparisons** for the RMs.
     Oct. Client wants the fleet placed asap. Buildings Bryte quote `BQM-6C28A210` R25,923.86 (escalation rated
     100× and left out of the total). GIT Navigate/OMART bailee R125,752.67 on declared haulage **R5.5bn**.
   - Summary built 27 Oct: 9pp client document. Next: fleet placement on the current register (values needed).
+  - ✅ **CLOSED (2 Nov 2026): fleet placed with VAPS HCV at R670,000/mo, −R71,039/mo** (Brendan's figure;
+    VAPS schedule not seen here). Used as the case study in Brendan's management presentation.
 
 ## RM System: 2 Sept 2026 recovery + open requests (read before touching data)
 
