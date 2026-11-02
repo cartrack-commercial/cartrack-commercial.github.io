@@ -76,6 +76,9 @@ reissues and client information (section 6). As of 17 Oct 2026 the chat runs und
 - A cheese manufacturer group's fleet and property deal was reported signed at **R210,000/month**
   premium. The RM posted it in the division WhatsApp group between 8 and 12 Oct 2026. Anné built its
   four-way comparison and the lean 3-page closing proposal (7 to 8 Oct 2026).
+- A long-haul transporter's fleet (346 units), cancelled by its insurer, was placed with a new market at
+  **R670,000/month**, R71,039/month below the cancelled policy (confirmed 2 Nov 2026; figure from the
+  host agency's management presentation) ([S14]).
 - Other closes are not recorded in this chat. Add them here as they are confirmed.
 
 **Commercial model**
@@ -159,6 +162,8 @@ Innovations, confirm what the arrangement with the host agency allows.
 
 **Sales**
 - A cheese manufacturer group signed at **R210,000/month** premium (division WhatsApp, 8 to 12 Oct 2026).
+- A long-haul transporter's 346-unit fleet placed at R670,000/month, R71,039/month below the cancelled
+  policy (2 Nov 2026, [S14]).
 
 **Systems**
 - RM System first paint cut from **13.7s to 0.47s** worst case (30 Jul 2026, [S00]).
@@ -207,9 +212,8 @@ Innovations, confirm what the arrangement with the host agency allows.
 - Cheese manufacturer group: fleet list from the RM's 5 Oct e-mail; incumbent's reply; insurer replies.
 
 **Waiting on clients or RMs**
-- Long-haul transporter (27 Oct 2026): fleet of 346 units uninsured since 22 Oct; replacement cover
-  to place on the client's current register (values per unit needed) and a written answer from the
-  cancelling insurer on reinstatement or refund ([S14]).
+- Long-haul transporter: fleet placed (2 Nov 2026). Open: written answer from the cancelling insurer
+  on the refund, buildings escalation, goods-in-transit haulage declaration, tracker fitment ([S14]).
 - Rental and e-hailing fleet + dealership (22 Oct 2026): fleet insurer to accept e-hailing use in
   writing and re-quote the full list; incumbent's accrued profit share; dealership quote to restore demo
   use, passenger cover and retro dates; client's stock register split into dealer stock and rental cars.
@@ -288,3 +292,4 @@ the accounts executive's name.
 - 22 Oct 2026: RM System documentation updated to v2026.09.22a and re-issued (sections 2 and 3).
 - 22 Oct 2026: two-comparison pack delivered for a rental fleet and dealership (sections 2, 4 and 6).
 - 27 Oct 2026: programme summary delivered for a transporter whose fleet was cancelled (sections 2, 4 and 6).
+- 2 Nov 2026: transporter fleet closed and placed; recorded under sales and results (sections 2, 4 and 6).
