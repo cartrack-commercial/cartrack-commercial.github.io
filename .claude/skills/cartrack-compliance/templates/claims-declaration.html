@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<title>Claims Declaration — Cartrack Insurance · FSP 17266</title>
+<link rel="stylesheet" href="../assets/style.css">
+<style>
+  .keep{break-inside:avoid}
+  .fieldrow,.checks{break-inside:avoid} .q{break-inside:avoid;break-after:avoid}
+  .note{border-left:4px solid var(--orange);background:#faf7f5;padding:9px 13px;margin:10px 0 14px;font-size:12.5px}
+  .q{font-weight:bold;font-size:12.5px;margin:9px 0 3px}
+  .checks{display:flex;flex-wrap:wrap;gap:6px 26px;margin:2px 0 10px}
+  .checks label{display:flex;align-items:center;gap:6px;font-size:12.5px}
+  textarea.desc{min-height:118px}
+  textarea.addr{min-height:38px}
+  table.pol td{height:22px}
+  ol.decl{margin:4px 0 12px 20px} ol.decl li{margin-bottom:5px}
+  @media print{
+    body{font-size:11.5px;line-height:1.36}
+    table{break-inside:auto} tr{break-inside:avoid} thead{display:table-header-group}
+    td{padding:4px 7px} th{padding:5px 7px;font-size:10.5px}
+    .fieldrow{margin-bottom:6px} h2{margin:11px 0 5px} .note{margin:6px 0 9px;padding:7px 12px}
+    .checks{margin:1px 0 6px} .q{margin:6px 0 2px} .meta{margin-bottom:12px} h1{margin-bottom:8px}
+    textarea.desc{min-height:118px} textarea.addr{min-height:38px} input[type=text]{padding:4px 8px}
+  }
+</style></head>
+<body><div class="sheet">
+  <div class="masthead">
+    <div class="brand">CARTRACK<small>INSURANCE</small></div>
+    <div class="fsp">FSP No. 17266</div>
+  </div>
+  <div class="orange-bar"></div>
+  <p class="kicker">Claims · Short-term insurance · Claimant declaration</p>
+  <h1>Claims Declaration</h1>
+
+  <dl class="meta">
+    <div><dt>FSP name</dt><dd>Cartrack Insurance Agency</dd></div>
+    <div><dt>FSP number</dt><dd>17266</dd></div>
+    <div><dt>Reg. number</dt><dd>2001/008050/07</dd></div>
+  </dl>
+
+  <div class="note">Complete every section. Write <strong>N/A</strong> where a section does not apply.
+  Attach copies of supporting documents, for example the police report, quotations and invoices.</div>
+
+  <h2><span class="badge">1</span>Policy details</h2>
+  <table class="pol">
+    <thead><tr><th>Insurance company</th><th>Policy number(s)</th><th>Date of loss / incident</th></tr></thead>
+    <tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody>
+  </table>
+
+  <h2><span class="badge">2</span>Claimant (insured) details</h2>
+  <div class="fieldrow"><label><span>Name of insured</span><input type="text"></label></div>
+  <div class="fieldrow"><label><span>Address of the insured</span><textarea class="addr" rows="2"></textarea></label></div>
+  <div class="fieldrow">
+    <label><span>ID number</span><input type="text"></label>
+    <label><span>ID / Co. reg. no.</span><input type="text"></label>
+  </div>
+  <div class="fieldrow">
+    <label><span>Tel. no</span><input type="text"></label>
+    <label><span>Alt. tel. no</span><input type="text"></label>
+  </div>
+  <div class="fieldrow">
+    <label><span>Email</span><input type="text"></label>
+    <label><span>Alt. email</span><input type="text"></label>
+  </div>
+
+  <h2><span class="badge">3</span>Incident details</h2>
+  <div class="fieldrow">
+    <label><span>Date of incident</span><input type="text"></label>
+    <label><span>Time of incident</span><input type="text"></label>
+  </div>
+  <div class="fieldrow"><label><span>Place of incident</span><input type="text"></label></div>
+  <p class="q">Type of claim</p>
+  <div class="checks">
+    <label><input type="checkbox"> Motor vehicle</label>
+    <label><input type="checkbox"> Home / buildings</label>
+    <label><input type="checkbox"> Contents</label>
+    <label><input type="checkbox"> Other</label>
+  </div>
+  <div class="fieldrow">
+    <label><span>Police case no. and station</span><input type="text"></label>
+    <label style="max-width:240px"><span>Estimated loss amount (R)</span><input type="text"></label>
+  </div>
+  <p class="q">Third party involved?</p>
+  <div class="checks"><label><input type="checkbox"> Yes</label><label><input type="checkbox"> No</label></div>
+  <div class="fieldrow"><label><span>Third party name, ID and contact</span><input type="text"></label></div>
+  <div class="fieldrow"><label><span>Witness name and contact</span><input type="text"></label></div>
+  <p class="q">Other insurance on this loss?</p>
+  <div class="checks"><label><input type="checkbox"> Yes</label><label><input type="checkbox"> No</label></div>
+  <div class="fieldrow"><label><span>If yes: insurer and policy no.</span><input type="text"></label></div>
+  <div class="fieldrow"><label><span>Describe how the incident happened (attach extra pages if needed)</span><textarea class="desc"></textarea></label></div>
+
+  <h2><span class="badge">4</span>Payment details <span style="font-family:var(--sans);font-size:12px;font-weight:normal;color:var(--grey)">(for payment of an approved claim)</span></h2>
+  <div class="fieldrow">
+    <label><span>Bank</span><input type="text"></label>
+    <label style="max-width:220px"><span>Branch code</span><input type="text"></label>
+  </div>
+  <div class="fieldrow">
+    <label style="max-width:220px"><span>Account type</span><input type="text"></label>
+    <label><span>Account number</span><input type="text"></label>
+  </div>
+  <div class="fieldrow"><label><span>Account holder</span><input type="text"></label></div>
+
+  <h2><span class="badge">5</span>Declaration</h2>
+  <p>I, the undersigned, declare that:</p>
+  <ol class="decl">
+    <li>The information in this claim declaration is true, complete and correct to the best of my knowledge.</li>
+    <li>I have not withheld any information that could affect the assessment of this claim.</li>
+    <li>I understand that a false or misleading statement, or the failure to disclose a material fact, may result in this claim being rejected.</li>
+    <li>I authorise the insurer and its appointed agents to verify the information in this declaration, including by contacting third parties, witnesses and the relevant authorities.</li>
+    <li>I will provide any further documents or information reasonably requested to assess this claim.</li>
+  </ol>
+
+  <div class="keep">
+    <h2><span class="badge">6</span>Signature</h2>
+    <div class="fieldrow">
+      <label><span>Signed at</span><input type="text"></label>
+      <label style="max-width:230px"><span>Date (dd/mm/yyyy)</span><input type="text"></label>
+    </div>
+    <div class="fieldrow"><label><span>Full name (print)</span><input type="text"></label></div>
+    <div class="sigrow">
+      <div class="sig"><div class="line"></div><p>Signature of insured</p></div>
+      <div class="sig"><div class="line"></div><p>Date</p></div>
+    </div>
+    <p style="font-size:11.5px;color:var(--grey);margin-top:10px">Return the completed and signed form, with the supporting documents, to your insurer or broker.</p>
+    <p class="authline">An Authorised Financial Services Provider &nbsp;·&nbsp; FSP No. 17266 &nbsp;·&nbsp; Reg No: 2001/008050/07 &nbsp;·&nbsp; Directors: J Marais, JD Allen</p>
+    <div class="docfoot"><span>Claims Declaration &nbsp;·&nbsp; Cartrack Insurance Agency (Pty) Ltd</span><span>www.cartrackinsurance.co.za</span></div>
+  </div>
+</div></body></html>

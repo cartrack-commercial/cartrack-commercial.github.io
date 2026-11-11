@@ -3,7 +3,7 @@ FILL=(0.914,0.929,0.973); BORDER=(0.71,0.74,0.84)
 SKIP={re.sub(r"\s","",x) for x in [
   # meta-strip labels only. Table headers are white-on-black, so greyish() already excludes them —
   # do NOT add field captions like DATE or VERSION here, they are real fields elsewhere.
-  "FSP NAME","FSP NUMBER","REPORTING PERIOD","ISSUED","EFFECTIVE DATE"]}
+  "FSP NAME","FSP NUMBER","REG. NUMBER","REG NUMBER","REPORTING PERIOD","ISSUED","EFFECTIVE DATE"]}
 def norm(t): return re.sub(r"\s","",t.replace(" "," ")).upper()
 def greyish(sp):
     c=sp.get("color",0); r,g,b=(c>>16)&255,(c>>8)&255,c&255
@@ -49,6 +49,24 @@ def run(inp,outp,table_default=""):
             if pre: w.field_value=pre
             w.fill_color=FILL; w.border_color=BORDER; w.border_width=0.5; w.text_fontsize=10
             pg.add_widget(w); n+=1
+        # textareas: a caption whose field sits on top of a full-width bordered box gets the whole box, multi-line
+        for w in list(pg.widgets()):
+            if w.field_type!=fitz.PDF_WIDGET_TYPE_TEXT: continue
+            box=[dr["rect"] for dr in pg.get_drawings()
+                 if dr["rect"].x0<40 and dr["rect"].x1>W-40 and abs(dr["rect"].y0-w.rect.y0)<8 and 25<dr["rect"].height<300]
+            if not box: continue
+            b=max(box,key=lambda r:r.height); name=w.field_name; pg.delete_widget(w)
+            nw=fitz.Widget(); nw.rect=fitz.Rect(34,b.y0+1,W-34,b.y1-1); nw.field_type=fitz.PDF_WIDGET_TYPE_TEXT
+            nw.field_name=name; nw.field_flags=fitz.PDF_TX_FIELD_IS_MULTILINE
+            nw.fill_color=FILL; nw.border_color=BORDER; nw.border_width=0.5; nw.text_fontsize=10; pg.add_widget(nw)
+        # checkboxes: every drawn 8-18pt square (an <input type=checkbox> prints as one)
+        sq=[]
+        for dr in pg.get_drawings():
+            r=dr["rect"]
+            if 8<=r.width<=18 and 8<=r.height<=18 and abs(r.width-r.height)<4 and not any(abs(r.x0-o.x0)<5 and abs(r.y0-o.y0)<5 for o in sq): sq.append(r)
+        for r in sq:
+            w=fitz.Widget(); w.rect=r; w.field_type=fitz.PDF_WIDGET_TYPE_CHECKBOX; w.field_name=f"cb{pno}_{n}"
+            w.fill_color=FILL; w.border_color=BORDER; w.border_width=0.6; pg.add_widget(w); n+=1
         try: tabs=pg.find_tables()
         except Exception: tabs=None
         for t in (tabs.tables if tabs else []):
@@ -59,6 +77,7 @@ def run(inp,outp,table_default=""):
                 if r.height<8 or r.width<24 or r.width>160: continue
                 if hy is not None and abs(r.y0-hy)<2: continue
                 if pg.get_textbox(r).strip(): continue
+                if any(x.rect.intersects(r) for x in pg.widgets()): continue
                 w=fitz.Widget(); w.rect=fitz.Rect(r.x0+1,r.y0+1,r.x1-1,r.y1-1)
                 w.field_type=fitz.PDF_WIDGET_TYPE_TEXT; w.field_name=f"t{pno}_{n}"
                 if table_default: w.field_value=table_default

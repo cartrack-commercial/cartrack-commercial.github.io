@@ -1,7 +1,7 @@
 #!/bin/bash
 # build.sh <form-basename> <Output Name.pdf>
 S=/tmp/claude-0/-home-user-cartrack-commercial-github-io/06e46c5c-057b-5f71-bba8-5c5b727605a7/scratchpad/telesure-response
-CH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome
+CH=$(ls -d /opt/pw-browsers/chromium-*/chrome-linux*/chrome 2>/dev/null | sort | tail -1); CH=${CH:-$(command -v google-chrome || command -v chromium)}
 "$CH" --headless --disable-gpu --no-sandbox --print-to-pdf="$S/_$1.pdf" --no-pdf-header-footer "file://$S/forms/$1.html" 2>/dev/null
 cd "$S" && python3 fill.py "_$1.pdf" "$2" "$3" 2>&1 | grep widgets
 python3 - "$2" "$1" <<'PY'

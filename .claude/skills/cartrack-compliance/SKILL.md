@@ -47,6 +47,9 @@ is law: quote it freely.
 
 HTML → headless Chromium → PyMuPDF widget injection. Three steps:
 
+Templates: `templates/document.html` (generic), `templates/claims-declaration.html` (2-page form
+with checkboxes, a policy table and two multi-line boxes).
+
 `assets/build.sh <form-basename> "<Output Name.pdf>" [table-default]` does all three steps and
 prints per-page fill plus a PNG of every page. Or by hand:
 
@@ -89,6 +92,14 @@ Calibri/Carlito body, Consolas for references.
   clean section boundary is fine; a heading stranded at the foot of a page is not.
 - **Long labels wrap into the field below**, and the wrapped fragment gets captured as a default
   value. Keep captions short ("Date checked", not "Regulator details checked on (date)").
+- **A textarea prints as a bordered box, not a rule.** `fill.py` now grows the caption's field to that
+  box and makes it multi-line. Do not bound a field by "the next horizontal rule": on the claims
+  form that picked the next input's underline and the field swallowed the following section.
+- **`find_tables()` over-fires on form grids.** For a small fixed table (the 3x3 policy table)
+  place cells geometrically from the header x-ranges and the table's own rules; see
+  `templates/claims-declaration.html` and the per-form post-step pattern.
+- **Chromium moves between containers** (`chromium-1194/chrome-linux` became
+  `chromium-1243/chrome-linux64`). `build.sh` now locates it; never hard-code the path.
 - **Always look at the rendered pages.** Render to PNG and read them. Page-fill and widget counts do
   not catch a covered meta strip, a split section, or a missing field.
 
