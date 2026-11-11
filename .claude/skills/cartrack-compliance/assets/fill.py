@@ -21,6 +21,7 @@ def under_sig_line(sp, rr):
     return False
 def run(inp,outp,table_default=""):
     doc=fitz.open(inp); n=0
+    pristine=fitz.open(inp)   # tables are detected here, before any field is added
     for pno,pg in enumerate(doc):
         W=pg.rect.width; RIGHT=W-34; MID=W/2
         rr=rules(pg)
@@ -67,9 +68,11 @@ def run(inp,outp,table_default=""):
         for r in sq:
             w=fitz.Widget(); w.rect=r; w.field_type=fitz.PDF_WIDGET_TYPE_CHECKBOX; w.field_name=f"cb{pno}_{n}"
             w.fill_color=FILL; w.border_color=BORDER; w.border_width=0.6; pg.add_widget(w); n+=1
-        try: tabs=pg.find_tables()
+        try: tabs=pristine[pno].find_tables()
         except Exception: tabs=None
-        for t in (tabs.tables if tabs else []):
+        # a form grid is not a table: keep only compact tables with a sane cell count
+        real=[t for t in (tabs.tables if tabs else []) if len(t.cells)<=80 and (t.bbox[3]-t.bbox[1])<=450]
+        for t in real:
             ys=sorted({round(c[1],0) for c in t.cells if c}); hy=ys[0] if ys else None
             for c in t.cells:
                 if not c: continue
